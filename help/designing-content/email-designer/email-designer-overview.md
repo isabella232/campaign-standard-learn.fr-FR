@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: 58fd8bec8adfca14188ea66423c107a14253834e
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 17%
+source-wordcount: '161'
+ht-degree: 18%
 
 ---
 
@@ -39,4 +39,3 @@ Les didacticiels détaillés suivants sont disponibles :
 * [Prévisualisez l&#39;email](/help/designing-content/email-designer/preview-your-email.md)
 * [Utilisation de contenu existant](/help/designing-content/email-designer/working-with-existing-content.md)
 * [Création de contenu à l’aide d’Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
-* [Modification d’images à l’aide d’Adobe Creative Cloud SDK](/help/designing-content/email-designer/adobe-creative-cloud-sdk-integration.md)
