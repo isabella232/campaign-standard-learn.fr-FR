@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Documentation
 getting-started-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 96cc4e9c52ed122e8c6fbbc7cd91f38c4ad98333
+source-git-commit: 6aa25917e32ca40af73ef33fbfd51c2b14902b04
 workflow-type: tm+mt
-source-wordcount: '528'
-ht-degree: 15%
+source-wordcount: '522'
+ht-degree: 16%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 15%
    + Audience Destinations (BETA){#audience-destinations}
       + [Présentation](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [Création d’une audience à l’aide du créateur de segments unifié](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [Activation des audiences de la plate-forme Adobe Experience dans un processus](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + [Activation des audiences de la plateforme d’expérience Adobe dans un processus](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [Modifier la dimension de ciblage](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Canaux de communication {#communication-channels}
    + Email {#email}
@@ -69,7 +69,7 @@ ht-degree: 15%
          + [Cibler les utilisateurs en fonction de leur profil Campaign](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
          + [Création d’une diffusion intégrée dans un processus](/help/communication-channels/mobile/in-app/in-app-activity.md)
          + [Création de rapports sur votre diffusion intégrée](/help/communication-channels/mobile/in-app/in-app-reporting.md)
-      + [Configuration d’une application mobile à l’aide d’Adobe Experience Platform SDK](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
+      + [Configuration d’une application mobile à l’aide du SDK Adobe Experience Platform](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
    + [Canal Courrier](/help/communication-channels/direct-mail/directmail.md)
    + Landing pages {#landing-pages}
       + [Création et modification d’un landing page](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
@@ -83,7 +83,6 @@ ht-degree: 15%
       + [Prévisualisation de votre analyse de courriel et d&#39;antispam](/help/designing-content/email-designer/preview-your-email.md)
       + [Utilisation de contenu existant](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Création de contenu à l’aide d’Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
-      + [Modification d’images à l’aide du SDK Creative Cloud](/help/designing-content/email-designer/adobe-creative-cloud-sdk-integration.md)
    + [Configurer les listes de produits dans les courriers électroniques transactionnels](/help/designing-content/product-listings-in-transactional-email.md)
 + Gestion des processus et des données {#managing-processes-and-data}
    + [créer un workflow ;](/help/managing-processes-and-data/create-workflow.md)
@@ -106,7 +105,7 @@ ht-degree: 15%
       + [Authentification unique (SSO)](/help/integrating/microsoft-dynamics-365-connector/single-sign-on.md)
       + [Prise en charge de l’URL de Page miroir](/help/integrating/microsoft-dynamics-365-connector/mirror-page-url.md)
       + [Configurer Microsoft Dynamics 365](/help/integrating/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
-      + [Configuration d’Adobe IO](/help/integrating/microsoft-dynamics-365-connector/configure-adobe-io.md)
+      + [Configurer l&#39;E/S Adobe](/help/integrating/microsoft-dynamics-365-connector/configure-adobe-io.md)
       + [Configuration d’Unifi - Introduction](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
       + [Tâches Unifi - Présentation](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
       + [Emplois Unifi - insertion et élimination](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
@@ -119,12 +118,12 @@ ht-degree: 15%
       + [Génération d’une clé SSH](/help/administrating/control-panel/generate-ssh-key.md)
       + [Connexion à un serveur SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [Délégation de sous-domaines](/help/administrating/control-panel/subdomain-delegation.md)
-      + [Ajout de certificats SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
+      + [Ajouter des certificats SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [Gestion des certificats SSL](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Gestion des enregistrements TXT Google](/help/administrating/control-panel/google-txt-record-management.md)
       + [Fusillade problématique](/help/administrating/control-panel/trouble-shooting.md)
-   + Connecteur de données Adobe Experience Platform {adobe-experience-platform-data-connector}
-      + [Présentation du connecteur de données de la plate-forme Adobe Experience](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+   + Connecteur de données de plateforme d’expérience Adobe {adobe-experience-platform-data-connector}
+      + [Présentation du connecteur de données de la plate-forme d’expérience Adobe](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mappage de ressources personnalisées](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [Mappage des Événements d’expérience](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Mappage des données de table de départ](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
