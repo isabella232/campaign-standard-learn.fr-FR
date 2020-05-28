@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Documentation
 getting-started-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 6aa25917e32ca40af73ef33fbfd51c2b14902b04
+source-git-commit: b6d8914043194c7589859d919c3a62c0035b5497
 workflow-type: tm+mt
-source-wordcount: '522'
-ht-degree: 16%
+source-wordcount: '488'
+ht-degree: 17%
 
 ---
 
@@ -99,17 +99,6 @@ ht-degree: 16%
 + Développement {#developing}
    + Custom Resources {#custom-resources-develop}
       + [Création de ressources personnalisées](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
-+ Integrating {#integrating}
-   + Microsoft Dynamics 365 Connector {#microsoft-dynamics365-connector}
-      + [Introduction](/help/integrating/microsoft-dynamics-365-connector/introduction.md)
-      + [Authentification unique (SSO)](/help/integrating/microsoft-dynamics-365-connector/single-sign-on.md)
-      + [Prise en charge de l’URL de Page miroir](/help/integrating/microsoft-dynamics-365-connector/mirror-page-url.md)
-      + [Configurer Microsoft Dynamics 365](/help/integrating/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
-      + [Configurer l&#39;E/S Adobe](/help/integrating/microsoft-dynamics-365-connector/configure-adobe-io.md)
-      + [Configuration d’Unifi - Introduction](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
-      + [Tâches Unifi - Présentation](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
-      + [Emplois Unifi - insertion et élimination](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
-      + [Unifi - Mise en oeuvre et surveillance](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
 + Administration {#administrating}
    + [Gestion des droits d’accès des utilisateurs](/help/administrating/managing-user-access-rights.md)
    + Panneau de contrôle {#control-panel}
