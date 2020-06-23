@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Didacticiels Adobe Campaign Standard
+user-guide-title: Didacticiels sur l’Adobe Campaign Standard
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Documentation
 getting-started-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
+source-git-commit: 837aeb12ed95929b291c25097a9e91e34fa5d4a6
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 17%
+source-wordcount: '495'
+ht-degree: 16%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 17%
 + [Présentation](/help/overview.md)
 + Prise en main {#getting-started}
    + [Présentation](/help/getting-started/getting-started-overview.md)
-   + [Introduction à Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
+   + [Introduction à l&#39;Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [Présentation fonctionnelle](/help/getting-started/functional-overview.md)
    + [Prise en main de l’interface utilisateur](/help/getting-started/getting-started-with-the-ui.md)
    + [Configuration d’une liste](/help/getting-started/configure-a-list.md)
@@ -32,7 +32,7 @@ ht-degree: 17%
    + [créer un workflow ;](/help/managing-processes-and-data/create-workflow.md)
    + [Introduction au rapports](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Marketing mobile avec Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
-   + [Développer avec Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
+   + [Agrandir avec Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 + Profils et audiences {#profiles-and-audiences}
    + [Création de profils et d’audiences - Présentation](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Création d’un profil](/help/profiles-and-audiences/creating-a-profile.md)
@@ -42,7 +42,7 @@ ht-degree: 17%
    + Audience Destinations (BETA){#audience-destinations}
       + [Présentation](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [Création d’une audience à l’aide du créateur de segments unifié](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [Activation des audiences de la plateforme d’expérience Adobe dans un processus](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + [Activation d’audiences d’Adobe Experience Platform dans un processus](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [Modifier la dimension de ciblage](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Canaux de communication {#communication-channels}
    + Email {#email}
@@ -70,7 +70,7 @@ ht-degree: 17%
          + [Cibler les utilisateurs en fonction de leur profil Campaign](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
          + [Création d’une diffusion intégrée dans un processus](/help/communication-channels/mobile/in-app/in-app-activity.md)
          + [Création de rapports sur votre diffusion intégrée](/help/communication-channels/mobile/in-app/in-app-reporting.md)
-      + [Configuration d’une application mobile à l’aide du SDK Adobe Experience Platform](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
+      + [Configuration d’une application mobile à l’aide d’un Adobe Experience Platform SDK](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
    + [Canal Courrier](/help/communication-channels/direct-mail/directmail.md)
    + Landing pages {#landing-pages}
       + [Création et modification d’un landing page](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
@@ -104,16 +104,17 @@ ht-degree: 17%
    + [Gestion des droits d’accès des utilisateurs](/help/administrating/managing-user-access-rights.md)
    + Panneau de contrôle {#control-panel}
       + [Présentation du panneau de configuration](/help/administrating/control-panel/control-panel-overview.md)
-      + [Surveillance de la capacité du serveur, liste blanche des adresses IP et ajout de clés SSH](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+      + [Surveillance de la capacité du serveur, autorisation de la liste des adresses IP et ajout de clés SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Génération d’une clé SSH](/help/administrating/control-panel/generate-ssh-key.md)
       + [Connexion à un serveur SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [Délégation de sous-domaines](/help/administrating/control-panel/subdomain-delegation.md)
       + [Ajouter des certificats SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [Gestion des certificats SSL](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Gestion des enregistrements TXT Google](/help/administrating/control-panel/google-txt-record-management.md)
+      + [Génération et installation des clés GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
       + [Fusillade problématique](/help/administrating/control-panel/trouble-shooting.md)
-   + Connecteur de données de plateforme d’expérience Adobe {adobe-experience-platform-data-connector}
-      + [Présentation du connecteur de données de la plate-forme d’expérience Adobe](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+   + Connecteur de données d’Adobe Experience Platform {adobe-experience-platform-data-connector}
+      + [Présentation du connecteur de données d&#39;Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mappage de ressources personnalisées](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [Mappage des Événements d’expérience](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Mappage des données de table de départ](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
