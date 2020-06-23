@@ -1,6 +1,6 @@
 ---
 title: Problème lors de l'exécution du Panneau de configuration
-description: Le Panneau de configuration vous permet de surveiller et de gérer votre enregistrement SFTP par instance et adresses IP de liste blanche.
+description: Le Panneau de configuration vous permet de surveiller et de gérer votre enregistrement SFTP par instance et par adresse IP de liste autorisée.
 feature: Control Panel
 topics: null
 kt: 2938
@@ -8,9 +8,9 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '358'
 ht-degree: 3%
 
 ---
@@ -62,8 +62,8 @@ L’administrateur doit ajouter l’utilisateur au Profil de produits `Campaign-
 
 La connexion aux serveurs SFTP requiert :
 
-* [!UICONTROL Liste blanche] de l’adresse IP à partir de laquelle vous vous connectez au serveur SFTP.
-* Paire de clés privée/publique qui doit être enregistrée avec Adobe Campaign
+* [!UICONTROL permet d’indiquer] l’adresse IP à partir de laquelle vous vous connectez au serveur SFTP.
+* Paire de clés privée/publique qui doit être enregistrée avec l&#39;Adobe Campaign
 * Si vous vous connectez directement au serveur SFTP, vous aurez également besoin du logiciel client SFTP.
 
 ### Documentation utile
