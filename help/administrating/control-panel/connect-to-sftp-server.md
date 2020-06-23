@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Découvrez comment accéder à la gestion SFTP et se connecter à un serveur SFT
 
 Pour accéder à la gestion SFTP dans le Panneau de configuration, accédez à :
 
-* [Accueil](https://experience.adobe.com/#/home) d’Experience Cloud > Sélecteur [!UICONTROL de]solution : [!UICONTROL Campaign] > Carte **[!UICONTROL du Panneau]** de configuration > Carte **SFTP**
+* [Accueil](https://experience.adobe.com/#/home) de l&#39;Experience Cloud > Sélecteur [!UICONTROL de]solution : [!UICONTROL Campaign] > Carte **[!UICONTROL du Panneau]** de configuration > Carte **SFTP**
 
    ou
 * Directement à partir de l’URL : [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
@@ -33,8 +33,8 @@ Pour accéder à la gestion SFTP dans le Panneau de configuration, accédez à :
 
 La connexion aux serveurs SFTP requiert :
 
-* [!!UICONTROL Liste blanche] de l&#39;adresse IP à partir de laquelle vous vous connectez au serveur SFTP
-* Paire de clés privée/publique qui doit être enregistrée avec Adobe Campaign
+* [!!UICONTROL permet d&#39;indiquer] l&#39;adresse IP à partir de laquelle vous vous connectez au serveur SFTP.
+* Paire de clés privée/publique qui doit être enregistrée avec l&#39;Adobe Campaign
 * Si vous vous connectez directement au serveur SFTP, vous aurez également besoin du logiciel client SFTP.
 
 Cette vidéo explique comment se connecter à votre serveur SFTP à l’aide d’une application SFTP client à l’aide des clés que vous avez stockées dans le Panneau de configuration.
