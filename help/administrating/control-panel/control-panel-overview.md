@@ -1,6 +1,6 @@
 ---
 title: Panneau de contrôle
-description: Le Panneau de configuration vous permet de surveiller et de gérer votre enregistrement SFTP par instance et adresses IP de liste blanche.
+description: Le Panneau de configuration vous permet de surveiller et de gérer votre enregistrement SFTP par instance et par adresse IP de liste autorisée.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,26 +8,30 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: 4bbe44e592085428d0eaa588aa5e773c925ce3bb
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 7%
+source-wordcount: '392'
+ht-degree: 6%
 
 ---
 
 
 # [!UICONTROL Panneau de contrôle] {#control-panel}
 
-Le [!UICONTROL Panneau] de configuration permet aux administrateurs d’Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, telles que la gestion de l’enregistrement SFTP par instance ou les adresses IP de liste blanche.
+>[!NOTE]
+>
+>Les termes &quot;[!UICONTROL liste blanche]&quot; et &quot;listenoire&quot; ont été remplacés par les termes &quot;[!UICONTROL liste autorisée]&quot; et &quot;[!UICONTROL liste bloquée&quot; dans la documentation Adobe Campaign. ] Certaines occurrences de ces termes peuvent toujours exister dans l’interface utilisateur du produit, les noms d’option, le code interne, ainsi que dans les vidéos du didacticiel. Ils seront remplacés dans les prochaines versions du Panneau de configuration.
+
+Le [!UICONTROL Panneau] de configuration permet aux administrateurs d’Adobes Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, telles que la gestion de l’enregistrement SFTP par instance ou les adresses IP de [!UICONTROL liste autorisée] .
 
 ## Accessing [!UICONTROL Control Panel]
 
-Pour accéder au Panneau de configuration, accédez à la page d’accueil d’Experience Cloud : [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Pour accéder au Panneau de configuration, accédez à Accueil Experience Cloud : [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
-* **[!UICONTROL Accueil]** d’Experience Cloud > **[!UICONTROL Accès rapide]**
+* **[!UICONTROL Accueil]** Experience Cloud > Accès **[!UICONTROL rapide]**
 
    ou
-* **[!UICONTROL Accueil]** d’Experience Cloud > Sélecteur [!UICONTROL de]solution : **Campaign** > Carte **[!UICONTROL du Panneau]de configuration **
+* **[!UICONTROL Accueil]** de l&#39;Experience Cloud > Sélecteur [!UICONTROL de]solution : **Campaign** > Carte **[!UICONTROL du Panneau]de configuration **
 
    ou
 
@@ -55,25 +59,34 @@ La vidéo suivante explique comment ajouter un administrateur à une instance Ca
 ## Didacticiels du panneau de configuration
 
 * **Gestion des serveurs SFTP**
-   <br>
-   *Découvrez comment surveiller la capacité du serveur, mettre en liste blanche les adresses IP et ajouter des clés SSH*
 
-   * [Surveillance de la capacité du serveur, liste blanche des adresses IP et ajout de clés SSH](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+   *Découvrez comment surveiller la capacité du serveur, les adresses IP de liste autorisée et ajouter des clés SSH*
+
+   * [Surveillance de la capacité du serveur, autorisation de la liste des adresses IP et ajout de clés SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [Génération d&#39;une clé SSH](/help/administrating/control-panel/generate-ssh-key.md)
    * [Connexion à un serveur SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
-* **[Délégation de sous-domaines](/help/administrating/control-panel/subdomain-delegation.md)**   <br>
-   *Découvrez comment déléguer complètement un sous-domaine à Adobe Campaign*
-* **[Ajout de certificats SSL](/help/administrating/control-panel/adding-ssl-certificates.md)**   <br>
+* **[Délégation de sous-domaines](/help/administrating/control-panel/subdomain-delegation.md)**
+
+   *Découvrez comment déléguer complètement un sous-domaine à un Adobe Campaign*
+* **[Ajouter des certificats SSL](/help/administrating/control-panel/adding-ssl-certificates.md)**
+
    *Découvrez comment ajouter des certificats SSL pour sécuriser vos sous-domaines.*
-* **[Gestion des certificats SSL](/help/administrating/control-panel/managing-ssl-certificates.md)**   <br>
+* **[Gestion des certificats SSL](/help/administrating/control-panel/managing-ssl-certificates.md)**
+
    *Découvrez comment vous pouvez vue l’état des certificats SSL de vos sous-domaines, ainsi que demander des renouvellements.*
-* **[Gestion des enregistrements TXT Google](/help/administrating/control-panel/google-txt-record-management.md)**   <br>
+* **[Gestion des enregistrements TXT Google](/help/administrating/control-panel/google-txt-record-management.md)**
+
    *Découvrez comment ajouter un enregistrement de vérification de site Google TXT à tous les sous-domaines utilisés pour envoyer des courriers électroniques aux adresses GMAIL via le Panneau de configuration Campaign.*
 
-* **[Fusillade problématique](/help/administrating/control-panel/trouble-shooting.md)**   <br>
+* **[Génération et installation des clés GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
+   *Découvrez comment générer et installer une nouvelle paire de clés GPG publique/privée sur une instance spécifiée et comment importer et installer une clé publique sur votre instance d&#39;Adobe Campaign.*
+
+* **[Fusillade problématique](/help/administrating/control-panel/trouble-shooting.md)**
+
    *Comprendre comment résoudre les problèmes du Panneau de configuration*
 
 ## Ressources supplémentaires
 
-* [[!UICONTROL Centre d’aide du panneau de configuration]](https://docs.adobe.com/content/help/fr-FR/control-panel/using/control-panel-home.html)
+* [Centre d’aide du panneau de configuration](https://docs.adobe.com/content/help/fr-FR/control-panel/using/control-panel-home.html)
 
