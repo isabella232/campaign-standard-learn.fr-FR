@@ -3,7 +3,7 @@ title: Didacticiels sur l’Adobe Campaign Standard - Présentation
 description: Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l'orchestration visuelle de campagnes, la gestion d'interactions en temps réel et l'exécution cross-canal. Ce guide d'utilisation contient des vidéos et des didacticiels sur les nombreuses fonctionnalités et fonctionnalités de l'Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 3f3fec14bcd2777146a08a269c298f9b8ca17acd
+source-git-commit: dc7295c80b8c4ef3d641baf885d50ee55d4f5197
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 21%
@@ -17,15 +17,17 @@ Adobe Campaign offre une plate-forme pour concevoir des expériences client cro
 
 ## Nouveautés
 
-* **[Panneau de configuration Génération et installation des clés GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**   <br>
+* **[Panneau de configuration - Génération et installation des clés GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
    *Découvrez comment générer et installer une nouvelle paire de clés GPG publique/privée sur une instance spécifiée et comment importer et installer une clé publique sur votre instance d&#39;Adobe Campaign.*
 
-* **[Activité d&#39;API externe](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**   <br>
+* **[Activité d&#39;API externe](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+
    *Découvrez comment configurer et exécuter un processus avec l&#39;activité API externe.*
 
-* **[Substitution de Profil - Test des messages électroniques à l&#39;aide de profils ciblés](/help/communication-channels/email/profile-substitution.md)**   <br>
-   *Découvrez comment envoyer un BAT pour révision avec la représentation exacte du message que le profil recevra.*
+* **[Substitution de Profil - Test des messages électroniques à l&#39;aide de profils ciblés](/help/communication-channels/email/profile-substitution.md)**
 
+   *Découvrez comment envoyer un BAT pour révision avec la représentation exacte du message que le profil recevra.*
 
 ## Sélection du personnel
 
