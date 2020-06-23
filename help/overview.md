@@ -1,21 +1,24 @@
 ---
-title: Didacticiels Adobe Campaign Standard - Présentation
-description: Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l'orchestration visuelle de campagnes, la gestion d'interactions en temps réel et l'exécution cross-canal. Ce guide d'utilisation contient des vidéos et des didacticiels sur les nombreuses fonctionnalités d'Adobe Campaign Standard.
+title: Didacticiels sur l’Adobe Campaign Standard - Présentation
+description: Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l'orchestration visuelle de campagnes, la gestion d'interactions en temps réel et l'exécution cross-canal. Ce guide d'utilisation contient des vidéos et des didacticiels sur les nombreuses fonctionnalités et fonctionnalités de l'Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 4ef870e79a3479004dae4c22816338e8fe4563dd
+source-git-commit: 3f3fec14bcd2777146a08a269c298f9b8ca17acd
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 22%
+source-wordcount: '302'
+ht-degree: 21%
 
 ---
 
 
 # Présentation
 
-Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l&#39;orchestration visuelle de campagnes, la gestion d&#39;interactions en temps réel et l&#39;exécution cross-canal. Ce guide d&#39;utilisation contient des vidéos et des didacticiels sur les nombreuses fonctionnalités d&#39;Adobe Campaign Standard.
+Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l&#39;orchestration visuelle de campagnes, la gestion d&#39;interactions en temps réel et l&#39;exécution cross-canal. Ce guide d&#39;utilisation contient des vidéos et des didacticiels sur les nombreuses fonctionnalités et fonctionnalités de l&#39;Adobe Campaign Standard.
 
 ## Nouveautés
+
+* **[Panneau de configuration Génération et installation des clés GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**   <br>
+   *Découvrez comment générer et installer une nouvelle paire de clés GPG publique/privée sur une instance spécifiée et comment importer et installer une clé publique sur votre instance d&#39;Adobe Campaign.*
 
 * **[Activité d&#39;API externe](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**   <br>
    *Découvrez comment configurer et exécuter un processus avec l&#39;activité API externe.*
@@ -23,27 +26,22 @@ Adobe Campaign offre une plate-forme pour concevoir des expériences client cro
 * **[Substitution de Profil - Test des messages électroniques à l&#39;aide de profils ciblés](/help/communication-channels/email/profile-substitution.md)**   <br>
    *Découvrez comment envoyer un BAT pour révision avec la représentation exacte du message que le profil recevra.*
 
-* **[Panneau de configuration - Gestion des enregistrements Google TXT](/help/administrating/control-panel/google-txt-record-management.md)**   <br>
-   *Découvrez comment ajouter un enregistrement de vérification de site Google TXT à tous les sous-domaines utilisés pour envoyer des courriers électroniques aux adresses GMAIL via le Panneau de configuration Campaign.*
-
-* **[Didacticiel : Prise en main des notifications Push pour Android](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)**   <br>
-   *Ce didacticiel vous guide tout au long des étapes nécessaires à l&#39;envoi de notifications Push en provenance d&#39;Adobe Campaign et à la réception de ces notifications dans votre application Android.*
 
 ## Sélection du personnel
 
 <table>
 <tr>
   <td>
-    <a href="./communication-channels/mobile/in-app/in-app-message-overview.md"> 
-      <img alt="Messagerie in-app (didacticiel)" src="./assets/in_app_messaging.png"/>
+    <a href="./communication-channels/email/profile-substitution.md"> 
+      <img alt="Substitution de Profil - Test des messages électroniques à l'aide de profils ciblés (vidéo)" src="./assets/substitution_tab.png"/>
     </a>
     <div>
-      <a href="./communication-channels/mobile/in-app/in-app-message-overview.md">
-    <strong>Messagerie in-app (didacticiel)</strong>
+      <a href="./communication-channels/email/profile-substitution.md">
+    <strong>Substitution de Profil - Test des messages électroniques à l'aide de profils ciblés (vidéo)</strong>
     </a>
     </div>
     <p>
-    <em>La messagerie in-app est un canal qui vous permet d’afficher un message lorsque l’utilisateur est actif dans une application mobile.</em>
+    <em>Découvrez comment envoyer un BAT pour révision avec la représentation exacte du message que le profil recevra.</em>
     <p>
   </td>
    <td>
@@ -60,16 +58,16 @@ Adobe Campaign offre une plate-forme pour concevoir des expériences client cro
     <p>
   </td>
   <td>
-    <a href="./designing-content/product-listings-in-transactional-email.md">
-      <img alt="Personnaliser les courriers électroniques à l’aide de blocs de contenu dynamiques (vidéo)" src="./assets/acs_product_listings.png" />
+    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <img alt="Didacticiel : Prise en main des notifications Push pour Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="./designing-content/product-listings-in-transactional-email.md">
-    <strong>Listes de produits (didacticiel)</strong>
+      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+    <strong>Didacticiel : Prise en main des notifications Push pour Android</strong>
     </a>
     </div>
     <p>
-    <em>Créez des courriers électroniques transactionnels avec une liste de produits et d’offres. </em>
+    <em>Ce didacticiel vous guide tout au long des étapes nécessaires à l'envoi de notifications Push depuis l'Adobe Campaign et à la réception de ces notifications dans votre application Android. </em>
     <p>
   </td>
 </tr>
