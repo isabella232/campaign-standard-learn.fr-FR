@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
+source-git-commit: b95fb2360d6336c941e7b92a6e2abb376185a7c3
 workflow-type: tm+mt
 source-wordcount: '341'
-ht-degree: 19%
+ht-degree: 24%
 
 ---
 
@@ -27,11 +27,13 @@ This also includes a new **Test** Activity where you can run tests on this funct
 La vidéo suivante explique les étapes de configuration requises pour :
 
 1. **Recevez des paramètres** externes d’un système externe, tel qu’un système de gestion de contenu (CRM) :
+
    * Déclarer les paramètres dans l&#39;Activité Signal externe
    * Configurez l’appel d’API pour définir les paramètres et déclencher l’Activité de signal externe du processus. Pour plus d’informations sur la configuration d’un appel d’API, voir [Déclenchement d’une Activité](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity)de signal.
 
 1. **Personnalisez un processus avec des paramètres** externes (variables de événement) :
-Une fois le processus déclenché, les paramètres sont incorporés dans les variables de événement du processus et peuvent être utilisés dans le processus. Consultez la [documentation](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) de toutes les activités qui peuvent être personnalisées à l’aide de variables de événement :
+
+   Une fois le workflow déclenché, les paramètres sont ingérés dans les variables d’événements du workflow et peuvent être utilisés au sein du workflow. Consultez la [documentation](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) de toutes les activités qui peuvent être personnalisées à l’aide de variables de événement :
 
    * Configuration de l&#39;Activité de test (nouveauté de la version 19.2)
    * Configurer l&#39;Activité d&#39;Audience de lecture et de Diffusion de courriel
