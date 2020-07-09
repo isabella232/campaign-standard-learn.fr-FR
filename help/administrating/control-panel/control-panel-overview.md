@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 4bbe44e592085428d0eaa588aa5e773c925ce3bb
+source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '417'
 ht-degree: 6%
 
 ---
@@ -60,7 +60,7 @@ La vidéo suivante explique comment ajouter un administrateur à une instance Ca
 
 * **Gestion des serveurs SFTP**
 
-   *Découvrez comment surveiller la capacité du serveur, les adresses IP de liste autorisée et ajouter des clés SSH*
+   *Découvrez comment surveiller la capacité du serveur, les adresses IP de liste autorisée et ajouter des clés SSH :*
 
    * [Surveillance de la capacité du serveur, autorisation de la liste des adresses IP et ajout de clés SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [Génération d&#39;une clé SSH](/help/administrating/control-panel/generate-ssh-key.md)
@@ -78,15 +78,19 @@ La vidéo suivante explique comment ajouter un administrateur à une instance Ca
 
    *Découvrez comment ajouter un enregistrement de vérification de site Google TXT à tous les sous-domaines utilisés pour envoyer des courriers électroniques aux adresses GMAIL via le Panneau de configuration Campaign.*
 
-* **[Génération et installation des clés GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **Gestion des clés GPG**
 
-   *Découvrez comment générer et installer une nouvelle paire de clés GPG publique/privée sur une instance spécifiée et comment importer et installer une clé publique sur votre instance d&#39;Adobe Campaign.*
+   *Découvrez comment générer et installer une paire de clés publique/privée sur une instance Campaign spécifique pour le chiffrement des données sortantes, ainsi que importer et installer une clé publique sur une instance Campaign pour le déchiffrement des données entrantes :*
+
+   * [Génération et installation de clés GPG pour le chiffrement des données](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   * [Utilisation d’une clé GPG pour chiffrer des données](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   * [Décrypter des données](./gpg-key-management/decrypting-data.md)
 
 * **[Fusillade problématique](/help/administrating/control-panel/trouble-shooting.md)**
 
    *Comprendre comment résoudre les problèmes du Panneau de configuration*
 
-## Ressources supplémentaires
+## Autres ressources
 
 * [Centre d’aide du panneau de configuration](https://docs.adobe.com/content/help/fr-FR/control-panel/using/control-panel-home.html)
 
