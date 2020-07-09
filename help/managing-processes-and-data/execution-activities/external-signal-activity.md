@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: b95fb2360d6336c941e7b92a6e2abb376185a7c3
+source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 24%
@@ -42,6 +42,6 @@ La vidéo suivante explique les étapes de configuration requises pour :
 
 >[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12)
 
-## Ressources supplémentaires
+## Autres ressources
 
 * [Signal externe (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
