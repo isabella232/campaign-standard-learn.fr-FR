@@ -8,7 +8,7 @@ doc-type: feature video
 activity: Understand
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: ec12edfcfb8d56c8472fdc55c16a087880a5063d
+source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 6%
@@ -22,6 +22,6 @@ Cette vidéo explique la hiérarchie des programmes et des campagnes, comment cr
 
 >[!VIDEO](https://video.tv.adobe.com/v/18465?quality=12)
 
-## Ressources supplémentaires
+## Autres ressources
 
 * [Programmes et campagnes](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html)
