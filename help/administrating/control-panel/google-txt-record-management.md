@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 24%
@@ -24,6 +24,6 @@ La vidéo ci-dessous décrit comment vous pouvez ajouter des enregistrements de 
 
 >[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
 
-## Ressources supplémentaires
+## Autres ressources
 
 * [Documentation](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/managing-txt-records.html)
