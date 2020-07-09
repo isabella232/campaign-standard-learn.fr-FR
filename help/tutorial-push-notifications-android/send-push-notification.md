@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: afe1ae6c8d73b7b776e0eec327fa16db76c23ce1
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 2%
@@ -20,7 +20,7 @@ ht-degree: 2%
 
 Nous devons maintenant créer et envoyer une notification  Push à l&#39;aide d&#39;Adobe Campaign. . Pour créer une notification Push simple à des fins de test, procédez comme suit.
 
-* Connexion à votre instance Adobe Campaign Standard
+* Connexion à votre instance d&#39;Adobe Campaign Standard
 * Cliquez sur Activités **marketing ->[!UICONTROL Créer]->Notification[!UICONTROL Push]**
 * Sélectionnez **[!UICONTROL Envoyer une notification Push aux abonnés de l’application (mobileApp)]** et cliquez sur Suivant.
 * Sélectionnez l’application mobile appropriée dans la liste déroulante **[!UICONTROL Associer une application mobile à une diffusion]** et cliquez sur **[!UICONTROL Suivant.]**
@@ -30,7 +30,7 @@ Nous devons maintenant créer et envoyer une notification  Push à l&#39;aide d&
 
 Si tout se passe bien, une notification doit s’afficher dans votre application Android s’exécutant dans l’émulateur.
 
-## Ressources supplémentaires
+## Autres ressources
 
 * [Documentation détaillée sur les notifications Push](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
 * [Création d’une notification Push (vidéo)](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
