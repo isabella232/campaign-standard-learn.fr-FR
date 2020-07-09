@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: ec5f3ab9130251d9467bdf96c07fd09870eb1db0
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 7%
@@ -37,7 +37,7 @@ Cette vidéo présente l&#39;utilisation de l&#39;activité [!UICONTROL API]exte
 >
 >Veuillez noter que l&#39;activité est destinée à la récupération des données à l&#39;échelle de la campagne (dernière série d&#39;offres, derniers scores, etc.), et non à la récupération d&#39;informations spécifiques pour chaque profil, ce qui peut entraîner le transfert de grandes quantités de données. Si le cas pratique requiert cela, la recommandation consiste à utiliser l’activité Transfert de fichier.
 
-## Ressources supplémentaires
+## Autres ressources
 
 * [API externe (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
 
