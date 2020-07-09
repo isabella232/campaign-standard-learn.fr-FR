@@ -3,9 +3,9 @@ title: Didacticiels sur l’Adobe Campaign Standard - Présentation
 description: Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l'orchestration visuelle de campagnes, la gestion d'interactions en temps réel et l'exécution cross-canal. Ce guide d'utilisation contient des vidéos et des didacticiels sur les nombreuses fonctionnalités et fonctionnalités de l'Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: dc7295c80b8c4ef3d641baf885d50ee55d4f5197
+source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '308'
 ht-degree: 21%
 
 ---
@@ -17,9 +17,9 @@ Adobe Campaign offre une plate-forme pour concevoir des expériences client cro
 
 ## Nouveautés
 
-* **[Panneau de configuration - Génération et installation des clés GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **[Gestion des clés GPG](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Découvrez comment générer et installer une nouvelle paire de clés GPG publique/privée sur une instance spécifiée et comment importer et installer une clé publique sur votre instance d&#39;Adobe Campaign.*
+   *Découvrez comment générer et installer une paire de clés publique/privée sur une instance Campaign spécifique pour le chiffrement des données sortantes, ainsi que importer et installer une clé publique sur une instance Campaign pour le déchiffrement des données entrantes.*
 
 * **[Activité d&#39;API externe](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
@@ -75,6 +75,6 @@ Adobe Campaign offre une plate-forme pour concevoir des expériences client cro
 </tr>
 </table>
 
-## Ressources supplémentaires
+## Autres ressources
 
 * [Documentation](https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/campaign-standard-home.html)
