@@ -8,15 +8,15 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
+source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '357'
 ht-degree: 3%
 
 ---
 
 
-# Problème lors de la prise de vue du [!UICONTROL Panneau de Contrôle}
+# Trouble de tirer sur le [!UICONTROL Panneau de Contrôle]
 
 Découvrez comment résoudre les problèmes lors de l’utilisation du Panneau de Contrôle.
 
