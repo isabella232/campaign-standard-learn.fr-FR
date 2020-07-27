@@ -1,6 +1,6 @@
 ---
-title: Problème lors de l'exécution du Panneau de configuration
-description: Le Panneau de configuration vous permet de surveiller et de gérer votre enregistrement SFTP par instance et par adresse IP de liste autorisée.
+title: Trouble de tirer sur le Panneau de Contrôle
+description: Le Panneau de Contrôle vous permet de surveiller et de gérer votre enregistrement SFTP par instance et par liste autorisée d’adresses IP.
 feature: Control Panel
 topics: null
 kt: 2938
@@ -16,9 +16,9 @@ ht-degree: 3%
 ---
 
 
-# Problème lors de la prise en charge du [!UICONTROL Control Panel}
+# Problème lors de la prise de vue du [!UICONTROL Panneau de Contrôle}
 
-Découvrez comment résoudre les problèmes lors de l’utilisation du Panneau de configuration.
+Découvrez comment résoudre les problèmes lors de l’utilisation du Panneau de Contrôle.
 
 ## Connexion et page d&#39;accueil
 
@@ -29,7 +29,7 @@ Problèmes survenant avec la connexion et la page d’accueil.
 **Que faire :**
 L’utilisateur doit localiser son [!DNL IMS Org ID] (xxx). L’administrateur doit ajouter l’utilisateur au profil [!UICONTROL de] produits [!DNL “Campaign-xxx-Admins”] pour chaque instance qu’il souhaite gérer. Si l’utilisateur est un administrateur de toutes les instances, il peut encore être nécessaire de s’ajouter en tant qu’ *[!UICONTROL utilisateur]*.
 
-### Symptôme : Les liens dans la page d’accueil [!UICONTROL d’] Adobe Experience Cloud permettant d’accéder au panneau [!UICONTROL de] configuration n’apparaissent pas pour un utilisateur.
+### Symptôme : Les liens dans la page d’accueil [!UICONTROL d’] Adobe Experience Cloud permettant d’accéder au [!UICONTROL Panneau de Contrôle] n’apparaissent pas pour un utilisateur.
 
 **Cause :**
 Les utilisateurs ne verront pas les liens tant qu’ils ne seront pas ajoutés en tant qu’utilisateurs au profil de [!UICONTROL produits.] `Campaign-xxx-Administrators/Admin`
@@ -37,7 +37,7 @@ Les utilisateurs ne verront pas les liens tant qu’ils ne seront pas ajoutés e
 **Que faire :**
 L’administrateur doit ajouter l’utilisateur au profil [!UICONTROL de] produits *[!DNL Campaign-xxx-Admins]* pour chaque instance qu’il souhaite gérer. Si l’utilisateur est un administrateur de toutes les instances, il peut encore être nécessaire de s’ajouter en tant qu’ *[!UICONTROL utilisateur]*.
 
-### Symptôme : Une instance n’est pas répertoriée dans le panneau de [!UICONTROL configuration.]
+### Symptôme : Une instance n’est pas répertoriée dans le [!UICONTROL Panneau de Contrôle]
 
 **Cause :**
 L&#39;utilisateur doit probablement être ajouté en tant qu&#39;Profil *[!UICONTROL utilisateur]* du produit `!DNL Campaign-xxx-Administrators/Admin` pour l&#39;instance manquante.
@@ -51,11 +51,11 @@ L’administrateur doit ajouter l’utilisateur au Profil de produits `Campaign-
 *Vérification[!DNL IMS Org ID](00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Comment ajouter un administrateur au profilde produits *[!DNL administrators]*pour pouvoir utiliser le Panneaude configuration (01:03 min)*
+*Comment ajouter un administrateur au profilde produits *[!DNL administrators]*pour pouvoir utiliser le[!UICONTROL Panneau de Contrôle](01:03 min)*
 
 ### Documentation utile
 
-* [Découvrez le panneau de [!UICONTROL configuration]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
+* [Découvrir le [!UICONTROL Panneau de Contrôle]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
 * [[!UICONTROL Gestion des autorisations pour le panneau de contrôle]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
 
 ## Établissement de la connexion au serveur SFTP (client ou API)
