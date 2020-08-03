@@ -1,12 +1,12 @@
 ---
-title: Didacticiels sur l’Adobe Campaign Standard - Présentation
+title: Tutorials Adobes Campaign Standards - Présentation
 description: Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l'orchestration visuelle de campagnes, la gestion d'interactions en temps réel et l'exécution cross-canal. Ce guide d'utilisation contient des vidéos et des didacticiels sur les nombreuses fonctionnalités et fonctionnalités de l'Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '308'
-ht-degree: 21%
+source-wordcount: '280'
+ht-degree: 23%
 
 ---
 
@@ -24,10 +24,6 @@ Adobe Campaign offre une plate-forme pour concevoir des expériences client cro
 * **[Activité d&#39;API externe](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
    *Découvrez comment configurer et exécuter un processus avec l&#39;activité API externe.*
-
-* **[Substitution de Profil - Test des messages électroniques à l&#39;aide de profils ciblés](/help/communication-channels/email/profile-substitution.md)**
-
-   *Découvrez comment envoyer un BAT pour révision avec la représentation exacte du message que le profil recevra.*
 
 ## Sélection du personnel
 
