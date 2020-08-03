@@ -1,6 +1,6 @@
 ---
 title: Importer des profils avec un processus
-description: Vous pouvez collecter des données à partir d’un fichier pour les traiter et/ou les importer dans la base de données Adobe Campaign. Cette vidéo explique comment importer des données de profil à l’aide d’un processus.
+description: Vous pouvez collecter des données à partir d’un fichier pour les traiter et/ou les importer dans la base de données des Adobes Campaign. Cette vidéo explique comment importer des données de profil à l’aide d’un processus.
 feature: Data management Activities
 topics: null
 kt: 1818
@@ -18,7 +18,7 @@ ht-degree: 7%
 
 # Importer des profils avec un processus{#import-profiles-with-a-workflow}
 
-Vous pouvez collecter des données à partir d’un fichier pour les traiter et/ou les importer dans la base de données Adobe Campaign.
+Vous pouvez collecter des données à partir d’un fichier pour les traiter et/ou les importer dans la base de données des Adobes Campaign.
 
 Cette vidéo explique comment utiliser les activités de [!UICONTROL Data Management] dans un flux de travail pour importer des données de profil.
 
