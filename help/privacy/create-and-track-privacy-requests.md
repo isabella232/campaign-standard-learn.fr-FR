@@ -1,6 +1,6 @@
 ---
-title: Création manuelle et suivi des requêtes de confidentialité via l’interface utilisateur Adobe Campaign
-description: Adobe Campaign vous permet de créer des requêtes d’accès et de supprimer des requêtes de données d’identification personnelle en conformité avec les lois sur la confidentialité telles que le RGPD et l’ACCP. Cette vidéo explique comment créer manuellement des requêtes de confidentialité et suivre leur évolution dans l’interface utilisateur d’Adobe Campaign Standard.
+title: Création manuelle et suivi des demandes de confidentialité via l’interface utilisateur de l’Adobe Campaign
+description: L’Adobe Campaign vous permet de créer des demandes d’accès et de suppression de données d’identification personnelle en conformité avec les lois sur la protection des renseignements personnels, telles que le RGPD et l’ACCP. Cette vidéo explique comment créer manuellement des requêtes de confidentialité et suivre leur évolution dans l’interface utilisateur de l’Adobe Campaign Standard.
 feature: GDPR, CCPA
 topic: null
 kt: 1242
@@ -18,9 +18,9 @@ ht-degree: 10%
 
 # Création et suivi manuels des demandes de confidentialité
 
-Adobe Campaign vous permet de créer des requêtes d’accès et de supprimer des requêtes de données d’identification personnelle en conformité avec les lois sur la confidentialité telles que le RGPD et l’ACCP.
+L’Adobe Campaign vous permet de créer des demandes d’accès et de suppression de données d’identification personnelle en conformité avec les lois sur la protection des renseignements personnels, telles que le RGPD et l’ACCP.
 
-Cette vidéo explique comment créer manuellement des requêtes de confidentialité et suivre leur évolution dans l’interface utilisateur d’Adobe Campaign Standard.
+Cette vidéo explique comment créer manuellement des requêtes de confidentialité et suivre leur évolution dans l’interface utilisateur de l’Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
