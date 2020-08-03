@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Didacticiels sur l’Adobe Campaign Standard
+user-guide-title: Tutorials Adobes Campaign Standards
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -11,8 +11,8 @@ getting-started-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard
 translation-type: tm+mt
 source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 17%
+source-wordcount: '529'
+ht-degree: 16%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 17%
    + [Création de profils et d’audiences - Présentation](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Création d’un profil](/help/profiles-and-audiences/creating-a-profile.md)
    + [Création d’un profil de test](/help/profiles-and-audiences/test-profiles.md)
-   + [Importer des profils avec un processus](/help/managing-processes-and-data/importing-profiles.md)
+   + [Importation de profils avec un processus](/help/managing-processes-and-data/importing-profiles.md)
    + [Gérer les services et les abonnements](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Audience Destinations (BETA){#audience-destinations}
       + [Présentation](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
@@ -49,7 +49,7 @@ ht-degree: 17%
       + [créer un email ;](/help/communication-channels/email/create-email-from-homepage.md)
       + [Envoyer un test, préparer et envoyer un courriel](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Créer une diffusion multilingue de messagerie ou de SMS](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Convertir un courriel, une diffusion SMS ou un modèle existant en plusieurs langues](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Conversion d’un courrier électronique, d’une diffusion SMS ou d’un modèle existant en un formulaire multilingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [A/B Testing](/help/communication-channels/email/a-b-testing.md)
       + [Test des messages électroniques à l’aide de profils ciblés](/help/communication-channels/email/profile-substitution.md)
       + [Vérification d’une diffusion de messagerie et de rapports](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -57,7 +57,8 @@ ht-degree: 17%
    + Mobile {#mobile}
       + SMS{#sms}
          + [Créer une diffusion SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Convertir un courriel, une diffusion SMS ou un modèle existant en plusieurs langues](/help/communication-channels/covert-into-multilingual-deliveries.md)
+         + [Créer une diffusion multilingue de messagerie ou de SMS](/help/communication-channels/create-multilingual-deliveries.md)
+         + [Conversion d’un courrier électronique, d’une diffusion SMS ou d’un modèle existant en un formulaire multilingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Notifications Push {#push}
          + [Créer une notification Push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Créer une notification Push multilingue](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -82,10 +83,11 @@ ht-degree: 17%
       + [Configuration de la vue mobile](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Prévisualisation de votre analyse de courriel et d&#39;antispam](/help/designing-content/email-designer/preview-your-email.md)
       + [Utilisation de contenu existant](/help/designing-content/email-designer/working-with-existing-content.md)
-      + [Création de contenu à l’aide d’Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
+      + [Création de contenu à l’aide de Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Configurer les listes de produits dans les courriers électroniques transactionnels](/help/designing-content/product-listings-in-transactional-email.md)
 + Gestion des processus et des données {#managing-processes-and-data}
    + [créer un workflow ;](/help/managing-processes-and-data/create-workflow.md)
+   + [Importation de profils avec un processus](/help/managing-processes-and-data/importing-profiles.md)
    + Execution Activities {#execution-activities}
       + [Activité du signal externe](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Data Management Activities {#data-management-activities}
@@ -101,7 +103,7 @@ ht-degree: 17%
 + Administration {#administrating}
    + [Gestion des droits d’accès des utilisateurs](/help/administrating/managing-user-access-rights.md)
    + Panneau de contrôle {#control-panel}
-      + [Présentation du panneau de configuration](/help/administrating/control-panel/control-panel-overview.md)
+      + [Présentation du Panneau de Contrôle](/help/administrating/control-panel/control-panel-overview.md)
       + [Surveillance de la capacité du serveur, autorisation de la liste des adresses IP et ajout de clés SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Génération d’une clé SSH](/help/administrating/control-panel/generate-ssh-key.md)
       + [Connexion à un serveur SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
@@ -131,3 +133,5 @@ ht-degree: 17%
    + [Modification des ressources personnalisées pour les demandes de confidentialité](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Création et suivi manuels des demandes de confidentialité](/help/privacy/create-and-track-privacy-requests.md)
    + [Exécution de demandes de confidentialité](/help/privacy/execute-privacy-requests.md)
++ [Guide des meilleures pratiques en matière de délivrabilité des Adobes Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+
