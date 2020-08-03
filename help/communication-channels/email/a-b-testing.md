@@ -1,6 +1,6 @@
 ---
 title: A/B testing
-description: 'Cette vidéo explique comment configurer et envoyer un test A/B dans Adobe Campaign Standard, en testant la ligne d’objet. '
+description: 'Cette vidéo explique comment configurer et envoyer un test A/B en Adobe Campaign Standard, en testant l’objet. '
 feature: A/B Testing
 topics: null
 kt: 3907
