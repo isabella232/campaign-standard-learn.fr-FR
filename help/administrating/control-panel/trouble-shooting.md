@@ -10,13 +10,13 @@ team: PM
 translation-type: tm+mt
 source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '358'
 ht-degree: 3%
 
 ---
 
 
-# Trouble de tirer sur le [!UICONTROL Panneau de Contrôle]
+# Problème lors de la prise de vue du [!UICONTROL Panneau de Contrôle}
 
 Découvrez comment résoudre les problèmes lors de l’utilisation du Panneau de Contrôle.
 
@@ -29,7 +29,7 @@ Problèmes survenant avec la connexion et la page d’accueil.
 **Que faire :**
 L’utilisateur doit localiser son [!DNL IMS Org ID] (xxx). L’administrateur doit ajouter l’utilisateur au profil [!UICONTROL de] produits [!DNL “Campaign-xxx-Admins”] pour chaque instance qu’il souhaite gérer. Si l’utilisateur est un administrateur de toutes les instances, il peut encore être nécessaire de s’ajouter en tant qu’ *[!UICONTROL utilisateur]*.
 
-### Symptôme : Les liens dans la page d’accueil [!UICONTROL d’] Adobe Experience Cloud permettant d’accéder au [!UICONTROL Panneau de Contrôle] n’apparaissent pas pour un utilisateur.
+### Symptôme : Les liens de la page d’accueil  Adobe Experience Cloud permettant d’accéder au [!UICONTROL Panneau de Contrôle] n’apparaissent pas pour un utilisateur.
 
 **Cause :**
 Les utilisateurs ne verront pas les liens tant qu’ils ne seront pas ajoutés en tant qu’utilisateurs au profil de [!UICONTROL produits.] `Campaign-xxx-Administrators/Admin`
