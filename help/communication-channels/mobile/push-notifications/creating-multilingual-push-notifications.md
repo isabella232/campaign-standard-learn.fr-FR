@@ -18,7 +18,7 @@ ht-degree: 18%
 
 # Création d’une notification [!UICONTROL Push multilingue]
 
-Découvrez comment créer des notifications  Push multilingues dans Adobe Campaign Standard.
+Découvrez comment créer des notifications  Push multilingues dans l’Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12)
 
