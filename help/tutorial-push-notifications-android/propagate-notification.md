@@ -1,6 +1,6 @@
 ---
 title: Étape 5 - Propagation des notifications
-description: Dans cette partie, nous allons propager le message reçu d'Adobe Campaign à l'aide d'Android Notification Manager.Firebase
+description: Dans cette partie, nous allons propager le message reçu de l'Adobe Campaign à l'aide d'Android Notification Manager.Firebase
 feature: Push
 topics: Mobile
 kt: 4829
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ---
 
-# Ajouter Service pour envoyer une notification
+# Ajouter le service à envoyer une notification
 
-Dans cette partie, nous propagerons le message reçu de Adobe Campaign en utilisant [!DNL Android Notification Manager]. [!DNL Notification manager] sert à informer l’utilisateur des événements qui se produisent.
+Dans cette partie, nous propagerons le message reçu de l&#39;Adobe Campaign en utilisant [!DNL Android Notification Manager]. [!DNL Notification manager] sert à informer l’utilisateur des événements qui se produisent.
 Voici comment vous dites à l&#39;utilisateur que quelque chose s&#39;est passé en arrière-plan :
 
 * Lancement [!DNL Android Studio]
@@ -90,7 +90,7 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 
 ## Modify [!DNL AndroidManifest.xml]
 
-Ajouter le service qui a été créé pour vous [!DNL AndroidManifest.xml]. La finale [!DNL AndroidManifest.xml] doit se présenter comme suit :
+Ajoutez le service qui a été créé pour vous [!DNL AndroidManifest.xml]. La finale [!DNL AndroidManifest.xml] doit se présenter comme suit :
 
 ```xml {.line-numbers}
 <?xml version="1.0" encoding="utf-8"?>
