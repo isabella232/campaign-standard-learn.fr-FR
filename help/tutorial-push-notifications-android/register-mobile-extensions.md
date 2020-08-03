@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Étape 3 - Enregistrement des extensions avec votre application mobile
 
-Dans cette partie, nous allons ajouter le code pour enregistrer les extensions Profil utilisateur, Identité, Lifecycle et Signal. Ces extensions font partie de [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). Nous devrons également enregistrer l&#39;extension Adobe Campaign Standard comme le montre le code ci-dessous.
+Dans cette partie, nous allons ajouter le code pour enregistrer les extensions Profil utilisateur, Identité, Lifecycle et Signal. Ces extensions font partie de [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). Nous devrons également enregistrer l&#39;extension de l&#39;Adobe Campaign Standard comme indiqué dans le code ci-dessous.
 
 Ouvrez votre projet en [!DNL Android] studio. Supprimez l&#39;intégralité du code dans MainApp, **à l&#39;exception de la première ligne qui correspond à l&#39;instruction** du pack.
 
