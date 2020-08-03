@@ -16,7 +16,7 @@ ht-degree: 72%
 ---
 
 
-# Création d’un profil de test {#creating-a-test-profile}
+# Create a test profile {#creating-a-test-profile}
 
 Les profils de test permettent de cibler des destinataires additionnels, qui ne correspondent pas aux critères de ciblage définis. Ils sont ajoutés à l&#39;audience d&#39;un message afin de détecter une utilisation frauduleuse de votre base de destinataire ou de contrôler la bonne réception de vos messages.
 
