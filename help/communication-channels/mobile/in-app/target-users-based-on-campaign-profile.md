@@ -18,7 +18,7 @@ ht-degree: 6%
 
 # Target users based on their [!DNL Campaign] profile
 
-Vous pouvez cible des utilisateurs d’applications mobiles connus (ceux qui se sont connectés à l’application avec des informations d’identification personnelle) avec des messages personnalisés avec des attributs de profil CRM disponibles dans Adobe Campaign Standard. Ce modèle est particulièrement utile pour prendre en charge les cas d’utilisation d’orchestration sur plusieurs canaux, où vous avez déjà ciblé les utilisateurs sur d’autres canaux tels que Courrier électronique ou Push et où, en fonction de leur réponse, vous souhaitez les impliquer avec un message [!UICONTROL In-App] .
+Vous pouvez cible les utilisateurs d’applications mobiles connus (ceux qui se sont connectés à l’application avec des informations d’identification personnelle) avec des messages personnalisés avec des attributs de profil CRM disponibles dans l’Adobe Campaign Standard. Ce modèle est particulièrement utile pour prendre en charge les cas d’utilisation d’orchestration sur plusieurs canaux, où vous avez déjà ciblé les utilisateurs sur d’autres canaux tels que Courrier électronique ou Push et où, en fonction de leur réponse, vous souhaitez les impliquer avec un message [!UICONTROL In-App] .
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 
