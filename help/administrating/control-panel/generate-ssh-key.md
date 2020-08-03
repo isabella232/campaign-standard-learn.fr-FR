@@ -1,6 +1,6 @@
 ---
 title: Génération d'une clé SSH
-description: Vous devez être capable de générer une clé SSH pour pouvoir l'ajouter au Panneau de configuration Adobe Campaign. La vidéo ci-dessous explique comment générer une clé SSH à l'aide d'un terminal.
+description: Vous devez être capable de générer une clé SSH pour pouvoir l'ajouter au Panneau de Contrôle de l'Adobe Campaign. La vidéo ci-dessous explique comment générer une clé SSH à l'aide d'un terminal.
 feature: Control Panel
 topics: null
 kt: 2923
@@ -18,13 +18,13 @@ ht-degree: 0%
 
 # Génération d&#39;une clé SSH
 
-Vous devez générer une clé SSH pour pouvoir l&#39;ajouter au panneau [!UICONTROL de]configuration.
+Vous devez générer une clé SSH pour pouvoir l&#39;ajouter au [!UICONTROL Panneau de Contrôle].
 
-## Accès à la gestion SFTP du panneau [!UICONTROL de] configuration
+## Accès à la gestion SFTP [!UICONTROL Panneau de Contrôle]
 
-Pour accéder à la gestion SFTP dans le Panneau [!UICONTROL de]configuration, accédez à :
+Pour accéder à la gestion SFTP dans [!UICONTROL Panneau de Contrôle], accédez à :
 
-* [Accueil](https://experience.adobe.com/#/home) d’Experience Cloud > Sélecteur [!UICONTROL de]solution : [!UICONTROL Campaign] > Carte **[!UICONTROL du Panneau]** de configuration > Carte **SFTP**
+* [Accueil](https://experience.adobe.com/#/home) de l&#39;Experience Cloud > Sélecteur [!UICONTROL de]solution : [!UICONTROL Campaign] > Carte **[!UICONTROL de Panneau de Contrôle]** > Carte **SFTP**
 
    ou
 * Directement à partir de l’URL : [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
