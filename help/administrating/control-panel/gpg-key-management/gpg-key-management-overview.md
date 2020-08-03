@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 18%
+ht-degree: 24%
 
 ---
 
@@ -25,4 +25,4 @@ Les vidéos suivantes expliquent comment générer et installer une paire de cl�
 
 ## Autres ressources
 
-* [Gestion des clés GPG (documentation)](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/gpg-keys-management.html)
+* [Gestion des clés GPG (documentation)](https://docs.adobe.com/content/help/fr-FR/control-panel/using/instances-settings/gpg-keys-management.html)
