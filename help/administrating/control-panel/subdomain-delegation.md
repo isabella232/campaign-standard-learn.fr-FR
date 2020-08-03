@@ -1,6 +1,6 @@
 ---
 title: Délégation de sous-domaines
-description: Le Panneau de configuration Adobe Campaign vous permet de déléguer entièrement un sous-domaine à Adobe Campaign. Pour ce faire, suivez les étapes ci-après.
+description: Le Panneau de Contrôle d’Adobe Campaign vous permet de déléguer entièrement un sous-domaine à l’Adobe Campaign. Pour ce faire, suivez les étapes ci-après.
 feature: Control Panel
 topics: null
 kt: 4115
@@ -21,14 +21,14 @@ ht-degree: 15%
 Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
 
 >[!NOTE]
-> La délégation de sous-domaines du Panneau [!UICONTROL de] configuration sera disponible en version bêta d&#39;ici la fin janvier, sous réserve de
-> mises à jour fréquentes et modifications sans préavis.
+>
+>Subdomain delegation from the [!UICONTROL Control Panel] will be available in beta by the end of January, and subject to frequent updates and modifications without notice.
 
-## Accès à la gestion des [!UICONTROL sous-domaines du panneau] de [!UICONTROL contrôle]
+## Accès à la gestion des [!UICONTROL sous-domaines de] Panneau de Contrôle 
 
-Pour accéder à [Gestion des sous-domaines [!UICONTROL dans le panneau]deconfiguration, accédez à :
+Pour accéder à [Gestion des sous-domaines [!UICONTROL dans le]Panneau de Contrôle, accédez à :
 
-* [Accueil](https://experience.adobe.com/#/home) d’Experience Cloud > Sélecteur [!UICONTROL de]solution : [!DNL Campaign] > Carte **[!UICONTROL du Panneau]** de configuration > Carte **[!UICONTROL Sous-domaines et certificats]**
+* [Accueil](https://experience.adobe.com/#/home) de l&#39;Experience Cloud > Sélecteur [!UICONTROL de]solution : [!DNL Campaign] > Carte de **[!UICONTROL Panneau de Contrôle]** > **[!UICONTROL Sous-domaines et certificats]** > Carte
 
    ou
 * Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -42,5 +42,5 @@ La vidéo ci-dessous montre comment déléguer des sous-domaines.
 
 ## Autres ressources
 
-* [Ajout d’un certificat SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
+* [Ajouter un certificat SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
 * [Sous-domaines et certificats](https://docs.adobe.com/content/help/fr-FR/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
