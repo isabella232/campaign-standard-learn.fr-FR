@@ -1,6 +1,6 @@
 ---
-title: Ajout de certificats SSL
-description: Le Panneau de configuration Adobe Campaign vous permet d’ajouter des certificats SSL pour sécuriser vos sous-domaines.
+title: Ajouter des certificats SSL
+description: Le Panneau de Contrôle d’Adobe Campaign vous permet d’ajouter des certificats SSL pour sécuriser vos sous-domaines.
 feature: Control Panel
 topics: null
 kt: 4219
@@ -16,28 +16,28 @@ ht-degree: 5%
 ---
 
 
-# Ajout de certificats SSL
+# Ajouter des certificats SSL
 
-[!UICONTROL Le Panneau] de configuration Adobe Campaign vous permet d’ajouter des certificats SSL pour sécuriser vos sous-domaines.
+[!UICONTROL Le Panneau de Contrôle] d’Adobe Campaign vous permet d’ajouter des certificats SSL pour sécuriser vos sous-domaines.
 
-## Accès à la gestion des sous-domaines [!UICONTROL du Panneau] de configuration
+## Accès à la gestion des sous-domaines de [!UICONTROL Panneau de Contrôle]
 
-Pour accéder à la gestion des sous-domaines dans le Panneau [!UICONTROL de]configuration, accédez à :
+Pour accéder à la gestion des sous-domaines dans [!UICONTROL Panneau de Contrôle], accédez à :
 
-* [Accueil](https://experience.adobe.com/#/home) d’Experience Cloud > Sélecteur [!UICONTROL de]solution : [!DNL Campaign] > Carte **[!UICONTROL du Panneau]** de configuration > Carte [!UICONTROL **Sous-domaines et certificats **]
+* [Accueil](https://experience.adobe.com/#/home) de l&#39;Experience Cloud > Sélecteur [!UICONTROL de]solution : [!DNL Campaign] > Carte de **[!UICONTROL Panneau de Contrôle]** > [!UICONTROL **Sous-domaines et certificats **]> Carte
 
    ou
 * Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## Procédure d’ajout de certificats SSL
 
-L’ajout de certificats SSL requiert trois étapes :
+Pour Ajouter des certificats SSL, trois étapes sont nécessaires :
 
 ### Étape 1 : Générer des demandes de signature de [!UICONTROL certificat]
 
 La demande [!UICONTROL de signature de] certificat (CSR) est requise pour l’achat d’un certificat SSL. Il doit être généré pour l’instance et les sous-domaines que vous prévoyez de sécuriser.
 
-La vidéo ci-dessous décrit comment générer une demande [!UICONTROL de signature de] certificat dans le panneau [!UICONTROL de]configuration.
+La vidéo ci-dessous décrit comment générer une demande [!UICONTROL de signature de] certificat dans [!UICONTROL le Panneau de Contrôle].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
 
@@ -51,7 +51,7 @@ Après avoir obtenu la demande de signature de certificat, achetez le certificat
 
 Après avoir obtenu le certificat SSL, il doit être installé pour les sous-domaines que vous prévoyez de sécuriser.
 
-La vidéo ci-dessous explique comment installer des certificats SSL dans le panneau [!UICONTROL de]configuration.
+La vidéo ci-dessous explique comment installer des certificats SSL dans le [!UICONTROL Panneau de Contrôle].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
