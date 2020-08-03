@@ -1,6 +1,6 @@
 ---
 title: Exécution de demandes de confidentialité
-description: En Adobe Campaign, les requêtes de confidentialité sont exécutées par des workflows. Cette vidéo décrit les workflows qui accèdent aux requêtes et les suppriment, ainsi que ce qui se passe lorsqu’elles sont exécutées.
+description: Dans les Adobes Campaign, les demandes de confidentialité sont exécutées par des workflows. Cette vidéo décrit les workflows qui accèdent aux requêtes et les suppriment, ainsi que ce qui se passe lorsqu’elles sont exécutées.
 feature: GDPR, CCPA
 topic: null
 kt: 1525
@@ -18,7 +18,7 @@ ht-degree: 16%
 
 # Exécution de demandes de confidentialité
 
-En Adobe Campaign, les requêtes de confidentialité sont exécutées par des workflows. Cette vidéo décrit les workflows qui accèdent aux requêtes et les suppriment, ainsi que ce qui se passe lorsqu’elles sont exécutées.
+Dans les Adobes Campaign, les demandes de confidentialité sont exécutées par des workflows. Cette vidéo décrit les workflows qui accèdent aux requêtes et les suppriment, ainsi que ce qui se passe lorsqu’elles sont exécutées.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12)
 
