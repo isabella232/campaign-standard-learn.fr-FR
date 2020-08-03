@@ -1,6 +1,6 @@
 ---
 title: Panneau de contrôle
-description: Le Panneau de configuration vous permet de surveiller et de gérer votre enregistrement SFTP par instance et par adresse IP de liste autorisée.
+description: Le Panneau de Contrôle vous permet de surveiller et de gérer votre enregistrement SFTP par instance et par liste autorisée d’adresses IP.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -20,18 +20,18 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->Les termes &quot;[!UICONTROL liste blanche]&quot; et &quot;listenoire&quot; ont été remplacés par les termes &quot;[!UICONTROL liste autorisée]&quot; et &quot;[!UICONTROL liste bloquée&quot; dans la documentation Adobe Campaign. ] Certaines occurrences de ces termes peuvent toujours exister dans l’interface utilisateur du produit, les noms d’option, le code interne, ainsi que dans les vidéos du didacticiel. Ils seront remplacés dans les prochaines versions du Panneau de configuration.
+>Les termes &quot;[!UICONTROL liste blanche]&quot; et &quot;listenoire&quot; ont été remplacés par les termes &quot;[!UICONTROL liste autorisée]&quot; et &quot;[!UICONTROL liste bloquée&quot; dans la documentation Adobe Campaign. ] Certaines occurrences de ces termes peuvent toujours exister dans l’interface utilisateur du produit, les noms d’option, le code interne, ainsi que dans les vidéos du didacticiel. Ils seront remplacés dans les prochaines versions du Panneau de Contrôle.
 
-Le [!UICONTROL Panneau] de configuration permet aux administrateurs d’Adobes Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, telles que la gestion de l’enregistrement SFTP par instance ou les adresses IP de [!UICONTROL liste autorisée] .
+Le [!UICONTROL Panneau de Contrôle] permet aux administrateurs d’Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, telles que la gestion de l’enregistrement SFTP par instance ou les adresses IP de [!UICONTROL liste autorisée] .
 
 ## Accessing [!UICONTROL Control Panel]
 
-Pour accéder au Panneau de configuration, accédez à Accueil Experience Cloud : [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Pour accéder au Panneau de Contrôle, accédez à Accueil Experience Cloud : [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Accueil]** Experience Cloud > Accès **[!UICONTROL rapide]**
 
    ou
-* **[!UICONTROL Accueil]** de l&#39;Experience Cloud > Sélecteur [!UICONTROL de]solution : **Campaign** > Carte **[!UICONTROL du Panneau]de configuration **
+* **[!UICONTROL Accueil]** de l&#39;Experience Cloud > Sélecteur [!UICONTROL de]solution : **Campaign** > Carte **[!UICONTROL Panneau de Contrôle]**
 
    ou
 
@@ -50,13 +50,13 @@ Tu as besoin de connaître ton [!DNL IMS org ID]. La vidéo suivante décrit où
 
 ### Droits d’administrateur
 
-Les droits d’administrateur sont requis pour accéder au panneau [!UICONTROL de]configuration.
+Les droits d’administrateur sont requis pour accéder au [!UICONTROL Panneau de Contrôle].
 La vidéo suivante explique comment ajouter un administrateur à une instance Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Comment ajouter un administrateur au profil produit &quot;[!UICONTROL Administrateurs]&quot; pour pouvoir utiliser le Panneau[!UICONTROL de]configuration (01:03 min)*
+*Comment ajouter un administrateur au profil produit &quot;[!UICONTROL Administrateurs]&quot; pour pouvoir utiliser le[!UICONTROL Panneau de Contrôle](01:03 min)*
 
-## Didacticiels du panneau de configuration
+## Tutorials Panneaux de Contrôle
 
 * **Gestion des serveurs SFTP**
 
@@ -76,7 +76,7 @@ La vidéo suivante explique comment ajouter un administrateur à une instance Ca
    *Découvrez comment vous pouvez vue l’état des certificats SSL de vos sous-domaines, ainsi que demander des renouvellements.*
 * **[Gestion des enregistrements TXT Google](/help/administrating/control-panel/google-txt-record-management.md)**
 
-   *Découvrez comment ajouter un enregistrement de vérification de site Google TXT à tous les sous-domaines utilisés pour envoyer des courriers électroniques aux adresses GMAIL via le Panneau de configuration Campaign.*
+   *Découvrez comment ajouter un enregistrement de vérification de site Google TXT à tous les sous-domaines utilisés pour envoyer des courriers électroniques aux adresses GMAIL via le Panneau de Contrôle Campaign.*
 
 * **Gestion des clés GPG**
 
@@ -88,9 +88,9 @@ La vidéo suivante explique comment ajouter un administrateur à une instance Ca
 
 * **[Fusillade problématique](/help/administrating/control-panel/trouble-shooting.md)**
 
-   *Comprendre comment résoudre les problèmes du Panneau de configuration*
+   *Comprendre comment résoudre les problèmes liés au Panneau de Contrôle*
 
 ## Autres ressources
 
-* [Centre d’aide du panneau de configuration](https://docs.adobe.com/content/help/fr-FR/control-panel/using/control-panel-home.html)
+* [Centre d&#39;aide Panneau de Contrôle](https://docs.adobe.com/content/help/fr-FR/control-panel/using/control-panel-home.html)
 
