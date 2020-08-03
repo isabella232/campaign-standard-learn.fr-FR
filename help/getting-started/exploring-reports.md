@@ -18,7 +18,7 @@ ht-degree: 16%
 
 # Exploration des rapports
 
-Cette vidéo présente les fonctionnalités de rapports de Adobe Campaign Standard.
+Cette vidéo vous donne un aperçu des capacités de rapports de l&#39;Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12)
 
