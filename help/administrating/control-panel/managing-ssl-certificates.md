@@ -20,11 +20,11 @@ ht-degree: 43%
 
 Le panneau de contrôle permet de gérer les sous-domaines que vous avez délégués à Adobe Campaign. Vous pouvez afficher vos sous-domaines et demander le renouvellement de leurs certificats.
 
-## Accès à la gestion des [!UICONTROL sous-domaines du panneau] de [!UICONTROL contrôle]
+## Accès à la gestion des [!UICONTROL sous-domaines de] Panneau de Contrôle 
 
-Pour accéder à la gestion des  sous-domaines dans le panneau [!UICONTROL de]configuration, accédez à :
+Pour accéder à la gestion des  sous-domaines dans le [!UICONTROL Panneau de Contrôle], accédez à :
 
-* [Accueil](https://experience.adobe.com/#/home) d’Experience Cloud > Sélecteur [!UICONTROL de]solution : [!UICONTROL Campaign] > Carte **[!UICONTROL du Panneau]** de configuration > Carte **[!UICONTROL Sous-domaines et certificats]**
+* [Accueil](https://experience.adobe.com/#/home) de l&#39;Experience Cloud > Sélecteur [!UICONTROL de]solution : [!UICONTROL Campaign] > Carte de **[!UICONTROL Panneau de Contrôle]** > **[!UICONTROL Sous-domaines et certificats]** > Carte
 
    ou
 * Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
