@@ -1,6 +1,6 @@
 ---
 title: Création d’un rapport dynamique
-description: Les rapports dynamiques Adobe Campaign sont conçus pour être un environnement de forme libre et flexible dans lequel vous pouvez explorer les données. Il vous permet de combiner des dimensions, des mesures et une plage de temps dans n’importe quelle combinaison, avec des ventilations et des comparaisons illimitées. Cette vidéo explique comment créer un rapport.
+description: Les rapports dynamiques d’Adobe Campaign sont conçus pour être un environnement à structure libre et flexible dans lequel vous pouvez explorer les données. Il vous permet de combiner des dimensions, des mesures et une plage de temps dans n’importe quelle combinaison, avec des ventilations et des comparaisons illimitées. Cette vidéo explique comment créer un rapport.
 feature: Dynamic Reporting
 kt: 2037
 doc-type: feature video
