@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 28%
+ht-degree: 36%
 
 ---
 
@@ -26,4 +26,4 @@ Le panneau de contrôle permet de crypter les données provenant de votre instan
 ## Autres ressources
 
 * [Gestion des clés GPG (vidéos)](./gpg-key-management-overview.md)
-* [Gestion des clés GPG (documentation)](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/gpg-keys-management.html)
+* [Gestion des clés GPG (documentation)](https://docs.adobe.com/content/help/fr-FR/control-panel/using/instances-settings/gpg-keys-management.html)
