@@ -1,6 +1,6 @@
 ---
 title: Mappage des données de table de départ
-description: Découvrez comment mapper vos données sources et comment tester des profils avec Adobe Experience Platform (AEP)
+description: Apprenez à mapper vos données sources et à tester les profils avec l’Adobe Experience Platform (AEP).
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2900
@@ -21,9 +21,10 @@ ht-degree: 6%
 >[!NOTE]
 >
 >Cette fonctionnalité est actuellement en version bêta et fait l&#39;objet de mises à jour fréquentes et de modifications sans préavis.
->Si vous prévoyez de mettre en oeuvre cette fonctionnalité, contactez le service [!UICONTROL d’assistance clientèle] Adobe.
+>
+>Si vous prévoyez de mettre en oeuvre cette fonctionnalité, contactez le service [!UICONTROL d&#39;assistance clientèle] Adobe.
 
-Découvrez comment mapper des données sources et des profils de test avec Adobe Experience Platform.
+Apprenez à mapper les données sources et les profils de test avec l’Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12)
 
