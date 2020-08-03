@@ -4,7 +4,7 @@ description: Cette vidéo explique comment tester vos messages électroniques à
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368.jpg
+thumbnail: 32368
 doc-type: feature video
 activity: use
 team: TM
