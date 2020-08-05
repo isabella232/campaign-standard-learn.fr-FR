@@ -1,6 +1,6 @@
 ---
 title: Demandes de confidentialité avec l'Adobe Campaign Standard (ACS) - Présentation
-description: Ce didacticiel explique comment créer des requêtes de confidentialité via l’interface d’Adobe Campaign Standard (ACS).
+description: Ce didacticiel explique comment créer des requêtes de confidentialité via l’interface Adobe Campaign Standard (ACS).
 feature: GDPR, CCAP
 topic: Privacy
 kt: 1480
@@ -16,15 +16,15 @@ ht-degree: 20%
 ---
 
 
-# Demandes de confidentialité avec l’interface utilisateur de l’Adobe Campaign Standard
+# Demandes de confidentialité avec l’interface utilisateur Adobe Campaign Standard
 
-Adobe Campaign offres Data Controller trois méthodes pour effectuer l’accès à la vie privée et supprimer les demandes de données d’identification personnelle en conformité avec les lois sur la protection de la vie privée, comme le RMDPC (Règlement général sur la protection des données) et l’ACCP (Loi sur la protection des renseignements personnels des consommateurs de Californie) :
+Adobe Campaign offre les contrôleurs de données trois méthodes pour effectuer l’accès à la vie privée et supprimer les demandes de données d’identification personnelle en conformité avec les lois sur la protection de la vie privée, telles que le RGPD (Règlement général sur la protection des données) et l’ACCP (Loi californienne sur la protection de la vie privée des consommateurs) :
 
 * **Via l’intégration de Privacy Core Service :** Les demandes de confidentialité envoyées du [!UICONTROL Privacy Service] à toutes les solutions Experience Cloud sont automatiquement traitées par Campaign via un processus dédié. Refer to the [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html) to learn how to create privacy requests from the Privacy Core Service
 
 * **Via l’API :** Adobe Campaign fournit une API qui permet le traitement automatique des demandes de confidentialité à l’aide de REST.
 
-* **Via l&#39;interface d&#39;Adobe Campaign :** pour chaque demande de confidentialité, le contrôleur de données crée une nouvelle demande de confidentialité dans l’Adobe Campaign
+* **Via l&#39;interface Adobe Campaign :** pour chaque demande de confidentialité, le contrôleur de données crée une nouvelle demande de confidentialité en Adobe Campaign.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Adobe Campaign offres Data Controller trois méthodes pour effectuer l’accès 
 >
 >**Droit d’opposition (opt-out) à la vente des informations personnelles (CCPA)**
 >
->À partir de la version 19.4, un champ d’exclusion de l’ACCP est fourni prêt à l’emploi dans l’interface et l’API Campaign. Pour la version 19.3, pour exploiter ces informations, vous devez créer ce champ dans Adobe Campaign Standard. Consultez la documentation [](https://helpx.adobe.com/fr/campaign/kb/acs-privacy.html#ccpa) détaillée pour en savoir plus.
+>À partir de la version 19.4, un champ d’exclusion de l’ACCP est fourni prêt à l’emploi dans l’interface et l’API Campaign. Pour la version 19.3, pour exploiter ces informations, vous devez créer ce champ en Adobe Campaign Standard. Consultez la documentation [](https://helpx.adobe.com/fr/campaign/kb/acs-privacy.html#ccpa) détaillée pour en savoir plus.
 >
 > Vous pouvez vérifier votre version en cliquant sur ? en haut à droite de l’interface et en sélectionnant A propos.
 
@@ -45,9 +45,9 @@ Adobe Campaign offres Data Controller trois méthodes pour effectuer l’accès 
 1. [Création d’un Espace de nommage](/help/privacy/namespaces-for-privacy-requests.md)
 1. [Modification des ressources personnalisées](/help/privacy/custom-resources-for-privacy-requests.md)
 
-### Créer, suivre et exécuter des requêtes de confidentialité via l’interface utilisateur de l’Adobe Campaign
+### Créer, suivre et exécuter des requêtes de confidentialité via l’interface utilisateur Adobe Campaign
 
-* [Création et suivi des requêtes de confidentialité via l’interface utilisateur de l’Adobe Campaign](/help/privacy/create-and-track-privacy-requests.md)
+* [Création et suivi des requêtes de confidentialité via l’interface utilisateur Adobe Campaign](/help/privacy/create-and-track-privacy-requests.md)
 * [Exécuter des requêtes de confidentialité](/help/privacy/execute-privacy-requests.md)
 
 ## Autres ressources
