@@ -1,6 +1,6 @@
 ---
 title: Introduction au rapports
-description: Cette vidéo présente les capacités de rapports de l'Adobe Campaign Standard
+description: Cette vidéo vous donne un aperçu des fonctionnalités de rapports d'Adobe Campaign Standard
 feature: Dynamic Reports
 topics: null
 kt: 3974
@@ -18,7 +18,7 @@ ht-degree: 3%
 
 # Introduction au rapports
 
-Cette vidéo présente les capacités de rapports de l&#39;Adobe Campaign Standard
+Cette vidéo vous donne un aperçu des fonctionnalités de rapports d&#39;Adobe Campaign Standard
 
 >[!VIDEO](https://video.tv.adobe.com/v/29461?quality=12)
 
