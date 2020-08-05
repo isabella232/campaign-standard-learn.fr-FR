@@ -63,7 +63,7 @@ L’administrateur doit ajouter l’utilisateur au Profil de produits `Campaign-
 La connexion aux serveurs SFTP requiert :
 
 * [!UICONTROL permet d’indiquer] l’adresse IP à partir de laquelle vous vous connectez au serveur SFTP.
-* Paire de clés privée/publique qui doit être enregistrée avec l&#39;Adobe Campaign
+* Paire de clés privée/publique qui doit être enregistrée avec Adobe Campaign
 * Si vous vous connectez directement au serveur SFTP, vous aurez également besoin du logiciel client SFTP.
 
 ### Documentation utile
