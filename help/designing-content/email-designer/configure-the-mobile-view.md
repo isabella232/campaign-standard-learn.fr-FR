@@ -1,6 +1,6 @@
 ---
 title: Configuration de la vue mobile dans le Concepteur de courriers électroniques
-description: Cette vidéo explique comment affiner la conception réactive d'un courrier électronique dans un Adobe Campaign Standard (ACS) en modifiant séparément toutes les options de style pour l'affichage mobile.
+description: Cette vidéo explique comment affiner la conception réactive d'un courrier électronique dans Adobe Campaign Standard (ACS) en modifiant séparément toutes les options de style pour l'affichage mobile.
 feature: Email Designer
 topics: null
 kt: 2423
