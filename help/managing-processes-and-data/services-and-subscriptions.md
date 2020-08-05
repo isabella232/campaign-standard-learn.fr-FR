@@ -1,6 +1,6 @@
 ---
 title: Gérer les services et les abonnements
-description: L'Adobe Campaign vous permet de créer et de gérer des bulletins d'information et des communications entre canaux, grâce à un ensemble de services. Cette vidéo vous montre comment créer un service et gérer ses abonnements dans Adobe Campaign Standard (ACS).
+description: Adobe Campaign vous permet de créer et de gérer des bulletins d'information et des communications entre canaux, grâce à un ensemble de services. Cette vidéo vous montre comment créer un service et gérer ses abonnements à Adobe Campaign Standard (ACS).
 feature: Subscriptions and Services
 topics: null
 kt: 1815
@@ -18,7 +18,7 @@ ht-degree: 28%
 
 # Manage services and subscriptions{#managing-services-and-subscriptions}
 
-L&#39;Adobe Campaign vous permet de créer et de gérer des bulletins d&#39;information et des communications entre canaux, grâce à un ensemble de services. Les messages ne peuvent être envoyés qu’aux profils qui se sont abonnés au service (inclusion). Ces profils sont identifiés à l&#39;aide d&#39;un filtre dédié lors de la création d&#39;un message.
+Adobe Campaign vous permet de créer et de gérer des bulletins d&#39;information et des communications entre canaux, grâce à un ensemble de services. Les messages ne peuvent être envoyés qu’aux profils qui se sont abonnés au service (inclusion). Ces profils sont identifiés à l&#39;aide d&#39;un filtre dédié lors de la création d&#39;un message.
 
 Des mécanismes d&#39;inscription peuvent être configurés pour offrir à vos clients la possibilité de s&#39;inscrire à ces services, notamment via des emails et des landing pages.
 
