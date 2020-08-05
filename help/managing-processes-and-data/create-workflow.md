@@ -1,6 +1,6 @@
 ---
 title: créer un workflow ;
-description: Cette vidéo vous montre comment créer et modifier un flux de travail dans Adobe Campaign Standard.
+description: Cette vidéo vous montrera comment créer et modifier un processus en Adobe Campaign Standard.
 feature: Workflows
 topics: null
 kt: 1809
@@ -25,7 +25,7 @@ Les workflows peuvent intervenir dans différents contextes, par exemple :
 * Import de données dans la base de Campaign
 * Processus techniques tels que les tâches de nettoyage de la base (cleanup), la récupération des informations de tracking, etc.
 
-Cette vidéo vous montre comment créer et modifier un flux de travail dans Adobe Campaign Standard.
+Cette vidéo vous montrera comment créer et modifier un processus en Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12)
 
