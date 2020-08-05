@@ -19,7 +19,7 @@ ht-degree: 16%
 
 # Décrypter des données
 
-Le Panneau de Contrôle vous permet de déchiffrer des données externes provenant de vos instances d’Adobe Campaign à l’aide d’une paire de clés publique/privée.
+Le Panneau de Contrôle vous permet de déchiffrer des données externes arrivant dans vos instances Adobe Campaign à l’aide d’une paire de clés publique/privée.
 Découvrez comment créer une clé publique et l’importer et l’installer sur une instance Campaign pour le déchiffrement des données entrantes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35753?quality=12)
