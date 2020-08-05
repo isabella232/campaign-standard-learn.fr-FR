@@ -1,6 +1,6 @@
 ---
 title: Configurer les listes de produits dans les courriers électroniques transactionnels
-description: Les vidéos expliquent les étapes nécessaires à la configuration des listes de produits dans les courriers électroniques transactionnels dans les Adobes Campaign Standards (ACS).
+description: Les vidéos expliquent les étapes nécessaires à la configuration des listes de produits dans les courriers électroniques transactionnels en Adobe Campaign Standard (ACS).
 feature: Transactional Emails
 topics: Content Creation
 kt: 1728
