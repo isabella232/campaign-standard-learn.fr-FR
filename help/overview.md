@@ -1,6 +1,6 @@
 ---
-title: Tutorials Adobes Campaign Standards - Présentation
-description: Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l'orchestration visuelle de campagnes, la gestion d'interactions en temps réel et l'exécution cross-canal. Ce guide d'utilisation contient des vidéos et des didacticiels sur les nombreuses fonctionnalités et fonctionnalités de l'Adobe Campaign Standard.
+title: Tutorials Adobe Campaign Standard - Présentation
+description: Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l'orchestration visuelle de campagnes, la gestion d'interactions en temps réel et l'exécution cross-canal. Ce guide d'utilisation contient des vidéos et des didacticiels sur les nombreuses fonctionnalités et fonctionnalités d'Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
@@ -13,7 +13,7 @@ ht-degree: 23%
 
 # Présentation
 
-Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l&#39;orchestration visuelle de campagnes, la gestion d&#39;interactions en temps réel et l&#39;exécution cross-canal. Ce guide d&#39;utilisation contient des vidéos et des didacticiels sur les nombreuses fonctionnalités et fonctionnalités de l&#39;Adobe Campaign Standard.
+Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l&#39;orchestration visuelle de campagnes, la gestion d&#39;interactions en temps réel et l&#39;exécution cross-canal. Ce guide d&#39;utilisation contient des vidéos et des didacticiels sur les nombreuses fonctionnalités et fonctionnalités d&#39;Adobe Campaign Standard.
 
 ## Nouveautés
 
@@ -65,7 +65,7 @@ Adobe Campaign offre une plate-forme pour concevoir des expériences client cro
     </a>
     </div>
     <p>
-    <em>Ce didacticiel vous guide tout au long des étapes nécessaires à l'envoi de notifications Push depuis l'Adobe Campaign et à la réception de ces notifications dans votre application Android. </em>
+    <em>Ce didacticiel vous guide tout au long des étapes nécessaires à l'envoi de notifications Push en provenance d'Adobe Campaign et à la réception de ces notifications dans votre application Android. </em>
     <p>
   </td>
 </tr>
