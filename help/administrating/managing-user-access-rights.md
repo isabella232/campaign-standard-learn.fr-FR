@@ -1,6 +1,6 @@
 ---
 title: Gestion des droits d’accès des utilisateurs
-description: Cette vidéo explique comment définir et gérer les autorisations attribuées aux différents utilisateurs dans l’Adobe Campaign.
+description: Cette vidéo explique comment définir et gérer les autorisations attribuées aux différents utilisateurs en Adobe Campaign.
 feature: User Access Rights
 topics: null
 kt: 1814
@@ -18,7 +18,7 @@ ht-degree: 8%
 
 # Gestion des droits d’accès des utilisateurs
 
-Cette vidéo explique comment définir et gérer les autorisations attribuées aux différents utilisateurs dans l’Adobe Campaign.
+Cette vidéo explique comment définir et gérer les autorisations attribuées aux différents utilisateurs en Adobe Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24671?quality=12)
 
