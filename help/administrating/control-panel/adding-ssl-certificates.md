@@ -1,6 +1,6 @@
 ---
 title: Ajouter des certificats SSL
-description: Le Panneau de Contrôle d’Adobe Campaign vous permet d’ajouter des certificats SSL pour sécuriser vos sous-domaines.
+description: Adobe Campaign Panneau de Contrôle vous permet d’ajouter des certificats SSL pour sécuriser vos sous-domaines.
 feature: Control Panel
 topics: null
 kt: 4219
@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Ajouter des certificats SSL
 
-[!UICONTROL Le Panneau de Contrôle] d’Adobe Campaign vous permet d’ajouter des certificats SSL pour sécuriser vos sous-domaines.
+[!UICONTROL Le Panneau de Contrôle] Adobe Campaign vous permet d’ajouter des certificats SSL pour sécuriser vos sous-domaines.
 
 ## Accès à la gestion des sous-domaines de [!UICONTROL Panneau de Contrôle]
 
