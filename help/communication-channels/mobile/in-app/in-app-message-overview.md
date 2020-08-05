@@ -1,6 +1,6 @@
 ---
 title: Présentation des messages intégrés
-description: Le canal de messagerie in-app (ACS) de l’Adobe Campaign Standard vous permet de présenter à l’utilisateur des messages in-app contextuellement pertinents en réponse au comportement en temps réel d’un client au sein de l’application mobile.
+description: Le canal de messagerie in-app Adobe Campaign Standard (ACS) vous permet de présenter à l’utilisateur des messages in-app contextuellement pertinents en réponse au comportement en temps réel d’un client dans l’application mobile.
 feature: In-App
 topics: Mobile
 kt: 1911
@@ -20,7 +20,7 @@ ht-degree: 14%
 
 The [!UICONTROL In-App Messaging] channel allows you to display a message when the user is active within the mobile application. This channel requires mobile applications to be integrated with [!UICONTROL Adobe Experience Platform SDK].
 
-Ce didacticiel explique les étapes requises pour configurer les propriétés des dispositifs portables, l&#39;extension [!UICONTROL Lancement] du canal de messagerie  in-app, ainsi que la manière de préparer, de personnaliser et d&#39;envoyer des messages [!UICONTROL in-app] en Adobe Campaign Standard. Les liens vous conduiront aux didacticiels vidéo sur chacune des rubriques mises en évidence.
+Ce didacticiel explique les étapes requises pour configurer les propriétés des dispositifs portables, l&#39;extension [!UICONTROL Launch] pour le canal de messagerie  in-app, ainsi que la préparation, la personnalisation et l&#39;envoi de messages [!UICONTROL in-app] dans Adobe Campaign Standard. Les liens vous conduiront aux didacticiels vidéo sur chacune des rubriques mises en évidence.
 
 ## Prérequis {#prerequisites}
 
@@ -53,15 +53,15 @@ Lors de la configuration de la diffusion, vous disposez de trois options pour ci
 
 1. [**Diffusez un message **](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md)intégré à l’application pour cible tous les utilisateurs d’une application mobile.
 
-   Ce type de message vous permet d&#39;envoyer des messages à tous les utilisateurs (actuels ou futurs) de votre application mobile, même s&#39;ils ne disposent pas d&#39;un profil existant dans l&#39;Adobe Campaign. La personnalisation n’est donc pas possible lorsque les messages sont personnalisés, car le profil utilisateur n’existe pas nécessairement dans l’Adobe Campaign.
+   Ce type de message vous permet d&#39;envoyer des messages à tous les utilisateurs (actuels ou futurs) de votre application mobile, même s&#39;ils n&#39;ont pas de profil existant dans Adobe Campaign. La personnalisation n’est donc pas possible lorsque vous personnalisez les messages, car le profil utilisateur n’existe pas nécessairement dans Adobe Campaign.
 
 1. Cible tous les utilisateurs en fonction de leur profil d’application mobile.
 
-   Ce type de message vous permet de cible à tous les utilisateurs connus ou anonymes d’une application mobile disposant d’un profil mobile dans l’Adobe Campaign. Ce type de message peut être personnalisé à l&#39;aide d&#39;attributs qui ne sont pas personnels ni sensibles. Il n&#39;est pas nécessaire d&#39;établir une liaison sécurisée entre le SDK Mobile et le service de messagerie In-App d&#39;Adobe Campaign. Donc, la stratégie de personnalisation est basée sur ce que vous avez appris sur les utilisateurs à partir de leur interaction avec l&#39;appareil. Par exemple, cible de tous les utilisateurs qui ont lancé leur application plus de 5 fois au cours de la semaine écoulée.
+   Ce type de message vous permet de cible à tous les utilisateurs connus ou anonymes d’une application mobile disposant d’un profil mobile dans Adobe Campaign. Ce type de message peut être personnalisé à l&#39;aide d&#39;attributs qui ne sont pas personnels ni sensibles. Il n&#39;est pas nécessaire d&#39;établir une liaison sécurisée entre le SDK Mobile et le service de messagerie In-App d&#39;Adobe Campaign. Donc, la stratégie de personnalisation est basée sur ce que vous avez appris sur les utilisateurs à partir de leur interaction avec l&#39;appareil. Par exemple, cible de tous les utilisateurs qui ont lancé leur application plus de 5 fois au cours de la semaine écoulée.
 
 1. [**Cibler les utilisateurs en fonction de leur profil Campaign **](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md).
 
-   Ce type de message vous permet d’cible des profils d’Adobe Campaign (profils CRM) qui se sont abonnés à votre application mobile. Le message peut être personnalisé avec tous les attributs de profil disponibles dans l’Adobe Campaign, mais nécessite une poignée de main sécurisée entre Mobile SDK et Campaign In-App Messaging Service pour s’assurer que les messages contenant des informations personnelles et sensibles ne sont utilisés que par les utilisateurs autorisés.
+   Ce type de message vous permet d’cible des profils Adobe Campaign (profils CRM) qui se sont abonnés à votre application mobile. Le message peut être personnalisé avec tous les attributs de profil disponibles dans Adobe Campaign, mais nécessite une poignée de main sécurisée entre Mobile SDK et Campaign In-App Messaging Service pour s’assurer que les messages contenant des informations personnelles et sensibles sont utilisés uniquement par les utilisateurs autorisés.
 
 Ce modèle est utile pour prendre en charge les cas d’utilisation d’orchestration sur plusieurs canaux, où vous avez déjà ciblé les utilisateurs sur d’autres canaux tels que Courrier électronique ou Push et où, en fonction de leur réponse, vous souhaitez les impliquer avec un message in-app.
 
