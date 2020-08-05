@@ -1,6 +1,6 @@
 ---
 title: Présentation fonctionnelle
-description: Cette vidéo présente un aperçu de la fonctionnalité d'Adobe Campaign Standard (ACS).
+description: Cette vidéo présente un aperçu de la fonctionnalité Adobe Campaign Standard (ACS).
 feature: Profiles and Audiences
 topics: Getting Started
 kt: 3971
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Présentation fonctionnelle
 
-Cette vidéo présente un aperçu de la fonctionnalité d’Adobe Campaign Standard.
+Cette vidéo présente un aperçu de la fonctionnalité Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29430?quality=12)
