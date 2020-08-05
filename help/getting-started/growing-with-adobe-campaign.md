@@ -1,5 +1,5 @@
 ---
-title: Grandir avec Adobe Campaign
+title: Croissance avec Adobe Campaign
 description: Cette vidéo présente les prochaines étapes potentielles d'une véritable orchestration entre canaux.
 feature: null
 topics: null
@@ -16,7 +16,7 @@ ht-degree: 0%
 ---
 
 
-# Grandir avec Adobe Campaign
+# Croissance avec Adobe Campaign
 
 Cette vidéo présente les prochaines étapes potentielles d&#39;une véritable orchestration entre canaux.
 
