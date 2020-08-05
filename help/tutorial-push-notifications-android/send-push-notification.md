@@ -20,7 +20,7 @@ ht-degree: 2%
 
 Nous devons maintenant créer et envoyer une notification  Push à l&#39;aide d&#39;Adobe Campaign. . Pour créer une notification Push simple à des fins de test, procédez comme suit.
 
-* Connexion à votre instance d&#39;Adobe Campaign Standard
+* Connexion à votre instance Adobe Campaign Standard
 * Cliquez sur Activités **marketing ->[!UICONTROL Créer]->Notification[!UICONTROL Push]**
 * Sélectionnez **[!UICONTROL Envoyer une notification Push aux abonnés de l’application (mobileApp)]** et cliquez sur Suivant.
 * Sélectionnez l’application mobile appropriée dans la liste déroulante **[!UICONTROL Associer une application mobile à une diffusion]** et cliquez sur **[!UICONTROL Suivant.]**
