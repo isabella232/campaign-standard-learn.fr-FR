@@ -1,6 +1,6 @@
 ---
-title: Configuration d’une application mobile à l’aide d’un Adobe Experience Platform SDK
-description: Pour envoyer des messages in-app ou des notifications Push avec une application SDK Experience Cloud, une application mobile doit être configurée dans Adobe Experience Platform Launch et configurée dans l’Adobe Campaign.
+title: Configuration d’une application mobile à l’aide du SDK Adobe Experience Platform
+description: Pour envoyer des messages in-app ou des notifications Push avec une application SDK Experience Cloud, une application mobile doit être configurée dans Adobe Experience Platform Launch et configurée dans Adobe Campaign.
 feature: Mobile SDK V5
 topics: Mobile
 kt: 2501
@@ -18,7 +18,7 @@ ht-degree: 12%
 
 # Configure a mobile application using [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
 
-Pour envoyer des messages In-App ou des notifications  Push à l’aide du kit Mobile SDK V5, l’application mobile doit être configurée en [!UICONTROL Adobe Experience Platform Launch] et configurée en Adobe Campaign.
+Pour envoyer des messages In-App ou des notifications  Push à l’aide du kit Mobile SDK V5, l’application mobile doit être configurée en [!UICONTROL Adobe Experience Platform Launch] et configurée dans Adobe Campaign.
 
 Les vidéos ci-dessous montrent les étapes requises pour configurer une application mobile dans l’Experience Platform Launch :
 
@@ -31,4 +31,4 @@ Les vidéos ci-dessous montrent les étapes requises pour configurer une applica
 ## Autres ressources
 
 * [Configuration d’une propriété mobile (documentation sur le lancement d’Adobe)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Configuration d’une application mobile à l’aide de SDK d’Adobe Experience Platform (documentation)](https://helpx.adobe.com/fr/campaign/kb/configuring-app-sdk.html)
+* [Configuration d’une application mobile à l’aide de Adobe Experience Platform SDK (documentation)](https://helpx.adobe.com/fr/campaign/kb/configuring-app-sdk.html)
