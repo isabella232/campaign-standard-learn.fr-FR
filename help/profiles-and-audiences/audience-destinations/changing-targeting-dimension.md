@@ -1,6 +1,6 @@
 ---
 title: Modifier la dimension de ciblage
-description: Cette vidéo explique comment modifier la dimension de ciblage d'une diffusion pour une Audience Platform en dehors de la table de profil principale dans Adobe Campaign Standard.
+description: Cette vidéo explique comment modifier la dimension de ciblage d'une diffusion pour une Audience de plateforme en dehors de la Principale table de profil à Adobe Campaign Standard.
 feature: Audience Destinations
 topics: ACOP
 kt: 3739
@@ -16,15 +16,15 @@ ht-degree: 10%
 ---
 
 
-# Modification de l’Audience [!UICONTROL Platform de la dimension de ciblage]
+# Modification de l’Audience de la [!UICONTROL plateforme de dimension de ciblage]
 
 >[!NOTE]
 >
->Cette fonctionnalité est actuellement en version bêta et fait l&#39;objet de mises à jour fréquentes et de modifications sans préavis. [!UICONTROL Les destinations] d’Audience sont basées sur l’Adobe Experience Platform et nécessitent une configuration spécifique.
+>Cette fonctionnalité est actuellement en version bêta et fait l&#39;objet de mises à jour fréquentes et de modifications sans préavis. [!UICONTROL Les destinations] d’Audience sont basées sur Adobe Experience Platform et nécessitent une configuration spécifique.
 >
 >Si vous prévoyez de mettre en oeuvre cette fonctionnalité, contactez le service [!UICONTROL d&#39;assistance clientèle] Adobe.
 
-Cette vidéo explique comment modifier la dimension de ciblage d&#39;une diffusion pour une Audience [!UICONTROL de] Platform en dehors de la table de profil principale de l&#39;Adobe Campaign Standard.
+Cette vidéo explique comment modifier la dimension de ciblage d&#39;une diffusion pour une Audience [!UICONTROL de] plateforme en dehors de la Principale table profil de Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
@@ -39,4 +39,4 @@ Documentation:
 Ressources vidéo :
 
 * [Création d’une audience à l’aide du créateur de segments unifié](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Activation des audiences d’Adobe Experience Platform dans un processus marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+* [Activation des audiences Adobe Experience Platform dans un processus marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
