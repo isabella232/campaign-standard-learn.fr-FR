@@ -18,7 +18,7 @@ ht-degree: 2%
 
 # Create a SMS delivery{#creating-a-sms-delivery}
 
-Cette vidéo explique comment créer une diffusion SMS en Adobe Campaign Standard. Vous pouvez également configurer l&#39;envoi de SMS dans un processus à l&#39;aide de l&#39;activité de diffusion SMS.
+Cette vidéo explique comment créer une diffusion SMS à Adobe Campaign Standard. Vous pouvez également configurer l&#39;envoi de SMS dans un processus à l&#39;aide de l&#39;activité de diffusion SMS.
 
 L&#39;activité d&#39;diffusion SMS est généralement utilisée pour automatiser l&#39;envoi de SMS. La configuration de cette activité est identique à celle de la diffusion unique décrite dans la vidéo.
 
