@@ -26,7 +26,7 @@ Cette vidéo explique comment récupérer rapidement votre contenu créatif sur 
 
 ## Rendre le contenu HTML existant compatible {#making-existing-html-content-compatible}
 
-Le concepteur de courrier électronique requiert un balisage spécifique, qui doit être appliqué pour que les contenus HTML standard soient téléchargés vers l’Adobe Campaign entièrement compatibles et modifiables.
+Le concepteur de courrier électronique requiert un balisage spécifique, qui doit être appliqué pour rendre le contenu HTML standard téléchargé vers Adobe Campaign entièrement compatible et modifiable.
 
 Vous trouverez la documentation détaillée sous le lien suivant :
 
