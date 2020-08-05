@@ -1,6 +1,6 @@
 ---
 title: 'Prise en main de l’interface utilisateur '
-description: Cette vidéo présente un aperçu de l’interface utilisateur de l’Adobe Campaign Standard ainsi que les principales fonctionnalités et fonctionnalités.
+description: Cette vidéo présente un aperçu de l’interface utilisateur Adobe Campaign Standard ainsi que les principales fonctionnalités et fonctionnalités.
 feature: User Interface
 topics: Getting started
 kt: 3882
@@ -19,7 +19,7 @@ ht-degree: 20%
 
 # Prise en main de l’interface utilisateur
 
-Cette vidéo présente un aperçu de l’interface utilisateur de l’Adobe Campaign Standard et explique comment accéder aux fonctionnalités clés et principales.
+Cette vidéo présente un aperçu de l’interface utilisateur Adobe Campaign Standard et explique comment accéder aux fonctionnalités clés et principales.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18469?quality=12)
 
