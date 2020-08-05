@@ -18,7 +18,7 @@ ht-degree: 2%
 
 # Vérification d’une diffusion de messagerie et de rapports
 
-Cette vidéo explique comment passer en revue une diffusion de messagerie personnalisée et explore différents rapports disponibles dans l’Adobe Campaign Standard.
+Cette vidéo explique comment passer en revue une diffusion de messagerie personnalisée et explore différents rapports disponibles dans Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21389?quality=12)
 
