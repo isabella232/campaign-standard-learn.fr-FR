@@ -88,13 +88,13 @@ C&#39;est le bon moment pour tester votre application, avant d&#39;aller plus lo
 
 * Exécutez votre application en cliquant sur la flèche verte ou sélectionnez **[!DNL Run->Run'app']**.
 * L’ [!DNL Android] émulateur doit être début et votre application doit s’exécuter avec [!DNL "Hello World" ]du texte.
-* Ouvrez la [!DNL logcat] fenêtre. Recherchez &quot;[!DNL Got]&quot;. Vous devriez voir le jeton qui a été reçu de [!DNL Firebase] écrit dans le journal comme illustré ci-dessous. La longue chaîne après &quot;[!DNL Got token]&quot; est celle [!DNL pushidentifier ]qui est envoyée à l’Adobe Campaign.
+* Ouvrez la [!DNL logcat] fenêtre. Recherchez &quot;[!DNL Got]&quot;. Vous devriez voir le jeton qui a été reçu de [!DNL Firebase] écrit dans le journal comme illustré ci-dessous. La longue chaîne après &quot;[!DNL Got token]&quot; est celle [!DNL pushidentifier ]qui est envoyée à Adobe Campaign.
 
 ![logcat-token](assets/logcat-got-token.PNG)
 
 ### Vérifier les abonnés aux applications mobiles
 
-Connectez-vous à votre instance d’Adobe Campaign Standard.
+Connectez-vous à votre instance Adobe Campaign Standard.
 Accédez à **[!UICONTROL Administration->Canaux->Application mobile(SDK AEP)]**. Ouvrez l’application mobile appropriée. Accédez à l’onglet Abonnés [!UICONTROL aux applications] mobiles. Un jeton [!UICONTROL d’enregistrement doit s’afficher ]dans la liste.
 
 ![abonnés-applications-mobiles](assets/mobile-application-subscribers.PNG)
