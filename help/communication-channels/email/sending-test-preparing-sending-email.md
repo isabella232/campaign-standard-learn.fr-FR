@@ -1,6 +1,6 @@
 ---
 title: Envoyer un test, préparer et envoyer un courriel
-description: 'Cette vidéo explique comment envoyer un e-mail de test, préparer puis envoyer une diffusion de messagerie dans Adobe Campaign Standard (ACS). '
+description: 'Cette vidéo explique comment envoyer un e-mail de test, préparer puis envoyer une diffusion de messagerie à Adobe Campaign Standard (ACS). '
 feature: Email
 topics: null
 kt: 1812
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 # Envoyer un test, préparer et envoyer un courrier électronique
 
-Cette vidéo explique comment envoyer un e-mail de test, préparer puis envoyer une diffusion de messagerie dans Adobe Campaign Standard (ACS).
+Cette vidéo explique comment envoyer un e-mail de test, préparer puis envoyer une diffusion de messagerie à Adobe Campaign Standard (ACS).
 
 >[!VIDEO](https://video.tv.adobe.com/v/24013/)
 
