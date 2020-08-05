@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Tutorials Adobes Campaign Standards
+user-guide-title: Tutorials Adobe Campaign Standard
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -32,7 +32,7 @@ ht-degree: 16%
    + [créer un workflow ;](/help/managing-processes-and-data/create-workflow.md)
    + [Introduction au rapports](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Marketing mobile avec Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
-   + [Agrandir avec Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
+   + [Développer avec Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 + Profils et audiences {#profiles-and-audiences}
    + [Création de profils et d’audiences - Présentation](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Création d’un profil](/help/profiles-and-audiences/creating-a-profile.md)
@@ -42,7 +42,7 @@ ht-degree: 16%
    + Audience Destinations (BETA){#audience-destinations}
       + [Présentation](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [Création d’une audience à l’aide du créateur de segments unifié](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [Activation d’audiences d’Adobe Experience Platform dans un processus](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + [Activation des audiences Adobe Experience Platform dans un processus](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [Modifier la dimension de ciblage](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Canaux de communication {#communication-channels}
    + Email {#email}
@@ -70,7 +70,7 @@ ht-degree: 16%
          + [Cibler les utilisateurs en fonction de leur profil Campaign](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
          + [Création d’une diffusion intégrée dans un processus](/help/communication-channels/mobile/in-app/in-app-activity.md)
          + [Création de rapports sur votre diffusion intégrée](/help/communication-channels/mobile/in-app/in-app-reporting.md)
-      + [Configuration d’une application mobile à l’aide d’un Adobe Experience Platform SDK](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
+      + [Configuration d’une application mobile à l’aide du SDK Adobe Experience Platform](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
    + [Canal Courrier](/help/communication-channels/direct-mail/directmail.md)
    + Landing pages {#landing-pages}
       + [Création et modification d’un landing page](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
@@ -117,8 +117,8 @@ ht-degree: 16%
          + [Utilisation d’une clé GPG pour chiffrer des données](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
          + [Décrypter des données](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
       + [Fusillade problématique](/help/administrating/control-panel/trouble-shooting.md)
-   + Connecteur de données d’Adobe Experience Platform {adobe-experience-platform-data-connector}
-      + [Présentation du connecteur de données d&#39;Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+   + Connecteur de données Adobe Experience Platform {adobe-experience-platform-data-connector}
+      + [Présentation du connecteur de données Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mappage de ressources personnalisées](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [Mappage des Événements d’expérience](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Mappage des données de table de départ](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
@@ -133,5 +133,5 @@ ht-degree: 16%
    + [Modification des ressources personnalisées pour les demandes de confidentialité](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Création et suivi manuels des demandes de confidentialité](/help/privacy/create-and-track-privacy-requests.md)
    + [Exécution de demandes de confidentialité](/help/privacy/execute-privacy-requests.md)
-+ [Guide des meilleures pratiques en matière de délivrabilité des Adobes Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
++ [Guide des meilleures pratiques en matière de délivrabilité Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
 
