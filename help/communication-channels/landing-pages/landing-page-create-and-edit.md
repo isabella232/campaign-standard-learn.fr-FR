@@ -1,6 +1,6 @@
 ---
 title: Création et modification d’un landing page
-description: L'Adobe Campaign est fourni avec des landings page qui sont des formulaires en ligne qui peuvent être utilisés pour capturer des informations sur vos audiences, les abonnements d'offre à un service, afficher des données et développer votre base de données. Les landing pages peuvent également être utilisées pour acquérir ou mettre à jour des profils existants. Ces vidéos expliquent comment créer, modifier et tester des landings page dans l’Adobe Campaign Standard.
+description: Adobe Campaign est fourni avec des landings page qui sont des formulaires en ligne qui peuvent être utilisés pour capturer des informations sur vos audiences, les abonnements d'offre à un service, afficher des données et développer votre base de données. Les landing pages peuvent également être utilisées pour acquérir ou mettre à jour des profils existants. Ces vidéos expliquent comment créer, modifier et tester des landings page dans Adobe Campaign Standard.
 feature: Landing Pages
 topics: null
 kt: 1808
