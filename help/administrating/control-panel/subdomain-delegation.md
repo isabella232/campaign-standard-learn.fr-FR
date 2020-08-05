@@ -1,6 +1,6 @@
 ---
 title: Délégation de sous-domaines
-description: Le Panneau de Contrôle d’Adobe Campaign vous permet de déléguer entièrement un sous-domaine à l’Adobe Campaign. Pour ce faire, suivez les étapes ci-après.
+description: Adobe Campaign Panneau de Contrôle vous permet de déléguer entièrement un sous-domaine à Adobe Campaign. Pour ce faire, suivez les étapes ci-après.
 feature: Control Panel
 topics: null
 kt: 4115
