@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Ouvrez votre projet en [!DNL Android ]studio. Supprimez l&#39;intégralité du c
 
 Collez le code suivant dans [!DNL MainActivity]:
 
-```java{.line-numbers}
+```java
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -100,5 +100,4 @@ Accédez à **[!UICONTROL Administration->Canaux->Application mobile(SDK AEP)]**
 ![abonnés-applications-mobiles](assets/mobile-application-subscribers.PNG)
 
 >[REMARQUE]
->
 >Si vous ne voyez pas de jeton d’enregistrement dans l’onglet Abonnés [!UICONTROL d’applications] mobiles, ARRÊTEZ ici avant de poursuivre.
