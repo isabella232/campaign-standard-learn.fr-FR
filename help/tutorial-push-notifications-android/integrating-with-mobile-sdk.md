@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Dans cette partie, nous allons intégrer l’ [!DNL Android] application à [!UI
 
 * Développez le [!DNL Gradle Scripts] dossier. Doublon cliquez sur le [!DNL build.gradle] du module. Collez les dépendances suivantes dans la section des dépendances du [!DNL build.gradle] fichier. Votre [!DNL build.gradle] fichier doit maintenant ressembler à celui-ci ci-dessous.
 
-```java{.line-numbers}
+```java
 implementation 'com.adobe.marketing.mobile:campaign:1.+'
 implementation 'com.adobe.marketing.mobile:userprofile:1.+'
 implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
@@ -41,14 +41,14 @@ implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 
 Ouvrez *AndroidManifest.xml* et collez les 2 lignes suivantes après l’élément manifest et avant l’élément d’application. Cela permet à votre application de communiquer avec un monde extérieur
 
-```xml{.line-numbers}
+```xml
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
 
 Copiez la ligne suivante dans l’élément[!DNL android:name=".MainApp"]de l’application Enregistrez votre [!DNL AndroidManifest.xml]image [!DNL AndroidManifest.xml] de base.
 
-```xml{.line-numbers}
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.acspushtutorial">
