@@ -5,7 +5,7 @@ products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '280'
 ht-degree: 100%
 
 ---
@@ -24,10 +24,6 @@ Adobe Campaign offre une plate-forme pour concevoir des expériences client cro
 * **[Activité API externe](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
    *Découvrez comment configurer et exécuter un workflow avec l’activité API externe.*
-
-* **[Substitution de profil - Test des emails à l’aide des profils ciblés](/help/communication-channels/email/profile-substitution.md)**
-
-   *Découvrez comment envoyer un BAT pour révision avec la représentation exacte du message que le profil recevra.*
 
 ## Suggestions du personnel
 
