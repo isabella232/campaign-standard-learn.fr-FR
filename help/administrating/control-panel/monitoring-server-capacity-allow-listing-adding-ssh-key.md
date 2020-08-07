@@ -1,6 +1,6 @@
 ---
-title: Surveillance de la capacité du serveur, autorisation de la liste des adresses IP et ajout de clés SSH
-description: Le Panneau de Contrôle vous permet de surveiller et de gérer votre enregistrement SFTP par instance et d’ajouter des adresses IP aux listes autorisées.
+title: Surveillance de la capacité du serveur, ajout d’adresses IP aux listes autorisées et ajout de clés SSH
+description: Le panneau de contrôle permet de surveiller et de gérer votre espace de stockage SFTP par instance et d’ajouter des adresses IP aux listes autorisées.
 feature: Control Panel
 topics: null
 kt: 3266
@@ -11,45 +11,45 @@ translation-type: tm+mt
 source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# Surveillance de la capacité du serveur, [!UICONTROL autorisation de la liste] des adresses IP et ajout de clés SSH
+# Surveillance de la capacité du serveur, [!UICONTROL ajout d’adresses IP aux listes autorisées] et ajout de clés SSH
 
-Le Panneau de Contrôle vous permet de surveiller et de gérer votre enregistrement SFTP par instance et d’ajouter [!UICONTROL autoriser la]liste des adresses IP.
+Le panneau de contrôle permet de surveiller et de gérer votre espace de stockage SFTP par instance et d’ajouter des adresses IP aux [!UICONTROL listes autorisées].
 
-## Accès à la gestion des sous-domaines de [!UICONTROL Panneau de Contrôle]
+## Accès à la gestion des sous-domaines du [!UICONTROL panneau de contrôle]
 
-Pour accéder à la gestion des sous-domaines dans [!UICONTROL Panneau de Contrôle], accédez à :
+Pour accéder à la gestion des sous-domaines du [!UICONTROL panneau de contrôle], rendez-vous sur :
 
-* [Accueil](https://experience.adobe.com/#/home) de l&#39;Experience Cloud > Sélecteur [!UICONTROL de]solution : [!UICONTROL Campaign] > Carte de **[!UICONTROL Panneau de Contrôle]** > **[!UICONTROL Sous-domaines et certificats]** > Carte
+* [Page d’accueil d’Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Sélecteur de solution] : [!UICONTROL Campaign] > carte **[!UICONTROL Panneau de contrôle]** > carte **[!UICONTROL Sous-domaines et certificats]**
 
    ou
-* Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
+* Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## Surveiller la capacité du serveur, les adresses IP des [!UICONTROL listes autorisées] et ajouter des clés SSH
+## Surveiller la capacité du serveur, ajouter des adresses IP aux [!UICONTROL listes autorisées] et ajouter des clés SSH
 
-Cette vidéo explique comment accéder au Panneau de Contrôle Adobe Campaign, surveiller l&#39;enregistrement des serveurs SFTP, [!UICONTROL liste autorisée] une adresse IP et ajouter une clé SSH.
+Cette vidéo explique comment accéder au [!UICONTROL panneau de contrôle Adobe Campaign], surveiller le stockage des serveurs SFTP, ajouter une adresse IP à une [!UICONTROL liste autorisée] et ajouter une clé SSH.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
 
 ### Descriptions de l’interface
 
-**Instances :** Seules les instances pour lesquelles vous disposez des droits d’administrateur sont répertoriées.
+**Instances :** seules les instances pour lesquelles vous disposez des droits d’administrateur sont répertoriées.
 
-**Journaux des tâches :** Seules les tâches qui ont été exécutées dans le [!UICONTROL Panneau de Contrôle] sont répertoriées. Les tâches exécutées en dehors du [!UICONTROL Panneau de Contrôle] ne sont pas incluses (par exemple, les workflows exécutés, etc.)
+**Logs de traitement :** seuls les traitements qui ont été exécutés dans le [!UICONTROL panneau de contrôle] sont répertoriés. Les traitements exécutés en dehors du [!UICONTROL panneau de contrôle] ne sont pas inclus (par exemple, les workflows en cours d’exécution, etc.).
 
-Les journaux incluent uniquement les tâches exécutées par les administrateurs de votre organisation. S&#39;il y a plusieurs organisations, les journaux des autres organisations ne s&#39;afficheront pas dans les journaux des tâches.
+Les logs comprennent uniquement les traitements exécutés par les administrateurs de votre organisation. S’il existe plusieurs organisations, les logs des autres organisations ne s’afficheront pas dans les logs de traitement.
 
-**Onglet Enregistrement :** L&#39;en-tête affiche les trois serveurs les plus utilisés, si vous avez plus de 3 serveurs, vous pouvez voir le reste dans l&#39;onglet [!UICONTROL Enregistrement] .
+**Onglet Stockage :** l’en-tête affiche les trois serveurs les plus utilisés. Si vous avez plus de 3 serveurs, vous pouvez voir les autres dans l’onglet [!UICONTROL Stockage].
 
-**Warning message:**
+**Message d’avertissement :**
 
-* Orange - le serveur est utilisé à 80 %
-* Rouge - le serveur est utilisé à 90 %
+* Orange - le serveur est utilisé à 80 %
+* Rouge - le serveur est utilisé à 90 %
 
-## Autres ressources
+## Ressources supplémentaires
 
-* [Génération d&#39;une clé SSH](/help/administrating/control-panel/generate-ssh-key.md)
+* [Génération d’une clé SSH](/help/administrating/control-panel/generate-ssh-key.md)
