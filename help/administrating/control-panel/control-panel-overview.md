@@ -1,6 +1,6 @@
 ---
 title: Panneau de contrôle
-description: Le Panneau de Contrôle vous permet de surveiller et de gérer votre enregistrement SFTP par instance et par liste autorisée d’adresses IP.
+description: Le panneau de contrôle permet de surveiller et de gérer votre espace de stockage SFTP par instance et d’ajouter des adresses IP aux listes autorisées.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
 workflow-type: tm+mt
 source-wordcount: '417'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
@@ -20,77 +20,77 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->Les termes &quot;[!UICONTROL liste autorisée]&quot; et &quot;[!UICONTROL liste bloquée]&quot; ont été remplacés par les termes &quot;[!UICONTROL liste autorisée]&quot; et &quot;[!UICONTROL liste bloquée&quot; dans la documentation Adobe Campaign. ] Certaines occurrences de ces termes peuvent toujours exister dans l’interface utilisateur du produit, les noms d’option, le code interne, ainsi que dans les vidéos du didacticiel. Ils seront remplacés dans les prochaines versions du Panneau de Contrôle.
+>Les termes « [!UICONTROL whiteliste] » et « [!UICONTROL blackliste] » ont été remplacés par les termes « [!UICONTROL liste autorisée] » et « [!UICONTROL liste bloquée » dans la documentation Adobe Campaign. ] Certaines occurrences de ces termes peuvent toujours apparaître dans l’interface utilisateur du produit, les noms d’option, le code interne, ainsi que dans les tutoriels vidéos. Elles seront remplacées dans les prochaines versions du panneau de contrôle.
 
-Le [!UICONTROL Panneau de Contrôle] permet aux administrateurs de Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, telles que la gestion de l’enregistrement SFTP par instance ou les adresses IP de [!UICONTROL liste autorisée] .
+Le [!UICONTROL panneau de contrôle] permet aux administrateurs d’Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, telles que la gestion de l’espace de stockage SFTP par instance ou l’[!UICONTROL ajout d’adresses IP aux listes autorisées].
 
-## Accessing [!UICONTROL Control Panel]
+## Accès au [!UICONTROL panneau de contrôle]
 
-Pour accéder au Panneau de Contrôle, accédez à Accueil Experience Cloud : [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Pour accéder au panneau de contrôle, rendez-vous sur la page d’accueil d’Experience Cloud : [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com) :
 
-* **[!UICONTROL Accueil]** Experience Cloud > Accès **[!UICONTROL rapide]**
-
-   ou
-* **[!UICONTROL Accueil]** de l&#39;Experience Cloud > Sélecteur [!UICONTROL de]solution : **Campaign** > Carte **[!UICONTROL Panneau de Contrôle]**
+* **[!UICONTROL Page d’accueil d’Experience Cloud]** > **[!UICONTROL Accès rapide]**
 
    ou
+* **[!UICONTROL Page d’accueil d’Experience Cloud]** > [!UICONTROL Sélecteur de solution] : **Campaign** > carte **[!UICONTROL Panneau de contrôle]**
 
-* Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
+   ou
+
+* Directement à partir de l’URL : [ https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
 
 ## Prérequis
 
-Avant de commencer, remplissez les conditions préalables suivantes :
+Avant de commencer, effectuez les tâches prérequises suivantes :
 
 ### Confirmer [!DNL IMS Org ID]
 
-Tu as besoin de connaître ton [!DNL IMS org ID]. La vidéo suivante décrit où vous pouvez rechercher votre instance [!DNL IMS org ID].
+Vous devez connaître votre [!DNL IMS org ID]. La vidéo ci-dessous décrit où vous pouvez trouver le [!DNL IMS org ID] de votre instance.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Vérification[!DNL IMS Org ID](00:26 min)*
+*Vérifier[!DNL IMS Org ID](00:26 min)*
 
 ### Droits d’administrateur
 
-Les droits d’administrateur sont requis pour accéder au [!UICONTROL Panneau de Contrôle].
-La vidéo suivante explique comment ajouter un administrateur à une instance Campaign.
+Les droits d’administrateur sont requis pour accéder au [!UICONTROL panneau de contrôle].
+La vidéo ci-dessous explique comment ajouter un administrateur à une instance Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Comment ajouter un administrateur au profil produit &quot;[!UICONTROL Administrateurs]&quot; pour pouvoir utiliser le[!UICONTROL Panneau de Contrôle](01:03 min)*
+*Comment ajouter un administrateur au profil de produit « [!UICONTROL Administrateurs] » pour pouvoir utiliser le[!UICONTROL panneau de contrôle](01:03 min)*
 
-## Tutorials Panneaux de Contrôle
+## Tutoriels sur le panneau de contrôle
 
 * **Gestion des serveurs SFTP**
 
-   *Découvrez comment surveiller la capacité du serveur, les adresses IP de liste autorisée et ajouter des clés SSH :*
+   *Découvrez comment surveiller la capacité du serveur, ajouter des adresses IP aux listes autorisées et ajouter des clés SSH :*
 
-   * [Surveillance de la capacité du serveur, autorisation de la liste des adresses IP et ajout de clés SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-   * [Génération d&#39;une clé SSH](/help/administrating/control-panel/generate-ssh-key.md)
+   * [Surveillance de la capacité du serveur, ajout d’adresses IP aux listes autorisées et ajout de clés SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+   * [Génération d’une clé SSH](/help/administrating/control-panel/generate-ssh-key.md)
    * [Connexion à un serveur SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
 * **[Délégation de sous-domaines](/help/administrating/control-panel/subdomain-delegation.md)**
 
-   *Découvrez comment déléguer complètement un sous-domaine à Adobe Campaign*
-* **[Ajouter des certificats SSL](/help/administrating/control-panel/adding-ssl-certificates.md)**
+   *Découvrez comment déléguer entièrement un sous-domaine à Adobe Campaign*
+* **[Ajout de certificats SSL](/help/administrating/control-panel/adding-ssl-certificates.md)**
 
    *Découvrez comment ajouter des certificats SSL pour sécuriser vos sous-domaines.*
 * **[Gestion des certificats SSL](/help/administrating/control-panel/managing-ssl-certificates.md)**
 
-   *Découvrez comment vous pouvez vue l’état des certificats SSL de vos sous-domaines, ainsi que demander des renouvellements.*
+   *Découvrez comment consulter le statut des certificats SSL de vos sous-domaines et demander des renouvellements.*
 * **[Gestion des enregistrements TXT Google](/help/administrating/control-panel/google-txt-record-management.md)**
 
-   *Découvrez comment ajouter un enregistrement de vérification de site Google TXT à tous les sous-domaines utilisés pour envoyer des courriers électroniques aux adresses GMAIL via le Panneau de Contrôle Campaign.*
+   *Découvrez comment ajouter des enregistrements de vérification de site TXT Google aux sous-domaines utilisés pour envoyer des emails aux adresses GMAIL grâce au panneau de contrôle.*
 
 * **Gestion des clés GPG**
 
-   *Découvrez comment générer et installer une paire de clés publique/privée sur une instance Campaign spécifique pour le chiffrement des données sortantes, ainsi que importer et installer une clé publique sur une instance Campaign pour le déchiffrement des données entrantes :*
+   *Découvrez comment générer et installer une paire de clés publique/privée sur une instance Campaign spécifiée pour le cryptage des données sortantes. Apprenez aussi comment importer et installer une clé publique sur une instance Campaign pour le décryptage des données entrantes.*
 
-   * [Génération et installation de clés GPG pour le chiffrement des données](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-   * [Utilisation d’une clé GPG pour chiffrer des données](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-   * [Décrypter des données](./gpg-key-management/decrypting-data.md)
+   * [Génération et installation de clés GPG pour le cryptage des données](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   * [Utilisation d’une clé GPG pour crypter des données](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   * [Décryptage des données](./gpg-key-management/decrypting-data.md)
 
-* **[Fusillade problématique](/help/administrating/control-panel/trouble-shooting.md)**
+* **[Résolution des problèmes](/help/administrating/control-panel/trouble-shooting.md)**
 
-   *Comprendre comment résoudre les problèmes liés au Panneau de Contrôle*
+   *Comprendre comment résoudre les problèmes liés au panneau de contrôle*
 
-## Autres ressources
+## Ressources supplémentaires
 
-* [Centre d&#39;aide Panneau de Contrôle](https://docs.adobe.com/content/help/fr-FR/control-panel/using/control-panel-home.html)
+* [Centre d’aide du panneau de contrôle](https://docs.adobe.com/content/help/fr-FR/control-panel/using/control-panel-home.html)
 
