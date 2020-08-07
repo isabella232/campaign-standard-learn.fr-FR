@@ -11,8 +11,8 @@ getting-started-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard
 translation-type: tm+mt
 source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 100%
+source-wordcount: '529'
+ht-degree: 91%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 100%
    + [Créer des profils et des audiences - Présentation](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Créer un profil](/help/profiles-and-audiences/creating-a-profile.md)
    + [Créer un profil de test](/help/profiles-and-audiences/test-profiles.md)
-   + [Importer des profils avec un workflow](/help/managing-processes-and-data/importing-profiles.md)
+   + [Importation de profils avec un processus](/help/managing-processes-and-data/importing-profiles.md)
    + [Gérer les services et les abonnements](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Audience Destinations (version bêta){#audience-destinations}
       + [Présentation](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
@@ -49,7 +49,7 @@ ht-degree: 100%
       + [Créer un email](/help/communication-channels/email/create-email-from-homepage.md)
       + [Envoyer un test, préparer et envoyer un email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Créer un email multilingue ou une diffusion SMS](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Convertir un email, une diffusion SMS ou un modèle existant en plusieurs langues](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Conversion d’un courrier électronique, d’une diffusion SMS ou d’un modèle existant en un formulaire multilingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Tests A/B](/help/communication-channels/email/a-b-testing.md)
       + [Tester des emails à l’aide des profils ciblés](/help/communication-channels/email/profile-substitution.md)
       + [Vérifier une diffusion Email et des rapports](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -57,7 +57,8 @@ ht-degree: 100%
    + Mobile {#mobile}
       + SMS{#sms}
          + [Créer une diffusion SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Convertir un email, une diffusion SMS ou un modèle existant en plusieurs langues](/help/communication-channels/covert-into-multilingual-deliveries.md)
+         + [Créer un email multilingue ou une diffusion SMS](/help/communication-channels/create-multilingual-deliveries.md)
+         + [Conversion d’un courrier électronique, d’une diffusion SMS ou d’un modèle existant en un formulaire multilingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Notifications push {#push}
          + [Créer une notification push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Créer une notification push multilingue](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -86,6 +87,7 @@ ht-degree: 100%
    + [Configurer les listes de produits dans les emails transactionnels](/help/designing-content/product-listings-in-transactional-email.md)
 + Gestion des processus et des données {#managing-processes-and-data}
    + [Créer un workflow](/help/managing-processes-and-data/create-workflow.md)
+   + [Importation de profils avec un processus](/help/managing-processes-and-data/importing-profiles.md)
    + Activités d’exécution {#execution-activities}
       + [Activité Signal externe](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Activités de Data Management {#data-management-activities}
@@ -131,3 +133,5 @@ ht-degree: 100%
    + [Modification des ressources personnalisées pour les demandes d’accès à des informations personnelles](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Création et suivi manuels des demandes d’accès à des informations personnelles](/help/privacy/create-and-track-privacy-requests.md)
    + [Exécution de demandes d’accès à des informations personnelles](/help/privacy/execute-privacy-requests.md)
++ [Guide des meilleures pratiques en matière de délivrabilité Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+
