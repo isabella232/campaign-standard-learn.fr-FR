@@ -1,10 +1,10 @@
 ---
-title: Substitution de Profil - Test des messages électroniques à l'aide de profils ciblés
-description: Cette vidéo explique comment tester vos messages électroniques à l’aide de la fonction de substitution de profil.
+title: Substitution de profil - Test des emails à l’aide des profils ciblés
+description: Cette vidéo explique comment tester vos emails à l’aide de la fonctionnalité de substitution de profil.
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368
+thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
 team: TM
@@ -12,27 +12,27 @@ translation-type: tm+mt
 source-git-commit: f04ac773029bf15ff445bf1c506a4234cf5060bb
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 21%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL Substitution] de Profil - Test des messages électroniques à l&#39;aide de profils ciblés
+# [!UICONTROL Substitution de profil] - Test des emails à l’aide des profils ciblés
 
-Cette vidéo explique comment tester vos messages électroniques à l&#39;aide de la substitution [!UICONTROL de]Profil. Il couvre les cas d’utilisation suivants :
+Cette vidéo explique comment tester vos emails à l’aide de la [!UICONTROL substitution de profil]. Elle couvre les cas pratiques suivants :
 
-Supposons que vous souhaitiez envoyer un bulletin d&#39;information personnalisé par courriel. Toutefois, avant d&#39;envoyer le bulletin d&#39;information, un collègue veut l&#39;examiner et a demandé des BAT. Vous pouvez utiliser les fonctions de substitution [!UICONTROL de] Profil pour envoyer un BAT, car elles vous permettent d&#39;envoyer une représentation exacte du message reçu par le profil ciblé.
+Supposons que vous souhaitiez envoyer une newsletter personnalisée par email. Avant son envoi, un collègue souhaite toutefois l’examiner et a demandé des bons à tirer. Vous pouvez utiliser les fonctionnalités de [!UICONTROL substitution de profil] pour envoyer un BAT, car il permet d’envoyer une représentation exacte du message que le profil ciblé recevra.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12)
 
-Pour plus d’informations, voir la documentation [détaillée du](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)produit.
+Pour plus d’informations, voir la [documentation détaillée du produit](https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html).
 
 >[!IMPORTANT]
 >
 >Cette fonctionnalité vous permet d’envoyer des informations personnelles de profil à des adresses email externes. Gardez à l’esprit que l’exécution des demandes d’accès à des informations personnelles (RGPD et CCPA) dans Campaign Standard NE S’EXÉCUTERA PAS en externe.
 
-## Autres ressources
+## Ressources supplémentaires
 
-* [Test de messages à l’aide de profils de cible (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [Test de messages à l’aide de profils cibles (documentation)](https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
 * [Créer un email de test A/B](/help/communication-channels/email/a-b-testing.md)
-* [Envoyer un test, préparer et envoyer un courriel](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+* [Envoyer un test, préparer et envoyer un email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
