@@ -10,13 +10,13 @@ team: PM
 translation-type: tm+mt
 source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 98%
+source-wordcount: '358'
+ht-degree: 100%
 
 ---
 
 
-# Trouble shooting the [!UICONTROL Control Panel]
+# Résolution des problèmes liés au 
 
 Découvrez comment résoudre les problèmes liés à l’utilisation du panneau de contrôle.
 
