@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
+source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '395'
 ht-degree: 100%
 
 ---
@@ -71,9 +71,7 @@ La vidéo ci-dessous explique comment ajouter un administrateur à une instance 
 * **[Ajout de certificats SSL](/help/administrating/control-panel/adding-ssl-certificates.md)**
 
    *Découvrez comment ajouter des certificats SSL pour sécuriser vos sous-domaines.*
-* **[Gestion des certificats SSL](/help/administrating/control-panel/managing-ssl-certificates.md)**
 
-   *Découvrez comment consulter le statut des certificats SSL de vos sous-domaines et demander des renouvellements.*
 * **[Gestion des enregistrements TXT Google](/help/administrating/control-panel/google-txt-record-management.md)**
 
    *Découvrez comment ajouter des enregistrements de vérification de site TXT Google aux sous-domaines utilisés pour envoyer des emails aux adresses GMAIL grâce au panneau de contrôle.*
