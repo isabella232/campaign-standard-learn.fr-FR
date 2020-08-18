@@ -3,15 +3,15 @@ title: Présentation du Concepteur d'email
 description: Cette vidéo explique les fonctionnalités générales du Concepteur de courriers électroniques et comment créer un courrier électronique à partir de zéro.Cette page liste toutes les vidéos de présentation disponibles pour le concepteur de courriels Adobe Campaign.
 feature: Email Designer
 topics: Content Creation
-kt: 2391
+kt: null
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 58fd8bec8adfca14188ea66423c107a14253834e
+source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 18%
+source-wordcount: '143'
+ht-degree: 29%
 
 ---
 
@@ -24,18 +24,13 @@ Cette vidéo présente un aperçu général des fonctionnalités et de l’utili
 
 >[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 
-## Getting Started with the [!UICONTROL Email Designer]
-
-Cette vidéo explique les fonctionnalités générales du Concepteur [!UICONTROL de] courriels et comment créer un courriel à partir de zéro.
-
->[!VIDEO](https://video.tv.adobe.com/v/25912?quality=12)
-
 ## Tutoriels
 
 Les didacticiels détaillés suivants sont disponibles :
 
+* [Prise en main du concepteur de courrier électronique](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
 * [Modèles de contenu ](/help/designing-content/email-designer/email-content-templates.md)
-* [Configuration de la vue mobile](/help/designing-content/email-designer/configure-the-mobile-view.md)
+* [Configurer la vue mobile](/help/designing-content/email-designer/configure-the-mobile-view.md)
 * [Prévisualisez l&#39;email](/help/designing-content/email-designer/preview-your-email.md)
 * [Utilisation de contenu existant](/help/designing-content/email-designer/working-with-existing-content.md)
-* [Création de contenu à l’aide de Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
+* [Création de contenu à l’aide d’Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
