@@ -1,5 +1,5 @@
 ---
-title: ÉTAPE 4 - Définir l'identifiant de recherche
+title: ÉTAPE 4 - Définir l’identifiant de recherche
 description: '**pushIdentifier** est une chaîne qui contient le jeton de périphérique pour les notifications Push. Il s’agit du même jeton envoyé par Firebase et transmis au SDK à l’aide de la méthode MobileCore.setPushIdentifier.'
 feature: Push
 topics: MOBILE
@@ -8,9 +8,9 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -99,5 +99,6 @@ Accédez à **[!UICONTROL Administration->Canaux->Application mobile(SDK AEP)]**
 
 ![abonnés-applications-mobiles](assets/mobile-application-subscribers.PNG)
 
->[REMARQUE]
+>[!NOTE]
+>
 >Si vous ne voyez pas de jeton d’enregistrement dans l’onglet Abonnés [!UICONTROL d’applications] mobiles, ARRÊTEZ ici avant de poursuivre.
