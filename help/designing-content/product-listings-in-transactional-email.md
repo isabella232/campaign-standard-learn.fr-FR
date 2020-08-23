@@ -1,5 +1,5 @@
 ---
-title: Configurer les listes de produits dans les courriers électroniques transactionnels
+title: Configurer les listes de produits dans les emails transactionnels
 description: Les vidéos expliquent les étapes nécessaires à la configuration des listes de produits dans les courriers électroniques transactionnels en Adobe Campaign Standard (ACS).
 feature: Transactional Emails
 topics: Content Creation
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 1%
+source-wordcount: '180'
+ht-degree: 4%
 
 ---
 
@@ -22,7 +22,7 @@ Vous pouvez configurer un message électronique de reciblage contenant une liste
 
 Les vidéos suivantes expliquent les étapes nécessaires à la configuration des listes [!UICONTROL de] produits dans les courriels transactionnels.
 
->[REMARQUE]
+>[!NOTE]
 >
 >Cette fonction est actuellement appelée Boucle dans les vidéos.
 
