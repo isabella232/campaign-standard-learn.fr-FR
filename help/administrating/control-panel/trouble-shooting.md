@@ -8,15 +8,15 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
+source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 100%
+source-wordcount: '357'
+ht-degree: 98%
 
 ---
 
 
-# Résolution des problèmes liés au 
+# Trouble shooting the [!UICONTROL Control Panel]
 
 Découvrez comment résoudre les problèmes liés à l’utilisation du panneau de contrôle.
 
@@ -40,7 +40,7 @@ l’administrateur doit ajouter l’utilisateur au [!UICONTROL profil de produit
 ### Symptôme : une instance n’est pas répertoriée dans le [!UICONTROL panneau de contrôle].
 
 **Cause :**
-l’utilisateur doit probablement être ajouté en tant qu’*[!UICONTROL utilisateur]* au profil de produit `!DNL Campaign-xxx-Administrators/Admin` pour l’instance manquante.
+l’utilisateur doit probablement être ajouté en tant qu’*[!UICONTROL utilisateur]* au profil de produit `Campaign-xxx-Administrators/Admin` pour l’instance manquante.
 
 **Que faire :**
 l’administrateur doit ajouter l’utilisateur au profil de produit `Campaign-xxx-Admins` pour chaque instance qu’il souhaite gérer. Si l’utilisateur est un administrateur de toutes les instances, il peut quand même avoir besoin de s’ajouter en tant qu’*[!UICONTROL utilisateur]*.
@@ -55,8 +55,8 @@ l’administrateur doit ajouter l’utilisateur au profil de produit `Campaign-x
 
 ### Documentation utile
 
-* [Découvrir le [!UICONTROL panneau de contrôle]](https://docs.adobe.com/content/help/fr-FR/control-panel/using/control-panel-home.html)
-* [Gestion des autorisations pour le [!UICONTROL panneau de contrôle]](https://docs.adobe.com/content/help/fr-FR/control-panel/using/control-panel-home.html)
+* [Découvrir le [!UICONTROL panneau de contrôle]](https://helpx.adobe.com/fr/campaign/kb/control-panel-overview.html)
+* [Gestion des autorisations pour le [!UICONTROL panneau de contrôle]](https://helpx.adobe.com/fr/campaign/kb/control-panel-access.html)
 
 ## Établissement de la connexion au serveur SFTP (client ou API)
 
