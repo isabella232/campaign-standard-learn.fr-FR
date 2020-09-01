@@ -8,8 +8,9 @@ tutorials-title: Tutoriels
 tutorials-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentation
 getting-started-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/campaign-standard-home.html
+type: Tutorial
 translation-type: tm+mt
-source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
+source-git-commit: 5d176b2df0da17dd66c6b2990b9da051296fd508
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 98%
@@ -103,7 +104,7 @@ ht-degree: 98%
 + Administration {#administrating}
    + [Gestion des droits d’accès des utilisateurs](/help/administrating/managing-user-access-rights.md)
    + Panneau de contrôle {#control-panel}
-      + [Présentation du panneau de contrôle](/help/administrating/control-panel/control-panel-overview.md)
+      + [Vue d’ensemble du panneau de contrôle](/help/administrating/control-panel/control-panel-overview.md)
       + [Surveillance de la capacité du serveur, ajout d’adresses IP aux listes autorisées et ajout de clés SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Génération d’une clé SSH](/help/administrating/control-panel/generate-ssh-key.md)
       + [Connexion à un serveur SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
