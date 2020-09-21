@@ -11,10 +11,10 @@ getting-started-title: Documentation
 getting-started-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 94c15068a733b95a41201cd2a451d2adea4b9c29
+source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
 workflow-type: tm+mt
-source-wordcount: '519'
-ht-degree: 98%
+source-wordcount: '536'
+ht-degree: 95%
 
 ---
 
@@ -51,12 +51,16 @@ ht-degree: 98%
    + Email {#email}
       + [Créer un email](/help/communication-channels/email/create-email-from-homepage.md)
       + [Envoyer un test, préparer et envoyer un email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
-      + [Créer un email multilingue ou une diffusion SMS](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Convertir un email, une diffusion SMS ou un modèle existant en plusieurs langues](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Tests A/B](/help/communication-channels/email/a-b-testing.md)
       + [Tester des emails à l’aide des profils ciblés](/help/communication-channels/email/profile-substitution.md)
+      + [ajouter une Population témoin à une diffusion](/help/communication-channels/email/control-groups.md)
+      + [Créer un email multilingue ou une diffusion SMS](/help/communication-channels/create-multilingual-deliveries.md)
+      + [Convertir un email, une diffusion SMS ou un modèle existant en plusieurs langues](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Vérifier une diffusion Email et des rapports](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Créer et envoyer des emails via un workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
+      + E-mails optimisés pour l&#39;IA {#journey-ai}
+         + [Optimisation prédictive du temps d&#39;envoi](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
+         + [Évaluation prédictive de l’engagement](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Mobile {#mobile}
       + SMS{#sms}
          + [Créer une diffusion SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
