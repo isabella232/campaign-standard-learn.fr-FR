@@ -11,10 +11,10 @@ getting-started-title: Documentation
 getting-started-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: bbbfc6d235cd2224ac14a31fbc52142d7481b144
+source-git-commit: b28cbfdbc4edd00bc0f8cf58e2ea7fb35016e83e
 workflow-type: tm+mt
-source-wordcount: '540'
-ht-degree: 91%
+source-wordcount: '526'
+ht-degree: 93%
 
 ---
 
@@ -137,5 +137,4 @@ ht-degree: 91%
    + [Modification des ressources personnalisées pour les demandes d’accès à des informations personnelles](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Création et suivi manuels des demandes d’accès à des informations personnelles](/help/privacy/create-and-track-privacy-requests.md)
    + [Exécution de demandes d’accès à des informations personnelles](/help/privacy/execute-privacy-requests.md)
-+ [Guide des meilleures pratiques en matière de délivrabilité Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
 
