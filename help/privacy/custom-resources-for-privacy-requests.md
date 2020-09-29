@@ -8,15 +8,15 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 10%
+ht-degree: 15%
 
 ---
 
 
-# Modification des ressources personnalisées pour les demandes de confidentialité
+# Modification des ressources personnalisées pour les demandes d’accès à des informations personnelles
 
 Lors de la configuration d’Adobe Campaign Standard pour gérer les demandes de confidentialité, vous devez vous assurer que toutes les données personnalisées liées à un profil sont supprimées lorsque le profil est supprimé. Cette vidéo explique comment modifier vos ressources personnalisées afin de répondre à cette exigence.
 
