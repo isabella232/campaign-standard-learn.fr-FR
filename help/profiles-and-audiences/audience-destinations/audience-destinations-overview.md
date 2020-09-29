@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
@@ -33,11 +33,11 @@ Le module [!UICONTROL Audiences] d’Adobe Campaign Standard vous permet de cré
 
 Les didacticiels vidéo suivants vous guideront dans les différentes étapes :
 
-1. [Création d’une audience à l’aide du créateur de segments unifié](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+1. [Créer une audience à l’aide du Créateur de segments unifié](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [Activation des audiences AEP dans un processus marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Modification de la dimension de ciblage d&#39;une diffusion pour une Audience de plateforme](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
 ## Autres ressources
 
-*[Présentation du connecteur de données Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+*[Présentation d’Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
 
