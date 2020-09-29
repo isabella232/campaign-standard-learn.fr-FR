@@ -11,10 +11,10 @@ getting-started-title: Documentation
 getting-started-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
+source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '536'
-ht-degree: 95%
+ht-degree: 94%
 
 ---
 
@@ -31,13 +31,13 @@ ht-degree: 95%
    + [Explorer la hiérarchie et les activités marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Gérer les campagnes](/help/getting-started/managing-campaigns.md)
    + [Comprendre les profils et les audiences](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [Créer et envoyer par courrier électronique](https://docs.adobe.com/content/help/fr-FR/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [Créer un email](https://docs.adobe.com/content/help/fr-FR/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [Créer un workflow](/help/managing-processes-and-data/create-workflow.md)
    + [Présentation du reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Marketing mobile avec Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Évoluer avec Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 + Profils et audiences {#profiles-and-audiences}
-   + [Créer des profils et des audiences - Présentation](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [Création de profils et d&#39;audiences - Présentation](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Créer un profil](/help/profiles-and-audiences/creating-a-profile.md)
    + [Créer un profil de test](/help/profiles-and-audiences/test-profiles.md)
    + [Importer des profils avec un workflow](/help/managing-processes-and-data/importing-profiles.md)
