@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: a21fdefdce42ba417ff6b5173d15a0cebe4176ad
+source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 89%
+ht-degree: 71%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 89%
 Le [!UICONTROL panneau de contrôle] d’Adobe Campaign vous permet de déléguer entièrement un sous-domaine à Adobe Campaign.
 
 >[!NOTE]
-> La délégation de sous-domaines depuis le [!UICONTROL panneau de contrôle] sera disponible en version bêta à la fin du mois de janvier et sera sujette à des
-> mises à jour fréquentes et des modifications sans préavis.
+>
+>Subdomain delegation from the [!UICONTROL Control Panel] will be available in beta by the end of January, and subject to frequent updates and modifications without notice.
 
 ## Accès à la gestion des sous-domaines dans le [!UICONTROL panneau de contrôle]
 
