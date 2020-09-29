@@ -1,5 +1,5 @@
 ---
-title: Configuration d’une application mobile à l’aide du SDK Adobe Experience Platform
+title: Configurer une application mobile à l’aide d’un SDK Adobe Experience Platform
 description: Pour envoyer des messages in-app ou des notifications Push avec une application SDK Experience Cloud, une application mobile doit être configurée dans Adobe Experience Platform Launch et configurée dans Adobe Campaign.
 feature: Mobile SDK V5
 topics: Mobile
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
+source-git-commit: b8f093b8e95a451bbf50ce7aca6ca4db35e3a324
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 12%
+ht-degree: 18%
 
 ---
 
