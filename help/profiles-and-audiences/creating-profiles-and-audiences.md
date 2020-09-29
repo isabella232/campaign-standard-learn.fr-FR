@@ -1,6 +1,6 @@
 ---
-title: Création de profils et d’audiences - Présentation
-description: Cette vidéo explique comment accéder aux profils existants et comment créer des profils et des audiences à Adobe Campaign Standard (ACS).
+title: Création de profils et d'audiences - Présentation
+description: Découvrez comment accéder aux profils existants et comment créer des profils et des audiences à Adobe Campaign Standard.
 feature: Profiles and Audiences
 topics: null
 kt: 3899
@@ -8,22 +8,22 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '87'
 ht-degree: 4%
 
 ---
 
 
-# Création de profils et d’audiences - Présentation
+# Création de profils et d&#39;audiences - Présentation
 
 L&#39;Adobe Campaign a deux types ou profils :
 
-* profils identifiés
+* Profils identifiés
 * Profils de test
 
-Les Profils regroupés selon un ou plusieurs critères communs sont appelés **audiences**.
+Les profils regroupés selon un ou plusieurs critères communs sont appelés **audiences**.
 
 Cette vidéo explique comment accéder aux profils existants et comment créer des profils et des audiences à Adobe Campaign Standard.
 
