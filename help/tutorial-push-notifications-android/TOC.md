@@ -1,8 +1,9 @@
 ---
 product: adobe campaign standard
-user-guide-title: Adobe Campaign Standard - Prise en main des notifications Push pour Android
+user-guide-title: adobe campaign standard - Prise en main des notifications Push pour Android
+user-guide-description: This tutorial will walk you through the steps involved in sending push notifications from Adobe Campaign and receiving these notifications in your Android app.
 translation-type: tm+mt
-source-git-commit: ac7733530ca6d6fecc2ec636343a280ae1837933
+source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 2%
@@ -10,7 +11,7 @@ ht-degree: 2%
 ---
 
 
-# Didacticiel sur la prise en main des notifications Push pour Android {#getting-started-with-push-notifications-android}
+# Getting started with Push Notifications for Android Tutorial {#getting-started-with-push-notifications-android}
 
 + [Introduction](./introduction.md)
 + [Etape 1 - Création d’une application Android](./create-android-app.md)
