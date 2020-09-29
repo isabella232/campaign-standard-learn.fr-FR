@@ -1,5 +1,5 @@
 ---
-title: Création d’une audience à l’aide du créateur de segments unifié
+title: Créer une audience à l’aide du Créateur de segments unifié
 description: null
 feature: Audience Destinations
 topics: ACOP
@@ -8,15 +8,15 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '241'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
 
-# Création d’une audience à l’aide du créateur de segments unifié
+# Créer une audience à l’aide du Créateur de segments unifié
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ ht-degree: 1%
 >
 >Si vous prévoyez de mettre en oeuvre cette fonctionnalité, contactez le service [!UICONTROL d&#39;assistance clientèle] Adobe.
 
-Adobe Campaign Standard vous permet de créer des audiences à l’aide des données du Profil [client en temps](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) réel Adobe Experience Cloud à l’aide du créateur [!UICONTROL de segments unifié]Adobe Experience Platform.
+adobe campaign standard vous permet de créer des audiences à l’aide des données du Profil [client en temps](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) réel Adobe Experience Cloud à l’aide du créateur [!UICONTROL de segments unifié]Adobe Experience Platform.
 
 Vous pouvez accéder au créateur [!UICONTROL de segments] unifiés directement dans Adobe Campaign Standard via le module [!UICONTROL Audiences ] . Cela vous permet de gérer ces audiences directement dans la vue de liste des [!UICONTROL Audiences] , où vous pouvez modifier ou créer une audience Adobe Experience Platform directement à partir de l’interface Adobe Campaign.
 
@@ -36,7 +36,7 @@ La vidéo ci-dessous explique comment une nouvelle audience est créée à l’a
 
 ## Autres ressources
 
-Documentation:
+Documentation :
 
 * [Présentation du Profil client en temps réel](https://www.adobe.io/apis/experienceplatform/home/profile-identity-segmentation/profile-identity-segmentation-services.html#!api-specification/markdown/narrative/technical_overview/unified_profile_architectural_overview/unified_profile_architectural_overview.md)
 * [Guide de l’utilisateur du créateur de segments](https://www.adobe.io/apis/experienceplatform/home/profile-identity-segmentation/profile-identity-segmentation-services.html#!api-specification/markdown/narrative/technical_overview/segmentation/segment-builder-guide.md)
