@@ -1,5 +1,5 @@
 ---
-title: Présentation du connecteur de données Adobe Experience Platform
+title: Présentation d’Adobe Experience Platform Data Connector
 description: Adobe Experience Platform Data Connector permet aux clients existants de rendre leurs données disponibles sur Adobe Experience Platform en mappant les données XTK (données ingérées dans Campaign) avec les données XDM (Experience Data Model) sur Adobe Experience Platform.
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
@@ -8,15 +8,15 @@ doc-type: feature video
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '364'
-ht-degree: 20%
+ht-degree: 25%
 
 ---
 
 
-# Présentation du connecteur de [!UICONTROL données Adobe Experience Platform]
+# Understanding the Adobe Experience Platform [!UICONTROL Data Connector]
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ ht-degree: 20%
 >
 >Si vous prévoyez de mettre en oeuvre cette fonctionnalité, contactez le service [!UICONTROL d&#39;assistance clientèle] Adobe.
 
-## Présentation
+## Vue d’ensemble
 
 Adobe Experience Platform [!UICONTROL Data Connector] helps existing customers to make their data available on Adobe Experience Platform by mapping XTK data (data ingested in Adobe Campaign) to [!DNL Experience Data Model] (XDM) data on Adobe Experience Platform.
 
@@ -47,10 +47,10 @@ Adobe Experience Platform [!UICONTROL Data Connector] is intended for data engin
 Les didacticiels suivants décrivent les étapes clés pour effectuer un mappage de données entre Campaign Standard et Adobe Experience Platform :
 
 1. [Mappage de ressources personnalisées](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-2. [Mappage des Événements d’expérience](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+2. [Mapping des événements d’expérience](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [Mappage des données de table des sources](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [Modification du mappage des données](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-5. [Vérification de l&#39;état d&#39;une tâche d&#39;assimilation de données](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+5. [Vérification de l’état des traitements d’ingestion de données](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
 ## Autres ressources
 
