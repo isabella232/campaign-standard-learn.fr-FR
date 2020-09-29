@@ -1,5 +1,5 @@
 ---
-title: Mappage des Événements d’expérience
+title: Mapping des événements d’expérience
 description: Découvrez comment mapper des Événements d’expérience dans Adobe Experience Platform (AEP)
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
@@ -8,15 +8,15 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
+source-git-commit: b8f093b8e95a451bbf50ce7aca6ca4db35e3a324
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 7%
+ht-degree: 10%
 
 ---
 
 
-# Mappage des Événements [!UICONTROL d’expérience]
+# Mapping [!UICONTROL Experience Events]
 
 >[!NOTE]
 >
