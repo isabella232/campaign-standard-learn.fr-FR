@@ -11,10 +11,10 @@ getting-started-title: Documentation
 getting-started-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
+source-git-commit: bbbfc6d235cd2224ac14a31fbc52142d7481b144
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 94%
+source-wordcount: '540'
+ht-degree: 91%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 94%
    + [Création de profils et d&#39;audiences - Présentation](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Créer un profil](/help/profiles-and-audiences/creating-a-profile.md)
    + [Créer un profil de test](/help/profiles-and-audiences/test-profiles.md)
-   + [Importer des profils avec un workflow](/help/managing-processes-and-data/importing-profiles.md)
+   + [Importation de profils avec un processus](/help/managing-processes-and-data/importing-profiles.md)
    + [Gérer les services et les abonnements](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Audience Destinations (version bêta){#audience-destinations}
       + [Présentation](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
@@ -64,7 +64,6 @@ ht-degree: 94%
    + Mobile {#mobile}
       + SMS{#sms}
          + [Créer une diffusion SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Convertir un email, une diffusion SMS ou un modèle existant en plusieurs langues](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Notifications push {#push}
          + [Créer une notification push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Créer une notification push multilingue](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -138,3 +137,5 @@ ht-degree: 94%
    + [Modification des ressources personnalisées pour les demandes d’accès à des informations personnelles](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Création et suivi manuels des demandes d’accès à des informations personnelles](/help/privacy/create-and-track-privacy-requests.md)
    + [Exécution de demandes d’accès à des informations personnelles](/help/privacy/execute-privacy-requests.md)
++ [Guide des meilleures pratiques en matière de délivrabilité Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+
