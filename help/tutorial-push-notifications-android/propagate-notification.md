@@ -8,14 +8,14 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 
 ---
 
-# Ajouter le service à envoyer une notification
+# ajouter le service à envoyer une notification
 
 Dans cette partie, nous propagerons le message reçu de Adobe Campaign en utilisant [!DNL Android Notification Manager]. [!DNL Notification manager] sert à informer l’utilisateur des événements qui se produisent.
 Voici comment vous dites à l&#39;utilisateur que quelque chose s&#39;est passé en arrière-plan :
@@ -26,6 +26,10 @@ Voici comment vous dites à l&#39;utilisateur que quelque chose s&#39;est passé
 * Cliquez avec le bouton droit sur le dossier du package ([!DNL com.example.acspushtutorial]) et [!DNL New ->Java Class]
 * Nommer cette classe *[!DNL MyService]* et s&#39;assurer qu&#39;elle s&#39;étend [!DNL FirebaseMessagingService]
 * Créez *[!DNL sendNotification]* une méthode dans cette classe. Dans cette méthode, vous devez définir le contenu et le canal de la notification à l’aide d’un [!DNL NotificationCompat.Builder] objet. Pour faire apparaître la notification, appelez [!DNL NotificationManagerCompat.notify()]et transmettez-lui un identifiant unique pour la notification et le résultat de [!DNL NotificationCompat.Builder.build()].
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 package com.example.pushmessaging;
@@ -90,7 +94,11 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 
 ## Modify [!DNL AndroidManifest.xml]
 
-Ajoutez le service qui a été créé pour vous [!DNL AndroidManifest.xml]. La finale [!DNL AndroidManifest.xml] doit se présenter comme suit :
+ajoutez le service qui a été créé pour vous [!DNL AndroidManifest.xml]. La finale [!DNL AndroidManifest.xml] doit se présenter comme suit :
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
