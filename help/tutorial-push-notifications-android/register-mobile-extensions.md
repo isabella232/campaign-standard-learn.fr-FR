@@ -8,10 +8,10 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -23,6 +23,10 @@ Dans cette partie, nous allons ajouter le code pour enregistrer les extensions P
 Ouvrez votre projet en [!DNL Android] studio. Supprimez l&#39;intégralité du code dans MainApp, **à l&#39;exception de la première ligne qui correspond à l&#39;instruction** du pack.
 
 Collez le code suivant dans MainApp.
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 import [!DNL android].app.Application;
