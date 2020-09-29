@@ -3,20 +3,20 @@ title: Utilisation de contenu existant
 description: Cette vidéo explique comment récupérer rapidement votre contenu créatif sur un site Web et le charger dans le concepteur de courrier électronique.
 feature: Email Designer
 topics: Content Creation
-kt: 1453
+kt: 6295
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: a0943a06cad4c53f35713c733bcedf5eef0df93f
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 4%
+ht-degree: 11%
 
 ---
 
 
-# Working with existing content{#working-with-existing-content}
+# Utilisation de contenu existant{#working-with-existing-content}
 
 ## Importer du contenu depuis une URL
 
