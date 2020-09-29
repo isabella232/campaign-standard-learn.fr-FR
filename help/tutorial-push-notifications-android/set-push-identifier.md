@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
+source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
@@ -22,6 +22,10 @@ Il **[!DNL pushidentifier]** s’agit d’une chaîne contenant le jeton de pér
 Ouvrez votre projet en [!DNL Android ]studio. Supprimez l&#39;intégralité du code dans, [!DNL MainActivity] à l&#39; **exception de la première ligne qui correspond à votre instruction** de package.
 
 Collez le code suivant dans [!DNL MainActivity]:
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 import androidx.annotation.NonNull;
