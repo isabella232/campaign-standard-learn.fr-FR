@@ -8,7 +8,7 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: f797faaf9189f64eb6fc57b84c5e38d4418d5f51
+source-git-commit: 4acbb9129cfa36f4d7d00e5f8abaa32d006eaeac
 workflow-type: tm+mt
 source-wordcount: '2420'
 ht-degree: 0%
@@ -33,13 +33,13 @@ La forme la plus courante d’abonnement **à un** site Web est la &quot;souscri
 * Les adresses électroniques non confirmées peuvent présenter des fautes de frappe ou être mal formées, incorrectes ou utilisées de manière malveillante. Les fautes de frappe et les adresses mal formées provoquent des taux de rebonds élevés, ce qui peut et provoque des blocages émis par les FAI ou une perte de réputation d&#39;IP.
 * La soumission malveillante de pièges à spam connus (parfois appelé &quot;empoisonnement de liste&quot;) peut causer d&#39;énormes problèmes de diffusion et de réputation si le propriétaire de ce piège agit. Il est impossible de savoir si le destinataire souhaite vraiment être ajouté à une liste marketing sans confirmation. Il est donc tout aussi impossible de définir les attentes des destinataires et peut entraîner une augmentation des plaintes de spam, et parfois même une placée sur la liste bloquée si le courrier électronique collecté se révèle être un piège de spam.
 
-Pour obtenir des conseils sur la façon de minimiser les problèmes présentés à la fois dans le magasin physique et dans la souscription unique, consultez la section [Qualité et hygiène des](#data-quality-and-hygiene) données de ce guide pour connaître les détails et les avantages de la souscription au doublon.
+Pour obtenir des conseils sur la façon de minimiser les problèmes présentés à la fois dans le magasin physique et dans la souscription unique, consultez la section Qualité et hygiène des données de ce guide pour connaître les détails et les avantages de la souscription au doublon.
 
 Les abonnés utilisent souvent des adresses jetables, des adresses expirées ou des adresses qui ne sont pas les leurs pour obtenir ce qu’ils veulent d’un site Web, mais aussi pour éviter d’être ajoutés aux listes marketing. Dans ce cas, les listes des spécialistes du marketing peuvent entraîner un nombre élevé de rebonds durs, des taux élevés de plaintes de spam et des abonnés qui ne cliquent pas, n’ouvrent pas ou n’interagissent pas positivement avec les courriels. Cela peut être vu comme un drapeau rouge pour les fournisseurs de boîtes aux lettres et les FAI.
 
 >[!NOTE]
 >
->Les abonnés utilisent souvent des adresses jetables, des adresses expirées ou des adresses qui ne sont pas les leurs pour obtenir ce qu’ils veulent d’un site Web, mais aussi pour éviter d’être ajoutés aux listes marketing. Dans ce cas, les listes des spécialistes du marketing peuvent entraîner un nombre élevé de rebonds durs, des taux élevés de plaintes de spam et des abonnés qui ne cliquent pas, n’ouvrent pas ou n’interagissent pas positivement avec les courriels. Cela peut être vu comme un drapeau rouge pour les fournisseurs de boîtes aux lettres et les FAI.
+>Les abonnés utilisent souvent des adresses jetables, des adresses expirées ou des adresses qui ne sont pas les leurs pour obtenir ce qu’ils veulent d’un site Web, mais aussi pour éviter d’être ajoutés aux listes marketing. Dans ce cas, les listes des spécialistes du marketing peuvent entraîner un nombre élevé de rebonds durs, des taux élevés de plaintes de spam et des abonnés qui ne cliquent pas, n’ouvrent pas ou n’interagissent pas positivement avec les courriels. Cela peut être vu comme un indicateur rouge pour les fournisseurs de boîtes aux lettres et les FAI.
 
 ### Formulaires d&#39;inscription
 
