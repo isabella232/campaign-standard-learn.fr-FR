@@ -7,16 +7,16 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '357'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
 
-# Trouble shooting the [!UICONTROL Control Panel]
+# Résolution des problèmes liés au [!UICONTROL panneau de contrôle]
 
 Découvrez comment résoudre les problèmes liés à l’utilisation du panneau de contrôle.
 
@@ -47,10 +47,10 @@ l’administrateur doit ajouter l’utilisateur au profil de produit `Campaign-x
 
 ### Vidéos utiles
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=fre_fr)
 *Vérifier[!DNL IMS Org ID](00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=fre_fr)
 *Comment ajouter un administrateur au[!UICONTROL profil de produit]*[!DNL administrators]*pour pouvoir utiliser le[!UICONTROL panneau de contrôle](01:03 min)*
 
 ### Documentation utile
@@ -68,5 +68,5 @@ La connexion aux serveurs SFTP requiert :
 
 ### Documentation utile
 
-* [Connexion à votre serveur SFTP](https://docs.adobe.com/content/help/fr-F/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserverR)
+* [Connexion à votre serveur SFTP](https://docs.adobe.com/content/help/fr-FR/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 
