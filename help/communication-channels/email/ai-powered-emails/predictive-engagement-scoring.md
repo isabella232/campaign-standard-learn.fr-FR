@@ -1,6 +1,6 @@
 ---
-title: Évaluation prédictive de l’engagement
-description: Découvrez comment vue les scores d’engagement au niveau du profil individuel, utiliser les scores pour cibler les utilisateurs engagés et supprimer les utilisateurs fatigués et créer des règles de typologie pour gérer la fatigue des clients.
+title: Score prédictif de l’engagement
+description: Découvrez comment afficher les scores d’engagement au niveau du profil individuel, utiliser les scores pour cibler les utilisateurs engagés et supprimer les utilisateurs fatigués, et créer des règles de typologie pour gérer la fatigue des clients.
 feature: predictive engagement scoring
 topics: null
 kt: 6275
@@ -8,34 +8,34 @@ thumbnail: 40470.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '220'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# Évaluation prédictive de l’engagement
+# Score prédictif de l’engagement
 
-Powered by [!UICONTROL Journey AI], [!DNL Adobe Campaign] can analyze and predict open rates, optimal send times, and probable churn based on historical engagement metrics.
+Optimisé par [!UICONTROL Journey AI], [!DNL Adobe Campaign] peut analyser et estimer les taux d’ouverture, les heures d’envoi optimales et la perte probable en fonction des mesures d’engagement historiques.
 
 >[!CAUTION]
->Cette fonctionnalité n&#39;est pas disponible en standard dans le cadre du produit. La mise en oeuvre nécessite l’engagement de Adobes Consulting. Veuillez contacter votre représentant Adobe pour en savoir plus.
+>Cette fonctionnalité n&#39;est pas disponible dans les paramètres d’usine du produit. La mise en œuvre nécessite l’engagement d’Adobe Consulting. Veuillez contacter votre représentant Adobe pour en savoir plus.
 
-[!UICONTROL Le score] d’engagement prédictif prédit la probabilité qu’un destinataire s’engage avec un message, ainsi que la probabilité de s’exclure (de se désabonner) dans les 7 jours suivant l’envoi du prochain courrier électronique. Les probabilités sont divisées en compartiments selon le risque spécifique de désengagement, moyen ou faible. Le modèle permet également aux clients de déterminer le niveau de risque par rapport aux autres.
+Le [!UICONTROL score prédictif de l’engagement] prédit la probabilité qu’un destinataire interagisse avec un message, ainsi que la probabilité de s’exclure (de se désabonner) dans les 7 jours suivant l’envoi du prochain email. Les probabilités sont divisées en compartiments selon le risque spécifique de désengagement, moyen ou faible. Le modèle permet également aux clients de déterminer le rang centile de risque des clients pour comprendre où se situe le rang d’un client spécifique par rapport aux autres.
 
-Découvrez comment vue les scores d’engagement au niveau du profil individuel, utiliser les scores pour cibler les utilisateurs engagés et supprimer les utilisateurs fatigués et créer des règles de typologie pour gérer la fatigue des clients.
+Découvrez comment afficher les scores d’engagement au niveau du profil individuel, utiliser les scores pour cibler les utilisateurs engagés et supprimer les utilisateurs fatigués, et créer des règles de typologie pour gérer la fatigue des clients.
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12&captions=fre_fr)
 
 ## Autres ressources
 
-Tutoriels:
+Tutoriels :
 
-* [Optimisation prédictive du temps d&#39;envoi](predictive-send-time-optimization.md)
+* [Optimisation de l’heure d’envoi prédictive](predictive-send-time-optimization.md)
 
 Documentation :
 
-* [Optimisation de la conception et de la diffusion avec les courriers électroniques optimisés par IA](https://docs.adobe.com/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)
+* [Optimisation de la conception et de la diffusion avec les emails optimisés par IA](https://docs.adobe.com/help/fr-FR/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)
