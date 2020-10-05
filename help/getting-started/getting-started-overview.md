@@ -1,6 +1,6 @@
 ---
 title: Prise en main de Adobe Campaign Standard
-description: Cette vidéo présente un aperçu de l’interface utilisateur Adobe Campaign Standard ainsi que les principales fonctionnalités et fonctionnalités.
+description: Cette vidéo donne un aperçu de l’interface utilisateur d’Adobe Campaign Standard ainsi que des fonctionnalités clés et des fonctions de base.
 feature: User Interface
 topics: null
 kt: null
@@ -8,10 +8,10 @@ doc-type: null
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
+source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 33%
+source-wordcount: '191'
+ht-degree: 67%
 
 ---
 
@@ -24,16 +24,17 @@ Il vous permet de contrôler l’ensemble du processus de création, d’exécut
 
 Une série de vidéos didacticielles vous aide à commencer à utiliser l’Adobe Campaign Standard :
 
-* [Introduction à l&#39;Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
-* [Présentation fonctionnelle](/help/getting-started/functional-overview.md)
+* [Présentation d’Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
 * [Prise en main de l’interface utilisateur](/help/getting-started/getting-started-with-the-ui.md)
-* [Configuration d’une liste](/help/getting-started/configure-a-list.md)
-* [Explorez la hiérarchie et les Activités marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
+* [Configurer une liste](/help/getting-started/configure-a-list.md)
+* [Explorer la hiérarchie et les activités marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
 * [Gérer les campagnes](/help/getting-started/managing-campaigns.md)
 * [Comprendre les profils et les audiences](/help/getting-started/understanding-profiles-and-audiences.md)
-* [créer un workflow ;](/help/managing-processes-and-data/create-workflow.md)
-* [Introduction au rapports](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
-* [Marketing mobile avec Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)*[Croissance avec Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
+* [Créer un email](https://docs.adobe.com/content/help/fr-FR/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+* [Créer un workflow](/help/managing-processes-and-data/create-workflow.md)
+* [Présentation du reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
+* [Marketing mobile avec Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
+* [Évoluer avec Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 
 ## Autres ressources
 
