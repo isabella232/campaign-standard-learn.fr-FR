@@ -14,7 +14,7 @@ translation-type: tm+mt
 source-git-commit: a7eeaf46d27110384c7ddb143927f3a4ed06e2eb
 workflow-type: tm+mt
 source-wordcount: '526'
-ht-degree: 93%
+ht-degree: 98%
 
 ---
 
@@ -53,14 +53,14 @@ ht-degree: 93%
       + [Envoyer un test, préparer et envoyer un email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Tests A/B](/help/communication-channels/email/a-b-testing.md)
       + [Tester des emails à l’aide des profils ciblés](/help/communication-channels/email/profile-substitution.md)
-      + [ajouter une Population témoin à une diffusion](/help/communication-channels/email/control-groups.md)
+      + [Ajout d’une population témoin à une diffusion](/help/communication-channels/email/control-groups.md)
       + [Créer un email multilingue ou une diffusion SMS](/help/communication-channels/create-multilingual-deliveries.md)
       + [Convertir un email, une diffusion SMS ou un modèle existant en plusieurs langues](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Vérifier une diffusion Email et des rapports](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Créer et envoyer des emails via un workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + E-mails optimisés pour l&#39;IA {#journey-ai}
-         + [Optimisation prédictive du temps d&#39;envoi](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
-         + [Évaluation prédictive de l’engagement](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
+      + Emails optimisés par l’IA {#journey-ai}
+         + [Optimisation de l’heure d’envoi prédictive](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
+         + [Score prédictif de l’engagement](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Mobile {#mobile}
       + SMS{#sms}
          + [Créer une diffusion SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
@@ -84,7 +84,7 @@ ht-degree: 93%
 + Concevoir et personnaliser du contenu {#designing-content}
    + Concepteur d’email{#email-designer}
       + [Présentation](/help/designing-content/email-designer/email-designer-overview.md)
-      + [Prise en main du concepteur de courrier électronique](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [Prise en main du Concepteur d’email](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Présentation des modèles de contenu d’email](/help/designing-content/email-designer/email-content-templates.md)
       + [Configurer la vue mobile](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Prévisualiser votre analyse email et anti-spam](/help/designing-content/email-designer/preview-your-email.md)
