@@ -1,23 +1,23 @@
 ---
-title: Prise en main du concepteur de courrier électronique
-description: Cette vidéo explique les fonctionnalités générales du Concepteur de courriers électroniques et comment créer un courrier électronique à partir de zéro.
+title: Prise en main du Concepteur d’email
+description: Cette vidéo explique les fonctionnalités générales du Concepteur d’email et comment créer entièrement un email.
 feature: Email Designer
 topics: Content Creation
 kt: 2391
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Getting Started with the [!UICONTROL Email Designer]
+# Prise en main du [!UICONTROL Concepteur d’email]
 
-Cette vidéo explique les fonctionnalités générales du Concepteur [!UICONTROL de] courriels et comment créer un courriel à partir de zéro.
+Cette vidéo explique les fonctionnalités générales du [!UICONTROL Concepteur d’email] et comment créer entièrement un email.
 
->[!VIDEO](https://video.tv.adobe.com/v/25912?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25912?quality=12&captions=fre_fr)
