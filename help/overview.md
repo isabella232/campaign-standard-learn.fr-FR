@@ -2,11 +2,11 @@
 title: Tutoriels sur Adobe Campaign Standard - Présentation
 description: Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l’orchestration visuelle de campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide d’utilisation contient des vidéos et des tutoriels sur les nombreuses fonctionnalités et capacités d’Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 106645d51da04a8457c73096865329bd0b87381d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '320'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -17,17 +17,17 @@ Adobe Campaign offre une plate-forme pour concevoir des expériences client cro
 
 ## Nouveautés
 
-* **[ajouter des Populations témoins à une diffusion](/help/communication-channels/email/control-groups.md)**
+* **[Ajout de populations témoins à une diffusion](/help/communication-channels/email/control-groups.md)**
 
-   *Découvrez comment créer une[!UICONTROL Population témoin]lors de la définition de la cible de votre diffusion.*
+   *Découvrez comment créer une[!UICONTROL population témoin]lors de la définition de la cible de votre diffusion.*
 
-* **[Optimisation prédictive du temps d&#39;envoi](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
+* **[Optimisation de l’heure d’envoi prédictive](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
-   *Identifiez les workflows nécessaires pour synchroniser les données entre Adobe Campaign et le modèle d&#39;IA de parcours. Découvrez comment vue des scores de temps d&#39;envoi au niveau du profil individuel et comment exécuter des diffusions de courriel à l&#39;aide d&#39;une formule d&#39;envoi de temps.*
+   *Identifiez les workflows nécessaires pour synchroniser les données entre Adobe Campaign et le modèle Journey AI. Découvrez comment afficher des scores d’heure d’envoi au niveau du profil individuel et comment exécuter des diffusions email à l’aide d&#39;une formule d’heure d’envoi.*
 
-* **[Évaluation prédictive de l’engagement](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
+* **[Score prédictif de l’engagement](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
 
-   *Découvrez comment vue les scores d’engagement au niveau du profil individuel, utiliser les scores pour cibler les utilisateurs engagés et supprimer les utilisateurs fatigués et créer des règles de typologie pour gérer la fatigue des clients.*
+   *Découvrez comment afficher les scores d’engagement au niveau du profil individuel, utiliser les scores pour cibler les utilisateurs engagés et supprimer les utilisateurs fatigués, et créer des règles de typologie pour gérer la fatigue des clients.*
 
 ## Suggestions du personnel
 
@@ -48,15 +48,15 @@ Adobe Campaign offre une plate-forme pour concevoir des expériences client cro
   </td>
    <td>
     <a href="./administrating/control-panel/control-panel-overview.md">
-      <img alt="Panneau de Contrôle (vidéos)" src="./assets/control-panel.png" />
+      <img alt="Panneau de contrôle (vidéos)" src="./assets/control-panel.png" />
     </a>
     <div>
     <a href="./administrating/control-panel/control-panel-overview.md">
-    <strong>Panneau de Contrôle (vidéos)</strong>
+    <strong>Panneau de contrôle (vidéos)</strong>
     </a>
     </div>
     <p>
-    <em> Augmentez votre efficacité en tant qu’administrateur en gérant les paramètres et en suivant les utilisations de vos instances avec le Panneau de Contrôle.</em>
+    <em> Soyez plus efficace en tant qu’administrateur en gérant les paramètres et en suivant les utilisations de vos instances avec le panneau de contrôle.</em>
     <p>
   </td>
   <td>
