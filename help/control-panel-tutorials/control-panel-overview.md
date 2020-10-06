@@ -1,6 +1,6 @@
 ---
-title: Panneau de contrôle
-description: Le Panneau de Contrôle permet aux administrateurs de Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches d’administration, telles que la gestion de l’enregistrement SFTP par instance, la gestion des clés GPG ou des sous-domaines et certificats.
+title: Panneau de contrôle - Vue d’ensemble
+description: Le Panneau de Contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, telles que la gestion de l’enregistrement SFTP par instance, la gestion des clés GPG ou des sous-domaines et certificats.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,54 +8,77 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 3b6e85fee260723c83306825e5bcf59c58b2b118
+source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 65%
+source-wordcount: '260'
+ht-degree: 25%
 
 ---
 
+# Panneau de Contrôle - Présentation
 
-# [!UICONTROL Panneau de contrôle] {#control-panel}
+Le Panneau de Contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, telles que la gestion de l’enregistrement SFTP par instance, la gestion des clés GPG ou des sous-domaines et certificats.
 
->[!NOTE]
->
->The terms ‘[!UICONTROL whitelist]’ and ‘[!UICONTROL blacklist]’ have been replaced by ‘[!UICONTROL allowlist]’ and ‘[!UICONTROL denylist]’ in the Adobe Campaign documentation. Certaines occurrences de ces termes peuvent toujours figurer dans l’interface utilisateur du produit, les noms d’option, le code interne, ainsi que dans les tutoriels vidéo. Ils seront remplacés dans les prochaines versions du panneau de contrôle.
+## Nouveautés
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+* **[Génération et installation de clés GPG pour le cryptage des données](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)**
 
-## Accès au [!UICONTROL panneau de contrôle]
+   *Découvrez comment générer une paire de clés GPG publique/privée et installer la clé publique dans le[!UICONTROL Panneau de Contrôle]pour pouvoir chiffrer les données avant de les envoyer à partir de votre instance.*
 
-Pour accéder au panneau de contrôle, rendez-vous sur la page d’accueil Experience Cloud : [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com) :
+* **[Utilisation d’une clé GPG pour crypter des données](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)**
 
-* **[!UICONTROL Accueil Experience Cloud]** > **[!UICONTROL Accès rapide]**
+   *[!UICONTROL Découvrez comment exporter des données à l’aide d’une clé GPG installée sur le panneau de contrôle].*
 
-   ou
-* **[!UICONTROL Accueil Experience Cloud]** > [!UICONTROL Sélecteur de solution] : **Campaign** > Carte **[!UICONTROL panneau de contrôle]**
+* **[Décryptage des données](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)**
 
-   ou
+   *Découvrez comment créer une clé publique et l’importer et l’installer sur une instance[!UICONTROL Campaign]pour le déchiffrement des données entrantes.*
 
-* Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
+## Sélections du personnel
 
-## Conditions préalables requises
-
-Avant de commencer, remplissez les conditions préalables suivantes :
-
-### Confirmer [!DNL IMS Org ID]
-
-Vous devez connaître votre [!DNL IMS org ID]. La vidéo ci-dessous montre où vous pouvez trouver l’[!DNL IMS org ID] de votre instance.
-
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Vérifier[!DNL IMS Org ID](00:26 min)*
-
-### Droits d’administrateur
-
-Les droits d’administrateur sont requis pour accéder au [!UICONTROL panneau de contrôle].
-La vidéo ci-dessous explique comment ajouter un administrateur à une instance Campaign.
-
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+<table>
+<tr>
+  <td>
+    <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
+      <img alt="Délégation de sous-domaines à l’Adobe Campaign (vidéo)" src="./assets/31390.jpg"/>
+    </a>
+    <div>
+      <a href="./subdomains-and-certificates/subdomain-delegation.md">
+    <strong>Délégation de sous-domaines à l’Adobe Campaign (vidéo)</strong>
+    </a>
+    </div>
+    <p>
+    <em>Découvrez comment déléguer entièrement un sous-domaine à Adobe Campaign.</em>
+    <p>
+  </td>
+   <td>
+    <a href="./subdomains-and-certificates/google-txt-record-management.md">
+      <img alt="Gestion des enregistrements Google TXT (vidéos)" src="./assets/32369.jpg" />
+    </a>
+    <div>
+    <a href="./subdomains-and-certificates/google-txt-record-management.md">
+    <strong>Gestion des enregistrements Google TXT (vidéos)</strong>
+    </a>
+    </div>
+    <p>
+    <em> Découvrez comment ajouter des enregistrements de vérification de site Google TXT à tous les sous-domaines utilisés pour envoyer des courriers électroniques aux adresses GMAIL avec Campaign Panneau de Contrôle.</em>
+    <p>
+  </td>
+  <td>
+    <a href="./sftp-management/connect-to-sftp-server.md">
+      <img alt="Connexion à un serveur SFTP" src="./assets/27263.jpg" />
+    </a>
+    <div>
+      <a href="./sftp-management/connect-to-sftp-server.md">
+    <strong>Connexion à un serveur SFTP</strong>
+    </a>
+    </div>
+    <p>
+    <em>Découvrez comment vous connecter à votre serveur SFTP à l’aide d’une application SFTP client à l’aide des clés que vous avez stockées dans le Panneau de Contrôle. </em>
+    <p>
+  </td>
+</tr>
+</table>
 
 ## Autres ressources
 
 * [Centre d&#39;aide relatif au panneau de contrôle](https://docs.adobe.com/content/help/fr-FR/control-panel/using/control-panel-home.html)
-
