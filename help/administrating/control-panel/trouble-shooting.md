@@ -7,9 +7,9 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 66b8f4b6378eb974dc858b28c0479a9cb5d52a6b
+workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 100%
 
@@ -47,10 +47,12 @@ l’administrateur doit ajouter l’utilisateur au profil de produit `Campaign-x
 
 ### Vidéos utiles
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=fre_fr)
-*Vérifier[!DNL IMS Org ID](00:26 min)*
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=fre_fr)
+*Vérification[!DNL IMS Org ID](00:26 min)*
+
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *Comment ajouter un administrateur au[!UICONTROL profil de produit]*[!DNL administrators]*pour pouvoir utiliser le[!UICONTROL panneau de contrôle](01:03 min)*
 
 ### Documentation utile
