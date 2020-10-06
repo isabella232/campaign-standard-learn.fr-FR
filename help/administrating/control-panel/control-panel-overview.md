@@ -47,7 +47,7 @@ Vous devez connaître votre [!DNL IMS org ID]. La vidéo ci-dessous montre où v
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*Vérification[!DNL IMS Org ID](00:26 min)*
+*Vérification [!DNL IMS Org ID] (00:26 min)*
 
 ### Droits d’administrateur
 
@@ -56,7 +56,7 @@ La vidéo ci-dessous explique comment ajouter un administrateur à une instance 
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*Comment ajouter un administrateur au profil produit « [!UICONTROL Administrateurs] » pour pouvoir utiliser le[!UICONTROL panneau de contrôle](01:03 min)*
+*Comment ajouter un administrateur au profil produit « [!UICONTROL Administrateurs] » pour pouvoir utiliser le [!UICONTROL panneau de contrôle] (01:03 min)*
 
 ## Tutoriels sur le panneau de contrôle
 
