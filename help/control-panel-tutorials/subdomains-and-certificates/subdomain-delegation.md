@@ -1,17 +1,18 @@
 ---
 title: Délégation de sous-domaines
 description: Le panneau de contrôle d’Adobe Campaign vous permet de déléguer entièrement un sous-domaine à Adobe Campaign. Pour ce faire, suivez les étapes ci-après.
-feature: Control Panel
+feature: Subdomains and certificates
 topics: null
 kt: 4115
+thumbnail: 31390.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: e4cfb5ed1118cda9e545d84e51adb8e5bede324e
+source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 71%
+ht-degree: 81%
 
 ---
 
@@ -26,14 +27,14 @@ Le [!UICONTROL panneau de contrôle] d’Adobe Campaign vous permet de délégue
 
 ## Accès à la gestion des sous-domaines dans le [!UICONTROL panneau de contrôle]
 
-To access the [!UICONTROL Subdomain Management] in [!UICONTROL Control Panel], go to:
+Pour accéder à la [!UICONTROL gestion des sous-domaines] dans le [!UICONTROL panneau de contrôle], accédez à :
 
 * [Accueil Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Sélecteur de solution] : [!DNL Campaign] > Carte **[!UICONTROL Panneau de contrôle]** > Carte **[!UICONTROL Sous-domaines et certificats]**
 
    ou
 * Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## Comment déléguer des sous-domaines
+## Déléguer des sous-domaines
 
 La vidéo ci-dessous montre comment déléguer des sous-domaines.
 
