@@ -2,13 +2,14 @@
 title: 'Vérification de l''état d''une tâche d''assimilation de données '
 description: Découvrez comment vérifier l’état et modifier le mappage des données.
 feature: Adobe Experience Platform Data Connector
-topics: ACoP
+topics: null
+audience: administrator
 kt: 2831
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 8%
