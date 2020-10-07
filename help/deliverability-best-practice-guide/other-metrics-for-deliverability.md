@@ -8,7 +8,7 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 7aa32d583ac2ea756945a17634fb477d7b94cb7f
+source-git-commit: 6e4824185b84715d514bf21aace9e57c602e970d
 workflow-type: tm+mt
 source-wordcount: '1367'
 ht-degree: 1%
@@ -46,7 +46,8 @@ Les rebonds à la baisse sont des échecs temporaires que les FAI génèrent lor
 >[!NOTE]
 >
 >Les rebonds sont un indicateur clé d’un problème de réputation car ils peuvent mettre en évidence une source de données incorrecte (rebond) ou un problème de réputation avec un fournisseur de services Internet (rebond en douceur).
-Les retours à l’écran se produisent souvent dans le cadre de l’envoi d’un courrier électronique et doivent être autorisés à résoudre ce problème pendant le traitement de la nouvelle tentative avant de le caractériser comme un véritable problème de délivrabilité. Si votre taux de rebonds en douceur est supérieur à 30 % pour un seul FAI et que vous ne résolvez pas le problème dans les 24 heures, il est recommandé de s’inquiéter auprès de votre consultant en livrabilité Adobe Campaign.
+>
+>Les retours à l’écran se produisent souvent dans le cadre de l’envoi d’un courrier électronique et doivent être autorisés à résoudre ce problème pendant le traitement de la nouvelle tentative avant de le caractériser comme un véritable problème de délivrabilité. Si votre taux de rebonds en douceur est supérieur à 30 % pour un seul FAI et que vous ne résolvez pas le problème dans les 24 heures, il est recommandé de s’inquiéter auprès de votre consultant en livrabilité Adobe Campaign.
 
 ## Plaintes
 
@@ -54,7 +55,7 @@ Les plaintes sont enregistrées lorsqu’un utilisateur indique qu’un courriel
 
 ### plainte de fournisseur
 
-La plupart des FAI de niveau 1 et certains FAI de niveau 2 fournissent une méthode de rapports antispam à leurs utilisateurs, car les processus d&#39;exclusion et de désabonnement ont été utilisés de manière malveillante dans le passé pour valider une adresse électronique. adobe campaign reçoit ces plaintes via les FBL des FAI. Ceci est établi pendant le processus de configuration pour tous les FAI qui fournissent des FBL et permet à Adobe Campaign d&#39;ajouter automatiquement des adresses électroniques qui se sont plaintes à la table de quarantaines pour suppression. Les pics de plaintes des fournisseurs de services Internet peuvent être un indicateur de la mauvaise qualité des listes, des méthodes de collecte de listes moins qu&#39;optimales ou des politiques d&#39;engagement déficientes. Ils sont également souvent notés lorsque le contenu n’est pas pertinent.
+La plupart des FAI de niveau 1 et certains FAI de niveau 2 fournissent une méthode de rapports antispam à leurs utilisateurs, car les processus d&#39;exclusion et de désabonnement ont été utilisés de manière malveillante dans le passé pour valider une adresse électronique. Adobe Campaign reçoit ces plaintes via les FBL des FAI. Ceci est établi pendant le processus de configuration pour tous les FAI qui fournissent des FBL et permet à Adobe Campaign d&#39;ajouter automatiquement des adresses électroniques qui se sont plaintes à la table de quarantaines pour suppression. Les pics de plaintes des fournisseurs de services Internet peuvent être un indicateur de la mauvaise qualité des listes, des méthodes de collecte de listes moins qu&#39;optimales ou des politiques d&#39;engagement déficientes. Ils sont également souvent notés lorsque le contenu n’est pas pertinent.
 
 ### Réclamations de tiers
 
