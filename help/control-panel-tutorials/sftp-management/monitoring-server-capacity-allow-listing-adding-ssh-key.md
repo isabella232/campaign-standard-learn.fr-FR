@@ -3,12 +3,13 @@ title: Surveillance de la capacité du serveur, ajout d’adresses IP aux listes
 description: Le panneau de contrôle permet de surveiller et de gérer votre espace de stockage SFTP par instance et d’ajouter des adresses IP aux listes autorisées.
 feature: Control Panel
 topics: null
+audience: administrator
 kt: 3266
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 356e9e4b43b0f192782fc28473be87005b9d2921
+source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 100%
