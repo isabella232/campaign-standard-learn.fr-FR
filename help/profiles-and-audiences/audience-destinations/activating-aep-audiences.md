@@ -8,7 +8,7 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 6%
@@ -27,6 +27,7 @@ ht-degree: 6%
 Cette vidéo explique comment activer l’Audience [!UICONTROL de Requête] Data Services dans un flux de travail à l’aide de l’activité d’Audience [!UICONTROL de] lecture.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
+
 *Activation d’une audience Adobe Experience Platform dans un processus (02:37 min)*
 
 ## Autres ressources
