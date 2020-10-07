@@ -1,5 +1,5 @@
 ---
-title: 'Envoyer comme message In-App de diffusion '
+title: 'Diffuser un message In-App '
 description: La diffusion d’un modèle de message intégré permet de cible à tous les utilisateurs de votre application mobile avec Adobe Campaign Standard (ACS).
 feature: In-App
 topics: Mobile
@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 6%
@@ -16,7 +16,7 @@ ht-degree: 6%
 ---
 
 
-# Envoyer comme message In-App de diffusion
+# Diffuser un message In-App
 
 Vous pouvez diffuser un message intégré, ciblant tous les utilisateurs d’une application mobile, que Adobe Campaign dispose ou non de leurs informations de profil. Pour diffuser un message, vous devez utiliser la **[!UICONTROL Cible pour tous les utilisateurs d’un modèle]** d’application mobile lors de la configuration du message intégré.
 
@@ -26,7 +26,8 @@ Voici quelques-uns des cas d&#39;utilisation pertinents de cette catégorie :
 * Annonces pour les nouvelles fonctionnalités
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
-*Création d’un message intégré à la diffusion à l’aide d’une propriété[!UICONTROL SDKV5 Mobile ]*
+
+*Création d’un message intégré à la diffusion à l’aide d’une propriété[!UICONTROL SDKV5 Mobile]*
 
 ## Autres ressources
 
