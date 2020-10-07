@@ -1,18 +1,19 @@
 ---
 title: Prise en main du Panneau de Contrôle
-description: Le Panneau de Contrôle permet aux administrateurs de Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches d’administration, telles que la gestion de l’enregistrement SFTP par instance, la gestion des clés GPG ou des sous-domaines et certificats.
+description: Cet article explique comment accéder au Panneau de Contrôle et quelles sont les conditions préalables pour pouvoir travailler avec le panneau de contrôle.
 feature: Control Panel
 topics: Control Panel
+audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg
 doc-type: feature video
-activity: use
+activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 61%
+source-wordcount: '241'
+ht-degree: 57%
 
 ---
 
@@ -24,6 +25,8 @@ ht-degree: 61%
 >The terms ‘[!UICONTROL whitelist]’ and ‘[!UICONTROL blacklist]’ have been replaced by ‘[!UICONTROL allowlist]’ and ‘[!UICONTROL denylist]’ in the Adobe Campaign documentation. Certaines occurrences de ces termes peuvent toujours figurer dans l’interface utilisateur du produit, les noms d’option, le code interne, ainsi que dans les tutoriels vidéo. Ils seront remplacés dans les prochaines versions du panneau de contrôle.
 
 The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+
+Cet article explique comment accéder au Panneau de Contrôle et quelles sont les conditions préalables pour pouvoir travailler avec le panneau de contrôle.
 
 ## Accès au [!UICONTROL panneau de contrôle]
 
@@ -47,8 +50,6 @@ Avant de commencer, remplissez les conditions préalables suivantes :
 Vous devez connaître votre [!DNL IMS org ID]. La vidéo ci-dessous montre où vous pouvez trouver l’[!DNL IMS org ID] de votre instance.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-
-*Vérification[!DNL IMS Org ID](00:26 min)*
 
 ### Droits d’administrateur
 
