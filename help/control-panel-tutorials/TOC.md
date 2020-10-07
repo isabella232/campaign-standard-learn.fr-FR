@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: panneau de contrôle Tutorials
+user-guide-title: Panneau de Contrôle Tutorials
 user-guide-description: Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or allow list IP addresses.
 breadcrumb-title: Control Panel Tutorials
 solution-title: Experience League
@@ -12,7 +12,7 @@ getting-started-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 9877dad05963e28c29f27cd0e8b8f0c1cc04c2a2
+source-git-commit: 9e1a79692d12189657e21ea728ace94ff0403840
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 85%
@@ -25,9 +25,9 @@ ht-degree: 85%
 + [Vue d’ensemble du panneau de contrôle](/help/control-panel-tutorials/control-panel-overview.md)
 + [Prise en main du Panneau de Contrôle](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + Gestion SFTP {#sftp-management}
+   + [Génération d’une clé SSH](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Connexion à un serveur SFTP](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
    + [Surveillance de la capacité du serveur, ajout d’adresses IP aux listes autorisées et ajout de clés SSH](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-   + [Génération d’une clé SSH](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
 + Sous-domaines et certificats {#subdomains-and-certificates}
    + [Délégation de sous-domaines](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [Ajout de certificats SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
