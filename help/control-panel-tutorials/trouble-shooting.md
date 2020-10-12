@@ -49,7 +49,7 @@ l’administrateur doit ajouter l’utilisateur au profil de produit `Campaign-x
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*Vérification[!DNL IMS Org ID](00:26 min)*
+*Vérification [!DNL IMS Org ID] (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
