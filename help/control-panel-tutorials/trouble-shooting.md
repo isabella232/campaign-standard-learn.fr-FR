@@ -53,7 +53,7 @@ l’administrateur doit ajouter l’utilisateur au profil de produit `Campaign-x
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*Comment ajouter un administrateur au[!UICONTROL profil de produit]*[!DNL administrators]*pour pouvoir utiliser le[!UICONTROL panneau de contrôle](01:03 min)*
+*Comment ajouter un administrateur au [!UICONTROL profil de produit]* [!DNL administrators] *pour pouvoir utiliser le [!UICONTROL panneau de contrôle] (01:03 min)*
 
 ### Documentation utile
 
