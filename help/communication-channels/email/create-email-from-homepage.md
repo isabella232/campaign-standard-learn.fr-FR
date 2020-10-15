@@ -1,6 +1,6 @@
 ---
 title: Créez une diffusion email
-description: 'La création d''un email est possible au sein d''une campagne, à partir de la page d''accueil Adobe Campaign ou dans la liste des activités marketing. Vous avez également la possibilité de créer des diffusions email uniques et récurrentes depuis un workflow. Cette vidéo explique comment créer une diffusion de courriel à partir de la page d''accueil. '
+description: 'Il est possible de créer un email à partir d’une campagne, depuis la page d’accueil d’Adobe Campaign ou la liste des activités marketing. Il est également possible de créer des emails à envoi unique ou récurrent à partir d’un workflow. Cette vidéo explique comment créer une distribution d’emails depuis la page d’accueil. '
 feature: Email
 topics: null
 kt: 1807
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 38%
+ht-degree: 52%
 
 ---
 
@@ -26,6 +26,6 @@ Cette vidéo explique comment créer une diffusion de messagerie autonome à par
 
 ## Autres ressources
 
-* [Créer et envoyer des courriers électroniques via un processus](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
+* [Créer et envoyer des emails via un workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
 * [Création d’un courrier électronique (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
 * [Bonnes pratiques de diffusion](https://docs.campaign.adobe.com/doc/standard/getting_started/fr/ACS_DeliveryBestPractices.html)
