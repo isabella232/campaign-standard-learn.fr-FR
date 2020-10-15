@@ -11,10 +11,10 @@ getting-started-title: Documentation
 getting-started-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: c1717885f4221f2323c8a580c718c17ffd4269e4
+source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 97%
+source-wordcount: '497'
+ht-degree: 96%
 
 ---
 
@@ -106,7 +106,7 @@ ht-degree: 97%
       + [Création de ressources personnalisées](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Administration {#administrating}
    + [Gestion des droits d’accès des utilisateurs](/help/administrating/managing-user-access-rights.md)
-   + [Panneau de contrôle](/help/control-panel-tutorials/control-panel-overview.md)
+   + [Panneau de contrôle](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [Présentation d’Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mapping des ressources personnalisées](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
