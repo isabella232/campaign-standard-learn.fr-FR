@@ -3,7 +3,7 @@ title: Tutoriels sur Adobe Campaign Standard - Présentation
 description: Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l’orchestration visuelle de campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d’Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
+source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 98%
@@ -11,7 +11,7 @@ ht-degree: 98%
 ---
 
 
-# adobe campaign standard - Présentation
+# Adobe Campaign Standard - Présentation
 
 Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l’orchestration visuelle de campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide d’utilisation contient des vidéos et des tutoriels sur les nombreuses fonctionnalités et capacités d’Adobe Campaign Standard.
 
@@ -19,7 +19,7 @@ Adobe Campaign offre une plate-forme pour concevoir des expériences client cro
 
 * **[Ajout de populations témoins à une diffusion](/help/communication-channels/email/control-groups.md)**
 
-   *Découvrez comment créer une[!UICONTROL population témoin]lors de la définition de la cible de votre diffusion.*
+   *Découvrez comment créer une [!UICONTROL population témoin] lors de la définition de la cible de votre diffusion.*
 
 * **[Optimisation de l’heure d’envoi prédictive](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
@@ -47,11 +47,11 @@ Adobe Campaign offre une plate-forme pour concevoir des expériences client cro
     <p>
   </td>
    <td>
-    <a href="./administrating/control-panel/control-panel-overview.md">
+    <a href="./control-panel-tutorials/control-panel-overview.md">
       <img alt="Panneau de contrôle (vidéos)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="./administrating/control-panel/control-panel-overview.md">
+    <a href="./control-panel-tutorials/control-panel-overview.md">
     <strong>Panneau de contrôle (vidéos)</strong>
     </a>
     </div>
