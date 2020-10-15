@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Panneau de Contrôle Tutorials
+user-guide-title: Tutoriels sur le panneau de contrôle d’Adobe Campaign
 user-guide-description: Panneau de Contrôle permet aux administrateurs de Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, telles que la gestion de l’enregistrement SFTP par instance ou les adresses IP de liste autorisée.
 breadcrumb-title: Tutoriels sur le panneau de contrôle
 solution-title: Experience League
@@ -12,18 +12,18 @@ getting-started-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 8e6298c9d6fc7989b5296dc0fbea2ebeffc337a6
+source-git-commit: d2f63c27e950cffa354c7b4722546afd7c96d05e
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 61%
+ht-degree: 73%
 
 ---
 
 
-# Adobe Campaign Control Panel Tutorials {#control-panel}
+# Tutoriels sur le panneau de contrôle d’Adobe Campaign {#control-panel}
 
 + [Vue d’ensemble du panneau de contrôle](/help/control-panel-tutorials/control-panel-overview.md)
-+ [Prise en main du Panneau de Contrôle](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
++ [Prise en main du panneau de contrôle](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + Gestion SFTP {#sftp-management}
    + [Surveillance de la capacité du serveur](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [Ajouter une plage d&#39;adresses IP à la liste autorisée](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
@@ -35,8 +35,8 @@ ht-degree: 61%
    + [Gestion des enregistrements TXT Google](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Paramètres des instances {#instance-settings}
    + Gestion des clés GPG {#gpg-key-management}
-   + [Gestion des clés GPG - Présentation](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-   + [Génération et installation de clés GPG pour le cryptage des données](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-   + [Utilisation d’une clé GPG pour crypter des données](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-   + [Décryptage des données](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+      + [Gestion des clés GPG - Présentation](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+      + [Génération et installation de clés GPG pour le cryptage des données](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+      + [Utilisation d’une clé GPG pour crypter des données](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+      + [Décryptage des données](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + [Résolution des problèmes du panneau de contrôle](/help/control-panel-tutorials/trouble-shooting.md)
