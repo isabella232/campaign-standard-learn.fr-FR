@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 747aa1610f29a9a9409091169c7b398523dd1f77
+source-git-commit: f120eaf237378db3ddd5833930c0222ee028941d
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 100%
@@ -68,7 +68,7 @@ La connexion aux serveurs SFTP requiert :
 * Une paire de clés privée/publique qui doit être enregistrée auprès d’Adobe Campaign.
 * Si vous vous connectez directement au serveur SFTP, vous aurez également besoin d’un logiciel client SFTP.
 
-### Documentation utile
+### Documentation utile {#helpful-docs}
 
 * [Connexion à votre serveur SFTP](https://docs.adobe.com/content/help/fr-FR/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 
