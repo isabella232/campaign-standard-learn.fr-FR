@@ -1,6 +1,6 @@
 ---
 title: Prise en main des notifications Push avec l’application Android
-description: Ce didacticiel décrit les étapes nécessaires à l'envoi de notifications Push en provenance d'Adobe Campaign et à la réception de ces notifications dans votre application Android.
+description: Ce tutoriel vous guidera tout au long des étapes nécessaires à l’envoi de notifications « push » par Adobe Campaign et à la réception de ces notifications dans votre application Android.
 feature: Push
 topics: Mobile
 kt: 3846
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 22%
+ht-degree: 46%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 22%
 
 Adobe Campaign vous permet d’envoyer des notifications push personnalisées et segmentées à des appareils mobiles iOS et Android.
 Ces messages sont reçus sur des applications mobiles que vous configurez dans Adobe Campaign à l&#39;aide des SDK V4 ou Experience Platform.
-Ce didacticiel décrit les étapes nécessaires à l&#39;envoi de notifications Push en provenance d&#39;Adobe Campaign et à la réception de ces notifications dans votre application Android.
+Ce tutoriel vous guidera tout au long des étapes nécessaires à l’envoi de notifications « push » par Adobe Campaign et à la réception de ces notifications dans votre application Android.
 
 ## Conditions préalables requises
 
