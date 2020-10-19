@@ -3,10 +3,10 @@ title: Tutoriels sur Adobe Campaign Standard - Présentation
 description: Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l’orchestration visuelle de campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d’Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 94%
+source-wordcount: '262'
+ht-degree: 85%
 
 ---
 
@@ -17,17 +17,9 @@ Adobe Campaign offre une plate-forme pour concevoir des expériences client cro
 
 ## Nouveautés
 
-* **[Ajout de populations témoins à une diffusion](/help/communication-channels/email/control-groups.md)**
+* **[Délégation de sous-domaines à l’aide de CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Découvrez comment créer une [!UICONTROL population témoin] lors de la définition de la cible de votre diffusion.*
-
-* **[Optimisation de l’heure d’envoi prédictive](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
-
-   *Identifiez les workflows nécessaires pour synchroniser les données entre Adobe Campaign et le modèle Journey AI. Découvrez comment afficher des scores d’heure d’envoi au niveau du profil individuel et comment exécuter des diffusions email à l’aide d&#39;une formule d’heure d’envoi.*
-
-* **[Score prédictif de l’engagement](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
-
-   *Découvrez comment afficher les scores d’engagement au niveau du profil individuel, utiliser les scores pour cibler les utilisateurs engagés et supprimer les utilisateurs fatigués, et créer des règles de typologie pour gérer la fatigue des clients.*
+   *Découvrez comment configurer et envoyer un sous-domaine à l’aide de CNAME dans le Panneau de Contrôle.*
 
 ## Suggestions du personnel
 
