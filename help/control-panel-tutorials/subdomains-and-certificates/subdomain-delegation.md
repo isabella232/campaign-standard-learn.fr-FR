@@ -1,5 +1,5 @@
 ---
-title: Délégation de sous-domaines
+title: Délégation complète de sous-domaine
 description: Le panneau de contrôle d’Adobe Campaign vous permet de déléguer entièrement un sous-domaine à Adobe Campaign. Pour ce faire, suivez les étapes ci-après.
 feature: Subdomains and certificates
 topics: null
@@ -10,15 +10,15 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '137'
 ht-degree: 81%
 
 ---
 
 
-# Délégation de sous-domaines
+# Délégation complète de sous-domaine
 
 Le [!UICONTROL panneau de contrôle] d’Adobe Campaign vous permet de déléguer entièrement un sous-domaine à Adobe Campaign.
 
