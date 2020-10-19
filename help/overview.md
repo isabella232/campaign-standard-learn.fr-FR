@@ -6,12 +6,12 @@ translation-type: tm+mt
 source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
 source-wordcount: '262'
-ht-degree: 85%
+ht-degree: 86%
 
 ---
 
 
-# Adobe Campaign Standard - Présentation
+# Adobe Campaign Standard - Présentation
 
 Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l’orchestration visuelle de campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide d’utilisation contient des vidéos et des tutoriels sur les nombreuses fonctionnalités et capacités d’Adobe Campaign Standard.
 
