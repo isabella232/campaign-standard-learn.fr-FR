@@ -14,7 +14,7 @@ translation-type: tm+mt
 source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
 workflow-type: tm+mt
 source-wordcount: '497'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -36,10 +36,10 @@ ht-degree: 96%
    + [Marketing mobile avec Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Évoluer avec Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 + Profils et audiences {#profiles-and-audiences}
-   + [Création de profils et d&#39;audiences - Présentation](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [Création de profils et d’audiences - Présentation](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Créer un profil](/help/profiles-and-audiences/creating-a-profile.md)
    + [Créer un profil de test](/help/profiles-and-audiences/test-profiles.md)
-   + [Importation de profils avec un processus](/help/managing-processes-and-data/importing-profiles.md)
+   + [Importation des profils avec un workflow](/help/managing-processes-and-data/importing-profiles.md)
    + [Gérer les services et les abonnements](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Audience Destinations (version bêta){#audience-destinations}
       + [Présentation](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
