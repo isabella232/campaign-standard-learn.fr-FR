@@ -1,6 +1,6 @@
 ---
-title: Panneau de contrôle - Présentation
-description: Le Panneau de Contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, telles que la gestion de l’enregistrement SFTP par instance, la gestion des clés GPG ou des sous-domaines et certificats.
+title: Panneau de contrôle  - Présentation
+description: Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
 feature: Control Panel
 topics: Control Panel
 audience: administrator
@@ -9,30 +9,22 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 25%
+source-wordcount: '197'
+ht-degree: 90%
 
 ---
 
-# Panneau de Contrôle - Présentation
+# Panneau de contrôle - Présentation
 
-Le Panneau de Contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, telles que la gestion de l’enregistrement SFTP par instance, la gestion des clés GPG ou des sous-domaines et certificats.
+Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
 
 ## Nouveautés
 
-* **[Génération et installation de clés GPG pour le cryptage des données](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)**
+* **[Délégation de sous-domaines à l’aide de CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Découvrez comment générer une paire de clés GPG publique/privée et installer la clé publique dans le[!UICONTROL Panneau de Contrôle]pour pouvoir chiffrer les données avant de les envoyer à partir de votre instance.*
-
-* **[Utilisation d’une clé GPG pour crypter des données](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)**
-
-   *[!UICONTROL Découvrez comment exporter des données à l’aide d’une clé GPG installée sur le panneau de contrôle].*
-
-* **[Décryptage des données](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)**
-
-   *Découvrez comment créer une clé publique et l’importer et l’installer sur une instance[!UICONTROL Campaign]pour le déchiffrement des données entrantes.*
+   *Découvrez comment configurer et envoyer un sous-domaine à l’aide de CNAME dans le Panneau de Contrôle.*
 
 ## Sélections du personnel
 
@@ -40,11 +32,11 @@ Le Panneau de Contrôle Adobe Campaign permet aux administrateurs Adobe Campaign
 <tr>
   <td>
     <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
-      <img alt="Délégation de sous-domaines à l’Adobe Campaign (vidéo)" src="./assets/31390.jpg"/>
+      <img alt="Délégation de sous-domaines à Adobe Campaign (vidéo)" src="./assets/31390.jpg"/>
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Délégation de sous-domaines à l’Adobe Campaign (vidéo)</strong>
+    <strong>Délégation de sous-domaines Adobe Campaign (vidéo)</strong>
     </a>
     </div>
     <p>
@@ -53,20 +45,20 @@ Le Panneau de Contrôle Adobe Campaign permet aux administrateurs Adobe Campaign
   </td>
    <td>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-      <img alt="Gestion des enregistrements Google TXT (vidéos)" src="./assets/32369.jpg" />
+      <img alt="Gestion des enregistrements TXT Google (vidéos)" src="./assets/32369.jpg" />
     </a>
     <div>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-    <strong>Gestion des enregistrements Google TXT (vidéos)</strong>
+    <strong>Gestion des enregistrements TXT Google(vidéos)</strong>
     </a>
     </div>
     <p>
-    <em> Découvrez comment ajouter des enregistrements de vérification de site Google TXT à tous les sous-domaines utilisés pour envoyer des courriers électroniques aux adresses GMAIL avec Campaign Panneau de Contrôle.</em>
+    <em> Découvrez comment ajouter des enregistrements de vérification de site TXT Google à tous les sous-domaines utilisés pour envoyer des emails aux adresses GMAIL grâce au panneau de contrôle Campaign.</em>
     <p>
   </td>
   <td>
     <a href="./sftp-management/connect-to-sftp-server.md">
-      <img alt="Connexion à un serveur SFTP" src="./assets/27263.jpg" />
+      <img alt="Se connecter à un serveur SFTP" src="./assets/27263.jpg" />
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
@@ -74,7 +66,7 @@ Le Panneau de Contrôle Adobe Campaign permet aux administrateurs Adobe Campaign
     </a>
     </div>
     <p>
-    <em>Découvrez comment vous connecter à votre serveur SFTP à l’aide d’une application SFTP client à l’aide des clés que vous avez stockées dans le Panneau de Contrôle. </em>
+    <em>Découvrez comment se connecter à un serveur SFTP à l’aide d’une application SFTP cliente, avec les clés que vous avez stockées dans le panneau de contrôle. </em>
     <p>
   </td>
 </tr>
