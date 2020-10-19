@@ -1,34 +1,34 @@
 ---
-title: Modification des ressources personnalisées lors de la configuration d’Adobe Campaign Standard (ACS) pour les demandes de confidentialité
-description: Lors de la configuration d’Adobe Campaign Standard (ACS) pour gérer les demandes de confidentialité, vous devez vous assurer que toutes les données personnalisées liées à un profil sont supprimées lorsque le profil est supprimé. Cette vidéo explique comment modifier vos ressources personnalisées afin de répondre à cette exigence.
+title: Modification des ressources personnalisées lors de la configuration d’Adobe Campaign Standard (ACS) pour les demandes d’accès à des informations personnelles
+description: Lors de la configuration d’Adobe Campaign Standard (ACS) pour gérer les demandes d’accès à des informations personnelles, vous devez vous assurer que toutes les données personnalisées liées à un profil sont supprimées lorsque le profil est supprimé. Cette vidéo explique comment modifier les ressources personnalisées pour répondre à cette exigence.
 feature: GDPR, CCPA
 topic: null
 kt: 1243
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '199'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
 
 # Modification des ressources personnalisées pour les demandes d’accès à des informations personnelles
 
-Lors de la configuration d’Adobe Campaign Standard pour gérer les demandes de confidentialité, vous devez vous assurer que toutes les données personnalisées liées à un profil sont supprimées lorsque le profil est supprimé. Cette vidéo explique comment modifier vos ressources personnalisées afin de répondre à cette exigence.
+Lors de la configuration d’Adobe Campaign Standard pour gérer les demandes d’accès à des informations personnelles, vous devez vous assurer que toutes les données personnalisées liées à un profil sont supprimées lorsque le profil est supprimé. Cette vidéo explique comment modifier les ressources personnalisées pour répondre à cette exigence.
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&captions=fre_fr)
 
 >[!NOTE]
 >
 >**Droit d’opposition (opt-out) à la vente des informations personnelles (CCPA)**
 >
->À partir de la version 19.4, un champ d’exclusion de l’ACCP est fourni prêt à l’emploi dans l’interface et l’API Campaign. Pour la version 19.3, pour tirer parti de ces informations, vous devez créer ce champ >en Adobe Campaign Standard. Please see the [detailed documentation](https://helpx.adobe.com/fr/campaign/kb/acs-privacy.html#ccpa) for more information.
+>À compter de la version 19.4, le champ Option d’Opt-out du CCPA est fourni dans l’API et l’interface de Campaign. Avec la version 19.3, pour exploiter ces informations, vous devez créer ce >champ dans Adobe Campaign Standard. Pour plus d’informations, voir la [documentation détaillée](https://helpx.adobe.com/fr/campaign/kb/acs-privacy.html#ccpa).
 >
-> Vous pouvez vérifier votre version en cliquant sur ? en haut à droite de l’interface et en sélectionnant A propos.
+> Vous pouvez vérifier votre version en cliquant sur l’icône en forme de point d’interrogation (?) en haut à droite de l’interface et en sélectionnant À propos.
 
 ## Autres ressources
 
