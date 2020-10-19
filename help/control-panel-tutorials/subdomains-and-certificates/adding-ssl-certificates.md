@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 57%
+source-wordcount: '219'
+ht-degree: 56%
 
 ---
 
@@ -61,5 +61,5 @@ La vidéo ci-dessous montre comment installer des certificats SSL dans le [!UICO
 
 ## Autres ressources
 
-* [Délégation de sous-domaines](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+* [Délégation de sous-domaine complète (vidéo)](./subdomain-delegation.md)
 * [Sous-domaines et certificats - Documentation](https://docs.adobe.com/content/help/fr-FR/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
