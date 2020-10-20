@@ -1,5 +1,5 @@
 ---
-title: Prise en main de Adobe Campaign Standard
+title: Prise en main d’Adobe Campaign Standard
 description: Cette vidéo donne un aperçu de l’interface utilisateur d’Adobe Campaign Standard ainsi que des fonctionnalités clés et des fonctions de base.
 feature: User Interface
 topics: null
@@ -11,18 +11,18 @@ translation-type: tm+mt
 source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
 
-# Prise en main de Adobe Campaign Standard
+# Prise en main d’Adobe Campaign Standard
 
 Adobe Campaign Standard est un puissant outil de gestion de campagnes cross-canal. Il peut vous aider à aligner vos stratégies en ligne et hors ligne pour créer des expériences client personnalisées.
 
-Il vous permet de contrôler l’ensemble du processus de création, d’exécution et de tracking des campagnes cross-canal, ainsi que l’envoi de messages personnalisés en fonction du profil, du comportement, des préférences et des besoins des clients. Vous pouvez facilement orchestrer, modéliser et automatiser l’ensemble du processus marketing et l’intégrer à d’autres solutions d’Adobe.
+Il vous permet de contrôler l’ensemble du processus de création, d’exécution et de tracking des campagnes cross-canal, ainsi que l’envoi de messages personnalisés en fonction du profil, du comportement, des préférences et des besoins des clients. Vous pouvez orchestrer, modéliser et automatiser facilement l’ensemble du processus marketing et intégrer Adobe Campaign à d’autres solutions Adobe.
 
-Une série de vidéos didacticielles vous aide à commencer à utiliser l’Adobe Campaign Standard :
+Une série de tutoriels vidéo vous aide à prendre en main Adobe Campaign Standard :
 
 * [Présentation d’Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
 * [Prise en main de l’interface utilisateur](/help/getting-started/getting-started-with-the-ui.md)
@@ -38,4 +38,4 @@ Une série de vidéos didacticielles vous aide à commencer à utiliser l’Adob
 
 ## Autres ressources
 
-* [Documentation - Commencer avec Adobe Campaign Standard](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/about-campaign-standard.html)
+* [Documentation- Prise en main d’Adobe Campaign Standard](https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/getting-started/about-campaign-standard.html)
