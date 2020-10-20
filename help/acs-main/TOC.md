@@ -13,8 +13,8 @@ type: Tutorial
 translation-type: tm+mt
 source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 98%
+source-wordcount: '521'
+ht-degree: 94%
 
 ---
 
@@ -123,3 +123,5 @@ ht-degree: 98%
    + [Modification des ressources personnalisées pour les demandes d’accès à des informations personnelles](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Création et suivi manuels des demandes d’accès à des informations personnelles](/help/privacy/create-and-track-privacy-requests.md)
    + [Exécution de demandes d’accès à des informations personnelles](/help/privacy/execute-privacy-requests.md)
++ [Guide des meilleures pratiques en matière de délivrabilité Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
++ [Panneau de contrôle](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
