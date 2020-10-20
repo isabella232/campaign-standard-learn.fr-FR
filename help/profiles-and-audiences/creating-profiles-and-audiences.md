@@ -1,5 +1,5 @@
 ---
-title: Création de profils et d'audiences - Présentation
+title: Création de profils et d’audiences - Présentation
 description: Découvrez comment accéder aux profils existants dans Adobe Campaign Standard et comment créer des profils et des audiences.
 feature: Profiles and Audiences
 topics: null
@@ -11,12 +11,12 @@ translation-type: tm+mt
 source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 25%
+ht-degree: 36%
 
 ---
 
 
-# Création de profils et d&#39;audiences - Présentation
+# Création de profils et d’audiences - Présentation
 
 L&#39;Adobe Campaign a deux types ou profils :
 
