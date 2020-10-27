@@ -1,7 +1,7 @@
 ---
 product: adobe campaign standard
 user-guide-title: Tutoriels sur le panneau de contrôle d’Adobe Campaign
-user-guide-description: Panneau de Contrôle permet aux administrateurs de Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, telles que la gestion de l’enregistrement SFTP par instance ou les adresses IP de liste autorisée.
+user-guide-description: Le panneau de contrôle permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance ou ajouter des adresses IP aux listes autorisées.
 breadcrumb-title: Tutoriels sur le panneau de contrôle
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -9,13 +9,12 @@ tutorials-title: Tutoriels
 tutorials-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentation
 getting-started-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/campaign-standard-home.html
-type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: ab38f860429da19c662bacb68c04d9c166422782
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -26,11 +25,11 @@ ht-degree: 68%
 + [Prise en main du panneau de contrôle](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + Gestion SFTP {#sftp-management}
    + [Surveillance de la capacité du serveur](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
-   + [Ajouter une plage d&#39;adresses IP à la liste autorisée](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
+   + [Ajout d’une plage d’adresses IP à la liste autorisée](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [Génération d’une clé SSH](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Connexion à un serveur SFTP](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Sous-domaines et certificats {#subdomains-and-certificates}
-   + [Délégation de sous-domaine complète (bêta)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [Délégation complète de sous-domaines (bêta)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [Délégation de sous-domaines à l’aide de CNAME (bêta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [Ajout de certificats SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Gestion des enregistrements TXT Google](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
