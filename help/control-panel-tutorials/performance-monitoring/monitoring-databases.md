@@ -10,19 +10,19 @@ audience: administrator
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 68324e2e234b3c98e9cc2cd8400a03d272306093
+source-git-commit: da28f90f376f867e861194f828493fc66cc604e4
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 3%
+source-wordcount: '86'
+ht-degree: 2%
 
 ---
 
 
 # Surveillance des bases de données
 
-Les bases de données des [!DNL Adobe Campaign] instances incluent tous les actifs, workflows et données stockés dans [!DNL Adobe Campaign]. Il est donc essentiel de surveiller les bases de données de vos instances pour garantir des performances optimales.
+Tous les actifs, workflows et données de votre instance Campaign sont stockés dans la base de données. La base de données atteignant sa capacité maximale peut entraîner des problèmes avec votre instance (impossibilité de se connecter, d&#39;envoyer des courriers électroniques, etc.). Il est donc essentiel de surveiller régulièrement les bases de données de vos instances pour garantir des performances optimales.
 
-Découvrez comment contrôler l’utilisation de la base de données de vos instances à l’aide du [!DNL Control Panel].
+Découvrez comment contrôler l’utilisation de la base de données de vos instances avec le [!DNL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
