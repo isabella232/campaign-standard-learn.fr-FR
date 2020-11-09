@@ -1,5 +1,5 @@
 ---
-title: Panneau de contrôle   - Présentation
+title: Panneau de contrôle    - Présentation
 description: Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
 feature: Control Panel
 topics: Control Panel
@@ -8,11 +8,11 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 68324e2e234b3c98e9cc2cd8400a03d272306093
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '209'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campai
 
 ## Nouveautés
 
-* **[Surveillance des bases de données](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+* **[Monitoring des bases de données](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
    *Découvrez comment surveiller l’utilisation de la base de données de vos instances.*
 
