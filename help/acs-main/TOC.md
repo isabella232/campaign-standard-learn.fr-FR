@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard-learn
 getting-started-title: Documentation
 getting-started-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 40cd637d2b80670b6e24047c39300470e4ffe2f1
+source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 98%
+source-wordcount: '502'
+ht-degree: 96%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 98%
    + [Gérer les campagnes](/help/getting-started/managing-campaigns.md)
    + [Comprendre les profils et les audiences](/help/getting-started/understanding-profiles-and-audiences.md)
    + [Créer un email](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-   + [Créer un workflow](/help/managing-processes-and-data/create-workflow.md)
+   + [Créer un workflow](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/creating-a-workflow.html)
    + [Présentation du reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Marketing mobile avec Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Évoluer avec Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
@@ -90,7 +90,7 @@ ht-degree: 98%
       + [Création de contenu à l’aide d’Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Configurer les listes de produits dans les emails transactionnels](/help/designing-content/product-listings-in-transactional-email.md)
 + Gestion des processus et des données {#managing-processes-and-data}
-   + [Créer un workflow](/help/managing-processes-and-data/create-workflow.md)
+   + [Créer un workflow](/help/managing-processes-and-data/creating-a-workflow.md)
    + Activités d’exécution {#execution-activities}
       + [Activité Signal externe](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Activités de Data Management {#data-management-activities}
