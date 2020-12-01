@@ -3,13 +3,14 @@ title: Présentation du Concepteur d'email
 description: Cette vidéo explique les fonctionnalités générales du Concepteur d’email et comment créer entièrement un email. Cette page répertorie toutes les vidéos de présentation disponibles pour le Concepteur d’email d’Adobe Campaign.
 feature: Email Designer
 topics: Content Creation
-kt: null
+kt: 1402
+thumbnail: 22771.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 100%
 
@@ -22,7 +23,7 @@ Le [!UICONTROL Concepteur d’email] permet la création visuelle rapide et simp
 
 Cette vidéo donne un aperçu général des fonctionnalités et de l’utilisation du [!UICONTROL Concepteur d’email] d’Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 
 ## Tutoriels
 
