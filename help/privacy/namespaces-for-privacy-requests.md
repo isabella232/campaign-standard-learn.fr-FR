@@ -4,19 +4,20 @@ description: La définition de l'espace de nommage qui sera utilisé pour identi
 feature: GDPR, CCPA
 topic: null
 kt: 1460
+thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 5%
+ht-degree: 9%
 
 ---
 
 
-# Création d’espaces de nommage pour les demandes de confidentialité
+# Création d’espaces de noms pour les demandes d’accès à des informations personnelles
 
 La définition de l&#39;espace de nommage qui sera utilisé pour identifier la personne concernée dans la base de données Adobe Campaign est une condition préalable à la création d&#39;un accès à la vie privée et à la suppression de demandes, comme l&#39;exige le RMCP ou l&#39;ACCP.
 
