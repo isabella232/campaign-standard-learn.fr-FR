@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 763c7f51e28d025438f873314cc4fd60b96648ca
+source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-## Configuration d&#39;une définition d&#39;écran pour une ressource personnalisée
+# Configuration d&#39;une définition d&#39;écran pour une ressource personnalisée
 
 Découvrez comment configurer une définition d&#39;écran pour une ressource personnalisée.
 
