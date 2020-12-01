@@ -1,22 +1,23 @@
 ---
-title: Prévisualisation de votre analyse de courriel et d'antispam
+title: Prévisualiser votre analyse email et anti-spam
 description: Cette vidéo explique comment prévisualisation votre courriel et l'analyse antispam.
 feature: email designer
 topics: null
 kt: 2393
+thumbnail: 25921.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 36%
 
 ---
 
 
-# Prévisualisation de votre analyse de courriel et d&#39;antispam{#preview-your-email}
+# Prévisualiser votre analyse email et anti-spam{#preview-your-email}
 
 Cette vidéo explique comment prévisualisation votre courriel et l&#39;analyse antispam.
 
