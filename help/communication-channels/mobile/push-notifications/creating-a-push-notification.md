@@ -4,14 +4,15 @@ description: 'Découvrez comment créer une notification Push en Adobe Campaign 
 feature: Push
 topics: Mobile
 kt: 1401
+thumbnail: 31499.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 13%
+ht-degree: 16%
 
 ---
 
@@ -32,11 +33,11 @@ La vidéo décrit comment envoyer un [!DNL push notification to app subscribers]
 
 ## Autres ressources
 
-Documentation:
+Documentation :
 
 * [A propos des notifications Push](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
 * [Préparation et envoi d’une notification push](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
 
-Tutoriels:
+Tutoriels :
 
-* [Créer une notification Push multilingue](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
+* [Créer une notification push multilingue](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
