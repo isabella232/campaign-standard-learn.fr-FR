@@ -1,22 +1,23 @@
 ---
-title: Création d’un profil de test
+title: Créer un profil de test
 description: Les profils de test permettent de cibler des destinataires additionnels, qui ne correspondent pas aux critères de ciblage définis. Ils sont ajoutés à l'audience d'un message afin de détecter une utilisation frauduleuse de votre base de destinataire ou de contrôler la bonne réception de vos messages.
 feature: Profiles and Audiences
 topic: null
 kt: 1810
+thumbnail: 24094.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 72%
+ht-degree: 79%
 
 ---
 
 
-# Create a test profile {#creating-a-test-profile}
+# Créer un profil de test {#creating-a-test-profile}
 
 Les profils de test permettent de cibler des destinataires additionnels, qui ne correspondent pas aux critères de ciblage définis. Ils sont ajoutés à l&#39;audience d&#39;un message afin de détecter une utilisation frauduleuse de votre base de destinataire ou de contrôler la bonne réception de vos messages.
 
