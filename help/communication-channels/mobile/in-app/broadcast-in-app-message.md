@@ -4,11 +4,12 @@ description: La diffusion d’un modèle de message intégré permet de cible à
 feature: In-App
 topics: Mobile
 kt: 2497
+thumbnail: 26199.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 6%
@@ -27,7 +28,7 @@ Voici quelques-uns des cas d&#39;utilisation pertinents de cette catégorie :
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 
-*Création d’un message intégré à la diffusion à l’aide d’une propriété[!UICONTROL SDKV5 Mobile]*
+*Création d’un message intégré à la diffusion à l’aide d’une propriété [!UICONTROL SDKV5 Mobile]*
 
 ## Autres ressources
 
