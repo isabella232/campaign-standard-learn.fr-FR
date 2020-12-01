@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
+source-git-commit: dc9d084e8be1f0b942c6fd9bbefd7fcd3ded3f2d
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 8%
@@ -42,11 +42,11 @@ Pour ce faire, nous enrichirons le modèle de [!DNL Campaign] données en étend
 
 Ce didacticiel vous explique pas à pas comment :
 
-Étape 1 - [Création d&#39;une ressource](./creating-a-custom-resource)personnalisée Étape 2 - [Configuration d&#39;une définition](./configuring-a-screen-definition-for-a-custom-resource.md)d&#39;écran Étape 3 - [Liaison de ressources](./linking-custom-resources.md)personnalisées Étape 4 - [Remplissage de ressources personnalisées avec des données](./populate-custom-resources-with-data.md)
+Étape 1 - [Création d&#39;une ressource](./creating-a-custom-resource.md)personnalisée Étape 2 - [Configuration d&#39;une définition](./configuring-a-screen-definition-for-a-custom-resource.md)d&#39;écran Étape 3 - [Liaison de ressources](./linking-custom-resources.md)personnalisées Étape 4 - [Remplissage de ressources personnalisées avec des données](./populate-custom-resources-with-data.md)
 
 ## Début du didacticiel
 
-[Création d’une ressource personnalisée](./create-a-custom-resource)
+[Création d’une ressource personnalisée](./create-a-custom-resourc.md)
 
 ## Autres ressources
 
