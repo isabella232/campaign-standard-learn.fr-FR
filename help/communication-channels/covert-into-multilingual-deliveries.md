@@ -1,22 +1,23 @@
 ---
-title: Convertir un courriel, une diffusion SMS ou un modèle existant en plusieurs langues
+title: Convertir un email, une diffusion SMS ou un modèle existant en plusieurs langues
 description: Cette vidéo montre comment une diffusion existante de messagerie, de SMS ou d'un modèle de diffusion peut être facilement convertie en langage multilingue.
 feature: Multi-lingual Deliveries
 topics: Mobile
 kt: 1703
+thumbnail: 23251.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 2%
+ht-degree: 30%
 
 ---
 
 
-# Convertir un courriel, une diffusion SMS ou un modèle existant en plusieurs langues
+# Convertir un email, une diffusion SMS ou un modèle existant en plusieurs langues
 
 Cette vidéo montre comment une diffusion existante de messagerie, de SMS ou d&#39;un modèle de diffusion peut être facilement convertie en langage multilingue.
 
