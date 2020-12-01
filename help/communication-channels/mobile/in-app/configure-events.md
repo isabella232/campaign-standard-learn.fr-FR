@@ -1,24 +1,25 @@
 ---
-title: Configurer des Événements
+title: Configurer des événements
 description: 'Lors de la configuration d’un message in-app dans les événements Adobe Campaign Standard (ACS), définissez l’action initiée par l’utilisateur qui déclenchera l’affichage du message. '
 feature: In-App
 topics: Mobile
 kt: 2548
+thumbnail: 26245.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '262'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 
 
-# Configuration des [!UICONTROL Événements] {#configuring-events}
+# Configure [!UICONTROL Events] {#configuring-events}
 
-Lors de la configuration d’un message [!UICONTROL in-app] , vous devez définir l’action déclenchée par l’utilisateur qui déclenche l’affichage du message. Ces actions sont appelées [!UICONTROL événements]. Trois catégories de [!UICONTROL événements] sont disponibles : [!UICONTROL événements]d’applications mobiles, événements de cycle de vie et événements Analytics.
+Lors de la configuration d’un message [!UICONTROL in-app] , vous devez définir l’action déclenchée par l’utilisateur qui déclenche l’affichage du message. Ces actions sont appelées [!UICONTROL événements]. Trois catégories de [!UICONTROL événements] sont disponibles : [!UICONTROL Événements]d’applications mobiles, événements de cycle de vie et événements Analytics.
 
 ## [!UICONTROL Evénements d&#39;application mobile] {#mobile-application-events}
 
@@ -35,7 +36,7 @@ Vous devez configurer ces [!UICONTROL événements] dans Adobe Campaign. La vid�
 
 >[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12)
 
-## [!UICONTROL événements du cycle de vie]  {#life-cycle-events}
+## [!UICONTROL Événements du cycle de vie]  {#life-cycle-events}
 
 [!UICONTROL Les événements] de cycle de vie sont des [!UICONTROL événements]prêts à l&#39;emploi. Les [!UICONTROL événements] suivants sont disponibles :
 
@@ -55,7 +56,7 @@ Les trois catégories suivantes sont prises en charge en fonction de ce qui est 
 
 * Adobe Analytics      
 * [!UICONTROL Données contextuelles]
-* [!UICONTROL Etat de la Vue]
+* [!UICONTROL Etat de la vue]
 
 >[!NOTE]
 >
