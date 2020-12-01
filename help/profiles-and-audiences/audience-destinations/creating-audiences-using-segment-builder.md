@@ -4,11 +4,12 @@ description: null
 feature: Audience Destinations
 topics: ACOP
 kt: 2754
+thumbnail: 27638.jpg
 doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 8%
@@ -24,7 +25,7 @@ ht-degree: 8%
 >
 >Si vous prévoyez de mettre en oeuvre cette fonctionnalité, contactez le service [!UICONTROL d&#39;assistance clientèle] Adobe.
 
-adobe campaign standard vous permet de créer des audiences à l’aide des données du Profil [client en temps](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) réel Adobe Experience Cloud à l’aide du créateur [!UICONTROL de segments unifié]Adobe Experience Platform.
+Adobe Campaign Standard vous permet de créer des audiences à l’aide des données du Profil [client en temps](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) réel Adobe Experience Cloud à l’aide du créateur [!UICONTROL de segments unifié]Adobe Experience Platform.
 
 Vous pouvez accéder au créateur [!UICONTROL de segments] unifiés directement dans Adobe Campaign Standard via le module [!UICONTROL Audiences ] . Cela vous permet de gérer ces audiences directement dans la vue de liste des [!UICONTROL Audiences] , où vous pouvez modifier ou créer une audience Adobe Experience Platform directement à partir de l’interface Adobe Campaign.
 
