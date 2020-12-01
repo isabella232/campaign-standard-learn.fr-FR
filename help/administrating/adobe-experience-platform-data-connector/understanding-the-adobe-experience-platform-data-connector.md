@@ -4,11 +4,12 @@ description: Adobe Experience Platform Data Connector permet aux clients exis
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2826
+thumbnail: 27304.jpg
 doc-type: feature video
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 25%
@@ -24,7 +25,7 @@ ht-degree: 25%
 >
 >Si vous prévoyez de mettre en oeuvre cette fonctionnalité, contactez le service [!UICONTROL d&#39;assistance clientèle] Adobe.
 
-## Vue d’ensemble
+## Présentation
 
 Adobe Experience Platform [!UICONTROL Data Connector] helps existing customers to make their data available on Adobe Experience Platform by mapping XTK data (data ingested in Adobe Campaign) to [!DNL Experience Data Model] (XDM) data on Adobe Experience Platform.
 
@@ -34,7 +35,7 @@ Adobe Experience Platform [!UICONTROL Data Connector] is intended for data engin
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
 
-*Cette vidéo présente un aperçu du connecteur[!UICONTROL de]données Adobe Experience Platform (09:35 min)*
+*Cette vidéo présente un aperçu du connecteur [!UICONTROL de] données Adobe Experience Platform (09:35 min)*
 
 >[!NOTE]
 >
