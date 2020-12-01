@@ -4,19 +4,20 @@ description: Adobe Campaign vous permet de créer et de gérer des bulletins d'i
 feature: Subscriptions and Services
 topics: null
 kt: 1815
+thumbnail: 24673.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 28%
+ht-degree: 32%
 
 ---
 
 
-# Manage services and subscriptions{#managing-services-and-subscriptions}
+# Gérer les services et les abonnements{#managing-services-and-subscriptions}
 
 Adobe Campaign vous permet de créer et de gérer des bulletins d&#39;information et des communications entre canaux, grâce à un ensemble de services. Les messages ne peuvent être envoyés qu’aux profils qui se sont abonnés au service (inclusion). Ces profils sont identifiés à l&#39;aide d&#39;un filtre dédié lors de la création d&#39;un message.
 
