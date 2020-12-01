@@ -4,11 +4,12 @@ description: 'Cette vidéo explique comment configurer et envoyer un test A/B en
 feature: A/B Testing
 topics: null
 kt: 3907
+thumbnail: 18480.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 46%
