@@ -4,19 +4,20 @@ description: Adobe Campaign vous permet de créer des requêtes d’accès et de
 feature: GDPR, CCPA
 topic: null
 kt: 1242
+thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 10%
+ht-degree: 19%
 
 ---
 
 
-# Création et suivi manuels des demandes de confidentialité
+# Création et suivi manuels des demandes d’accès à des informations personnelles
 
 Adobe Campaign vous permet de créer des requêtes d’accès et de supprimer des requêtes de données d’identification personnelle en conformité avec les lois sur la confidentialité telles que le RGPD et l’ACCP.
 
