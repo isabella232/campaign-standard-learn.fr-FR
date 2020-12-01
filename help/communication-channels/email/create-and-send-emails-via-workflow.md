@@ -1,24 +1,25 @@
 ---
-title: Créer et envoyer des courriers électroniques via un processus
-description: 'La création d''un email est possible au sein d''une campagne, à partir de la page d''accueil Adobe Campaign ou dans la liste des activités marketing. Vous avez également la possibilité de créer des diffusions email uniques et récurrentes depuis un workflow. Cette vidéo explique comment créer une diffusion de courriel à partir de la page d''accueil. '
+title: Créer et envoyer des emails via un workflow
+description: 'Il est possible de créer un email à partir d’une campagne, depuis la page d’accueil d’Adobe Campaign ou la liste des activités marketing. Il est également possible de créer des emails à envoi unique ou récurrent à partir d’un workflow. Cette vidéo explique comment créer une diffusion d’email depuis la page d’accueil. '
 feature: Email
 topics: null
 kt: 4319
+thumbnail: 31465.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 60%
+ht-degree: 80%
 
 ---
 
 
-# Créer et envoyer des courriers électroniques via un processus
+# Créer et envoyer des emails via un workflow
 
-La création d&#39;un email est possible au sein d&#39;une campagne, à partir de la page d&#39;accueil Adobe Campaign ou dans la liste des activités marketing. Vous avez également la possibilité de créer des diffusions email uniques et récurrentes depuis un workflow.
+Il est possible de créer un email à partir d’une campagne, depuis la page d’accueil d’Adobe Campaign ou la liste des activités marketing. Il est également possible de créer des emails à envoi unique ou récurrent à partir d’un workflow.
 
 Cette vidéo explique comment créer et envoyer des courriers électroniques au moyen d’un processus.
 
