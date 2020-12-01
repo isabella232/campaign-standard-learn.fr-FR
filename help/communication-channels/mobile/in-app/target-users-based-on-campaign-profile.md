@@ -4,11 +4,12 @@ description: Ce modèle vous permet de cible des utilisateurs d’applications m
 feature: In-App
 topics: Channels
 kt: 1796
+thumbnail: 26200.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 6%
@@ -22,7 +23,7 @@ Vous pouvez cible des utilisateurs d’applications mobiles connus (ceux qui se 
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 
-*Création d’un message intégré à l’aide d’un modèle de profil[!UICONTROL Campaign ]*
+*Création d’un message intégré à l’aide d’un modèle de profil [!UICONTROL Campaign]*
 
 ## Autres ressources
 
