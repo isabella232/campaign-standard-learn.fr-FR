@@ -1,6 +1,6 @@
 ---
-title: Création manuelle et suivi des requêtes de confidentialité via l’interface utilisateur Adobe Campaign
-description: Adobe Campaign vous permet de créer des requêtes d’accès et de supprimer des requêtes de données d’identification personnelle en conformité avec les lois sur la confidentialité telles que le RGPD et l’ACCP. Cette vidéo explique comment créer manuellement des requêtes de confidentialité et suivre leur évolution dans l’interface utilisateur Adobe Campaign Standard.
+title: Création manuelle et suivi des demandes d’accès à des informations personnelles via l’interface utilisateur d’Adobe Campaign
+description: Adobe Campaign vous permet de créer des demandes d’accès à des informations personnelles et de les supprimer conformément aux lois sur la confidentialité telles que le RGPD et le CCPA. Cette vidéo explique comment créer manuellement des demandes d’accès aux informations personnelles et suivre leur évolution dans l’interface utilisateur d’Adobe Campaign Standard.
 feature: GDPR, CCPA
 topic: null
 kt: 1242
@@ -8,22 +8,22 @@ thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 19%
+ht-degree: 100%
 
 ---
 
 
 # Création et suivi manuels des demandes d’accès à des informations personnelles
 
-Adobe Campaign vous permet de créer des requêtes d’accès et de supprimer des requêtes de données d’identification personnelle en conformité avec les lois sur la confidentialité telles que le RGPD et l’ACCP.
+Adobe Campaign vous permet de créer des demandes d’accès aux informations personnelles et à leur suppression conformément aux lois sur la confidentialité telles que le RGPD et le CCPA.
 
-Cette vidéo explique comment créer manuellement des requêtes de confidentialité et suivre leur évolution dans l’interface utilisateur Adobe Campaign Standard.
+Cette vidéo explique comment créer manuellement des demandes d’accès aux informations personnelles et suivre leur évolution dans l’interface utilisateur d’Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12&captions=fre_fr)
 
 ## Autres ressources
 
