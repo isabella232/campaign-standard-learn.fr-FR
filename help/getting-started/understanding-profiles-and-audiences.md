@@ -1,6 +1,6 @@
 ---
-title: Présentation des profils et des audiences dans Adobe Campaign Standard
-description: Cette vidéo explique le concept de profils et d'audiences et comment créer des profils et des audiences dans Adobe Campaign Standard.
+title: Comprendre les profils et les audiences dans Adobe Campaign Standard
+description: Cette vidéo explique le concept de profils et d’audiences et comment créer des profils et des audiences dans Adobe Campaign Standard.
 feature: profiles, audiences
 topics: null
 kt: 3893
@@ -8,20 +8,20 @@ thumbnail: 18464.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 22%
+ht-degree: 100%
 
 ---
 
 
-# Présentation des profils et des audiences dans Adobe Campaign Standard
+# Comprendre les profils et les audiences dans Adobe Campaign Standard
 
-Cette vidéo explique le concept et comment créer des profils et des audiences.
+Cette vidéo explique le concept des profils et des audiences et comment en créer.
 
->[!VIDEO](https://video.tv.adobe.com/v/18464?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/18464?quality=12&captions=fre_fr)
 
 ## Autres ressources
 
