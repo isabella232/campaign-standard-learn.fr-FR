@@ -17,20 +17,20 @@ ht-degree: 9%
 ---
 
 
-# [!UICONTROL Destinations] d&#39;Audience (BETA) - Présentation
+# [!UICONTROL Destinations]  d&#39;Audience (BETA) - Présentation
 
 ## Exploitation des Audiences Adobe Experience Platform dans Adobe Campaign Standard
 
 >[!NOTE]
 >
->Cette fonctionnalité est actuellement en version bêta et fait l&#39;objet de mises à jour fréquentes et de modifications sans préavis. [!UICONTROL Les destinations] d’Audience sont basées sur Adobe Experience Platform et nécessitent une configuration spécifique.
+>Cette fonctionnalité est actuellement en version bêta et fait l&#39;objet de mises à jour fréquentes et de modifications sans préavis. [!UICONTROL Audience ] Destinationse base sur Adobe Experience Platform et requiert une configuration spécifique.
 >
->Si vous prévoyez de mettre en oeuvre cette fonctionnalité, contactez le service [!UICONTROL d&#39;assistance clientèle] Adobe.
+>Contactez le [!UICONTROL service clientèle de l&#39;Adobe] si vous prévoyez de mettre en oeuvre cette fonctionnalité.
 
 
 Ce didacticiel explique comment exploiter les données de profil centralisées et consolidées du Adobe Experience Platform pour les campagnes marketing de Adobe Campaign Standard.
 
-Le module [!UICONTROL Audiences] d’Adobe Campaign Standard vous permet de créer des segments à l’aide de données provenant du service [de](https://www.adobe.io/apis/experienceplatform/home/services.html) Adobe Experience Platform - Data Services qui réside dans le Profil [client en temps](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)réel.
+Le module [!UICONTROL Audiences] d&#39;Adobe Campaign Standard vous permet de créer des segments à l&#39;aide des données du [Adobe Experience Platform - Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html) qui réside dans le [Profil client en temps réel](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html).
 
 Les didacticiels vidéo suivants vous guideront dans les différentes étapes :
 
