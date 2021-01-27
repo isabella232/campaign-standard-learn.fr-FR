@@ -24,7 +24,7 @@ ht-degree: 8%
 >
 >Cette fonctionnalité est actuellement en version bêta et fait l&#39;objet de mises à jour fréquentes et de modifications sans préavis.
 >
->Si vous prévoyez de mettre en oeuvre cette fonctionnalité, contactez le service [!UICONTROL d&#39;assistance clientèle] Adobe.
+>Contactez le [!UICONTROL service clientèle de l&#39;Adobe] si vous prévoyez de mettre en oeuvre cette fonctionnalité.
 
 Découvrez comment vérifier l&#39;état d&#39;une tâche d&#39;assimilation de données et si les données ont été assimilées d&#39;Adobe Campaign Standard à Adobe Experience Platform.
 
