@@ -17,17 +17,17 @@ ht-degree: 16%
 ---
 
 
-# Create a [!UICONTROL push notification]
+# Créer une [!UICONTROL notification Push]
 
-Découvrez comment créer une notification  Push dans Adobe Campaign Standard (ACS) :
+Découvrez comment créer une [!UICONTROL notification Push] en Adobe Campaign Standard (ACS) :
 
-Adobe Campaign allows you to send personalized and segmented [!UICONTROL push notifications] to iOS and Android mobile devices. Vous disposez de deux options :
+Adobe Campaign vous permet d’envoyer des [!UICONTROL notifications Push] personnalisées et segmentées aux périphériques mobiles iOS et Android. Vous disposez de deux options :
 
-* **[!UICONTROL Envoyer une notification Push aux profils]** Campaign : Permet de cible aux profils CRM Adobe Campaign qui se sont abonnés à votre application mobile et ont choisi de recevoir des notifications Push. You can insert personalization fields into your [!UICONTROL push notification], such as the recipient&#39;s first name.
+* **[!UICONTROL Envoyer une notification Push aux profils]** Campaign : Permet de cible aux profils CRM Adobe Campaign qui se sont abonnés à votre application mobile et ont choisi de recevoir des notifications Push. Vous pouvez insérer des champs de personnalisation dans votre [!UICONTROL notification Push], tel que le prénom du destinataire.
 
-* **[!UICONTROL Envoyez une notification Push aux abonnés]** de l’application : Permet d’envoyer une notification  Push à tous les utilisateurs connus et anonymes d’applications mobiles qui ont choisi de recevoir des notifications de votre application. Vous pouvez personnaliser ces messages avec les données collectées à partir de votre application mobile.
+* **[!UICONTROL Envoyez une notification Push aux abonnés]** de l’application : Permet d’envoyer une  [!UICONTROL notification ] Push à tous les utilisateurs connus et anonymes d’applications mobiles qui ont choisi de recevoir des notifications de votre application. Vous pouvez personnaliser ces messages avec les données collectées à partir de votre application mobile.
 
-La vidéo décrit comment envoyer un [!DNL push notification to app subscribers]message.
+La vidéo décrit comment envoyer un [!DNL push notification to app subscribers].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31499?quality=12)
 
