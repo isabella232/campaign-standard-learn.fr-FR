@@ -17,15 +17,15 @@ ht-degree: 10%
 ---
 
 
-# Mapping [!UICONTROL Experience Events]
+# Mappage [!UICONTROL Événements d’expérience]
 
 >[!NOTE]
 >
 >Cette fonctionnalité est actuellement en version bêta et fait l&#39;objet de mises à jour fréquentes et de modifications sans préavis.
 >
->Si vous prévoyez de mettre en oeuvre cette fonctionnalité, contactez le service [!UICONTROL d&#39;assistance clientèle] Adobe.
+>Contactez le [!UICONTROL service clientèle de l&#39;Adobe] si vous prévoyez de mettre en oeuvre cette fonctionnalité.
 
-Découvrez comment mapper les Événements [!UICONTROL d’] expérience dans Adobe Experience Platform (AEP).
+Découvrez comment mapper [!UICONTROL Événements d’expérience] dans Adobe Experience Platform (AEP).
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12)
 
