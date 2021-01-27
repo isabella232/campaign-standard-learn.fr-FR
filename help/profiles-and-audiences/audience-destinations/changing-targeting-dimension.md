@@ -17,15 +17,15 @@ ht-degree: 17%
 ---
 
 
-# Modification de l’Audience de la [!UICONTROL plateforme de dimension de ciblage]
+# Modifier la dimension de ciblage [!UICONTROL Audience de la plate-forme]
 
 >[!NOTE]
 >
->Cette fonctionnalité est actuellement en version bêta et fait l&#39;objet de mises à jour fréquentes et de modifications sans préavis. [!UICONTROL Les destinations] d’Audience sont basées sur Adobe Experience Platform et nécessitent une configuration spécifique.
+>Cette fonctionnalité est actuellement en version bêta et fait l&#39;objet de mises à jour fréquentes et de modifications sans préavis. [!UICONTROL Audience ] Destinationse base sur Adobe Experience Platform et requiert une configuration spécifique.
 >
->Si vous prévoyez de mettre en oeuvre cette fonctionnalité, contactez le service [!UICONTROL d&#39;assistance clientèle] Adobe.
+>Contactez le [!UICONTROL service clientèle de l&#39;Adobe] si vous prévoyez de mettre en oeuvre cette fonctionnalité.
 
-Cette vidéo explique comment modifier la dimension de ciblage d&#39;une diffusion pour une Audience [!UICONTROL de] plateforme en dehors de la Principale table profil de Adobe Campaign Standard.
+Cette vidéo explique comment modifier la dimension de ciblage d&#39;une diffusion pour une [!UICONTROL Audience de plateforme] en dehors de la Principale table de profil à Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
