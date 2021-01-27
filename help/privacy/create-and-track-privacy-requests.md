@@ -8,9 +8,9 @@ thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ Adobe Campaign vous permet de créer des demandes d’accès aux informations pe
 
 Cette vidéo explique comment créer manuellement des demandes d’accès aux informations personnelles et suivre leur évolution dans l’interface utilisateur d’Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
 ## Autres ressources
 
