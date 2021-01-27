@@ -18,7 +18,7 @@ ht-degree: 16%
 
 # Création d’un rapport basé sur des attributs de profil personnalisés
 
-Les rapports  dynamiques Adobe Campaign sont conçus pour être un environnement de forme libre et flexible dans lequel vous pouvez explorer les données en incluant des attributs de profil personnalisés. Il vous permet de combiner des dimensions, des mesures et une plage de temps dans n’importe quelle combinaison, avec des ventilations et des comparaisons illimitées.
+Les [!UICONTROL rapports dynamiques] Adobe Campaign sont conçus pour être un environnement de forme libre et flexible dans lequel vous pouvez explorer les données en incluant des attributs de profil personnalisés. Il vous permet de combiner des dimensions, des mesures et une plage de temps dans n’importe quelle combinaison, avec des ventilations et des comparaisons illimitées.
 
 Cette vidéo explique comment créer un rapport basé sur des attributs de profil personnalisés.
 
