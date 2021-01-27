@@ -19,7 +19,7 @@ ht-degree: 6%
 
 # Diffuser un message In-App
 
-Vous pouvez diffuser un message intégré, ciblant tous les utilisateurs d’une application mobile, que Adobe Campaign dispose ou non de leurs informations de profil. Pour diffuser un message, vous devez utiliser la **[!UICONTROL Cible pour tous les utilisateurs d’un modèle]** d’application mobile lors de la configuration du message intégré.
+Vous pouvez diffuser un message intégré, ciblant tous les utilisateurs d’une application mobile, que Adobe Campaign dispose ou non de leurs informations de profil. Pour diffuser un message, vous devez utiliser la **[!UICONTROL Cible de tous les utilisateurs d’un modèle d’application mobile]** lors de la configuration du message intégré.
 
 Voici quelques-uns des cas d&#39;utilisation pertinents de cette catégorie :
 
@@ -28,7 +28,7 @@ Voici quelques-uns des cas d&#39;utilisation pertinents de cette catégorie :
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 
-*Création d’un message intégré à la diffusion à l’aide d’une propriété [!UICONTROL SDKV5 Mobile]*
+*Création d’un message intégré à la diffusion à l’aide d’une propriété  [!UICONTROL SDKV5 Mobile]*
 
 ## Autres ressources
 
