@@ -17,13 +17,13 @@ ht-degree: 8%
 ---
 
 
-# Mapping [!UICONTROL custom resources]
+# Mappage de [!UICONTROL ressources personnalisées]
 
 >[!NOTE]
 >
 >Cette fonctionnalité est actuellement en version bêta et fait l&#39;objet de mises à jour fréquentes et de modifications sans préavis.
 >
->Si vous prévoyez de mettre en oeuvre cette fonctionnalité, contactez le service [!UICONTROL d&#39;assistance clientèle] Adobe.
+>Contactez le [!UICONTROL service clientèle de l&#39;Adobe] si vous prévoyez de mettre en oeuvre cette fonctionnalité.
 
 Découvrez comment mapper différents types de données entre Adobe Campaign Standard et Adobe Experience Platform.
 
