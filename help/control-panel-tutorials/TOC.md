@@ -4,15 +4,15 @@ user-guide-title: Tutoriels sur le panneau de contrôle d’Adobe Campaign
 user-guide-description: Le panneau de contrôle permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance ou ajouter des adresses IP aux listes autorisées.
 breadcrumb-title: Tutoriels sur le panneau de contrôle
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=fr&tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: Tutoriels
 tutorials-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentation
 getting-started-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/campaign-standard-home.html
 index: true
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 16cd416f567c8177aadd35e03cfa27d0e0478e6b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 100%
 
