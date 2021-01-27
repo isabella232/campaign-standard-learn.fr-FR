@@ -17,15 +17,15 @@ ht-degree: 6%
 ---
 
 
-# Activation des audiences Adobe Experience Platform dans une Audience [!UICONTROL de flux de travail] Adobe Experience Platform dans un flux de travail marketing
+# Activer les audiences Adobe Experience Platform dans un workflow [!UICONTROL Audiences Adobe Experience Platform] dans un workflow marketing
 
 >[!NOTE]
 >
->Cette fonctionnalité est actuellement en version bêta et fait l&#39;objet de mises à jour fréquentes et de modifications sans préavis. [!UICONTROL Les destinations] d’Audience sont basées sur Adobe Experience Platform et nécessitent une configuration spécifique.
+>Cette fonctionnalité est actuellement en version bêta et fait l&#39;objet de mises à jour fréquentes et de modifications sans préavis. [!UICONTROL Audience ] Destinationse base sur Adobe Experience Platform et requiert une configuration spécifique.
 >
->Si vous prévoyez de mettre en oeuvre cette fonctionnalité, contactez le service [!UICONTROL d&#39;assistance clientèle] Adobe.
+>Contactez le [!UICONTROL service clientèle de l&#39;Adobe] si vous prévoyez de mettre en oeuvre cette fonctionnalité.
 
-Cette vidéo explique comment activer l’Audience [!UICONTROL de Requête] Data Services dans un flux de travail à l’aide de l’activité d’Audience [!UICONTROL de] lecture.
+Cette vidéo explique comment activer l&#39;Audience [!UICONTROL Data Services Requête] dans un flux de travail en utilisant l&#39;activité [!UICONTROL Lire l&#39;Audience].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 
