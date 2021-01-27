@@ -17,31 +17,31 @@ ht-degree: 25%
 ---
 
 
-# Understanding the Adobe Experience Platform [!UICONTROL Data Connector]
+# Présentation du connecteur de données Adobe Experience Platform 
 
 >[!NOTE]
 >
 >Cette fonctionnalité est actuellement en version bêta et fait l&#39;objet de mises à jour fréquentes et de modifications sans préavis.
 >
->Si vous prévoyez de mettre en oeuvre cette fonctionnalité, contactez le service [!UICONTROL d&#39;assistance clientèle] Adobe.
+>Contactez le [!UICONTROL service clientèle de l&#39;Adobe] si vous prévoyez de mettre en oeuvre cette fonctionnalité.
 
-## Présentation
+## Vue d’ensemble 
 
-Adobe Experience Platform [!UICONTROL Data Connector] helps existing customers to make their data available on Adobe Experience Platform by mapping XTK data (data ingested in Adobe Campaign) to [!DNL Experience Data Model] (XDM) data on Adobe Experience Platform.
+Adobe Experience Platform [!UICONTROL Data Connector] aide les clients existants à rendre leurs données disponibles sur Adobe Experience Platform en mappant les données XTK (données ingérées dans Adobe Campaign) aux données [!DNL Experience Data Model] (XDM) sur Adobe Experience Platform.
 
 Notez que le connecteur est unidirectionnel et envoie les données d’Adobe Campaign Standard vers Adobe Experience Platform. Les données ne sont jamais envoyées du Adobe Experience Platform à Adobe Campaign Standard.
 
-Adobe Experience Platform [!UICONTROL Data Connector] is intended for data engineers who understand Adobe Campaign Standard [!UICONTROL custom resources] and have an understanding of how customer&#39;s overall data schema should be inside Adobe Experience Platform.
+Adobe Experience Platform [!UICONTROL Data Connector] est destiné aux ingénieurs de données qui comprennent les ressources personnalisées [!UICONTROL Adobe Campaign Standard] et qui savent comment le schéma de données global du client doit être intégré à Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
 
-*Cette vidéo présente un aperçu du connecteur [!UICONTROL de] données Adobe Experience Platform (09:35 min)*
+*Cette vidéo présente un aperçu du connecteur [!UICONTROL  de ] données Adobe Experience Platform (09:35 min)*
 
 >[!NOTE]
 >
->The out-of-the-box transfer of [!UICONTROL subscription events] is not supported. To transfer [!UICONTROL subscription events], you can create corresponding XDM and dataset on Adobe Experience Platform, then configure a custom data mapping for these data.
+>Le transfert prêt à l’emploi de [!UICONTROL événements d’abonnement] n’est pas pris en charge. Pour transférer des [!UICONTROL événements d&#39;abonnement], vous pouvez créer le XDM et le jeu de données correspondants sur Adobe Experience Platform, puis configurer un mappage de données personnalisé pour ces données.
 >
->Les événements  d’expérience existants ne peuvent pas être assimilés à Adobe Experience Platform, mais les événements [!UICONTROL d’] expérience générés en cours seront diffusés en continu jusqu’à Adobe Experience Platform.
+>Les [!UICONTROL événements d’expérience ] existants ne peuvent pas être assimilés à Adobe Experience Platform, mais les [!UICONTROL événements d’expérience ] générés en cours seront transmis en continu à Adobe Experience Platform.
 
 ## Etapes clés permettant d’effectuer un mappage de données
 
