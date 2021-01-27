@@ -17,13 +17,13 @@ ht-degree: 7%
 ---
 
 
-# Configure [!UICONTROL Events] {#configuring-events}
+# Configurer [!UICONTROL Événements] {#configuring-events}
 
-Lors de la configuration d’un message [!UICONTROL in-app] , vous devez définir l’action déclenchée par l’utilisateur qui déclenche l’affichage du message. Ces actions sont appelées [!UICONTROL événements]. Trois catégories de [!UICONTROL événements] sont disponibles : [!UICONTROL Événements]d’applications mobiles, événements de cycle de vie et événements Analytics.
+Lors de la configuration d’un message [!UICONTROL In-App], vous devez définir l’action déclenchée par l’utilisateur qui déclenche l’affichage du message. Ces actions sont appelées [!UICONTROL événements]. Trois catégories de [!UICONTROL événements] sont disponibles : [!UICONTROL événements d’applications mobiles], [!UICONTROL événements du cycle de vie] et [!UICONTROL événements Analytics].
 
 ## [!UICONTROL Evénements d&#39;application mobile] {#mobile-application-events}
 
-[!UICONTROL Les événements] d’applications mobiles sont des événements  personnalisés qui sont implémentés dans votre application mobile.
+[!UICONTROL Les ] événements d’application mobile sont des  [!UICONTROL événements ] personnalisés qui sont implémentés dans votre application mobile.
 
 Exemples :
 
@@ -38,7 +38,7 @@ Vous devez configurer ces [!UICONTROL événements] dans Adobe Campaign. La vid�
 
 ## [!UICONTROL Événements du cycle de vie]  {#life-cycle-events}
 
-[!UICONTROL Les événements] de cycle de vie sont des [!UICONTROL événements]prêts à l&#39;emploi. Les [!UICONTROL événements] suivants sont disponibles :
+[!UICONTROL Les ] événements de cycle de vie sont des  [!UICONTROL événements] prêts à l&#39;emploi. Les [!UICONTROL événements] suivants sont disponibles :
 
 * [!UICONTROL lancé]
 * [!UICONTROL mis à niveau]
@@ -48,7 +48,7 @@ Un exemple d’utilisation peut être un message présentant de nouvelles foncti
 
 >[!NOTE]
 >
->Le module  Lifecycle doit être configuré dans l&#39;application mobile. Pour plus d&#39;informations sur l&#39; [ajout de Lifecycle à votre application, reportez-vous à la section](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle)
+>Le [!UICONTROL module de cycle de vie] doit être configuré dans l&#39;application mobile. Pour plus d&#39;informations sur [comment ajouter Lifecycle à votre application](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle), reportez-vous à la section ici.
 
 ## [!UICONTROL Evénements d&#39;analyse] {#analytics-events}
 
@@ -60,7 +60,7 @@ Les trois catégories suivantes sont prises en charge en fonction de ce qui est 
 
 >[!NOTE]
 >
->[!UICONTROL Les événements] Analytics nécessitent une licence Adobe Analytics. Une fois que vous avez configuré [[!DNL Analytics] l’](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) extension et ajouté [Analytics à votre application](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), ces événements deviennent disponibles dans la configuration [!UICONTROL In-App] dans ACS.
+>[!UICONTROL Les ] événements Analytics nécessitent une licence Adobe Analytics. Une fois l&#39;extension [[!DNL Analytics] configurée](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) et que vous avez ajouté [Analytics à votre application](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), ces événements sont disponibles dans la configuration [!UICONTROL In-App] dans ACS.
 
 ## Autres ressources
 
