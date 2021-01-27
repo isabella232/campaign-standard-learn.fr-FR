@@ -2,9 +2,9 @@
 title: Tutoriels sur Adobe Campaign Standard - Présentation
 description: Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l’orchestration visuelle de campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d’Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: a180772da382d4b67070b8efd98446603b340dc6
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 100%
 
@@ -60,7 +60,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
       <img alt="Tutoriel : Prise en main des notifications push pour Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/fr-FR/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
     <strong>Tutoriel : Prise en main des notifications push pour Android</strong>
     </a>
     </div>
