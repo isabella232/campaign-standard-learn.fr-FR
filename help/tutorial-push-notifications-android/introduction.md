@@ -7,9 +7,9 @@ kt: 3846
 doc-type: tutorial
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 100%
 
