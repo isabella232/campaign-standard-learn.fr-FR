@@ -9,9 +9,9 @@ tutorials-title: Tutoriels
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=fr
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=fr
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 5edcdcd98b00b4f992b9775707f2c555bf051aec
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '497'
 ht-degree: 100%
 
