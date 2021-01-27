@@ -21,15 +21,15 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->Cette fonctionnalité est actuellement en version bêta et fait l&#39;objet de mises à jour fréquentes et de modifications sans préavis. [!UICONTROL Les destinations] d’Audience sont basées sur Adobe Experience Platform et nécessitent une configuration spécifique.
+>Cette fonctionnalité est actuellement en version bêta et fait l&#39;objet de mises à jour fréquentes et de modifications sans préavis. [!UICONTROL Audience ] Destinationse base sur Adobe Experience Platform et requiert une configuration spécifique.
 >
->Si vous prévoyez de mettre en oeuvre cette fonctionnalité, contactez le service [!UICONTROL d&#39;assistance clientèle] Adobe.
+>Contactez le [!UICONTROL service clientèle de l&#39;Adobe] si vous prévoyez de mettre en oeuvre cette fonctionnalité.
 
-Adobe Campaign Standard vous permet de créer des audiences à l’aide des données du Profil [client en temps](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) réel Adobe Experience Cloud à l’aide du créateur [!UICONTROL de segments unifié]Adobe Experience Platform.
+Adobe Campaign Standard vous permet de créer des audiences à l’aide des données du Profil client en temps réel [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) en utilisant le Adobe Experience Platform [!UICONTROL Créateur de segments unifié].
 
-Vous pouvez accéder au créateur [!UICONTROL de segments] unifiés directement dans Adobe Campaign Standard via le module [!UICONTROL Audiences ] . Cela vous permet de gérer ces audiences directement dans la vue de liste des [!UICONTROL Audiences] , où vous pouvez modifier ou créer une audience Adobe Experience Platform directement à partir de l’interface Adobe Campaign.
+Vous pouvez accéder au [!UICONTROL Créateur de segments unifié] directement dans Adobe Campaign Standard via le module [!UICONTROL Audiences ]. Cela vous permet de gérer ces audiences directement dans la vue de liste [!UICONTROL Audiences], où vous pouvez modifier ou créer une audience Adobe Experience Platform directement à partir de l’interface Adobe Campaign.
 
-La vidéo ci-dessous explique comment une nouvelle audience est créée à l’aide du créateur [!UICONTROL de segments] unifié dans Adobe Campaign Standard.
+La vidéo ci-dessous explique comment une nouvelle audience est créée à l’aide de [!UICONTROL Créateur de segments unifié] dans Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
