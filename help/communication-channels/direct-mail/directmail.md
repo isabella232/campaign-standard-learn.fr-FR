@@ -17,17 +17,17 @@ ht-degree: 1%
 ---
 
 
-# Create a [!UICONTROL Direct Mail] {#create-a-direct-mail}
+# Créer un [!UICONTROL Courrier] {#create-a-direct-mail}
 
 Le canal [!UICONTROL Courrier] vous permet d’extraire une liste segmentée de destinataires à envoyer à une agence ou à télécharger sur un serveur SFTP.
 
-Cette vidéo explique comment configurer une diffusion de [!UICONTROL Courrier] et quels paramètres sont requis pour pouvoir ajouter un profil à une diffusion de [!UICONTROL Courrier] .
+Cette vidéo explique comment configurer une diffusion [!UICONTROL Courrier] et quels paramètres sont requis pour pouvoir ajouter un profil à une diffusion [!UICONTROL Courrier].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
 
-## Création d’un [!UICONTROL Courrier] dans un processus
+## Créer un [!UICONTROL Courrier] dans un workflow
 
-Le canal est disponible à partir de la page d&#39;accueil et au sein de la vue de flux de travail pour définir des stratégies marketing cohérentes et transversales. L’exemple de flux de travaux suivant inclut l’activité Courrier.
+Le canal est disponible à partir de la page d&#39;accueil et au sein de la vue de flux de travail pour définir des stratégies marketing cohérentes et transversales. L&#39;exemple de flux de travaux suivant inclut l&#39;[!UICONTROL activité de Courrier].
 
 ![Image de flux de travaux](/help/assets/direct_mail_examplewf.png)
 
