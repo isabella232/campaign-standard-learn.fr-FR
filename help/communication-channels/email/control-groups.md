@@ -8,9 +8,9 @@ thumbnail: 40684.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ L’utilisation de [!UICONTROL populations témoins] vous permet de mesurer l’
 
 Découvrez comment définir une [!UICONTROL population témoin] pour votre [!UICONTROL diffusion] et comment extraire les profils affectés à la [!UICONTROL population témoin] après l&#39;envoi de la [!UICONTROL diffusion].
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12)
