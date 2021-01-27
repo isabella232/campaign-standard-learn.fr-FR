@@ -16,9 +16,9 @@ ht-degree: 10%
 
 ---
 
-# Report on your [!UICONTROL In-App] delivery {#in-app-message-reporting}
+# Rapport sur votre diffusion [!UICONTROL In-App] {#in-app-message-reporting}
 
-Vous pouvez consulter vos données relatives aux diffusions [!UICONTROL in-app] dans le résumé des diffusions en ajoutant des mesures spécifiques [!UICONTROL in-app] . Vous pouvez également utiliser le rapport [](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)intégré prêt à l’emploi.
+Vous pouvez examiner vos données de diffusion [!UICONTROL In-App] dans le résumé de la diffusion en ajoutant des mesures [!UICONTROL In-App] spécifiques. Vous pouvez également utiliser le [rapport intégré](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html) prêt à l’emploi.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 
