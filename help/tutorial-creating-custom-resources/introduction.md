@@ -8,9 +8,9 @@ thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
@@ -38,7 +38,7 @@ Nous aimerions pouvoir utiliser des informations supplémentaires sur ce qu’un
 
 Pour ce faire, nous enrichirons le modèle de données [!DNL Campaign] en étendant les ressources prêtes à l’emploi et en ajoutant nos propres tables personnalisées. Nous ajouterons un client et une table de commandes.
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
 Ce tutoriel vous explique pas à pas comment réaliser les actions suivantes :
 
