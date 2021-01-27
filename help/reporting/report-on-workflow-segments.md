@@ -25,4 +25,4 @@ La vidéo ci-dessous explique les trois étapes nécessaires à la cible de ces 
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12)
 
-For more information see the [documentation](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html)
+Pour plus d’informations, voir la [documentation](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html)
