@@ -19,9 +19,9 @@ ht-degree: 49%
 ---
 
 
-# Create an [!UICONTROL In-App] delivery within a workflow
+# Création d’une diffusion [!UICONTROL In-App] dans un processus
 
-The In-App delivery activity is generally used to automate sending an [!UICONTROL In-App] message to a target audience calculated in the same workflow.
+L’activité de diffusion intégrée est généralement utilisée pour automatiser l’envoi d’un message [!UICONTROL intégré] à une audience de cible calculée dans le même flux de travail.
 
 Les destinataires sont définis en amont de l&#39;activité dans le même workflow, grâce à des activités de ciblage telles que requêtes, intersections, etc.
 
