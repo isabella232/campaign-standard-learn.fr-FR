@@ -9,9 +9,9 @@ thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 100%
 
@@ -49,14 +49,14 @@ Avant de commencer, remplissez les conditions préalables suivantes :
 
 Vous devez connaître votre [!DNL IMS org ID]. La vidéo ci-dessous montre où vous pouvez trouver l’[!DNL IMS org ID] de votre instance.
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
 ### Droits d’administrateur
 
 Les droits d’administrateur sont requis pour accéder au [!UICONTROL panneau de contrôle].
 La vidéo ci-dessous explique comment ajouter un administrateur à une instance Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
 ## Autres ressources
 
