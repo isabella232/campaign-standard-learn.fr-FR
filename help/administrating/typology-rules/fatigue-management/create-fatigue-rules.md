@@ -9,10 +9,10 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: cce6520619b68bde6a00531ac1931dca90a6b3dc
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 40%
+source-wordcount: '100'
+ht-degree: 41%
 
 ---
 
@@ -29,4 +29,4 @@ Pour créer des [!UICONTROL règles de fatigue], vous devez définir un nombre m
 
 ## Autres ressources
 
-* [Règles de fatigue (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/working-with-typology-rules/fatigue-rules.html)
+* [Règles de fatigue (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html)
