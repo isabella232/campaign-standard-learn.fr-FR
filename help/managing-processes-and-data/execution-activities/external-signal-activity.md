@@ -1,7 +1,7 @@
 ---
 title: Activité de signal externe - Appelez un processus avec des paramètres
 description: L’Activité Signal Externe est utilisée pour organiser et orchestrer différents processus qui font partie du même parcours client dans différents workflows. Elle permet de démarrer un workflow à partir d'un autre, supportant ainsi des parcours client plus complexes tout en améliorant le contrôle et la réactivité en cas de problèmes.
-feature: External Signal Activity
+feature: Activité Signal externe
 topics: Workflows
 kt: 2750
 thumbnail: 27249
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 2237e6a7d6a8c202ea87aeeb4b1e6fa83e1c677c
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 27%
+source-wordcount: '342'
+ht-degree: 25%
 
 ---
 
@@ -45,4 +45,4 @@ La vidéo suivante explique les étapes de configuration requises pour :
 
 ## Autres ressources
 
-* [Signal externe (documentation)](https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [Signal externe (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/calling-workflow-external-parameters/calling-a-workflow-with-external-parameters.html)
