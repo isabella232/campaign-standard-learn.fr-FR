@@ -1,7 +1,7 @@
 ---
 title: Création d’un rapport dynamique
 description: Découvrez comment créer un rapport.
-feature: Dynamic Reporting
+feature: Rapports dynamiques
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: DOC
 translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 43%
+source-wordcount: '71'
+ht-degree: 45%
 
 ---
 
