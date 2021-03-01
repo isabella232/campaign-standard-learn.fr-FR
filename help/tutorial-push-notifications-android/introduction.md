@@ -10,7 +10,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '200'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ Ce tutoriel vous guide tout au long des étapes nécessaires à l’envoi de not
 ## Conditions préalables requises
 
 * La propriété de lancement doit être configurée avec l’extension Adobe Campaign Standard. Veuillez suivre l’aide en ligne ci-dessous.
-   * [Tutoriel vidéo](https://video.tv.adobe.com/v/26224?quality=12&captions=fre_fr)
+   * [Tutoriel vidéo](https://video.tv.adobe.com/v/26224?quality=12)
    * [Documentation](https://docs.adobe.com/content/help/fr-FR/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
 
 * Vérifiez que le statut de la propriété correspondante dans Adobe Campaign Standard est défini sur &#39;Configuré&#39;.
