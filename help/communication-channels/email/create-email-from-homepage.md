@@ -18,7 +18,7 @@ ht-degree: 57%
 ---
 
 
-# Créez une diffusion email {#create-an-email-delivery}
+# Création d’une diffusion email {#create-an-email-delivery}
 
 Vous pouvez créer une diffusion de messagerie autonome à partir d’une campagne, de la page d&#39;accueil Adobe Campaign ou dans la liste [!UICONTROL Activité marketing]. Vous pouvez également créer et envoyer des courriers électroniques à envoi unique et récurrents à partir d’un processus.
 
