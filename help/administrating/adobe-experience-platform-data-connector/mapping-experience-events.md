@@ -1,7 +1,7 @@
 ---
 title: Mapping des événements d’expérience
 description: Découvrez comment mapper des Événements d’expérience dans Adobe Experience Platform (AEP)
-feature: Adobe Experience Platform Data Connector
+feature: Adobe Experience Platform Data Connector
 topics: null
 kt: 2832
 thumbnail: 27265.jpg
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 469bb62991b768929e75b360d93d1cef9a9f3d9a
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 10%
+source-wordcount: '86'
+ht-degree: 16%
 
 ---
 
@@ -31,6 +31,6 @@ Découvrez comment mapper [!UICONTROL Événements d’expérience] dans Adobe E
 
 ## Autres ressources
 
-* [Définition du mapping](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
-* [Activation du mapping](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
+* [Définition du mapping](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+* [Activation du mapping](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
 
