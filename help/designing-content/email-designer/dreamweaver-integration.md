@@ -1,16 +1,16 @@
 ---
 title: Création de contenu à l’aide d’Adobe Dreamweaver
 description: La vidéo explique les éléments requis pour activer l’intégration Dreamweaver. Elle montre aussi comment créer et modifier du contenu pour Adobe Campaign Standard à l’aide de Dreamweaver.
-feature: Email Designer
+feature: Concepteur d’email
 kt: 1420
 thumbnail: 23121.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '179'
+workflow-type: ht
+source-wordcount: '181'
 ht-degree: 100%
 
 ---
@@ -37,5 +37,5 @@ La vidéo explique les éléments requis pour activer l’intégration Dreamweav
 ## Ressources supplémentaires
 
 * [Résolution des problèmes liés à l’installation d’Adobe Campaign Dreamweaver](https://helpx.adobe.com/fr/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
-* [Documentation sur Adobe Dreamweaver](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
+* [Documentation sur Adobe Dreamweaver](https://helpx.adobe.com/fr/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
 * [Installation de modules complémentaires et d’extensions pour les applications Adobe](https://helpx.adobe.com/fr/creative-cloud/kb/installingextensionsandaddons.html)
