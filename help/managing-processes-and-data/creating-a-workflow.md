@@ -8,16 +8,16 @@ thumbnail: 23937.jpg
 doc-type: feature video
 activity: use
 team: DOC
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
-workflow-type: tm+mt
-source-wordcount: '93'
+workflow-type: ht
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 
-# Créer un workflow         {#how-to-create-a-workflow-in-adobe-campaign-standard}
+# Créer un workflow       {#how-to-create-a-workflow-in-adobe-campaign-standard}
 
 Les workflows peuvent intervenir dans différents contextes, par exemple :
 
