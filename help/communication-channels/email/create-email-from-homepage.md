@@ -30,4 +30,4 @@ Cette vidéo explique comment créer une diffusion de messagerie autonome à par
 
 * [Créer et envoyer des emails via un workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
 * [Création d’un courrier électronique (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [Bonnes pratiques de diffusion](https://docs.campaign.adobe.com/doc/standard/getting_started/fr/ACS_DeliveryBestPractices.html)
+* [Bonnes pratiques relatives à la diffusion](https://docs.campaign.adobe.com/doc/standard/getting_started/fr/ACS_DeliveryBestPractices.html)
