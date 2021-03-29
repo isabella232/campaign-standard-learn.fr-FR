@@ -1,7 +1,7 @@
 ---
 title: Prise en main du panneau de contrôle
 description: Cet article explique comment accéder au panneau de contrôle et présente les conditions préalables requises pour pouvoir l’utiliser.
-feature: Control Panel
+feature: Panneau de contrôle
 topics: Control Panel
 audience: administrator
 kt: 6385
@@ -9,10 +9,10 @@ thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
-workflow-type: tm+mt
-source-wordcount: '241'
+workflow-type: ht
+source-wordcount: '243'
 ht-degree: 100%
 
 ---
@@ -35,7 +35,7 @@ Pour accéder au panneau de contrôle, rendez-vous sur la page d’accueil Exper
 * **[!UICONTROL Accueil Experience Cloud]** > **[!UICONTROL Accès rapide]**
 
    ou
-* **[!UICONTROL Accueil Experience Cloud]** > [!UICONTROL Sélecteur de solution] : **Campaign** > Carte **[!UICONTROL panneau de contrôle]**
+* **[!UICONTROL Accueil Experience Cloud]** > [!UICONTROL Sélecteur de solution] : **Campaign** > Vignette **[!UICONTROL panneau de contrôle]**
 
    ou
 
