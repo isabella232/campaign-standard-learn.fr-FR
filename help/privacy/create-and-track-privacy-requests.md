@@ -1,17 +1,17 @@
 ---
 title: Création manuelle et suivi des demandes d’accès à des informations personnelles via l’interface utilisateur d’Adobe Campaign
 description: Adobe Campaign vous permet de créer des demandes d’accès à des informations personnelles et de les supprimer conformément aux lois sur la confidentialité telles que le RGPD et le CCPA. Cette vidéo explique comment créer manuellement des demandes d’accès aux informations personnelles et suivre leur évolution dans l’interface utilisateur d’Adobe Campaign Standard.
-feature: GDPR, CCPA
+feature: RGPD, CCPA
 topic: null
 kt: 1242
 thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '125'
+workflow-type: ht
+source-wordcount: '127'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 # Création et suivi manuels des demandes d’accès à des informations personnelles
 
-Adobe Campaign vous permet de créer des demandes d’accès aux informations personnelles et à leur suppression conformément aux lois sur la confidentialité telles que le RGPD et le CCPA.
+Adobe Campaign vous permet de créer des demandes d’accès à des informations personnelles et de les supprimer conformément aux lois sur la confidentialité telles que le RGPD et le CCPA.
 
 Cette vidéo explique comment créer manuellement des demandes d’accès aux informations personnelles et suivre leur évolution dans l’interface utilisateur d’Adobe Campaign Standard.
 
