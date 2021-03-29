@@ -1,17 +1,17 @@
 ---
 title: Prévisualiser votre analyse email et anti-spam
 description: Cette vidéo explique comment prévisualiser l’analyse d’email et anti-spam.
-feature: email designer
+feature: 'concepteur d’email '
 topics: null
 kt: 2393
 thumbnail: 25921.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '38'
+workflow-type: ht
+source-wordcount: '40'
 ht-degree: 100%
 
 ---
