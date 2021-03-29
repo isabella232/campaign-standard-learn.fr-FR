@@ -1,25 +1,25 @@
 ---
 title: Panneau de contrôle - Présentation
-description: Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
-landing-page-description: The Control Panel allows Campaign administrators to perform administrative tasks, such as managing SFTP storage, GPG keys, or subdomains and certificates.
-feature: Control Panel
+description: Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
+landing-page-description: Le panneau de contrôle permet aux administrateurs Campaign d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP, des clés GPG ou des sous-domaines et des certificats.
+feature: Panneau de contrôle
 topics: Control Panel
 audience: administrator
 kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
-workflow-type: tm+mt
-source-wordcount: '209'
+workflow-type: ht
+source-wordcount: '232'
 ht-degree: 100%
 
 ---
 
 # Panneau de contrôle - Présentation
 
-Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
+Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
 
 ## Nouveautés
 
@@ -31,7 +31,7 @@ Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campai
 
    *Découvrez comment configurer et envoyer un sous-domaine à l’aide de CNAME dans le panneau de contrôle.*
 
-## Sélections du personnel
+## Suggestions du personnel
 
 <table>
 <tr>
