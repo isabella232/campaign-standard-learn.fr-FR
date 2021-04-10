@@ -9,7 +9,7 @@ role: administrator
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
+source-git-commit: f1805428e57e778853ded71ba286ce2aefb9ec8c
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 3%
@@ -23,7 +23,7 @@ Dans les didacticiels suivants, vous apprendrez à configurer et à utiliser des
 
 Avant de pouvoir utiliser un déclencheur dans un message transactionnel, vous devez :
 
-1. [Création d’un déclencheur dans l’Experience Cloud](help/integrations/create-a-trigger-in-experience-cloud.md)
+1. [Création d’un déclencheur dans l’Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
 2. [Création d’un événement de déclenchement dans le Campaign Standard](/help/integrations/create-a-trigger-event.md)
 
 Une fois le déclencheur configuré, il vous permet de [configurer des messages transactionnels à l&#39;aide de données de événement en temps réel](/help/integrations/configure-transactional-messages-using-realtime-event-data.md).
