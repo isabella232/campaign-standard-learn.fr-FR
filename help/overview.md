@@ -3,7 +3,7 @@ title: Tutoriels sur Adobe Campaign Standard - Présentation
 description: Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l’orchestration visuelle de campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d’Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
+source-git-commit: 10fe2451d77a0366ef7885da0426551b1843a1cb
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 82%
@@ -21,7 +21,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
    *Découvrez comment configurer l’intégration du Campaign Standard et d’Analytics. Découvrez comment créer un rapport dans Analytics à l’aide des données reçues d’un Campaign Standard et quels IPC sont disponibles.*
 
-* ** [Utilisation de déclencheurs pour les messages transactionnels](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
+* **[Utilisation de déclencheurs pour les messages transactionnels](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
 
    *Découvrez comment configurer et utiliser des triggers pour la messagerie transactionnelle.*
 
