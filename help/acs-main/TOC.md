@@ -9,7 +9,7 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=fr
 translation-type: tm+mt
-source-git-commit: c285a5493dad114c817d78692400f4056c707db4
+source-git-commit: 8b4c60a2950d86074a3057bb8fe6460288da93b6
 workflow-type: tm+mt
 source-wordcount: '517'
 ht-degree: 98%
@@ -100,7 +100,7 @@ ht-degree: 98%
    + [Création d’un rapport dynamique](/help/reporting/creating-a-dynamic-report.md)
    + [Création d’un rapport basé sur des attributs de profil personnalisés](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Création d’un rapport à partir de segments de workflow](/help/reporting/report-on-workflow-segments.md)
-+ Intégrations 
++ Intégrations {#integrations}
    + [Suivre la réussite de vos diffusions dans Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
 + Administration {#administrating}
    + [Gestion des droits d’accès des utilisateurs](/help/administrating/managing-user-access-rights.md)
