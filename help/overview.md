@@ -1,12 +1,12 @@
 ---
 title: Tutoriels sur Adobe Campaign Standard - Présentation
-description: Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l’orchestration visuelle de campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d’Adobe Campaign Standard.
+description: Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l’orchestration visuelle de campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d’Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
-translation-type: ht
-source-git-commit: a180772da382d4b67070b8efd98446603b340dc6
-workflow-type: ht
-source-wordcount: '274'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: f3db7ac2882d7c87e1e785e7fc1d80b21a9e6a2a
+workflow-type: tm+mt
+source-wordcount: '281'
+ht-degree: 86%
 
 ---
 
@@ -17,13 +17,9 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
-* **[Monitoring des bases de données](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+* **[Suivre la réussite de vos diffusions dans Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
 
-   *Découvrez comment surveiller l’utilisation de la base de données de vos instances.*
-
-* **[Délégation de sous-domaines à l’aide de CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
-
-   *Découvrez comment configurer et envoyer un sous-domaine à l’aide de CNAME dans le panneau de contrôle.*
+   *Découvrez comment configurer l’intégration du Campaign Standard et d’Analytics. Découvrez comment créer un rapport dans Analytics à l’aide des données reçues d’un Campaign Standard et quels IPC sont disponibles.*
 
 ## Suggestions du personnel
 
@@ -60,7 +56,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
       <img alt="Tutoriel : Prise en main des notifications push pour Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/fr-FR/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
     <strong>Tutoriel : Prise en main des notifications push pour Android</strong>
     </a>
     </div>
