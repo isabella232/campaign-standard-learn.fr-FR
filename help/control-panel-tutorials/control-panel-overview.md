@@ -77,6 +77,6 @@ Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campai
 </tr>
 </table>
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Centre d&#39;aide relatif au panneau de contrôle](https://docs.adobe.com/content/help/fr-FR/control-panel/using/control-panel-home.html)
