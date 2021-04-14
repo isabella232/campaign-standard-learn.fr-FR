@@ -1,7 +1,7 @@
 ---
 title: Monitoring des bases de données
 description: Découvrez comment surveiller l’utilisation de la base de données de vos instances.
-feature: Database Monitoring
+feature: Monitoring de la base de données
 topics: Control Panel
 kt: 6433
 thumbnail: 327175.jpg
@@ -9,10 +9,10 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: da28f90f376f867e861194f828493fc66cc604e4
-workflow-type: tm+mt
-source-wordcount: '86'
+workflow-type: ht
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -26,6 +26,6 @@ Découvrez comment surveiller l’utilisation de la base de données de vos inst
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Monitoring de la base de données (guide)](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=fr#performance-monitoring)
