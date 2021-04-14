@@ -58,7 +58,7 @@ La vidéo ci-dessous explique comment ajouter un administrateur à une instance 
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Centre d&#39;aide relatif au panneau de contrôle](https://docs.adobe.com/content/help/fr-FR/control-panel/using/control-panel-home.html)
 
