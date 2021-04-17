@@ -1,21 +1,23 @@
 ---
 title: Utilisation de contenu existant
 description: Cette vidéo explique comment récupérer rapidement votre contenu créatif sur un site web et le charger dans le Concepteur d’email.
-feature: 'Concepteur d’email '
+feature: Conception d’email
 topics: Content Creation
 kt: 6295
 thumbnail: 25926.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+exl-id: f25dd9a4-5d97-4f95-b21d-6a9eafc9e5ae
+role: Business Practitioner, Developer
+level: Beginner
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 100%
 
 ---
-
 
 # Utilisation de contenu existant{#working-with-existing-content}
 
