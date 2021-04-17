@@ -1,20 +1,22 @@
 ---
 title: Création de contenu à l’aide d’Adobe Dreamweaver
-description: La vidéo explique les éléments requis pour activer l’intégration Dreamweaver. Elle montre aussi comment créer et modifier du contenu pour Adobe Campaign Standard à l’aide de Dreamweaver.
-feature: Concepteur d’email
+description: Comprenez ce qui est nécessaire pour activer l’intégration Dreamweaver et comment créer et modifier du contenu pour Adobe Campaign Standard à l’aide de Dreamweaver.
+feature: Conception d’email
 kt: 1420
 thumbnail: 23121.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
-source-wordcount: '181'
-ht-degree: 100%
+exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
+role: Business Practitioner, Developer
+level: Beginner
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
+source-wordcount: '179'
+ht-degree: 87%
 
 ---
-
 
 # Création de contenu à l’aide d’Adobe Dreamweaver
 
@@ -37,5 +39,5 @@ La vidéo explique les éléments requis pour activer l’intégration Dreamweav
 ## Ressources supplémentaires
 
 * [Résolution des problèmes liés à l’installation d’Adobe Campaign Dreamweaver](https://helpx.adobe.com/fr/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
-* [Documentation sur Adobe Dreamweaver](https://helpx.adobe.com/fr/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
+* [Documentation sur Adobe Dreamweaver](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
 * [Installation de modules complémentaires et d’extensions pour les applications Adobe](https://helpx.adobe.com/fr/creative-cloud/kb/installingextensionsandaddons.html)
