@@ -1,21 +1,23 @@
 ---
 title: Destinations des Audiences - Présentation
-description: Exploitation des Audiences Adobe Experience Platform (AEP) dans Adobe Campaign Standard (ACS)
-feature: Audience Destinations
+description: Découvrez comment tirer parti des Audiences Adobe Experience Platform (AEP) dans Adobe Campaign Standard (ACS)
+feature: Intégration de People Core Service
 topics: ACOP
 kt: 2755
 thumbnail: null
 doc-type: feature video
 activity: using
 team: TM
+exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 9%
+source-wordcount: '189'
+ht-degree: 11%
 
 ---
-
 
 # [!UICONTROL Destinations]  d&#39;Audience (BETA) - Présentation
 
@@ -38,7 +40,6 @@ Les didacticiels vidéo suivants vous guideront dans les différentes étapes :
 2. [Activation des audiences AEP dans un processus marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Modification de la dimension de ciblage d&#39;une diffusion pour une Audience de plateforme](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
-## Autres ressources
+## Ressources supplémentaires
 
 *[Présentation d’Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
-
