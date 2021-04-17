@@ -1,21 +1,23 @@
 ---
 title: Configurer des événements
-description: 'Lors de la configuration d’un message in-app dans les événements Adobe Campaign Standard (ACS), définissez l’action initiée par l’utilisateur qui déclenchera l’affichage du message. '
-feature: In-App
+description: '"Comprenez comment les événements définissent l’action déclenchée par l’utilisateur qui déclenche l’affichage d’un message in-app. "'
+feature: Dans l’application
 topics: Mobile
 kt: 2548
 thumbnail: 26245.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 7%
+source-wordcount: '257'
+ht-degree: 8%
 
 ---
-
 
 # Configurer [!UICONTROL Événements] {#configuring-events}
 
@@ -62,6 +64,6 @@ Les trois catégories suivantes sont prises en charge en fonction de ce qui est 
 >
 >[!UICONTROL Les ] événements Analytics nécessitent une licence Adobe Analytics. Une fois l&#39;extension [[!DNL Analytics] configurée](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) et que vous avez ajouté [Analytics à votre application](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), ces événements sont disponibles dans la configuration [!UICONTROL In-App] dans ACS.
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Activer les mesures de cycle de vie (documentation)](https://aep-sdks.gitbook.io/docs/getting-started/initialize-the-sdk#enable-lifecycle-metrics)
