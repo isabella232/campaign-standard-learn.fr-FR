@@ -1,21 +1,23 @@
 ---
 title: Configurer les listes de produits dans les emails transactionnels
-description: Les vidéos expliquent les étapes nécessaires à la configuration des listes de produits dans les courriers électroniques transactionnels en Adobe Campaign Standard (ACS).
-feature: Transactional Emails
+description: Découvrez les étapes requises pour configurer les listes de produits dans les courriers électroniques transactionnels.
+feature: Messages transactionnels, courriels
 topics: Content Creation
 kt: 1728
 thumbnail: 25915
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
+role: Business Practitioner, Developer
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '176'
 ht-degree: 4%
 
 ---
-
 
 # Configurer [!UICONTROL les listes de produits] dans les courriers électroniques transactionnels
 
@@ -39,7 +41,7 @@ Les vidéos suivantes expliquent les étapes requises pour configurer [!UICONTRO
 
 >[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Utilisation des listes de produits dans un message transactionnel (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/transactional-messaging/event-transactional-messages.html#using-product-listings-in-a-transactional-message)
 * [Définition des collections de données (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/configuring-channels/configuring-transactional-messaging.html#defining-data-collections)
