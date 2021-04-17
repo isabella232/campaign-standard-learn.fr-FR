@@ -1,20 +1,22 @@
 ---
 title: Présentation des messages In-App
-description: Le canal de messagerie in-app Adobe Campaign Standard (ACS) vous permet de présenter à l’utilisateur des messages in-app contextuellement pertinents en réponse au comportement en temps réel d’un client dans l’application mobile.
-feature: In-App
+description: '"Découvrez comment présenter à l’utilisateur des messages in-app contextuellement pertinents en réponse au comportement en temps réel d’un client dans l’application mobile."'
+feature: Dans l’application
 topics: Mobile
 kt: 1911
 doc-type: feature video
 activity: use
 team: TM
+exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '778'
 ht-degree: 16%
 
 ---
-
 
 # Présentation des messages [!UICONTROL in-app] {#introduction}
 
@@ -45,7 +47,7 @@ Pour plus d&#39;informations sur les extensions, consultez la documentation [Con
 
 1. [Configuration de événements](/help/communication-channels/mobile/in-app/configure-events.md).
 
-## Créer, gérer et publier des Diffusions [!UICONTROL in-app] {#create-manage-publish}
+## Créer, gérer et publier des [!UICONTROL Diffusions ] intégrées {#create-manage-publish}
 
 Vous pouvez créer des diffusions intégrées à l’application en cliquant sur la carte **[!UICONTROL Créer un message intégré]** à partir de la page d’accueil, à partir de [!UICONTROL Activités marketing], ou [Créer une diffusion intégrée dans un flux de travail](/help/communication-channels/mobile/in-app/in-app-activity.md).
 
@@ -69,7 +71,7 @@ Ce modèle est utile pour prendre en charge les cas d’utilisation d’orchestr
 
 Une fois votre diffusion publiée, vous pouvez [créer un rapport sur votre diffusion intégrée](/help/communication-channels/mobile/in-app/in-app-reporting.md).
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Rapport In-App](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)
 * [Configuration d’une propriété mobile](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
