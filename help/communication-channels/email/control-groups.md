@@ -1,21 +1,23 @@
 ---
 title: Ajout d’une population témoin à une diffusion
 description: Découvrez comment définir une population témoin pour votre diffusion et comment extraire les profils affectés à la population témoin une fois la diffusion envoyée.
-feature: 'populations témoins  '
+feature: Populations témoins
 topics: null
 kt: 5060
 thumbnail: 40684.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+exl-id: 7d799136-a308-422d-8a97-d3ed8fed0c73
+role: Business Practitioner
+level: Intermediate, Experienced
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
 ---
-
 
 # Ajout d’une [!UICONTROL population témoin] à une [!UICONTROL diffusion]
 
