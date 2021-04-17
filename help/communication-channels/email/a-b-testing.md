@@ -1,21 +1,23 @@
 ---
 title: A/B testing
-description: 'Cette vidéo explique comment configurer et envoyer un test A/B en Adobe Campaign Standard, en testant l’objet. '
-feature: A/B Testing
+description: '"Découvrez comment configurer et envoyer un test A/B, qui teste l’objet. "'
+feature: 'A/B Testing  '
 topics: null
 kt: 3907
 thumbnail: 18480.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: f1ae414c-6b42-445b-bb33-9a28a3e854fa
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 46%
+source-wordcount: '113'
+ht-degree: 49%
 
 ---
-
 
 # Test A/B
 
@@ -25,6 +27,6 @@ Cette vidéo explique comment configurer et envoyer un test A/B, en testant l’
 
 >[!VIDEO](https://video.tv.adobe.com/v/18480?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Créer un email de test A/B](https://docs.adobe.com/help/en/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html)
