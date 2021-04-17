@@ -1,21 +1,23 @@
 ---
 title: Modifier la dimension de ciblage
 description: Cette vidéo explique comment modifier la dimension de ciblage d'une diffusion pour une Audience de plateforme en dehors de la Principale table de profil à Adobe Campaign Standard.
-feature: Audience Destinations
+feature: Intégration de People Core Service
 topics: ACOP
 kt: 3739
 thumbnail: 30151.jpg
 doc-type: feature video
 activity: using
 team: TM
+exl-id: ad19a131-00c9-4063-a4ea-f1d6261ad409
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 17%
+source-wordcount: '178'
+ht-degree: 19%
 
 ---
-
 
 # Modifier la dimension de ciblage [!UICONTROL Audience de la plate-forme]
 
@@ -29,7 +31,7 @@ Cette vidéo explique comment modifier la dimension de ciblage d&#39;une diffusi
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 Documentation :
 
