@@ -1,23 +1,25 @@
 ---
-title: 'Créer un workflow       '
-description: Cette vidéo vous montrera comment créer et modifier un workflow dans Adobe Campaign Standard.
-feature: workflows
+title: Créez un workflow
+description: Découvrez comment créer et modifier un processus.
+feature: Workflows
 topics: null
 kt: 1809
 thumbnail: 23937.jpg
 doc-type: feature video
 activity: use
 team: DOC
-translation-type: ht
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
-workflow-type: ht
-source-wordcount: '94'
-ht-degree: 100%
+exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
+role: Business Practitioner, Developer, Administrator
+level: Beginner
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
+source-wordcount: '86'
+ht-degree: 90%
 
 ---
 
-
-# Créer un workflow       {#how-to-create-a-workflow-in-adobe-campaign-standard}
+# Créer un workflow          {#how-to-create-a-workflow-in-adobe-campaign-standard}
 
 Les workflows peuvent intervenir dans différents contextes, par exemple :
 
