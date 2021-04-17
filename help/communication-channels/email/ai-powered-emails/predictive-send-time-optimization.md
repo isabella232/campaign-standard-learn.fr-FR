@@ -1,21 +1,23 @@
 ---
 title: Optimisation de l’heure d’envoi prédictive
 description: Identifiez les workflows nécessaires pour synchroniser les données entre Adobe Campaign et le modèle IA pour créer des parcours. Découvrez comment afficher des scores d’heure d’envoi au niveau du profil individuel et comment exécuter des diffusions email à l'aide d'une formule d’heure d’envoi.
-feature: 'heure d’envoi prédictive '
+feature: Optimisation de l’heure d’envoi
 topics: null
 kt: 6274
 thumbnail: 40469.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: ht
-source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
+role: Business Practitoner, Developer, Administrator
+level: Experienced
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 100%
 
 ---
-
 
 # Optimisation de l’heure d’envoi prédictive
 
