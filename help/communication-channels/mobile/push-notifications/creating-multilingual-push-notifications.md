@@ -1,6 +1,6 @@
 ---
 title: Créer une notification push multilingue
-description: 'Découvrez comment créer une notification Push multilingue en Adobe Campaign Standard (ACS). '
+description: 'Découvrez comment créer une notification Push multilingue. '
 feature: Push
 topics: Mobile
 kt: 1375
@@ -8,14 +8,16 @@ thumbnail: 23304.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: d2d50689-9153-4074-a046-0701bb6017cf
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 25%
+source-wordcount: '70'
+ht-degree: 28%
 
 ---
-
 
 # Créer une notification Push multilingue [!UICONTROL notification Push]
 
@@ -23,7 +25,7 @@ Découvrez comment créer des [!UICONTROL notifications Push] multilingues en Ad
 
 >[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 Documentation :
 
