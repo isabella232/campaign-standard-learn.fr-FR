@@ -1,6 +1,6 @@
 ---
 title: Créez une notification push
-description: 'Découvrez comment créer une notification Push en Adobe Campaign Standard (ACS). '
+description: 'Découvrez comment créer une notification Push. '
 feature: Push
 topics: Mobile
 kt: 1401
@@ -8,14 +8,16 @@ thumbnail: 31499.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 16%
+source-wordcount: '182'
+ht-degree: 17%
 
 ---
-
 
 # Créer une [!UICONTROL notification Push]
 
@@ -31,7 +33,7 @@ La vidéo décrit comment envoyer un [!DNL push notification to app subscribers]
 
 >[!VIDEO](https://video.tv.adobe.com/v/31499?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 Documentation :
 
