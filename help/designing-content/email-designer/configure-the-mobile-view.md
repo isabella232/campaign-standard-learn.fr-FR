@@ -1,21 +1,23 @@
 ---
 title: Configuration de la vue mobile dans le Concepteur d’email
-description: Cette vidéo explique comment affiner la conception en responsive design d’un email dans Adobe Campaign Standard (ACS) en modifiant séparément toutes les options de style pour l’affichage mobile.
-feature: 'Concepteur d’email '
+description: '"Découvrez comment affiner la conception réactive d''un courrier électronique en modifiant séparément toutes les options de style pour l''affichage mobile."'
+feature: Conception d’email
 topics: null
 kt: 2423
 thumbnail: 25919.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
-source-wordcount: '65'
-ht-degree: 100%
+exl-id: 6b1f8b62-fff0-4ef4-8537-a88658e28ab2
+role: Business Practitioner, Developer
+level: Beginner
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
+source-wordcount: '58'
+ht-degree: 67%
 
 ---
-
 
 # Configuration de la vue mobile dans le [!UICONTROL Concepteur d’email] {#configure-the-mobile-view}
 
