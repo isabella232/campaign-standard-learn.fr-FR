@@ -1,21 +1,23 @@
 ---
 title: Créer une audience à l’aide du Créateur de segments unifié
-description: null
-feature: Audience Destinations
+feature: Intégration de People Core Service
 topics: ACOP
 kt: 2754
 thumbnail: 27638.jpg
 doc-type: feature video
 activity: using
 team: PM
+exl-id: ce52a988-5072-401b-9a8b-112e42504022
+description: Découvrez comment créer une audience à l’aide du créateur de segments unifiés.
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 8%
+source-wordcount: '257'
+ht-degree: 9%
 
 ---
-
 
 # Créer une audience à l’aide du Créateur de segments unifié
 
@@ -35,7 +37,7 @@ La vidéo ci-dessous explique comment une nouvelle audience est créée à l’a
 
 *Création d’une audience dans Adobe Campaign Standard à l’aide du créateur de segments unifiés (min 02:47)*
 
-## Autres ressources
+## Ressources supplémentaires
 
 Documentation :
 
