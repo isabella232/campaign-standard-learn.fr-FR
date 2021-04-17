@@ -1,21 +1,23 @@
 ---
 title: Créer une diffusion de messagerie ou de SMS multilingue
-description: Adobe Campaign Standard (ACS) vous permet de simplifier la complexité opérationnelle de l’envoi de campagnes multilingues. Les diffusions de courriel, ainsi que les diffusions SMS peuvent être configurées en tant que multilingues, ce qui vous permettra d'envoyer le courriel ou les SMS selon la langue préférée du profil. L'approche illustrée dans les vidéos s'applique à la fois aux courriels et aux diffusions SMS.
-feature: Multi-lingual Deliveries
+description: 'Découvrez comment simplifier la complexité opérationnelle de l''envoi de campagnes multilingues. '
+feature: Courriel, SMS
 topics: Mobile Channel, Email Channel
 kt: 1277
 thumbnail: 23252
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 4b7e4602-6d4f-4a16-bbe7-070a95511ebb
+role: Business Practitioner
+level: Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '121'
 ht-degree: 1%
 
 ---
-
 
 # Créer une diffusion de messagerie ou de SMS multilingue
 
@@ -25,6 +27,6 @@ Cette vidéo explique comment créer une diffusion multilingue à partir d&#39;u
 
 >[!VIDEO](https://video.tv.adobe.com/v/23252?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Création d’un courrier électronique multilingue (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html)
