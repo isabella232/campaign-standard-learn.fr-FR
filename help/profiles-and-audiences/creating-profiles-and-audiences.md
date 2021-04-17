@@ -1,21 +1,23 @@
 ---
 title: Création de profils et d’audiences - Présentation
-description: Découvrez comment accéder aux profils existants dans Adobe Campaign Standard et comment créer des profils et des audiences.
-feature: profils, audiences
+description: Découvrez comment accéder aux profils existants et comment créer des profils et des audiences.
+feature: Profils, Audiences
 topics: null
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
+exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 38%
+source-wordcount: '85'
+ht-degree: 18%
 
 ---
-
 
 # Création de profils et d’audiences - Présentation
 
@@ -30,7 +32,7 @@ Cette vidéo explique comment accéder aux profils existants et comment créer d
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Création d’un Profil](/help/profiles-and-audiences/creating-a-profile.md)
 * [Créer un Profil de test](/help/profiles-and-audiences/test-profiles.md)
