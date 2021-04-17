@@ -1,21 +1,23 @@
 ---
 title: Présentation des modèles de contenu d’email
-description: Adobe Campaign Standard offre 18 modèles d’email entièrement personnalisables, prêts à l’emploi et percutants.  Ces modèles ont été créés spécialement pour Adobe Campaign Standard et sont faciles à manipuler et à modifier. Ils constituent un excellent point de départ pour la création d’emails.
-feature: 'Concepteur d’email '
+description: Découvrez comment créer un modèle de contenu de courrier électronique.
+feature: Conception d’email
 topics: null
 kt: 1442
 thumbnail: 23106.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
-source-wordcount: '101'
-ht-degree: 100%
+exl-id: fc01caf7-959a-4f2d-af81-4f695ae45bb8
+role: Business Practitioner, Developer
+level: Beginner
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
+source-wordcount: '71'
+ht-degree: 88%
 
 ---
-
 
 # Présentation des modèles de contenu d’email {#introduction-to-the-email-content-templates}
 
