@@ -1,23 +1,25 @@
 ---
 title: Créer une diffusion In-App dans un workflow
 seo-title: Création d’une diffusion intégrée dans un processus
-description: L'activité Diffusion In-App est généralement utilisée afin d'automatiser l'envoi d'un message In-App à une audience cible calculée dans le même workflow.
+description: '"Découvrez comment utiliser l’activité de diffusion intégrée pour automatiser l’envoi d’un message intégré à une audience de cible calculée dans un processus."'
 seo-description: L'activité Diffusion In-App est généralement utilisée afin d'automatiser l'envoi d'un message In-App à une audience cible calculée dans le même workflow.
-feature: In-App
+feature: Dans l’application
 topics: Mobile
 kt: 2500
 thumbnail: 26226.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 49%
+source-wordcount: '208'
+ht-degree: 38%
 
 ---
-
 
 # Création d’une diffusion [!UICONTROL In-App] dans un processus
 
@@ -29,7 +31,7 @@ La préparation du message est déclenchée selon les paramètres d&#39;exécuti
 
 >[!VIDEO](https://video.tv.adobe.com/v/26226?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Préparation et envoi d’un message in-app (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html)
 * [Personnalisation d’un message intégré (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html)
