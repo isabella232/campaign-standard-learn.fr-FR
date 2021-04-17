@@ -1,21 +1,23 @@
 ---
 title: Présentation du Concepteur d'email
-description: Cette vidéo explique les fonctionnalités générales du Concepteur d’email et comment créer entièrement un email. Cette page répertorie toutes les vidéos de présentation disponibles pour le Concepteur d’email d’Adobe Campaign.
-feature: 'Concepteur d’email '
+description: Découvrez les fonctionnalités générales du concepteur de courrier électronique et comment concevoir un courrier électronique à partir de zéro.
+feature: Conception d’email
 topics: Content Creation
 kt: 1402
 thumbnail: 22771.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
-source-wordcount: '145'
-ht-degree: 100%
+exl-id: 17813cda-50a1-406b-b4ae-9267671a6910
+role: Business Practitioner, Developer
+level: Beginner
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
+source-wordcount: '131'
+ht-degree: 87%
 
 ---
-
 
 # Présentation du Concepteur d&#39;email
 
