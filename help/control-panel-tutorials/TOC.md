@@ -1,19 +1,12 @@
 ---
-product: adobe campaign standard
 user-guide-title: Tutoriels sur le panneau de contrôle d’Adobe Campaign
 user-guide-description: Découvrez comment surveiller les ressources clés de vos instances Adobe Campaign et effectuer des tâches administratives dans le panneau de contrôle.
 breadcrumb-title: Tutoriels sur le panneau de contrôle
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?lang=fr&tag=Campaign+Standard#recommended/solutions/campaign
-tutorials-title: Tutoriels
-tutorials-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard-learn/tutorials/overview.html
-getting-started-title: Documentation
-getting-started-url: https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/campaign-standard-home.html
 index: true
-translation-type: ht
-source-git-commit: fb724628536b81f1032c557d27e7f4dd655ceeeb
-workflow-type: ht
-source-wordcount: '142'
+translation-type: tm+mt
+source-git-commit: 0125d22122128037759c65f94e5e90ab4740173f
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
