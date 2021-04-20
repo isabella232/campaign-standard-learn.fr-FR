@@ -1,7 +1,7 @@
 ---
 title: Substitution de profil - Test des emails à l’aide des profils ciblés
 description: Découvrez comment tester vos messages électroniques à l’aide de la fonction de substitution de profil.
-feature: 'Email  '
+feature: Email  
 topics: Channels
 kt: 4667
 thumbnail: 32368.jpg

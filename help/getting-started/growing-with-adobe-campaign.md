@@ -1,7 +1,7 @@
 ---
 title: Évoluer avec Adobe Campaign
 description: Comprendre les prochaines étapes potentielles vers une véritable orchestration entre canaux.
-feature: Orchestration entre Canaux
+feature: Cross Channel Orchestration
 topics: null
 kt: 3973
 thumbnail: 29460.jpg

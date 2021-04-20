@@ -1,7 +1,7 @@
 ---
 title: Présentation des messages In-App
 description: '"Découvrez comment présenter à l’utilisateur des messages in-app contextuellement pertinents en réponse au comportement en temps réel d’un client dans l’application mobile."'
-feature: Dans l’application
+feature: In App
 topics: Mobile
 kt: 1911
 doc-type: feature video

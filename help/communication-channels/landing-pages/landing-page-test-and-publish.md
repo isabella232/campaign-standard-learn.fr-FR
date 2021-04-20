@@ -1,7 +1,7 @@
 ---
 title: Tester et publier une landing page
 description: Découvrez comment tester un landing page qui a été construit dans Adobe Campaign Standard et comment le publier.
-feature: Landing pages
+feature: Landing Pages
 topics: null
 kt: 1813
 thumbnail: 24992.jpg

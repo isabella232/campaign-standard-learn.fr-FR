@@ -1,7 +1,7 @@
 ---
 title: Création d’un Courrier
 description: Apprenez à créer un publipostage.
-feature: Courrier
+feature: Direct Mail
 topics: null
 kt: 1430
 thumbnail: 23417.jpg

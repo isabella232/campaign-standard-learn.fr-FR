@@ -3,7 +3,7 @@ title: Créer une diffusion In-App dans un workflow
 seo-title: Création d’une diffusion intégrée dans un processus
 description: '"Découvrez comment utiliser l’activité de diffusion intégrée pour automatiser l’envoi d’un message intégré à une audience de cible calculée dans un processus."'
 seo-description: L'activité Diffusion In-App est généralement utilisée afin d'automatiser l'envoi d'un message In-App à une audience cible calculée dans le même workflow.
-feature: Dans l’application
+feature: In App
 topics: Mobile
 kt: 2500
 thumbnail: 26226.jpg

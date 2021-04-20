@@ -1,7 +1,7 @@
 ---
 title: Cibler les utilisateurs en fonction de leur profil Campaign
 description: Découvrez comment cible des utilisateurs d’applications mobiles connus avec des messages personnalisés avec des attributs de profil CRM.
-feature: Dans l’application
+feature: In App
 topics: Channels
 kt: 1796
 thumbnail: 26200.jpg

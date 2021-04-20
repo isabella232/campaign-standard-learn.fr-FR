@@ -2,7 +2,7 @@
 title: Suivre la réussite de vos diffusions dans Adobe Analytics
 description: Découvrez comment configurer l’intégration du Campaign Standard et d’Analytics. Découvrez comment créer un rapport dans Analytics à l’aide des données reçues d’un Campaign Standard et quels IPC sont disponibles.
 product: adobe analytics, campaign
-feature: Paramètres de l’application
+feature: Application Settings
 topics: Integrations
 role: Administrator
 level: Intermediate

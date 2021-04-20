@@ -1,7 +1,7 @@
 ---
 title: Création de contenu à l’aide d’Adobe Dreamweaver
 description: Comprenez ce qui est nécessaire pour activer l’intégration Dreamweaver et comment créer et modifier du contenu pour Adobe Campaign Standard à l’aide de Dreamweaver.
-feature: Conception d’email
+feature: Email Design
 kt: 1420
 thumbnail: 23121.jpg
 doc-type: feature video

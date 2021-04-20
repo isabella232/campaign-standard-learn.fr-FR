@@ -1,7 +1,7 @@
 ---
 title: Prise en main du panneau de contrôle
 description: Cet article explique comment accéder au panneau de contrôle et présente les conditions préalables requises pour pouvoir l’utiliser.
-feature: Panneau de contrôle
+feature: Control Panel
 topics: Control Panel
 audience: administrator
 kt: 6385

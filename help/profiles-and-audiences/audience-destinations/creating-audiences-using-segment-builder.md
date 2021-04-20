@@ -1,6 +1,6 @@
 ---
 title: Créer une audience à l’aide du Créateur de segments unifié
-feature: Intégration de People Core Service
+feature: People Core Service Integration
 topics: ACOP
 kt: 2754
 thumbnail: 27638.jpg

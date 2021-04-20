@@ -1,7 +1,7 @@
 ---
 title: Créer une diffusion de messagerie ou de SMS multilingue
 description: 'Découvrez comment simplifier la complexité opérationnelle de l''envoi de campagnes multilingues. '
-feature: Courriel, SMS
+feature: Email, SMS
 topics: Mobile Channel, Email Channel
 kt: 1277
 thumbnail: 23252

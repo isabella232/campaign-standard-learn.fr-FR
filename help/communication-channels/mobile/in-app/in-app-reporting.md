@@ -1,7 +1,7 @@
 ---
 title: Créer un rapport sur votre diffusion In-App
 description: '"Découvrez comment présenter à l’utilisateur des messages In-App contextuellement pertinents en réponse au comportement en temps réel d’un client dans l’application mobile."'
-feature: Dans l’application
+feature: In App
 topics: Mobile
 kt: 2558
 thumbnail: 26412.jpg

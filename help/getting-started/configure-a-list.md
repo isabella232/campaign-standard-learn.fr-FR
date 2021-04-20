@@ -1,7 +1,7 @@
 ---
 title: Configurer une liste
 description: '"Découvrez comment modifier les colonnes affichées, l’ordre et l’ordre de tri d’une vue de liste dans Adobe Campaign Standard.  "'
-feature: Vue d’ensemble
+feature: Overview
 topics: null
 kt: 1821
 thumbnail: 25288.jpg

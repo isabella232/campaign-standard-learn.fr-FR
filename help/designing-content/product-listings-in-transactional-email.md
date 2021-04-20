@@ -1,7 +1,7 @@
 ---
 title: Configurer les listes de produits dans les emails transactionnels
 description: Découvrez les étapes requises pour configurer les listes de produits dans les courriers électroniques transactionnels.
-feature: Messages transactionnels, courriels
+feature: Transactional Messaging, Emails
 topics: Content Creation
 kt: 1728
 thumbnail: 25915

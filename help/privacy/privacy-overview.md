@@ -1,8 +1,8 @@
 ---
 title: Demandes d’accès à des informations personnelles avec Adobe Campaign Standard (ACS) - Vue d’ensemble
 description: Ce tutoriel explique comment créer des demandes d’accès à des informations personnelles via l’interface d’Adobe Campaign Standard (ACS).
-feature: RGPD, CCPA
-topic: Confidentialité
+feature: GDPR, CCAP
+topic: Privacy
 kt: 1480
 doc-type: feature video
 activity: use

@@ -1,7 +1,7 @@
 ---
 title: Création d’espaces de noms pour les demandes d’accès à des informations personnelles dans Adobe Campaign Standard (ACS)
 description: La définition de l’espace de noms qui sera utilisé pour identifier le titulaire de données dans la base de données Adobe Campaign est une condition préalable à la création de demandes d’accès à des informations personnelles et à leur suppression, comme l’exige le RGPD ou le CCPA. Cette vidéo explique comment créer des espaces de noms pour les demandes d’accès à des informations personnelles.
-feature: RGPD, CCPA
+feature: GDPR, CCPA
 kt: 1460
 thumbnail: 22600.jpg
 doc-type: feature video

@@ -1,7 +1,7 @@
 ---
 title: Gérer les services et les abonnements
 description: Découvrez comment créer un service et gérer des abonnements.
-feature: Abonnements
+feature: Subscriptions
 topics: null
 kt: 1815
 thumbnail: 24673.jpg

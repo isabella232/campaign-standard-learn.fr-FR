@@ -1,7 +1,7 @@
 ---
 title: Configurer des événements
 description: '"Comprenez comment les événements définissent l’action déclenchée par l’utilisateur qui déclenche l’affichage d’un message in-app. "'
-feature: Dans l’application
+feature: In App
 topics: Mobile
 kt: 2548
 thumbnail: 26245.jpg

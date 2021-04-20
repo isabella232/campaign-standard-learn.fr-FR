@@ -1,7 +1,7 @@
 ---
 title: Activer les audiences d’Adobe Experience Platform dans un workflow
 description: Cette vidéo explique comment activer l’Audience Data Services Requête dans un flux de travail à l’aide de l’activité "Lire l’audience".
-feature: Intégration de People Core Service
+feature: People Core Service Integration
 topics: ACOP
 kt: 2760
 thumbnail: 27647.jpg

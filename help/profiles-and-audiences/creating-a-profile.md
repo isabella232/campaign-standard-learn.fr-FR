@@ -1,7 +1,7 @@
 ---
 title: 'Créer un profil '
 description: Découvrez comment créer un profil et comment l’ajouter à une audience.
-feature: Profils, Audiences
+feature: Profiles, Audiences
 kt: 1820
 thumbnail: 25277.jpg
 doc-type: feature video

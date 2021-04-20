@@ -1,7 +1,7 @@
 ---
 title: Score prédictif de l’engagement
 description: Découvrez comment afficher les scores d’engagement au niveau du profil individuel, utiliser les scores pour cibler les utilisateurs engagés et supprimer les utilisateurs fatigués, et créer des règles de typologie pour gérer la fatigue des clients.
-feature: Score d’engagement prédictif
+feature: Predictive Engagement Scoring
 topics: null
 kt: 6275
 thumbnail: 40470.jpg

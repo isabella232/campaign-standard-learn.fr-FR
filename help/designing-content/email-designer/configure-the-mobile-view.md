@@ -1,7 +1,7 @@
 ---
 title: Configuration de la vue mobile dans le Concepteur d’email
 description: '"Découvrez comment affiner la conception réactive d''un courrier électronique en modifiant séparément toutes les options de style pour l''affichage mobile."'
-feature: Conception d’email
+feature: Email Design
 topics: null
 kt: 2423
 thumbnail: 25919.jpg

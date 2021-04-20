@@ -1,7 +1,7 @@
 ---
 title: Exécution de demandes d’accès à des informations personnelles
 description: Dans Adobe Campaign, les demandes d’accès à des informations personnelles sont exécutées par des workflows. Cette vidéo décrit les workflows qui accèdent aux demandes et les suppriment, ainsi que ce qui se passe lorsqu’elles sont exécutées.
-feature: RGPD, CCPA
+feature: GDPR, CCPA
 kt: 1525
 thumbnail: 22770.jpg
 doc-type: feature video

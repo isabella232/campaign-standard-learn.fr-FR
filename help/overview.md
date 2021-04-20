@@ -3,7 +3,7 @@ title: Tutoriels sur Adobe Campaign Standard - Présentation
 description: Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l’orchestration visuelle de campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide d’utilisation contient des vidéos et des tutoriels sur les nombreuses fonctionnalités et capacités d’Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
-feature: Présentation
+feature: Overview
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 translation-type: tm+mt

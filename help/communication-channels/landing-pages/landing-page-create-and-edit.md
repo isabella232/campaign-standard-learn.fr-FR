@@ -1,7 +1,7 @@
 ---
 title: Créer et modifier une landing page
 description: '"Découvrez comment créer, modifier et tester des landings page dans Adobe Campaign Standard."'
-feature: Landing pages
+feature: Landing Pages
 topics: null
 kt: 1808
 thumbnail: 24093.jpg

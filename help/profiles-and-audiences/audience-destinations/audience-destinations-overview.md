@@ -1,7 +1,7 @@
 ---
 title: Destinations des Audiences - Présentation
 description: Découvrez comment tirer parti des Audiences Adobe Experience Platform (AEP) dans Adobe Campaign Standard (ACS)
-feature: Intégration de People Core Service
+feature: People Core Service Integration
 topics: ACOP
 kt: 2755
 thumbnail: null

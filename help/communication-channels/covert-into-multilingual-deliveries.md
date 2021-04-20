@@ -1,7 +1,7 @@
 ---
 title: Convertir un email, une diffusion SMS ou un modèle existant en plusieurs langues
 description: '"Apprenez à convertir et à convertir des e-mails, des diffusions SMS ou un modèle de diffusion en langage multilingue."'
-feature: Courriel, SMS
+feature: Email, SMS
 topics: Mobile
 kt: 1703
 thumbnail: 23251.jpg

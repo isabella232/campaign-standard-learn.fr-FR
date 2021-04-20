@@ -1,7 +1,7 @@
 ---
 title: Prévisualiser votre analyse email et anti-spam
 description: '"Apprenez à prévisualisation votre courriel et l''analyse antispam."'
-feature: Conception d’email
+feature: Email Design
 topics: null
 kt: 2393
 thumbnail: 25921.jpg

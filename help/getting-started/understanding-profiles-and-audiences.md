@@ -1,7 +1,7 @@
 ---
 title: Comprendre les profils et les audiences dans Adobe Campaign Standard
 description: Comprendre le concept des profils et des audiences et apprendre à créer des profils et des audiences.
-feature: Profils, Audiences
+feature: Profiles, Audiences
 topics: null
 kt: 3893
 thumbnail: 18464.jpg

@@ -1,7 +1,7 @@
 ---
 title: Prise en main d’Adobe Campaign Standard
 description: Cette vidéo donne un aperçu de l’interface utilisateur d’Adobe Campaign Standard ainsi que des fonctionnalités clés et des fonctions de base.
-feature: Vue d’ensemble
+feature: Overview
 topics: null
 kt: null
 doc-type: null

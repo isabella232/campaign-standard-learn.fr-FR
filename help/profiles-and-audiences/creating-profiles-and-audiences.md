@@ -1,7 +1,7 @@
 ---
 title: Création de profils et d’audiences - Présentation
 description: Découvrez comment accéder aux profils existants et comment créer des profils et des audiences.
-feature: Profils, Audiences
+feature: Profiles, Audiences
 topics: null
 kt: 3899
 thumbnail: 18463.jpg

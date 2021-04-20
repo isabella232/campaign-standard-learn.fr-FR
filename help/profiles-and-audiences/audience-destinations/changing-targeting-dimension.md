@@ -1,7 +1,7 @@
 ---
 title: Modifier la dimension de ciblage
 description: Cette vidéo explique comment modifier la dimension de ciblage d'une diffusion pour une Audience de plateforme en dehors de la Principale table de profil à Adobe Campaign Standard.
-feature: Intégration de People Core Service
+feature: People Core Service Integration
 topics: ACOP
 kt: 3739
 thumbnail: 30151.jpg

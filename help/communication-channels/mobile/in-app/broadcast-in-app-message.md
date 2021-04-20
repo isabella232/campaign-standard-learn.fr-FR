@@ -1,7 +1,7 @@
 ---
 title: '"Diffuser un message In-App "'
 description: Découvrez comment le modèle Diffusion vous permet de cible à tous les utilisateurs de votre application mobile.
-feature: Dans l’application
+feature: In App
 topics: Mobile
 kt: 2497
 thumbnail: 26199.jpg

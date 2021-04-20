@@ -1,7 +1,7 @@
 ---
 title: Présentation des modèles de contenu d’email
 description: Découvrez comment créer un modèle de contenu de courrier électronique.
-feature: Conception d’email
+feature: Email Design
 topics: null
 kt: 1442
 thumbnail: 23106.jpg

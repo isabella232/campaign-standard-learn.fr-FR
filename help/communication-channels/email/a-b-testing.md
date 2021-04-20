@@ -1,7 +1,7 @@
 ---
 title: A/B testing
 description: '"Découvrez comment configurer et envoyer un test A/B, qui teste l’objet. "'
-feature: 'A/B Testing  '
+feature: A/B Testing  
 topics: null
 kt: 3907
 thumbnail: 18480.jpg

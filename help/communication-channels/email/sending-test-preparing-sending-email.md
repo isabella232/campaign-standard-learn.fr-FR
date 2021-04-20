@@ -1,7 +1,7 @@
 ---
 title: Envoyer un test, préparer et envoyer un email
 description: '"Apprenez à envoyer un courriel de test, à le préparer, puis à envoyer la diffusion électronique. "'
-feature: 'Email  '
+feature: Email  
 topics: null
 kt: 1812
 thumbnail: 24013.jpg

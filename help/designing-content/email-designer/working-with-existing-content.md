@@ -1,7 +1,7 @@
 ---
 title: Utilisation de contenu existant
 description: Cette vidéo explique comment récupérer rapidement votre contenu créatif sur un site web et le charger dans le Concepteur d’email.
-feature: Conception d’email
+feature: Email Design
 topics: Content Creation
 kt: 6295
 thumbnail: 25926.jpg

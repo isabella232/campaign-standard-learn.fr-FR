@@ -1,7 +1,7 @@
 ---
 title: Prise en main du Concepteur d’email
 description: Découvrez les fonctionnalités générales du concepteur de courrier électronique et comment concevoir un courrier électronique à partir de zéro.
-feature: Conception d’email
+feature: Email Design
 topics: Content Creation
 kt: 2391
 thumbnail: 25912.jpg
