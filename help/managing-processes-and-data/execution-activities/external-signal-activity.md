@@ -1,8 +1,7 @@
 ---
 title: Activité de signal externe - Appelez un processus avec des paramètres
-description: '"Découvrez comment début d''un flux de travail à un autre pour prendre en charge des parcours clients plus complexes, tout en étant en mesure de mieux surveiller les problèmes et de réagir à ces derniers."'
-feature: Execution Activity
-topics: Workflows
+description: Découvrez comment début d’un flux de travail à l’autre pour prendre en charge des parcours clients plus complexes, tout en étant en mesure de mieux surveiller les problèmes et de réagir.
+feature: Activité d'exécution
 kt: 2750
 thumbnail: 27249
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: d3996185-681c-4906-85f0-0543ab767519
 role: Business Practitioner, Developer
 level: Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 18%
