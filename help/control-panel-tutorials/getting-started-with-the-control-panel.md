@@ -1,22 +1,21 @@
 ---
 title: Prise en main du panneau de contrôle
 description: Cet article explique comment accéder au panneau de contrôle et présente les conditions préalables requises pour pouvoir l’utiliser.
-feature: Control Panel
-topics: Control Panel
+feature: Panneau de contrôle
 audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-translation-type: ht
-source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
-workflow-type: ht
+exl-id: 3626c012-e2f7-4480-aca0-97d7c7ce9a95
+translation-type: tm+mt
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 100%
 
 ---
-
 
 # Prise en main du [!UICONTROL panneau de contrôle] {#control-panel}
 
@@ -61,4 +60,3 @@ La vidéo ci-dessous explique comment ajouter un administrateur à une instance 
 ## Ressources supplémentaires
 
 * [Centre d&#39;aide relatif au panneau de contrôle](https://docs.adobe.com/content/help/fr-FR/control-panel/using/control-panel-home.html)
-
