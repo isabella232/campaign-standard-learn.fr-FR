@@ -1,21 +1,20 @@
 ---
 title: Mapping des données de table de contrôle
 description: Découvrez comment mapper vos données sources et comment tester les profils avec le Adobe Experience Platform (AEP)
-feature: Adobe Experience Platform Data Connector
-topics: ACoP
+feature: Adobe Experience Platform Data Connector
 kt: 2900
 thumbnail: 27264.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 14%
+source-wordcount: '100'
+ht-degree: 19%
 
 ---
-
 
 # Mapping des données de table de contrôle
 
@@ -29,8 +28,7 @@ Apprenez à mapper les données sources et les profils de test avec le Adobe Exp
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Définition du mapping](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
 * [Activation du mapping](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
-
