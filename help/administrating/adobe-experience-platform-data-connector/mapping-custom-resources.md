@@ -1,21 +1,20 @@
 ---
-title: 'Mapping des ressources personnalisées '
+title: Mapping des ressources personnalisées
 description: Découvrez comment mapper différents types de données entre Adobe Campaign Standard (ACS) et Adobe Experience Platform (AEP)
-feature: Adobe Experience Platform Data Connector
-topics: ACoP
+feature: Adobe Experience Platform Data Connector
 kt: 2828
 thumbnail: 27231.jpg
 doc-type: feature video
 activity: set-up
 team: TM
+exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 8%
+source-wordcount: '86'
+ht-degree: 13%
 
 ---
-
 
 # Mappage de [!UICONTROL ressources personnalisées]
 
@@ -29,7 +28,6 @@ Découvrez comment mapper différents types de données entre Adobe Campaign Sta
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Définition du mapping](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
-
