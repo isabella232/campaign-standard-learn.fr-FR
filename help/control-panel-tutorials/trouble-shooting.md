@@ -1,20 +1,19 @@
 ---
 title: Résolution des problèmes liés au panneau de contrôle
 description: Le panneau de contrôle permet de surveiller et de gérer votre espace de stockage SFTP par instance et d’ajouter des adresses IP aux listes autorisées.
-feature: Control Panel
-topics: null
+feature: Panneau de contrôle
 kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: f120eaf237378db3ddd5833930c0222ee028941d
-workflow-type: ht
+exl-id: f546f791-a69b-4586-abfa-3e626b8feb17
+translation-type: tm+mt
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+workflow-type: tm+mt
 source-wordcount: '359'
 ht-degree: 100%
 
 ---
-
 
 # Résolution des problèmes liés au [!UICONTROL panneau de contrôle]
 
@@ -71,4 +70,3 @@ La connexion aux serveurs SFTP requiert :
 ### Documentation utile {#helpful-docs}
 
 * [Connexion à votre serveur SFTP](https://docs.adobe.com/content/help/fr-FR/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
-
