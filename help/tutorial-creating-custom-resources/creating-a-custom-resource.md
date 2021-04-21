@@ -1,21 +1,20 @@
 ---
 title: Création d’une ressource personnalisée
 description: Découvrez comment créer une ressource personnalisée appelée clients.
-feature: Custom Resources
-topics: null
+feature: Ressources personnalisées
 kt: 3000
 thumbnail: 27716.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 33a68e3b-2e28-48c5-840b-05fc49825fff
 translation-type: tm+mt
-source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '35'
-ht-degree: 28%
+source-wordcount: '37'
+ht-degree: 32%
 
 ---
-
 
 # Création d’une ressource personnalisée
 
