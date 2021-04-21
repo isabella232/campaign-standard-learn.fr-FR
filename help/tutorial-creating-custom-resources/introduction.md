@@ -1,21 +1,20 @@
 ---
 title: Création de ressources personnalisées - Introduction
 description: Adobe Campaign Standard permet d’étendre les ressources ou de créer de nouvelles ressources. Ce tutoriel en plusieurs parties vous guide tout au long des étapes nécessaires pour créer et lier des ressources personnalisées.
-feature: Custom Resources
-topics: null
+feature: 'Ressources personnalisées '
 kt: 2999
 thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: ht
+exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
+translation-type: tm+mt
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 100%
 
 ---
-
 
 # Création de ressources personnalisées - Introduction
 
