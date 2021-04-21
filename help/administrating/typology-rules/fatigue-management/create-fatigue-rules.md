@@ -1,21 +1,20 @@
 ---
 title: Créer des règles de fatigue
 description: Cette vidéo vous explique comment configurer la règle de typologie.
-feature: Fatigue Management
-topics: null
+feature: Gestion de la fatigue
 kt: 3446
 thumbnail: 28450.jpg
 doc-type: feature video
 activity: setup
 team: TM
+exl-id: fd75ce71-8131-4cba-b766-e68f59ebcbf9
 translation-type: tm+mt
-source-git-commit: cce6520619b68bde6a00531ac1931dca90a6b3dc
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 41%
+source-wordcount: '102'
+ht-degree: 42%
 
 ---
-
 
 # Créer des [!UICONTROL règles de fatigue]
 
@@ -27,6 +26,6 @@ Pour créer des [!UICONTROL règles de fatigue], vous devez définir un nombre m
 
 *Comment créer une règle [!UICONTROL  de ] fatigue (04:49 min)*
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Règles de fatigue (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html)
