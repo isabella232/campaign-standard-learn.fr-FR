@@ -1,22 +1,21 @@
 ---
-title: 'Ajout d’une plage d’adresses IP à la liste autorisée '
+title: Ajout d’une plage d’adresses IP à la liste autorisée
 description: Découvrez comment ajouter une plage d’adresses IP à la liste autorisée.
-feature: Ip Range
-topics: Control Panel
+feature: Panneau de contrôle
 kt: 6429
 thumbnail: 41775.jpg
 doc-type: feature video
 audience: administrator
 activity: use
 team: PM
+exl-id: b93ff670-a1a7-41d2-923b-c7c09d4d7c37
 translation-type: tm+mt
-source-git-commit: 6069fd81d3d2f89ea669d1b47ebf40b9b9eb1181
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
-
 
 # Ajout d’une plage d’adresses IP à la liste autorisée
 
@@ -26,6 +25,6 @@ Découvrez comment ajouter une plage d’adresses IP à la liste autorisée.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 [Documentation](https://docs.adobe.com/content/help/fr-FR/control-panel/using/sftp-management/ip-range-allow-listing.html)
