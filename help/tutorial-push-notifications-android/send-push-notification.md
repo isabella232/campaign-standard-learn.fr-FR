@@ -2,19 +2,18 @@
 title: Partie 6 - Envoyer une notification Push pour tester votre travail
 description: Partie 6 - Envoyer une notification Push pour tester votre travail
 feature: Push
-topics: Mobile
 kt: 4830
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
 translation-type: tm+mt
-source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '170'
 ht-degree: 2%
 
 ---
-
 
 # Partie 6 - Envoyer [!UICONTROL Notification Push] pour tester votre travail
 
@@ -30,7 +29,7 @@ Nous devons maintenant créer et envoyer une [!UICONTROL notification Push] à l
 
 Si tout se passe bien, une notification doit s’afficher dans votre application Android s’exécutant dans l’émulateur.
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Documentation détaillée sur les notifications Push](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
 * [Création d’une notification Push (vidéo)](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
