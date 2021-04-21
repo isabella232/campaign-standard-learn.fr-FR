@@ -1,22 +1,20 @@
 ---
 title: Délégation complète de sous-domaine
 description: Le panneau de contrôle d’Adobe Campaign vous permet de déléguer entièrement un sous-domaine à Adobe Campaign. Pour ce faire, suivez les étapes ci-après.
-feature: Subdomains and certificates
-topics: null
-audience: administrator
+feature: Sous-domaines et certificats
 kt: 4115
 thumbnail: 31390.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: 063e9971-2cc6-4027-80cc-d2c0fd264a51
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 100%
+source-wordcount: '140'
+ht-degree: 97%
 
 ---
-
 
 # Délégation complète de sous-domaine
 
@@ -41,7 +39,7 @@ La vidéo ci-dessous montre comment déléguer des sous-domaines.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Ajout de certificats SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
 * [Sous-domaines et certificats](https://docs.adobe.com/content/help/fr-FR/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
