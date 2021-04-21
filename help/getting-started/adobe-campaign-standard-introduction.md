@@ -1,8 +1,7 @@
 ---
 title: Présentation d’Adobe Campaign Standard
 description: Cette vidéo propose une présentation approfondie d’Adobe Campaign Standard.
-feature: Overview
-topics: null
+feature: Vue d’ensemble
 kt: 3971
 thumbnail: 29430.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 8058722e-27e2-43e2-bf60-e3d99ce90a5d
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 100%
