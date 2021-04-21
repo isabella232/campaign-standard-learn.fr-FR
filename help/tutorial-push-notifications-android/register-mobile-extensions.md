@@ -2,19 +2,18 @@
 title: Étape 3 - Enregistrement des extensions dans votre application mobile
 description: Dans cette partie, nous allons ajouter le code pour enregistrer les extensions UserProfile, Identity, Lifecycle et Signal.
 feature: Push
-topics: Mobile
 kt: 4827
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
 translation-type: tm+mt
-source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 14%
+source-wordcount: '130'
+ht-degree: 15%
 
 ---
-
 
 # Étape 3 - Enregistrement des extensions dans votre application mobile
 
