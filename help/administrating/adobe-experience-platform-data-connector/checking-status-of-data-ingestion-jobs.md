@@ -1,22 +1,21 @@
 ---
-title: 'Vérification de l''état d''une tâche d''assimilation de données '
+title: Vérification de l'état d'une tâche d'assimilation de données
 description: Découvrez comment vérifier l’état et modifier le mappage des données.
-feature: Adobe Experience Platform Data Connector
-topics: null
+feature: Adobe Experience Platform Data Connector
 audience: administrator
 kt: 2831
 thumbnail: 27268.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 8%
+source-wordcount: '128'
+ht-degree: 12%
 
 ---
-
 
 # Vérification de l&#39;état d&#39;une tâche d&#39;assimilation de données
 
@@ -30,7 +29,7 @@ Découvrez comment vérifier l&#39;état d&#39;une tâche d&#39;assimilation de 
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Définition du mapping](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
 * [Activation du mapping](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
