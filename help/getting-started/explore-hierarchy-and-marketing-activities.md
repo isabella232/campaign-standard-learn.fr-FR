@@ -1,8 +1,7 @@
 ---
 title: Explorer la hiérarchie et les activités marketing
 description: '"Comprendre la hiérarchie des programmes et des campagnes, comment créer un programme marketing et comment créer une campagne marketing dans un programme."'
-feature: Campaigns, Programs
-topics: null
+feature: Campagnes, Programmes
 kt: 3892
 thumbnail: 18465.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: c5804637-804c-473f-80d8-d54263c49a5c
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 65%
