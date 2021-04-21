@@ -2,15 +2,15 @@
 title: Étape 5 - Propagation des notifications
 description: Dans cette partie, nous allons propager le message reçu d'Adobe Campaign à l'aide d'Android Notification Manager.Firebase
 feature: Push
-topics: Mobile
 kt: 4829
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
 translation-type: tm+mt
-source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '155'
 ht-degree: 3%
 
 ---
