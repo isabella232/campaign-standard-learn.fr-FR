@@ -1,6 +1,6 @@
 ---
 title: Créez une diffusion email
-description: 'Découvrez comment créer une diffusion de courriel à partir de la page d''accueil. '
+description: 'Découvrez comment créer une diffusion Email depuis la page d’accueil. '
 landing-page-description: Cette vidéo explique comment créer une diffusion d’email depuis la page d’accueil.
 feature: 'Email '
 kt: 1807
@@ -15,7 +15,7 @@ translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 36%
+ht-degree: 44%
 
 ---
 
