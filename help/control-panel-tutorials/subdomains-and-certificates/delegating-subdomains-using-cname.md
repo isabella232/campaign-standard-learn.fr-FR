@@ -8,9 +8,8 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 63f65fa1-94c9-42ac-93a7-32d138a0a6a6
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 
@@ -31,4 +30,4 @@ Découvrez comment configurer et envoyer un sous-domaine à l’aide de CNAME da
 ## Ressources supplémentaires
 
 * [Délégation complète de sous-domaines (vidéo)](./subdomain-delegation.md)
-* [Configuration d’un nouveau sous-domaine (documentation)](https://docs.adobe.com/content/help/fr-FR/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
+* [Configuration d&#39;un nouveau sous-domaine (documentation)](https://docs.adobe.com/content/help/fr-FR/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
