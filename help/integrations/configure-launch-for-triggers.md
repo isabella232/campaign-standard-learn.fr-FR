@@ -1,6 +1,6 @@
 ---
-title: Configuration du lancement pour les déclencheurs
-description: Découvrez comment configurer Launch et ajouter les propriétés requises à votre site Web afin de tester votre configuration.
+title: Configuration de Launch pour les déclencheurs
+description: Découvrez comment configurer Launch et ajouter les propriétés requises à votre site web afin de tester votre configuration.
 feature: Triggers
 kt: 7434
 thumbnail: 332908.jpg
@@ -8,16 +8,16 @@ doc-type: feature video
 role: Administrator
 level: Experienced
 team: TM
-translation-type: tm+mt
-source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
-workflow-type: tm+mt
+exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
+source-git-commit: d3bb432f1f1127fe7046dbf534339973e3182bbb
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Configuration du lancement pour les déclencheurs
+# Configuration de Launch pour les déclencheurs
 
-Découvrez comment configurer Launch et ajouter les propriétés requises à votre site Web afin de tester votre configuration.
+Découvrez comment configurer Launch et ajouter les propriétés requises à votre site web afin de tester votre configuration.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12)
