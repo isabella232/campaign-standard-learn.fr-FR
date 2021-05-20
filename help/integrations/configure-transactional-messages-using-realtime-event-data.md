@@ -1,6 +1,6 @@
 ---
-title: Configuration de messages transactionnels à l’aide de données de événement en temps réel
-description: Découvrez comment configurer des messages transactionnels à l’aide de données de événement en temps réel provenant de déclencheurs.
+title: Configuration de messages transactionnels à l'aide de données d'événement temps réel
+description: Découvrez comment configurer des messages transactionnels à l'aide de données d'événement temps réel provenant des déclencheurs.
 feature: Triggers
 kt: 7471
 thumbnail: 332602.jpg
@@ -10,16 +10,15 @@ level: Experienced
 activity: use
 team: TM
 exl-id: 748d6cb3-86f0-4763-9d71-1f1e30dfeb93
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Configuration de messages transactionnels à l’aide de données de événement en temps réel
+# Configuration de messages transactionnels à l&#39;aide de données d&#39;événement temps réel
 
-Découvrez comment configurer des messages transactionnels à l’aide de données de événement en temps réel provenant de déclencheurs.
+Découvrez comment configurer des messages transactionnels à l&#39;aide de données d&#39;événement temps réel provenant des déclencheurs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12)
