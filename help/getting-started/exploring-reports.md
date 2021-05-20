@@ -1,6 +1,6 @@
 ---
 title: Exploration des rapports
-description: Identifiez les différents rapports disponibles en standard pour une diffusion de courriel.
+description: Découvrez les différents rapports prêts à l’emploi disponibles pour une diffusion email.
 feature: Reporting
 kt: 3906
 thumbnail: 23021.jpg
@@ -10,11 +10,10 @@ team: WWFRE
 exl-id: fef1b535-8055-4d6b-a099-5e04340ce6e9
 role: Business Practitioner
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -26,6 +25,6 @@ Cette vidéo donne une vue d’ensemble des fonctionnalités de reporting des pe
 
 ## Autres ressources
 
-* [Création d’un rapport dynamique](/help/reporting/creating-a-dynamic-report.md)
-* [Créer un rapport dynamique à l’aide d’attributs de profil personnalisés](/help/reporting/custom-profile-attributes-dynamic-reports.md)
-* [Création d’un rapport à partir de segments de workflow](/help/reporting/report-on-workflow-segments.md)
+* [Création d&#39;un rapport dynamique](/help/reporting/creating-a-dynamic-report.md)
+* [Création d’un rapport dynamique à l&#39;aide d’attributs de profil personnalisés](/help/reporting/custom-profile-attributes-dynamic-reports.md)
+* [Création d&#39;un rapport à partir de segments de workflow](/help/reporting/report-on-workflow-segments.md)
