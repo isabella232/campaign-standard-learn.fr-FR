@@ -1,7 +1,7 @@
 ---
 title: 'Prise en main de l’interface utilisateur '
 description: Cette vidéo donne un aperçu de l’interface utilisateur d’Adobe Campaign Standard ainsi que des fonctionnalités clés et des fonctions de base.
-feature: Vue d’ensemble
+feature: Vue d'ensemble
 kt: 3882
 thumbnail: acs-ui-get-started.png
 doc-type: feature video
@@ -10,9 +10,8 @@ team: TM
 exl-id: f77979f8-affb-4128-a9ec-668fa9f7911d
 role: Business Practitioner, Administrator, Developer
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
 ht-degree: 100%
 
