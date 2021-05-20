@@ -7,9 +7,8 @@ doc-type: article
 activity: use
 team: PM
 exl-id: f546f791-a69b-4586-abfa-3e626b8feb17
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '359'
 ht-degree: 100%
 
