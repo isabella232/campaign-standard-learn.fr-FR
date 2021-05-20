@@ -3,14 +3,13 @@ title: Tutoriels sur Adobe Campaign Standard - Présentation
 description: Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l’orchestration visuelle de campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide d’utilisation contient des vidéos et des tutoriels sur les nombreuses fonctionnalités et capacités d’Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
-feature: Overview
+feature: Vue d'ensemble
 role: Business Practitioner, Administrator, Developer
 level: Beginner
-translation-type: tm+mt
 source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -20,13 +19,13 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
-* **[Suivre la réussite de vos diffusions dans Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
+* **[Suivre les performances de vos diffusions dans Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
 
-   *Découvrez comment configurer l’intégration du Campaign Standard et d’Analytics. Découvrez comment créer un rapport dans Analytics à l’aide des données reçues d’un Campaign Standard et quels IPC sont disponibles.*
+   *Découvrez comment configurer l&#39;intégration de Campaign Standard et d&#39;Analytics. Découvrez comment créer un rapport dans Analytics à l&#39;aide des données reçues de Campaign Standard et quels sont les KPI disponibles.*
 
 * **[Utilisation de déclencheurs pour les messages transactionnels](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
 
-   *Découvrez comment configurer et utiliser des triggers pour la messagerie transactionnelle.*
+   *Découvrez comment configurer et utiliser des déclencheurs pour la messagerie transactionnelle.*
 
 ## Suggestions du personnel
 
@@ -63,7 +62,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
       <img alt="Tutoriel : Prise en main des notifications push pour Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <a href="https://docs.adobe.com/content/help/fr-FR/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
     <strong>Tutoriel : Prise en main des notifications push pour Android</strong>
     </a>
     </div>
