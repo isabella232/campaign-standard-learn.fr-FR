@@ -8,9 +8,8 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '235'
 ht-degree: 100%
 
@@ -48,7 +47,7 @@ Ce tutoriel vous explique pas à pas comment réaliser les actions suivantes :
 
 ## Début du tutoriel
 
-[Création d’une ressource personnalisée](./creating-a-custom-resource.md)
+[Création d&#39;une ressource personnalisée](./creating-a-custom-resource.md)
 
 ## Autres ressources
 
