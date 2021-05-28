@@ -8,10 +8,10 @@ tutorials-title: Tutoriels
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=fr
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=fr
-source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
-workflow-type: ht
-source-wordcount: '549'
-ht-degree: 100%
+source-git-commit: af394b33cac0952beea2b3b6aefcfee3934a9a1c
+workflow-type: tm+mt
+source-wordcount: '558'
+ht-degree: 98%
 
 ---
 
@@ -106,6 +106,7 @@ ht-degree: 100%
       + [Création d&#39;un déclencheur dans Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Création d&#39;un événement déclencheur dans Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Configuration de messages transactionnels à l&#39;aide de données d&#39;événement temps réel](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+   + [Configuration de Microsoft® Dynamics 365 pour l’intégration avec Campaign Standard](/help/integrations/configure-dynamics-365.md)
 + Administration {#administrating}
    + [Gestion des droits d&#39;accès des utilisateurs](/help/administrating/managing-user-access-rights.md)
    + [Création de ressources personnalisées](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=fr)
