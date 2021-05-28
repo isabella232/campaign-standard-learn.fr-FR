@@ -8,10 +8,10 @@ tutorials-title: Tutoriels
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=fr
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=fr
-source-git-commit: af394b33cac0952beea2b3b6aefcfee3934a9a1c
+source-git-commit: df4f635fc2760edc7c10a97da554a0d7704747c1
 workflow-type: tm+mt
 source-wordcount: '558'
-ht-degree: 98%
+ht-degree: 95%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 98%
       + [Créer et modifier une landing page](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [Tester et publier une landing page](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [Configurer un modèle de landing page](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
-+ Concevoir et personnaliser du contenu {#designing-content}
++ Conception et personnalisation de contenu {#designing-content}
    + Concepteur d&#39;email{#email-designer}
       + [Vue d&#39;ensemble](/help/designing-content/email-designer/email-designer-overview.md)
       + [Prise en main du Concepteur d&#39;email](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
@@ -93,21 +93,21 @@ ht-degree: 98%
       + [Activité Signal externe](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Activités de Data Management {#data-management-activities}
       + [Activité API externe](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Reporting {#reporting}
++ Rapport {#reporting}
    + [Exploration des rapports](/help/getting-started/exploring-reports.md)
    + [Création d&#39;un rapport dynamique](/help/reporting/creating-a-dynamic-report.md)
    + [Création d&#39;un rapport basé sur des attributs de profil personnalisés](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Création d&#39;un rapport à partir de segments de workflow](/help/reporting/report-on-workflow-segments.md)
-+ Intégration avec d&#39;autres solutions {#integrations}
++ Intégration à d’autres solutions {#integrations}
    + [Suivre les performances de vos diffusions dans Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + Utilisation de déclencheurs pour les messages transactionnels {#triggers}
+   + Utilisez des triggers pour les messages transactionnels {#triggers}
       + [Vue d&#39;ensemble](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Configuration de Launch pour les déclencheurs](/help/integrations/configure-launch-for-triggers.md)
       + [Création d&#39;un déclencheur dans Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Création d&#39;un événement déclencheur dans Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Configuration de messages transactionnels à l&#39;aide de données d&#39;événement temps réel](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Configuration de Microsoft® Dynamics 365 pour l’intégration avec Campaign Standard](/help/integrations/configure-dynamics-365.md)
-+ Administration {#administrating}
++ Administration de {#administrating}
    + [Gestion des droits d&#39;accès des utilisateurs](/help/administrating/managing-user-access-rights.md)
    + [Création de ressources personnalisées](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=fr)
    + [Panneau de contrôle](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=fr)
