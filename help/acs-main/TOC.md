@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=fr
 source-git-commit: df4f635fc2760edc7c10a97da554a0d7704747c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '558'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -88,7 +88,7 @@ ht-degree: 95%
       + [Création de contenu à l&#39;aide d&#39;Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Configurer les listes de produits dans les emails transactionnels](/help/designing-content/product-listings-in-transactional-email.md)
 + Gestion des processus et des données {#managing-processes-and-data}
-   + [Créer un workflow         ](/help/managing-processes-and-data/creating-a-workflow.md)
+   + [Créer un workflow](/help/managing-processes-and-data/creating-a-workflow.md)
    + Activités d&#39;exécution {#execution-activities}
       + [Activité Signal externe](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Activités de Data Management {#data-management-activities}
@@ -98,15 +98,15 @@ ht-degree: 95%
    + [Création d&#39;un rapport dynamique](/help/reporting/creating-a-dynamic-report.md)
    + [Création d&#39;un rapport basé sur des attributs de profil personnalisés](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Création d&#39;un rapport à partir de segments de workflow](/help/reporting/report-on-workflow-segments.md)
-+ Intégration à d’autres solutions {#integrations}
++ Intégration avec d&#39;autres solutions {#integrations}
    + [Suivre les performances de vos diffusions dans Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + Utilisez des triggers pour les messages transactionnels {#triggers}
+   + Utilisation de déclencheurs pour les messages transactionnels {#triggers}
       + [Vue d&#39;ensemble](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Configuration de Launch pour les déclencheurs](/help/integrations/configure-launch-for-triggers.md)
       + [Création d&#39;un déclencheur dans Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Création d&#39;un événement déclencheur dans Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Configuration de messages transactionnels à l&#39;aide de données d&#39;événement temps réel](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [Configuration de Microsoft® Dynamics 365 pour l’intégration avec Campaign Standard](/help/integrations/configure-dynamics-365.md)
+   + [Configuration de Microsoft® Dynamics 365 pour l&#39;intégration avec Campaign Standard](/help/integrations/configure-dynamics-365.md)
 + Administration de {#administrating}
    + [Gestion des droits d&#39;accès des utilisateurs](/help/administrating/managing-user-access-rights.md)
    + [Création de ressources personnalisées](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=fr)
