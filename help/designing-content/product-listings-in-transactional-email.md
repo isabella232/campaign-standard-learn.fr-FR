@@ -1,34 +1,33 @@
 ---
 title: Configurer les listes de produits dans les emails transactionnels
-description: Découvrez les étapes requises pour configurer les listes de produits dans les courriers électroniques transactionnels.
-feature: Messages transactionnels, courriels
+description: Découvrez les étapes requises pour configurer des listes de produits dans des emails transactionnels.
+feature: Messages transactionnels, Emails
 kt: 1728
 thumbnail: 25915
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
-role: Business Practitioner, Developer
+role: User, Developer
 level: Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 4%
 
 ---
 
-# Configurer [!UICONTROL les listes de produits] dans les courriers électroniques transactionnels
+# Configuration de [!UICONTROL listes de produits] dans les emails transactionnels
 
-Vous pouvez configurer un message électronique de reciblage contenant une liste de produits, qui sont inconnus lors de la conception du message. Ces produits peuvent être ajoutés à partir de la charge utile au moment de l’exécution. Par exemple, vous pouvez envoyer automatiquement un courrier électronique d’abandon de panier répertoriant tous les produits qui se trouvaient dans le panier de l’utilisateur avant qu’il ne l’abandonne, avec une image, un prix et un lien vers chaque produit.
+Vous pouvez configurer un email de reciblage qui comporte une liste de produits, qui sont inconnus lors de la conception de l&#39;email. Ces produits peuvent être ajoutés à partir de la charge utile au moment de l’exécution. Par exemple, vous pouvez envoyer automatiquement un email d’abandon de panier répertoriant tous les produits qui se trouvaient dans le panier de l’utilisateur avant qu’il ne l’abandonne, avec une image, le prix et un lien vers chaque produit.
 
-Les vidéos suivantes expliquent les étapes requises pour configurer [!UICONTROL les listes de produits] dans [!UICONTROL les courriels transactionnels].
+Les vidéos suivantes expliquent les étapes nécessaires à la configuration des [!UICONTROL listes de produits] dans les [!UICONTROL emails transactionnels].
 
 >[!NOTE]
 >
->Cette fonction est actuellement appelée Boucle dans les vidéos.
+>Cette fonctionnalité est actuellement appelée Boucle dans les vidéos.
 
-## Etape 1 - Création d’un événement et publication de celui-ci
+## Étape 1 - Créer un événement et le publier
 
 >[!VIDEO](https://video.tv.adobe.com/v/25914?quality=12)
 
@@ -36,7 +35,7 @@ Les vidéos suivantes expliquent les étapes requises pour configurer [!UICONTRO
 
 >[!VIDEO](https://video.tv.adobe.com/v/25915?quality=12)
 
-## Étape 3 - Test du message transactionnel
+## Etape 3 - Test du message transactionnel
 
 >[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12)
 
