@@ -1,36 +1,35 @@
 ---
-title: Configurer une application mobile à l’aide d’un SDK Adobe Experience Platform
-description: Découvrez comment configurer une application mobile en Adobe Experience Platform Launch et comment la configurer en Adobe Campaign.
-feature: Dans l’application, Push, Configuration de Canal, Intégration du SDK mobile
+title: Configurer une application mobile à l'aide d'un SDK Adobe Experience Platform
+description: Découvrez comment configurer une application mobile dans Adobe Experience Platform Launch et comment la configurer dans Adobe Campaign.
+feature: Intégration dans l’application, push, configuration de canal, SDK Mobile
 kt: 2501
 thumbnail: 26224.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
-role: Administrator
+role: Admin
 level: Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 18%
 
 ---
 
-# Configurez une application mobile à l’aide de [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
+# Configuration d’une application mobile à l’aide du [!UICONTROL SDK Adobe Experience Platform] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
 
-Pour envoyer des messages In-App ou des [!UICONTROL notifications Push] à l’aide du kit Mobile SDK V5, l’application mobile doit être configurée dans [!UICONTROL Adobe Experience Platform Launch] et configurée dans Adobe Campaign.
+Pour envoyer des messages In-App ou des [!UICONTROL notifications push] à l’aide du SDK Mobile V5, l’application mobile doit être configurée dans [!UICONTROL Adobe Experience Platform Launch] et configurée dans Adobe Campaign.
 
-Les vidéos ci-dessous montrent les étapes requises pour configurer une application mobile dans l’Experience Platform Launch :
+Les vidéos ci-dessous présentent les étapes requises pour configurer une application mobile en Experience Platform Launch :
 
 >[!VIDEO](https://video.tv.adobe.com/v/26224?quality=12)
 
 >[!NOTE]
 >
->Voir [Configuration de votre application dans [!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch) pour obtenir la documentation détaillée et les modèles de code utilisés dans la vidéo.
+>Voir [Configuration de votre application dans [!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch) pour consulter la documentation détaillée et les modèles de code utilisés dans la vidéo.
 
 ## Ressources supplémentaires
 
-* [Configuration d’une propriété mobile (documentation sur le lancement d’Adobe)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Configuration d’une application mobile à l’aide de Adobe Experience Platform SDK (documentation)](https://helpx.adobe.com/fr/campaign/kb/configuring-app-sdk.html)
+* [Configuration d’une propriété mobile (documentation Adobe Launch)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
+* [Configuration d’une application mobile à l’aide des SDK Adobe Experience Platform (documentation)](https://helpx.adobe.com/fr/campaign/kb/configuring-app-sdk.html)
