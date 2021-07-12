@@ -1,6 +1,6 @@
 ---
 title: Gérer les services et les abonnements
-description: Découvrez comment créer un service et gérer des abonnements.
+description: Découvrez comment créer un service et gérer les abonnements.
 feature: Abonnements
 kt: 1815
 thumbnail: 24673.jpg
@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 38%
@@ -20,17 +19,17 @@ ht-degree: 38%
 
 # Gérer les services et les abonnements{#managing-services-and-subscriptions}
 
-Adobe Campaign vous permet de créer et de gérer des bulletins d&#39;information et des communications entre canaux, grâce à un ensemble de services. Les messages ne peuvent être envoyés qu’aux profils qui se sont abonnés au service (inclusion). Ces profils sont identifiés à l&#39;aide d&#39;un filtre dédié lors de la création d&#39;un message.
+Adobe Campaign vous permet de créer et de gérer des newsletters et des communications cross-canal, par le biais d’un ensemble de services. Les messages ne peuvent être envoyés qu&#39;aux profils abonnés au service (opt-in). Ces profils sont identifiés à l&#39;aide d&#39;un filtre dédié lors de la création d&#39;un message.
 
 Des mécanismes d&#39;inscription peuvent être configurés pour offrir à vos clients la possibilité de s&#39;inscrire à ces services, notamment via des emails et des landing pages.
 
 Chaque service est fourni avec :
 
-* Mécanismes d’abonnement (inclusion) et de désabonnement (exclusion).
-* Mécanismes de confirmation d&#39;abonnement et/ou de désabonnement.
+* des mécanismes d’inscription (opt-in) et de désinscription (opt-out).
+* Abonnez-vous et/ou désabonnez-vous des mécanismes de confirmation.
 * un suivi de l&#39;historique des inscriptions.
 
-Cette vidéo vous montre comment créer un service et gérer ses abonnements.
+Cette vidéo montre comment créer un service et gérer ses abonnements.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24673?quality=12)
 
