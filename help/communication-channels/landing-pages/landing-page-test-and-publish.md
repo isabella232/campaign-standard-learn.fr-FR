@@ -1,17 +1,16 @@
 ---
 title: Tester et publier une landing page
-description: Découvrez comment tester un landing page qui a été construit dans Adobe Campaign Standard et comment le publier.
-feature: Landing pages
+description: Découvrez comment tester une landing page qui a été créée dans Adobe Campaign Standard et comment la publier.
+feature: Pages de destination
 kt: 1813
 thumbnail: 24992.jpg
 doc-type: feature video
 activity: use
 team: DOC
 exl-id: 544587f3-c273-4b1c-b5fd-65213d0c0ea3
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 30%
@@ -20,6 +19,6 @@ ht-degree: 30%
 
 # Tester et publier une landing page
 
-Cette vidéo explique comment tester un landing page et comment le publier.
+Cette vidéo explique comment tester une landing page et comment la publier.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24092?quality=12)
