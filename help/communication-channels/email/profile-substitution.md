@@ -1,6 +1,6 @@
 ---
 title: Substitution de profil - Test des emails à l’aide des profils ciblés
-description: Découvrez comment tester vos messages électroniques à l’aide de la fonction de substitution de profil.
+description: Découvrez comment tester vos emails à l’aide de la fonction de substitution de profil.
 feature: 'Email  '
 kt: 4667
 thumbnail: 32368.jpg
@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
-role: Business Practitioner
+role: User
 level: Intermediate, Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 92%
@@ -35,5 +34,5 @@ Pour plus d’informations, voir la [documentation détaillée du produit](https
 ## Ressources supplémentaires
 
 * [Test de messages à l’aide de profils cibles (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
-* [Créer un email de test A/B](/help/communication-channels/email/a-b-testing.md)
+* [Créer un e-mail de test A/B](/help/communication-channels/email/a-b-testing.md)
 * [Envoyer un test, préparer et envoyer un email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
