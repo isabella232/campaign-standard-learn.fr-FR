@@ -1,6 +1,6 @@
 ---
-title: Créez un workflow
-description: Découvrez comment créer et modifier un processus.
+title: Création d'un workflow
+description: Découvrez comment créer et modifier un workflow.
 feature: Workflows
 kt: 1809
 thumbnail: 23937.jpg
@@ -8,17 +8,16 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
-role: Business Practitioner, Developer, Administrator
+role: User, Developer, Admin
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec1917e613aeb220bd83a053bfc71b37ea2b4a6c
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 75%
 
 ---
 
-# Créez un workflow {#how-to-create-a-workflow-in-adobe-campaign-standard}
+# Création d&#39;un workflow {#how-to-create-a-workflow-in-adobe-campaign-standard}
 
 Les workflows peuvent intervenir dans différents contextes, par exemple :
 
@@ -33,4 +32,4 @@ Cette vidéo vous montrera comment créer et modifier un workflow dans Adobe Cam
 
 ## Autres ressources
 
-* [Création d’un processus (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
+* [Création d’un workflow (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
