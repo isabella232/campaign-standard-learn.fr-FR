@@ -1,6 +1,6 @@
 ---
 title: Créer une notification push multilingue
-description: 'Découvrez comment créer une notification Push multilingue. '
+description: 'Découvrez comment créer une notification push multilingue. '
 feature: Push
 kt: 1375
 thumbnail: 23304.jpg
@@ -8,19 +8,18 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: d2d50689-9153-4074-a046-0701bb6017cf
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 28%
 
 ---
 
-# Créer une notification Push multilingue [!UICONTROL notification Push]
+# Créer une notification push multilingue [!UICONTROL notification push]
 
-Découvrez comment créer des [!UICONTROL notifications Push] multilingues en Adobe Campaign Standard.
+Découvrez comment créer des [!UICONTROL notifications push multilingues] dans Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12)
 
@@ -28,9 +27,9 @@ Découvrez comment créer des [!UICONTROL notifications Push] multilingues en Ad
 
 Documentation :
 
-* [A propos des notifications Push](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
+* [À propos des notifications push](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
 * [Préparation et envoi d’une notification push](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
 
 Tutoriels :
 
-* [créer une notification push ;](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
+* [Créez une notification push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
