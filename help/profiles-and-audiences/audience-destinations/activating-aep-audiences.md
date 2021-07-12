@@ -1,6 +1,6 @@
 ---
-title: Activer les audiences d’Adobe Experience Platform dans un workflow
-description: Cette vidéo explique comment activer l’Audience Data Services Requête dans un flux de travail à l’aide de l’activité "Lire l’audience".
+title: Activer les audiences d'Adobe Experience Platform dans un workflow
+description: Cette vidéo explique comment activer l’audience de requête des services de données dans un workflow à l’aide de l’activité "Lecture d’audience".
 feature: Intégration de People Core Service
 kt: 2760
 thumbnail: 27647.jpg
@@ -8,29 +8,28 @@ doc-type: feature video
 activity: using
 team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate, Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 9%
 
 ---
 
-# Activer les audiences Adobe Experience Platform dans un workflow [!UICONTROL Audiences Adobe Experience Platform] dans un workflow marketing
+# Activation des audiences Adobe Experience Platform dans un workflow [!UICONTROL Audiences Adobe Experience Platform] dans un workflow marketing
 
 >[!NOTE]
 >
->Cette fonctionnalité est actuellement en version bêta et fait l&#39;objet de mises à jour fréquentes et de modifications sans préavis. [!UICONTROL Audience ] Destinationse base sur Adobe Experience Platform et requiert une configuration spécifique.
+>Cette fonctionnalité est actuellement en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis. [!UICONTROL Audience ] Destinationse basée sur Adobe Experience Platform et nécessite une configuration spécifique.
 >
->Contactez le [!UICONTROL service clientèle de l&#39;Adobe] si vous prévoyez de mettre en oeuvre cette fonctionnalité.
+>Contactez le [!UICONTROL service clientèle d’Adobe] si vous prévoyez de mettre en oeuvre cette fonctionnalité.
 
-Cette vidéo explique comment activer l&#39;Audience [!UICONTROL Data Services Requête] dans un flux de travail en utilisant l&#39;activité [!UICONTROL Lire l&#39;Audience].
+Cette vidéo explique comment activer la [!UICONTROL audience de requête des services de données] dans un workflow à l’aide de l’activité [!UICONTROL Lecture d’audience].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 
-*Activation d’une audience Adobe Experience Platform dans un processus (02:37 min)*
+*Activer une audience Adobe Experience Platform dans un workflow (02:37 min)*
 
 ## Ressources supplémentaires
 
@@ -40,5 +39,5 @@ Documentation :
 
 Ressource vidéo :
 
-* [Création d’une audience dans Adobe Campaign Standard à l’aide du créateur de segments unifié](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Modification de la dimension de ciblage d&#39;une diffusion pour une Audience de plateforme](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Création d’une audience dans Adobe Campaign Standard à l’aide du créateur de segments unifiés](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Modification de la dimension de ciblage d’une diffusion pour une audience de plateforme](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
