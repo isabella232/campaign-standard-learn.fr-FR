@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: f1ae414c-6b42-445b-bb33-9a28a3e854fa
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 49%
@@ -20,7 +19,7 @@ ht-degree: 49%
 
 # Test A/B
 
-La fonctionnalité [!UICONTROL Test A/B] d&#39;Adobe Campaign vous permet de définir deux à trois variantes de courrier électronique. Chaque variante est envoyée à des échantillons de population afin de déterminer celle qui entraîne les meilleurs résultats. Une fois déterminée, la variante gagnante est alors envoyée à la population ciblée restante. Vous pouvez choisir de faire varier le contenu, le sujet ou l&#39;expéditeur de l&#39;email.
+La fonctionnalité [!UICONTROL Test A/B] d’Adobe Campaign permet de définir deux à trois variantes d’emails. Chaque variante est envoyée à des échantillons de population afin de déterminer celle qui entraîne les meilleurs résultats. Une fois déterminée, la variante gagnante est alors envoyée à la population ciblée restante. Vous pouvez choisir de faire varier le contenu, le sujet ou l&#39;expéditeur de l&#39;email.
 
 Cette vidéo explique comment configurer et envoyer un test A/B, en testant l’objet.
 
