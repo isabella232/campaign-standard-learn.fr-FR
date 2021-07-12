@@ -1,6 +1,6 @@
 ---
 title: Créer un profil de test
-description: Découvrez comment cible les destinataires qui ne correspondent pas aux critères de ciblage définis pour détecter toute utilisation frauduleuse de votre base de données de destinataires ou pour vous assurer que les courriers électroniques arrivent dans les boîtes de réception.
+description: Découvrez comment cibler des destinataires qui ne correspondent pas aux critères de ciblage définis pour détecter une utilisation frauduleuse de votre base de données de destinataires ou pour vous assurer que les emails arrivent dans les boîtes de réception.
 feature: Profils de test
 kt: 1810
 thumbnail: 24094.jpg
@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: fb138b50-5022-4320-8d45-a9ac6405a44e
-role: Business Practitioner
+role: User
 level: Beginner, Intermediate
-translation-type: tm+mt
-source-git-commit: 3f4a6c9bd358c39f1c5513eb3735d840bfb9b655
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 51%
