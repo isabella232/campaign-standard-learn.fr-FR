@@ -1,6 +1,6 @@
 ---
 title: Présentation du Concepteur d'email
-description: Découvrez les fonctionnalités générales du concepteur de courrier électronique et comment concevoir un courrier électronique à partir de zéro.
+description: Découvrez les fonctionnalités générales du Concepteur d'email et comment créer entièrement un email.
 feature: Conception d’email
 kt: 1402
 thumbnail: 22771.jpg
@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 17813cda-50a1-406b-b4ae-9267671a6910
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 87%
@@ -30,9 +29,9 @@ Cette vidéo donne un aperçu général des fonctionnalités et de l’utilisati
 
 Les tutoriels détaillés suivants sont disponibles :
 
-* [Prise en main du Concepteur d’email](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+* [Prise en main du Concepteur d&#39;email](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
 * [Modèles de contenu ](/help/designing-content/email-designer/email-content-templates.md)
 * [Configurer la vue mobile](/help/designing-content/email-designer/configure-the-mobile-view.md)
-* [Prévisualiser l&#39;email](/help/designing-content/email-designer/preview-your-email.md)
+* [Prévisualisez l’email](/help/designing-content/email-designer/preview-your-email.md)
 * [Utilisation de contenu existant](/help/designing-content/email-designer/working-with-existing-content.md)
-* [Création de contenu à l’aide d’Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
+* [Création de contenu à l&#39;aide d&#39;Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
