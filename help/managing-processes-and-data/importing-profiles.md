@@ -1,6 +1,6 @@
 ---
 title: Importer des profils avec un workflow
-description: Découvrez comment importer des données de profil à l’aide d’un processus.
+description: Découvrez comment importer des données de profil à l’aide d’un workflow.
 feature: Data Management
 kt: 1818
 thumbnail: 24993.jpg
@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: 4d9ce24e-cd01-4b81-8aee-58c58ef2f286
-role: Business Practitioner, Developer, Administrator
+role: User, Developer, Admin
 level: Beginner
-translation-type: tm+mt
-source-git-commit: 8ebdd2701fccaa06faf838288ce72630b5f3330e
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 27%
@@ -20,9 +19,9 @@ ht-degree: 27%
 
 # Importer des profils avec un workflow{#import-profiles-with-a-workflow}
 
-Vous pouvez collecter des données à partir d’un fichier pour les traiter et/ou les importer dans la base de données Adobe Campaign.
+Vous pouvez collecter des données à partir d&#39;un fichier pour les traiter et/ou les importer dans la base de données Adobe Campaign.
 
-Cette vidéo explique comment utiliser les activités [!UICONTROL Data Management] dans un flux de travail pour importer des données de profil.
+Cette vidéo explique comment utiliser les activités [!UICONTROL Data Management] dans un workflow pour importer les données de profil.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12)
 
