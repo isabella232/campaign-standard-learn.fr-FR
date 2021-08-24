@@ -1,6 +1,6 @@
 ---
 title: Délégation complète de sous-domaine
-description: Le panneau de contrôle d’Adobe Campaign vous permet de déléguer entièrement un sous-domaine à Adobe Campaign. Pour ce faire, suivez les étapes ci-après.
+description: 'Découvrez comment déléguer un sous-domaine à Adobe Campaign. '
 feature: Sous-domaines et certificats
 kt: 4115
 thumbnail: 31390.jpg
@@ -8,11 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 063e9971-2cc6-4027-80cc-d2c0fd264a51
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 97%
+source-wordcount: '105'
+ht-degree: 72%
 
 ---
 
@@ -20,11 +19,7 @@ ht-degree: 97%
 
 Le [!UICONTROL panneau de contrôle] d’Adobe Campaign vous permet de déléguer entièrement un sous-domaine à Adobe Campaign.
 
->[!NOTE]
->
->La délégation de sous-domaine depuis le [!UICONTROL panneau de contrôle] sera disponible en version bêta d’ici la fin janvier. Elle sera sujette à de fréquentes mises à jour et modifications sans préavis.
-
-## Accès à la gestion des sous-domaines dans le [!UICONTROL panneau de contrôle]
+## Accédez au [!UICONTROL Panneau de Contrôle] [!UICONTROL Gestion des sous-domaines]
 
 Pour accéder à la [!UICONTROL gestion des sous-domaines] dans le [!UICONTROL panneau de contrôle], accédez à :
 
@@ -35,11 +30,11 @@ Pour accéder à la [!UICONTROL gestion des sous-domaines] dans le [!UICONTROL p
 
 ## Déléguer des sous-domaines
 
-La vidéo ci-dessous montre comment déléguer des sous-domaines.
+Découvrez comment déléguer un sous-domaine à Adobe Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
 
 ## Ressources supplémentaires
 
-* [Ajout de certificats SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
-* [Sous-domaines et certificats](https://docs.adobe.com/content/help/fr-FR/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [Ajout de certificats SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
+* [Sous-domaines et certificats](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=fr?lang=en)
