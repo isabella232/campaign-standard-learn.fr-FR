@@ -1,7 +1,6 @@
 ---
-title: Vérification de l'état d'une tâche d'assimilation de données
-description: Découvrez comment vérifier l’état et modifier le mappage des données.
-feature: Adobe Experience Platform Data Connector
+title: Vérification de l’état d’une tâche d’ingestion de données
+description: Découvrez comment vérifier l’état et modifier le mapping des données.
 audience: administrator
 kt: 2831
 thumbnail: 27268.jpg
@@ -9,23 +8,22 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 12%
+source-wordcount: '123'
+ht-degree: 8%
 
 ---
 
-# Vérification de l&#39;état d&#39;une tâche d&#39;assimilation de données
+# Vérification de l’état d’une tâche d’ingestion de données
 
 >[!NOTE]
 >
->Cette fonctionnalité est actuellement en version bêta et fait l&#39;objet de mises à jour fréquentes et de modifications sans préavis.
+>Cette fonctionnalité est actuellement en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis.
 >
->Contactez le [!UICONTROL service clientèle de l&#39;Adobe] si vous prévoyez de mettre en oeuvre cette fonctionnalité.
+>Contactez le [!UICONTROL service clientèle d’Adobe] si vous prévoyez de mettre en oeuvre cette fonctionnalité.
 
-Découvrez comment vérifier l&#39;état d&#39;une tâche d&#39;assimilation de données et si les données ont été assimilées d&#39;Adobe Campaign Standard à Adobe Experience Platform.
+Découvrez comment vérifier l’état d’une tâche d’ingestion de données et si les données ont été ingérées dans Adobe Experience Platform à partir d’Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)
 
