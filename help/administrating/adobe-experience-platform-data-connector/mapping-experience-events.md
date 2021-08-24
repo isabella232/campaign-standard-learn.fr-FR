@@ -1,18 +1,16 @@
 ---
-title: Mapping des événements d’expérience
-description: Découvrez comment mapper des Événements d’expérience dans Adobe Experience Platform (AEP)
-feature: Adobe Experience Platform Data Connector
+title: Mapping des événements d'expérience
+description: Découvrez comment mapper les événements d’expérience dans Adobe Experience Platform (AEP)
 kt: 2832
 thumbnail: 27265.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 16%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,11 +18,11 @@ ht-degree: 16%
 
 >[!NOTE]
 >
->Cette fonctionnalité est actuellement en version bêta et fait l&#39;objet de mises à jour fréquentes et de modifications sans préavis.
+>Cette fonctionnalité est actuellement en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis.
 >
->Contactez le [!UICONTROL service clientèle de l&#39;Adobe] si vous prévoyez de mettre en oeuvre cette fonctionnalité.
+>Contactez le [!UICONTROL service clientèle d’Adobe] si vous prévoyez de mettre en oeuvre cette fonctionnalité.
 
-Découvrez comment mapper [!UICONTROL Événements d’expérience] dans Adobe Experience Platform (AEP).
+Découvrez comment mapper les [!UICONTROL événements d’expérience] dans Adobe Experience Platform (AEP).
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12)
 
