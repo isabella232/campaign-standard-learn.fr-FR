@@ -1,44 +1,43 @@
 ---
 title: Création de ressources personnalisées - Introduction
-description: Adobe Campaign Standard permet d’étendre les ressources ou de créer de nouvelles ressources. Ce tutoriel en plusieurs parties vous guide tout au long des étapes nécessaires pour créer et lier des ressources personnalisées.
-feature: 'Ressources personnalisées '
+description: Ce tutoriel en plusieurs parties vous guide tout au long des étapes requises pour créer et lier des ressources personnalisées.
+feature: 'Modèle de données '
 kt: 2999
 thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
-source-wordcount: '235'
-ht-degree: 100%
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+workflow-type: tm+mt
+source-wordcount: '189'
+ht-degree: 43%
 
 ---
 
 # Création de ressources personnalisées - Introduction
 
-[!DNL Adobe Campaign] s’accompagne d’un modèle de données prédéfini, dans lequel les données sont définies au moyen de différentes ressources. [!DNL Campaign] permet d’étendre les ressources ou de créer des ressources entièrement nouvelles.
+[!DNL Adobe Campaign] s’accompagne d’un modèle de données prédéfini, dans lequel les données sont définies au moyen de différentes ressources. [!DNL Campaign] permet à l’utilisateur d’étendre des ressources existantes ou de créer de nouvelles ressources.
 
-Ce tutoriel en plusieurs parties vous guide tout au long des étapes nécessaires pour créer et lier des ressources personnalisées. À la fin de ce tutoriel, vous aurez appris à :
+Ce tutoriel en plusieurs parties vous guide tout au long des étapes requises pour créer et lier des ressources personnalisées.
+Découvrez comment :
 
 * Créer une ressource personnalisée
 * Ajouter des champs à la ressource personnalisée
 * Lier deux ressources personnalisées
 * Configurer la définition d’écran
 
-## Condition préalable
+## Prérequis 
 
 Pour pouvoir créer des ressources personnalisées, vous devez disposer des droits d’utilisateur d’administration.
 
 ## Présentation du tutoriel
 
-Nous aimerions pouvoir utiliser des informations supplémentaires sur ce qu’un client a commandé, afin qu’elles soient disponibles à des fins de marketing et de re-marketing.
-
-Pour ce faire, nous enrichirons le modèle de données [!DNL Campaign] en étendant les ressources prêtes à l’emploi et en ajoutant nos propres tables personnalisées. Nous ajouterons un client et une table de commandes.
+Pour utiliser des informations supplémentaires sur les commandes d’un client, afin qu’il soit disponible à des fins de marketing et de remarketing, le modèle de données [!DNL Campaign] doit être étendu en ajoutant des tables personnalisées. Dans ce cas pratique, un client et une table des commandes doivent être créés.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
-Ce tutoriel vous explique pas à pas comment réaliser les actions suivantes :
+Ce tutoriel explique comment :
 
 Étape 1 - [Création d’une ressource personnalisée](./creating-a-custom-resource.md)
 Étape 2 - [Configuration d’une définition d’écran](./configuring-a-screen-definition-for-a-custom-resource.md)
