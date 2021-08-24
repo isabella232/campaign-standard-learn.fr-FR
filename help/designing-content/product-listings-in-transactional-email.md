@@ -10,9 +10,9 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: 30e8e10575aad4dcf2b0473cdd9fd6d5fc2815f4
+source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '175'
 ht-degree: 4%
 
 ---
@@ -25,7 +25,7 @@ Les vidéos suivantes expliquent les étapes nécessaires à la configuration de
 
 >[!NOTE]
 >
->Cette fonctionnalité est actuellement appelée Boucle dans les vidéos.
+>Cette fonctionnalité est appelée Boucle dans les vidéos.
 
 ## Étape 1 - Créer un événement et le publier
 
@@ -41,5 +41,5 @@ Les vidéos suivantes expliquent les étapes nécessaires à la configuration de
 
 ## Ressources supplémentaires
 
-* [Utilisation des listes de produits dans un message transactionnel (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/transactional-messaging/event-transactional-messages.html#using-product-listings-in-a-transactional-message)
-* [Définition des collections de données (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/configuring-channels/configuring-transactional-messaging.html#defining-data-collections)
+* [Utilisation des listes de produits dans un message transactionnel (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/transactional-messaging/transactional-message-edition/editing-transactional-message.html?lang=en)
+* [Définition des collections de données (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/transactional-messaging/event-configuration/configuring-transactional-event.html?lang=en)
