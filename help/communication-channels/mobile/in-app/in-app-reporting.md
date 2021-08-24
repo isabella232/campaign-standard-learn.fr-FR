@@ -10,19 +10,19 @@ team: TM
 exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '86'
 ht-degree: 12%
 
 ---
 
 # Rapport sur votre diffusion [!UICONTROL In-App] {#in-app-message-reporting}
 
-Vous pouvez consulter les données relatives à votre diffusion [!UICONTROL In-App] dans le résumé de la diffusion en ajoutant des mesures [!UICONTROL In-App] spécifiques. Vous pouvez également utiliser le [rapport In-App](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html) prêt à l’emploi.
+Vous pouvez consulter vos données [!UICONTROL In-App] liées à la diffusion dans la synthèse de la diffusion en ajoutant des mesures [!UICONTROL In-App. Vous pouvez également utiliser le [rapport In-App](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en) prêt à l’emploi.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 
 ## Ressources supplémentaires
 
-* [Rapport In-App](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)
+* [Rapport In-App](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en)
