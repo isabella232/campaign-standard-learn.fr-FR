@@ -10,10 +10,10 @@ team: TM
 exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
 role: Admin
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 18%
+source-wordcount: '156'
+ht-degree: 10%
 
 ---
 
@@ -27,9 +27,9 @@ Les vidéos ci-dessous présentent les étapes requises pour configurer une appl
 
 >[!NOTE]
 >
->Voir [Configuration de votre application dans [!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch) pour consulter la documentation détaillée et les modèles de code utilisés dans la vidéo.
+>Voir [Configuration de votre application dans [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) pour consulter la documentation détaillée et les modèles de code utilisés dans la vidéo.
 
 ## Ressources supplémentaires
 
 * [Configuration d’une propriété mobile (documentation Adobe Launch)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Configuration d’une application mobile à l’aide des SDK Adobe Experience Platform (documentation)](https://helpx.adobe.com/fr/campaign/kb/configuring-app-sdk.html)
+* [Configuration d’une application mobile à l’aide des SDK Adobe Experience Platform (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en)
