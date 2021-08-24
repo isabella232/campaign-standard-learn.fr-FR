@@ -1,10 +1,10 @@
 ---
 user-guide-title: Adobe Campaign Standard - Prise en main des notifications push pour Android
 user-guide-description: Ce tutoriel vous guide tout au long des étapes nécessaires à l’envoi de notifications push depuis Adobe Campaign et à la réception de ces notifications dans votre application Android.
-source-git-commit: 0125d22122128037759c65f94e5e90ab4740173f
-workflow-type: ht
+source-git-commit: 1b2e9a48c4e48fe07c3114976dc8c3a57ed8a1c4
+workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 + [Introduction](./introduction.md)
 + [Étape 1 - Création d&#39;une application Android](./create-android-app.md)
-+ [Étape 2 - Intégration du SDK Mobile](./integrating-with-mobile-sdk.md)
++ [Étape 2 - Intégration du SDK Mobile](./integrating-with-mobile-sdk.md)
 + [Étape 3 - Enregistrement des extensions pour applications mobiles](./register-mobile-extensions.md)
 + [Étape 4 - Définition de l&#39;identifiant push](./set-push-identifier.md)
 + [Étape 5 - Propagation des notifications](./propagate-notification.md)
