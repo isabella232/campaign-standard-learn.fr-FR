@@ -8,10 +8,10 @@ tutorials-title: Tutoriels
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=fr
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=fr
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 89%
+ht-degree: 83%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 89%
    + [Gérer les services et les abonnements](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Audience Destinations (version bêta){#audience-destinations}
       + [Vue d&#39;ensemble](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [Créer une audience à l&#39;aide du Créateur de segments unifiés](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [Création d’une audience à l’aide du créateur de segments unifiés](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Activer les audiences d&#39;Adobe Experience Platform dans un workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [Modifier la dimension de ciblage](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Canaux de communication {#communication-channels}
@@ -50,7 +50,7 @@ ht-degree: 89%
       + [Tester des emails à l&#39;aide des profils ciblés](/help/communication-channels/email/profile-substitution.md)
       + [Ajouter une population témoin à une diffusion](/help/communication-channels/email/control-groups.md)
       + [Créer un email multilingue ou une diffusion SMS](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Convertir un email, une diffusion SMS ou un modèle existant en plusieurs langues](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Convertir un email, une diffusion SMS ou un modèle de diffusion existant en plusieurs langues](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Vérifier une diffusion Email et des rapports](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Créer et envoyer des emails via un workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr-FR)
@@ -59,11 +59,11 @@ ht-degree: 89%
          + [Score prédictif de l&#39;engagement](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Mobile {#mobile}
       + SMS{#sms}
-         + [Création d&#39;une diffusion SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [Création d’une diffusion SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
       + Notifications push {#push}
          + [Créer une notification push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Créer une notification push multilingue](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [Tutoriel : Prise en main des notifications push pour Android](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=fr)
+         + [Tutoriel : Prise en main des notifications push pour Android™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=fr)
       + Messages In-App {#in-app}
          + [Présentation des messages In-App](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Configurer des événements](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -105,7 +105,7 @@ ht-degree: 89%
       + [Configuration de Launch pour les déclencheurs](/help/integrations/configure-launch-for-triggers.md)
       + [Création d&#39;un déclencheur dans Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Création d&#39;un événement déclencheur dans Campaign Standard](/help/integrations/create-a-trigger-event.md)
-      + [Configuration de messages transactionnels à l&#39;aide de données d&#39;événement temps réel](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+      + [Configuration de messages transactionnels à l’aide de données d’événement en temps réel](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Configuration de Microsoft® Dynamics 365 pour l&#39;intégration avec Campaign Standard](/help/integrations/configure-dynamics-365.md)
 + Administration de {#administrating}
    + [Gestion des droits d&#39;accès des utilisateurs](/help/administrating/managing-user-access-rights.md)
@@ -117,7 +117,7 @@ ht-degree: 89%
       + [Mise en correspondance des événements d’expérience](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Mappage des données de tableau de contrôle](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [Modification du mapping des données](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [Vérification de l’état des tâches d’ingestion de données](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Vérification de l’état d’une tâche d’ingestion de données](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Règles de typologie{#typology-rules}
       + Gestion de la fatigue{#fatigue-management}
          + [Création de règles de fatigue](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
