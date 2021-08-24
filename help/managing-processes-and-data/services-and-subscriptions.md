@@ -10,9 +10,9 @@ team: DOC
 exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '154'
 ht-degree: 38%
 
 ---
@@ -35,6 +35,6 @@ Cette vidéo montre comment créer un service et gérer ses abonnements.
 
 ## Ressources supplémentaires
 
-* [Services d&#39;abonnements](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html)
-* [Créer un service](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/managing-subscriptions/creating-a-service.html)
-* [Contrôler les inscriptions](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/managing-subscriptions/monitoring-subscriptions.html)
+* [Services d&#39;abonnements](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html?lang=en)
+* [Créer un service](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-subscriptions/creating-a-service.html?lang=en)
+* [Contrôler les inscriptions](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-subscriptions/monitoring-subscriptions.html?lang=en)
