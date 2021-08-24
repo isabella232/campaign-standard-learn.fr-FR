@@ -10,21 +10,21 @@ team: TM
 exl-id: 4b7e4602-6d4f-4a16-bbe7-070a95511ebb
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '115'
 ht-degree: 1%
 
 ---
 
 # Créer une diffusion email ou SMS multilingue
 
-Adobe Campaign vous permet de simplifier la complexité opérationnelle de l’envoi de campagnes multilingues. Les diffusions email, ainsi que les diffusions SMS peuvent être configurées comme multilingues, ce qui vous permettra d&#39;envoyer l&#39;email ou les SMS en fonction de la langue préférée d&#39;un profil.
+Adobe Campaign vous permet de simplifier la complexité opérationnelle de l’envoi de campagnes multilingues. Les diffusions email et SMS peuvent être configurées en tant que multilingue, ce qui permet d&#39;envoyer un email ou un SMS en fonction de la langue préférée d&#39;un profil.
 
-Cette vidéo explique comment créer une diffusion multilingue basée sur un modèle basé sur l’exemple d’une newsletter email. L’approche présentée dans les vidéos s’applique à la fois aux diffusions email et SMS.
+Cette vidéo explique comment créer une diffusion multilingue à partir d’un modèle sur l’exemple d’une newsletter email. L’approche présentée dans les vidéos s’applique à la fois aux diffusions par email et par SMS.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23252?quality=12)
 
 ## Ressources supplémentaires
 
-* [Création d&#39;un email multilingue (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html)
+* [Création d&#39;un email multilingue (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html)
