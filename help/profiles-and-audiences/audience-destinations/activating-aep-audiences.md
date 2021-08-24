@@ -10,10 +10,10 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 9%
+source-wordcount: '163'
+ht-degree: 13%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->Cette fonctionnalité est actuellement en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis. [!UICONTROL Audience ] Destinationse basée sur Adobe Experience Platform et nécessite une configuration spécifique.
+>Cette fonctionnalité est en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis. [!UICONTROL Audience ] Destinationse basée sur Adobe Experience Platform et nécessite une configuration spécifique.
 >
 >Contactez le [!UICONTROL service clientèle d’Adobe] si vous prévoyez de mettre en oeuvre cette fonctionnalité.
 
@@ -35,9 +35,9 @@ Cette vidéo explique comment activer la [!UICONTROL audience de requête des se
 
 Documentation :
 
-* [Activation des audiences Experience Platform dans Campaign - Documentation](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
+* [Ingérer des audiences Adobe Experience Platform dans Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
 
-Ressource vidéo :
+Ressources vidéo :
 
 * [Création d’une audience dans Adobe Campaign Standard à l’aide du créateur de segments unifiés](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [Modification de la dimension de ciblage d’une diffusion pour une audience de plateforme](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
