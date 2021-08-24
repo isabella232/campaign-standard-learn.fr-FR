@@ -1,7 +1,7 @@
 ---
 title: Substitution de profil - Test des emails à l’aide des profils ciblés
 description: Découvrez comment tester vos emails à l’aide de la fonction de substitution de profil.
-feature: 'Email  '
+feature: 'E-mail  '
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video
@@ -10,14 +10,14 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 92%
+ht-degree: 68%
 
 ---
 
-# [!UICONTROL Substitution de profil] - Test des emails à l’aide des profils ciblés
+# [!UICONTROL Substitution de profil]  - Test des emails à l’aide des profils ciblés
 
 Cette vidéo explique comment tester vos emails à l’aide de la [!UICONTROL substitution de profil]. Elle couvre les cas pratiques suivants :
 
@@ -25,7 +25,7 @@ Supposons que vous souhaitiez envoyer une newsletter personnalisée par email. A
 
 >[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12)
 
-Pour plus d’informations, voir la [documentation détaillée du produit](https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html).
+Pour plus d’informations, voir la [documentation détaillée du produit](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en).
 
 >[!IMPORTANT]
 >
@@ -33,6 +33,6 @@ Pour plus d’informations, voir la [documentation détaillée du produit](https
 
 ## Ressources supplémentaires
 
-* [Test de messages à l’aide de profils cibles (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [Test de messages à l’aide de profils cibles (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
 * [Créer un e-mail de test A/B](/help/communication-channels/email/a-b-testing.md)
 * [Envoyer un test, préparer et envoyer un email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
