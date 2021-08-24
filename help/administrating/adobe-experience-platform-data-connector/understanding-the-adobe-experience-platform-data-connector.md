@@ -8,10 +8,10 @@ doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
 source-wordcount: '365'
-ht-degree: 26%
+ht-degree: 24%
 
 ---
 
@@ -49,7 +49,7 @@ Les tutoriels suivants décrivent les étapes clés pour effectuer un mapping de
 2. [Mapping des événements d&#39;expérience](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [Mappage des données de tableau de contrôle](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [Modification du mapping des données](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-5. [Vérification de l&#39;état des traitements d&#39;ingestion de données](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+5. [Vérification de l’état des tâches d’ingestion de données](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
 ## Autres ressources
 
