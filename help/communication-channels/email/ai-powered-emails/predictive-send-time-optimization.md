@@ -8,12 +8,12 @@ doc-type: feature video
 activity: use
 team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
-role: Business Practitoner, Developer, Admin
+role: Business Practitioner, Developer, Admin
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 100%
+source-wordcount: '210'
+ht-degree: 90%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 Optimisé par [!UICONTROL IA pour créer les parcours], [!DNL Adobe Campaign] peut analyser et estimer les taux d’ouverture, les heures d’envoi optimales et la perte probable en fonction des mesures d’engagement historiques.
 
 >[!CAUTION]
->Cette fonctionnalité n&#39;est pas disponible dans les paramètres d’usine du produit. La mise en œuvre nécessite l’implication d’Adobe Consulting. Veuillez contacter votre représentant Adobe pour en savoir plus.
+>Cette fonctionnalité n&#39;est pas disponible dans les paramètres d’usine du produit. La mise en œuvre nécessite l’implication d’Adobe Consulting. Pour en savoir plus, contactez votre représentant Adobe.
 
 [!UICONTROL L’optimisation prédictive de l’heure d’envoi] prédit la meilleure heure d’envoi pour chaque profil de destinataire pour les ouvertures d’email ou les clics. Pour chaque profil de destinataire, les scores indiquent la meilleure heure d’envoi pour chaque jour de la semaine et le jour de la semaine le plus approprié auquel envoyer l’email pour obtenir les meilleurs résultats.
 
@@ -38,4 +38,4 @@ Tutoriels :
 
 Documentation :
 
-* [Optimisation de la conception et de la diffusion avec les emails optimisés par IA](https://docs.adobe.com/help/fr-FR/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)
+* [Optimisation de la conception et de la diffusion avec les emails optimisés par IA](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
