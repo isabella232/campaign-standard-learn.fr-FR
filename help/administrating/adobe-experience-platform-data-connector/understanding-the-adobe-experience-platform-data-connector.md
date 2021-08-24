@@ -1,5 +1,5 @@
 ---
-title: Présentation d'Adobe Experience Platform Data Connector
+title: Présentation du connecteur de données Adobe Experience Platform
 description: Adobe Experience Platform Data Connector permet aux clients existants de rendre leurs données disponibles sur Adobe Experience Platform en mappant les données XTK (données ingérées dans Campaign) avec les données XDM (Experience Data Model) sur Adobe Experience Platform.
 feature: Intégration de People Core Service
 kt: 2826
@@ -8,18 +8,18 @@ doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 24%
+source-wordcount: '310'
+ht-degree: 16%
 
 ---
 
-# Présentation de Adobe Experience Platform [!UICONTROL Connecteur de données]
+# Présentation du [!UICONTROL connecteur de données Adobe Experience Platform]
 
 >[!NOTE]
 >
->Cette fonctionnalité est actuellement en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis.
+>Cette fonctionnalité est en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis.
 >
 >Contactez le [!UICONTROL service clientèle d’Adobe] si vous prévoyez de mettre en oeuvre cette fonctionnalité.
 
@@ -27,7 +27,7 @@ ht-degree: 24%
 
 Adobe Experience Platform [!UICONTROL Data Connector] aide les clients existants à rendre leurs données disponibles sur Adobe Experience Platform en mappant les données XTK (données ingérées dans Adobe Campaign) sur les données [!DNL Experience Data Model] (XDM) sur Adobe Experience Platform.
 
-Notez que le connecteur est unidirectionnel et envoie les données d’Adobe Campaign Standard vers Adobe Experience Platform. Les données ne sont jamais envoyées de Adobe Experience Platform vers Adobe Campaign Standard.
+Le connecteur est unidirectionnel et envoie les données d’Adobe Campaign Standard vers Adobe Experience Platform. Les données ne sont jamais envoyées de Adobe Experience Platform vers Adobe Campaign Standard.
 
 Adobe Experience Platform [!UICONTROL Data Connector] est destiné aux ingénieurs de données qui comprennent les [!UICONTROL ressources personnalisées d’Adobe Campaign Standard] et connaissent la définition du schéma de données global du client dans Adobe Experience Platform.
 
@@ -39,7 +39,7 @@ Adobe Experience Platform [!UICONTROL Data Connector] est destiné aux ingénieu
 >
 >Le transfert d’usine des [!UICONTROL événements d’abonnement] n’est pas pris en charge. Pour transférer [!UICONTROL des événements d’abonnement], vous pouvez créer le XDM et le jeu de données correspondants sur Adobe Experience Platform, puis configurer un mappage de données personnalisé pour ces données.
 >
->Les [!UICONTROL événements d’expérience] existants ne peuvent pas être ingérés dans Adobe Experience Platform, mais les [!UICONTROL événements d’expérience] générés en cours seront diffusés en continu vers Adobe Experience Platform.
+>Les [!UICONTROL événements d’expérience] existants ne peuvent pas être ingérés dans Adobe Experience Platform, mais les [!UICONTROL événements d’expérience] générés en cours sont diffusés en continu vers Adobe Experience Platform.
 
 ## Principales étapes pour effectuer un mapping des données
 
@@ -49,12 +49,9 @@ Les tutoriels suivants décrivent les étapes clés pour effectuer un mapping de
 2. [Mapping des événements d&#39;expérience](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [Mappage des données de tableau de contrôle](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [Modification du mapping des données](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-5. [Vérification de l’état des tâches d’ingestion de données](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+5. [Vérification de l’état d’une tâche d’ingestion de données](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
 ## Autres ressources
 
-* [À propos d’Adobe Experience Platform Data Connector](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-about-data-connector.html)
-* [Présentation d’Experience Data Model](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-data-model-overview.html)
-* [Définition du mapping](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
-* [Activation du mapping](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
-* [Déclenchement de l’ingestion des données via les API](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-triggering-data-ingestion.html)
+* [À propos d’Adobe Experience Platform Data Connector](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-about-data-connector.html)
+
