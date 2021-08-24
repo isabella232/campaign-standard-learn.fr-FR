@@ -10,16 +10,16 @@ team: DOC
 exl-id: fb138b50-5022-4320-8d45-a9ac6405a44e
 role: User
 level: Beginner, Intermediate
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 51%
+source-wordcount: '107'
+ht-degree: 27%
 
 ---
 
 # Créer un profil de test {#creating-a-test-profile}
 
-Les profils de test permettent de cibler des destinataires additionnels, qui ne correspondent pas aux critères de ciblage définis. Ils sont ajoutés à l&#39;audience d&#39;un message afin de détecter une utilisation frauduleuse de votre base de destinataire ou de contrôler la bonne réception de vos messages.
+Les profils de test permettent de cibler des destinataires additionnels, qui ne correspondent pas aux critères de ciblage définis. Ils sont ajoutés à l’audience d’un message afin de détecter une utilisation frauduleuse de votre base de données de destinataires ou de s’assurer que les emails arrivent dans les boîtes de réception.
 
 Cette vidéo explique comment créer des profils de test
 
