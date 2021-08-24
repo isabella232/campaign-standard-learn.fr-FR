@@ -1,17 +1,17 @@
 ---
 title: Exécution de demandes d’accès à des informations personnelles
 description: Dans Adobe Campaign, les demandes d’accès à des informations personnelles sont exécutées par des workflows. Cette vidéo décrit les workflows qui accèdent aux demandes et les suppriment, ainsi que ce qui se passe lorsqu’elles sont exécutées.
-feature: RGPD, CCPA
+feature: Outils d'accès à des informations personnelles
 kt: 1525
 thumbnail: 22770.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: da796c3f-ba35-4901-8021-3f497c64ba3a
-source-git-commit: 569c196b0d94a9bee5010da46003ed7b2a8afefd
-workflow-type: ht
-source-wordcount: '81'
-ht-degree: 100%
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+workflow-type: tm+mt
+source-wordcount: '92'
+ht-degree: 76%
 
 ---
 
@@ -23,5 +23,5 @@ Dans Adobe Campaign, les demandes d’accès à des informations personnelles so
 
 ## Autres ressources
 
-* [Règles générales relatives aux informations à caractère personnel concernant Campaign](https://helpx.adobe.com/fr/campaign/kb/campaign-privacy-overview.html)
-* [CCPA pour Adobe Campaign Standard](https://helpx.adobe.com/fr/campaign/kb/acs-privacy.html#ccpa)
+* [Règles générales relatives aux informations à caractère personnel concernant Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=en#getting-started)
+* [CCPA pour Adobe Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=en#privacy-requests)
