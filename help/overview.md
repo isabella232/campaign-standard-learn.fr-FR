@@ -1,21 +1,21 @@
 ---
 title: Tutoriels sur Adobe Campaign Standard - Présentation
-description: Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l’orchestration visuelle de campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide d’utilisation contient des vidéos et des tutoriels sur les nombreuses fonctionnalités et capacités d’Adobe Campaign Standard.
+description: Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l'orchestration visuelle de campagnes, la gestion d'interactions en temps réel et l'exécution cross-canal. Ce guide de l'utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d'Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Vue d'ensemble
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 100%
+source-wordcount: '294'
+ht-degree: 77%
 
 ---
 
 # Adobe Campaign Standard - Présentation
 
-Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l’orchestration visuelle de campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d’Adobe Campaign Standard.
+Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l&#39;orchestration visuelle de campagnes, la gestion d&#39;interactions en temps réel et l&#39;exécution cross-canal. Ce guide de l&#39;utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d&#39;Adobe Campaign Standard.
 
 ## Nouveautés
 
@@ -41,15 +41,15 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
    </a>
     </div>
     <p>
-    <em>Découvrez comment envoyer un BAT pour révision avec la représentation exacte du message que le profil recevra.</em>
+    <em>Découvrez comment envoyer un BAT pour révision avec la représentation exacte du message que le profil reçoit.</em>
     <p>
   </td>
    <td>
-    <a href="https://docs.adobe.com/content/help/fr-FR/campaign-standard-learn/control-panel/control-panel-overview.html">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=fr">
       <img alt="Panneau de contrôle (vidéos)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://docs.adobe.com/content/help/fr-FR/campaign-standard-learn/control-panel/control-panel-overview.html">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.html?lang=fr">
     <strong>Panneau de contrôle (vidéos)</strong>
     </a>
     </div>
@@ -58,16 +58,16 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
     <p>
   </td>
   <td>
-    <a href="https://docs.adobe.com/content/help/fr-FR/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
       <img alt="Tutoriel : Prise en main des notifications push pour Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
-    <strong>Tutoriel : Prise en main des notifications push pour Android</strong>
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+    <strong>Tutoriel : Prise en main des notifications push pour Android™</strong>
     </a>
     </div>
     <p>
-    <em>Ce tutoriel vous guide tout au long des étapes nécessaires à l’envoi de notifications push depuis Adobe Campaign et à la réception de ces notifications dans votre application Android. </em>
+    <em>Ce tutoriel vous guide tout au long des étapes nécessaires à l’envoi de notifications push depuis Adobe Campaign et à la réception de ces notifications dans votre application Android™.  </em>
     <p>
   </td>
 </tr>
@@ -75,4 +75,4 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Ressources supplémentaires
 
-* [Documentation](https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/campaign-standard-home.html)
+* [Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en)
