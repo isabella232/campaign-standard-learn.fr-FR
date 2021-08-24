@@ -10,16 +10,16 @@ team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: User, Developer
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 88%
+source-wordcount: '192'
+ht-degree: 51%
 
 ---
 
 # Configuration et exécution d’un workflow avec l’[!UICONTROL activité API externe]
 
-L’[!UICONTROL activité API externe] est une [!UICONTROL activité de Data Management]. Elle permet d’appeler un point d’entrée externe de l’API REST. Cette activité a pour but d’obtenir des données de personnalisation d’un système tiers dans votre campagne.
+L’[!UICONTROL activité API externe] est une [!UICONTROL activité de Data Management]. Elle permet d’appeler un point d’entrée externe de l’API REST. L’objectif de cette activité est d’obtenir des données de personnalisation d’un système tiers dans votre campagne.
 
 Voici quelques cas pratiques :
 
@@ -36,8 +36,8 @@ Cette vidéo présente l’utilisation de l’[!UICONTROL activité API externe]
 
 >[!NOTE]
 >
->Veuillez noter que le but de l’activité est de récupérer les données de l’ensemble de la campagne (dernier ensemble d’offres, derniers scores, etc.), et non de récupérer des informations spécifiques pour chaque profil, car cela peut entraîner le transfert de grandes quantités de données. Si le cas pratique requiert ce type de récupération, il est recommandé d’utiliser l’activité Transfert de fichier.
+>L’activité est destinée à récupérer des données à l’échelle de la campagne, et non à récupérer des informations spécifiques pour chaque profil, car cela peut entraîner le transfert de grandes quantités de données. Si le cas d’utilisation nécessite des informations spécifiques au profil, il est recommandé d’utiliser l’activité Transfert de fichier .
 
 ## Ressources supplémentaires
 
-* [API externe (documentation)](https://docs.adobe.com/content/help/fr-FR/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [API externe (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html?lang=en)
