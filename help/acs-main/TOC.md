@@ -2,16 +2,16 @@
 user-guide-title: Tutoriels sur Adobe Campaign Standard
 user-guide-description: Concevez des expériences client cross-canal et créez un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution cross-canal.
 breadcrumb-title: Tutoriels Campaign Standard
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?lang=fr&tag=Campaign+Standard#recommended/solutions/campaign
-tutorials-title: Tutoriels
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=fr
+solution-title: Experience League
+solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
+tutorials-title: Tutorials
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentation
-getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=fr
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
+source-git-commit: 3d11a2d81dab20b449c50d133f1c4fd4376356b5
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 83%
+source-wordcount: '536'
+ht-degree: 81%
 
 ---
 
@@ -127,3 +127,4 @@ ht-degree: 83%
    + [Modification des ressources personnalisées pour les demandes d’accès à des informations personnelles](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Création et suivi manuels des demandes d&#39;accès à des informations personnelles](/help/privacy/create-and-track-privacy-requests.md)
    + [Exécution des demandes d’accès à des informations personnelles](/help/privacy/execute-privacy-requests.md)
++ [Dépannage de Campaign Standard](/https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
