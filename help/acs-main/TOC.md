@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 source-git-commit: a3590166597f98331e7dec905ff00b0e84902a97
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '542'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -39,16 +39,16 @@ ht-degree: 80%
    + [Gérer les services et les abonnements](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Audience Destinations (version bêta){#audience-destinations}
       + [Vue d&#39;ensemble](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [Création d’une audience à l’aide du créateur de segments unifiés](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [Créer une audience à l&#39;aide du Créateur de segments unifiés](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Activer les audiences d&#39;Adobe Experience Platform dans un workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [Modifier la dimension de ciblage](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Canaux de communication {#communication-channels}
    + Email {#email}
-      + [Créez un email](/help/communication-channels/email/create-email-from-homepage.md)
+      + [Créer un email](/help/communication-channels/email/create-email-from-homepage.md)
       + [Envoyer un test, préparer et envoyer un email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [A/B Testing](/help/communication-channels/email/a-b-testing.md)
       + [Tester des emails à l&#39;aide des profils ciblés](/help/communication-channels/email/profile-substitution.md)
-      + [Ajouter une population témoin à une diffusion](/help/communication-channels/email/control-groups.md)
+      + [Ajout d&#39;une population témoin à une diffusion](/help/communication-channels/email/control-groups.md)
       + [Créer un email multilingue ou une diffusion SMS](/help/communication-channels/create-multilingual-deliveries.md)
       + [Convertir un email, une diffusion SMS ou un modèle de diffusion existant en plusieurs langues](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Vérifier une diffusion Email et des rapports](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -85,10 +85,10 @@ ht-degree: 80%
       + [Configurer la vue mobile](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Prévisualiser votre analyse email et anti-spam](/help/designing-content/email-designer/preview-your-email.md)
       + [Utilisation de contenu existant](/help/designing-content/email-designer/working-with-existing-content.md)
-      + [Création de contenu à l’aide d’Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
+      + [Création de contenu à l&#39;aide d&#39;Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Configurer les listes de produits dans les emails transactionnels](/help/designing-content/product-listings-in-transactional-email.md)
 + Gestion des processus et des données {#managing-processes-and-data}
-   + [Création d&#39;un workflow](/help/managing-processes-and-data/creating-a-workflow.md)
+   + [Créer un workflow](/help/managing-processes-and-data/creating-a-workflow.md)
    + Activités d&#39;exécution {#execution-activities}
       + [Activité Signal externe](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Activités de Data Management {#data-management-activities}
@@ -96,7 +96,7 @@ ht-degree: 80%
 + Rapport {#reporting}
    + [Exploration des rapports](/help/getting-started/exploring-reports.md)
    + [Créer un rapport dynamique](/help/reporting/creating-a-dynamic-report.md)
-   + [Création d’un rapport basé sur des attributs de profil personnalisés](/help/reporting/custom-profile-attributes-dynamic-reports.md)
+   + [Création d&#39;un rapport basé sur des attributs de profil personnalisés](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Créer un rapport à partir de segments de workflow](/help/reporting/report-on-workflow-segments.md)
 + Intégration avec d&#39;autres solutions {#integrations}
    + [Suivre les performances de vos diffusions dans Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
@@ -105,26 +105,26 @@ ht-degree: 80%
       + [Configuration de Launch pour les déclencheurs](/help/integrations/configure-launch-for-triggers.md)
       + [Création d&#39;un déclencheur dans Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Création d&#39;un événement déclencheur dans Campaign Standard](/help/integrations/create-a-trigger-event.md)
-      + [Configuration de messages transactionnels à l’aide de données d’événement en temps réel](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+      + [Configuration de messages transactionnels à l&#39;aide de données d&#39;événement temps réel](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Configuration de Microsoft® Dynamics 365 pour l&#39;intégration avec Campaign Standard](/help/integrations/configure-dynamics-365.md)
 + Administration de {#administrating}
    + [Gestion des droits d&#39;accès des utilisateurs](/help/administrating/managing-user-access-rights.md)
-   + [Créer des ressources personnalisées](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=fr)
+   + [Création de ressources personnalisées](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=fr)
    + [Panneau de contrôle](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=fr)
    + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
       + [Présentation d&#39;Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
-      + [Mappage de ressources personnalisées](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-      + [Mise en correspondance des événements d’expérience](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
-      + [Mappage des données de tableau de contrôle](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+      + [Mapping de ressources personnalisées](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
+      + [Mise en correspondance des événements Experience](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+      + [Mapping des données de table de contrôle](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [Modification du mapping des données](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [Vérification de l’état d’une tâche d’ingestion de données](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Vérification de l&#39;état d’un traitement d&#39;ingestion de données](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Règles de typologie{#typology-rules}
       + Gestion de la fatigue{#fatigue-management}
          + [Création de règles de fatigue](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + Confidentialité {#privacy}
    + [Vue d&#39;ensemble](/help/privacy/privacy-overview.md)
-   + [Création d’espaces de noms pour les demandes d’accès à des informations personnelles](/help/privacy/namespaces-for-privacy-requests.md)
-   + [Modification des ressources personnalisées pour les demandes d’accès à des informations personnelles](/help/privacy/custom-resources-for-privacy-requests.md)
+   + [Création d&#39;espaces de noms pour les demandes d&#39;accès à des informations personnelles](/help/privacy/namespaces-for-privacy-requests.md)
+   + [Modification des ressources personnalisées pour les demandes d&#39;accès à des informations personnelles](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Création et suivi manuels des demandes d&#39;accès à des informations personnelles](/help/privacy/create-and-track-privacy-requests.md)
    + [Exécution des demandes d’accès à des informations personnelles](/help/privacy/execute-privacy-requests.md)
-+ [Dépannage de Campaign Standard](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
++ [Résolution des problèmes de Campaign Standard](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
