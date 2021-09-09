@@ -6,7 +6,7 @@ exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: 5f019c5a5906a8bd24ab7c0dac23045cfbc046ad
+source-git-commit: aeb30af96ea10240f3e51a7b30ae0dbcf74b5c5a
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 93%
@@ -21,7 +21,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 * **[Résolution des problèmes](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=en)**
 
-   *Trouvez de l’aide pour résoudre les problèmes connus liés à Adobe Campaign Standard.*
+*Trouvez de l’aide pour résoudre les problèmes connus liés à Adobe Campaign Standard.*
 
 ## Suggestions du personnel
 
