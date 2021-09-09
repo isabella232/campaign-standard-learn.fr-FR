@@ -1,8 +1,8 @@
 ---
 title: Suivre les performances de vos diffusions dans Adobe Analytics
 description: Découvrez comment configurer l'intégration de Campaign Standard et d'Analytics. Découvrez comment créer un rapport dans Analytics à l'aide des données reçues de Campaign Standard et quels sont les KPI disponibles.
-feature: Paramétrage de l’application
-topic: 'Intégrations '
+feature: Application Settings
+topic: Integrations
 role: Admin
 level: Intermediate
 kt: 6526
@@ -11,9 +11,9 @@ doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
 source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '94'
+ht-degree: 100%
 
 ---
 
