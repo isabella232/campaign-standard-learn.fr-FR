@@ -9,7 +9,7 @@ level: Beginner
 source-git-commit: 5f019c5a5906a8bd24ab7c0dac23045cfbc046ad
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 67%
+ht-degree: 93%
 
 ---
 
@@ -54,7 +54,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=fr">
       <img alt="Tutoriel : Prise en main des notifications push pour Android" src="./assets/push-for-android.png" />
     </a>
     <div>
@@ -63,7 +63,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
     </a>
     </div>
     <p>
-    <em>Ce tutoriel vous guide tout au long des étapes nécessaires à l’envoi de notifications push depuis Adobe Campaign et à la réception de ces notifications dans votre application Android™.  </em>
+    <em>Ce tutoriel vous guide tout au long des étapes nécessaires à l'envoi de notifications push depuis Adobe Campaign et à la réception de ces notifications dans votre application Android™.</em>
     <p>
   </td>
 </tr>
@@ -71,4 +71,4 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Ressources supplémentaires
 
-* [Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en)
+* [Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=fr)
