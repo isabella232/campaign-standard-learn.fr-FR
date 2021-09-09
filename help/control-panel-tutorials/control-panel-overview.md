@@ -2,7 +2,7 @@
 title: Panneau de contrôle - Présentation
 description: Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
 landing-page-description: Le panneau de contrôle permet aux administrateurs Campaign d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP, des clés GPG ou des sous-domaines et des certificats.
-feature: Panneau de contrôle
+feature: Control Panel
 audience: administrator
 kt: 4696
 doc-type: feature video
@@ -10,9 +10,9 @@ activity: use
 team: PM
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 94%
+workflow-type: ht
+source-wordcount: '230'
+ht-degree: 100%
 
 ---
 
@@ -36,11 +36,11 @@ Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campai
 <tr>
   <td>
     <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
-      <img alt="Délégation de sous-domaines à Adobe Campaign (vidéo)" src="./assets/31390.jpg"/>
+      <img alt="Délégation de sous-domaines à Adobe Campaign (vidéo)" src="./assets/31390.jpg"/>
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Délégation de sous-domaines à Adobe Campaign (vidéo)</strong>
+    <strong>Délégation de sous-domaines à Adobe Campaign (vidéo)</strong>
     </a>
     </div>
     <p>
