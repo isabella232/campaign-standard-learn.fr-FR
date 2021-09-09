@@ -1,7 +1,7 @@
 ---
-title: Prise en main du Panneau de Contrôle
+title: Prise en main du panneau de contrôle
 description: Découvrez comment accéder au panneau de contrôle et quelles sont les conditions préalables requises pour pouvoir l’utiliser.
-feature: Panneau de contrôle
+feature: Control Panel
 audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg
@@ -10,25 +10,25 @@ activity: setup
 team: TM
 exl-id: 3626c012-e2f7-4480-aca0-97d7c7ce9a95
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 74%
+workflow-type: ht
+source-wordcount: '232'
+ht-degree: 100%
 
 ---
 
-# Prise en main du [!UICONTROL Panneau de Contrôle] {#control-panel}
+# Prise en main du [!UICONTROL panneau de contrôle] {#control-panel}
 
 >[!NOTE]
 >
->Les termes « [!UICONTROL liste blanche] » et « [!UICONTROL liste noire] » ont été remplacés par les termes « [!UICONTROL liste autorisée] » et « [!UICONTROL liste bloquée] » dans la documentation d’Adobe Campaign. Certaines occurrences de ces termes peuvent toujours exister dans l’interface utilisateur du produit, les noms d’option, le code interne et les vidéos de tutoriel. Ils seront remplacés dans les prochaines versions du panneau de contrôle.
+>Les termes « [!UICONTROL liste blanche] » et « [!UICONTROL liste noire] » ont été remplacés par les termes « [!UICONTROL liste autorisée] » et « [!UICONTROL liste bloquée] » dans la documentation d’Adobe Campaign. Certaines occurrences de ces termes peuvent toujours figurer dans l’interface utilisateur du produit, les noms d’option, le code interne, ainsi que dans les tutoriels vidéo. Ils seront remplacés dans les prochaines versions du panneau de contrôle.
 
 Le [!UICONTROL panneau de contrôle] permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage [!DNL SFTP] par instance, gérer des clés [!DNL GPG] ou des [!UICONTROL sous-domaines] et des [!UICONTROL certificats].
 
 Découvrez comment accéder au panneau de contrôle et quelles sont les conditions préalables requises pour pouvoir l’utiliser.
 
-## Accédez au [!UICONTROL Panneau de Contrôle]
+## Accédez au [!UICONTROL panneau de contrôle]
 
-Pour accéder au Panneau de Contrôle, accédez à la page d’accueil de l’Experience Cloud : [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com) :
+Pour accéder au panneau de contrôle, rendez-vous sur la page d’accueil Experience Cloud : [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com) :
 
 * **[!UICONTROL Accueil Experience Cloud]** > **[!UICONTROL Accès rapide]**
 
@@ -45,7 +45,7 @@ Avant de commencer, remplissez les conditions préalables suivantes :
 
 ### Confirmer [!DNL IMS Org ID]
 
-La vidéo suivante explique où vous pouvez rechercher la [!DNL IMS org ID] de votre instance.
+La vidéo ci-dessous montre où vous pouvez trouver l’[!DNL IMS org ID] de votre instance.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
