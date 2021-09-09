@@ -1,16 +1,16 @@
 ---
 title: Demandes d’accès à des informations personnelles avec Adobe Campaign Standard (ACS) - Vue d’ensemble
-description: Le tutoriel explique comment créer des demandes d’accès à des informations personnelles via l’interface d’Adobe Campaign Standard.
-feature: Outils d'accès à des informations personnelles
+description: Ce tutoriel explique comment créer des demandes d’accès à des informations personnelles via l’interface d’Adobe Campaign Standard.
+feature: Privacy Tools
 kt: 1480
 doc-type: feature video
 activity: use
 team: TM
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
-workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 62%
+workflow-type: ht
+source-wordcount: '351'
+ht-degree: 100%
 
 ---
 
@@ -22,19 +22,19 @@ Adobe Campaign offre aux contrôleurs de données trois méthodes permettant de 
 
 * **Via l’API :** Adobe Campaign fournit une API REST qui permet le traitement automatique des demandes d’accès à des informations personnelles.
 
-* **Via l’interface Adobe Campaign :**  pour chaque demande d’accès à des informations personnelles, le contrôleur des données crée une demande d’accès à des informations personnelles dans Adobe Campaign.
+* **Via l’interface d’Adobe Campaign :** pour chaque demande d’accès à des informations personnelles, le contrôleur de données crée une demande d’accès à des informations personnelles dans Adobe Campaign.
 
 >[!NOTE]
 >
 > **MODIFICATIONS APPORTÉES À ACS 19.4 :**
 > 
-> L’[intégration à Privacy Service](https://www.adobe.io/apis/experienceplatform/gdpr.html) est la méthode appropriée pour toutes les demandes d’accès et de suppression. Depuis la version 19.4, l’utilisation de l’API et de l’interface de Campaign pour les demandes d’accès et de suppression est obsolète. Pour plus d’informations sur les fonctionnalités de Campaign Standard obsolètes et supprimées, consultez [cette page](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=en).
+> L’[intégration à Privacy Service](https://www.adobe.io/apis/experienceplatform/gdpr.html) est la méthode appropriée pour toutes les demandes d’accès et de suppression. Depuis la version 19.4, l’utilisation de l’API et de l’interface de Campaign pour les demandes d’accès et de suppression est obsolète. Pour plus d’informations sur les fonctionnalités de Campaign Standard obsolètes et supprimées, consultez [cette page](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=fr).
 >
 >**Droit d’opposition (opt-out) à la vente des informations personnelles (CCPA)**
 >
-> Un champ Option d’Opt-out du CCPA est fourni dans l’API et l’interface de Campaign.
+> Un champ Option d&#39;opt-out du CCPA est fourni dans l&#39;API et l&#39;interface de Campaign.
 >
-> Vous pouvez vérifier votre version, cliquer sur le lien **?** en haut à droite de l’interface et en sélectionnant À propos.
+> Pour vérifier votre version, cliquez sur le lien **?** en haut à droite de l’interface et en sélectionnant À propos.
 
 ## Tutoriels vidéos
 
@@ -48,9 +48,9 @@ Adobe Campaign offre aux contrôleurs de données trois méthodes permettant de 
 * [Création et suivi des demandes d’accès à des informations personnelles via l’interface utilisateur d’Adobe Campaign](/help/privacy/create-and-track-privacy-requests.md)
 * [Exécution des demandes d’accès à des informations personnelles](/help/privacy/execute-privacy-requests.md)
 
-## Autres ressources
+## Ressources supplémentaires
 
-* [Règles générales relatives aux informations à caractère personnel concernant Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=en#getting-started)
-* [CCPA pour ACS](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=en#privacy-requests)
+* [Règles générales relatives aux informations à caractère personnel concernant Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=fr#getting-started)
+* [CCPA pour ACS](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=fr#privacy-requests)
 * [Adobe Experience Platform Privacy Service](https://www.adobe.io/apis/experienceplatform/gdpr.html)
 * [Documentation de l’API REST d’Adobe Campaign Standard](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)
