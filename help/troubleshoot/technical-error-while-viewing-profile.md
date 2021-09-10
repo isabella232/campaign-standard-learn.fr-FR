@@ -4,15 +4,15 @@ description: Découvrez comment résoudre une erreur technique qui se produit lo
 feature: Profiles
 role: Admin
 level: Beginner, Experienced
-topic: Development
+type: Troubleshooting
 kt: 8385
-source-git-commit: 908c997c130cf0fbb6699b4b5d824e6996e59cc3
-workflow-type: ht
-source-wordcount: '52'
-ht-degree: 100%
+exl-id: 3c1901eb-8c53-4776-b79a-c76b732b905b
+source-git-commit: 184cd4469cd6872534d65c26fc5de08b4146c542
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
-
 
 # Comment résoudre une erreur technique lors de l’affichage d’un profil
 
