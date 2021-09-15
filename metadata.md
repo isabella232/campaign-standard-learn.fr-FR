@@ -1,15 +1,15 @@
 ---
 cloud: Experience Cloud
 product: campaign
-solution: Campaign Standard
+solution: Campaign, Campaign Standard
 version: Standard
 type: Tutorial
 feature-set: Campaign
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-standard-learn.fr-FR
 index: true
-source-git-commit: c285a5493dad114c817d78692400f4056c707db4
-workflow-type: ht
+source-git-commit: 809ca48418ecbad061dd288c4b39428a14382a10
+workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 # Métadonnées à usage interne
 
-Le fichier metadata.md comprend des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md des guides de l’utilisateur dans le référentiel. Si vous souhaitez modifier le contenu du fichier metadata.md pour n’importe quel guide de l’utilisateur, faites-le dans n’importe quel fichier TOC.md.
+Le fichier metadata.md comprend des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md des guides de l&#39;utilisateur dans le référentiel. Si vous souhaitez modifier le contenu du fichier metadata.md pour n’importe quel guide de l’utilisateur, faites-le dans n’importe quel fichier TOC.md.
 
 | metadata | rôle |
 |--- |--- |
