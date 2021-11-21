@@ -1,7 +1,7 @@
 ---
 title: Envoyer un test, préparer et envoyer un email
 description: '"Découvrez comment envoyer un email de test, préparer, puis envoyer la diffusion email. "'
-feature: 'E-mail  '
+feature: Email
 kt: 1812
 thumbnail: 24013.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 18%
+source-wordcount: '70'
+ht-degree: 40%
 
 ---
 

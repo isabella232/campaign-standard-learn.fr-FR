@@ -1,7 +1,7 @@
 ---
 title: Activer les audiences d'Adobe Experience Platform dans un workflow
 description: Cette vidéo explique comment activer l’audience de requête des services de données dans un workflow à l’aide de l’activité "Lecture d’audience".
-feature: Intégration de People Core Service
+feature: People Core Service Integration
 kt: 2760
 thumbnail: 27647.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 13%
+source-wordcount: '159'
+ht-degree: 11%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->Cette fonctionnalité est en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis. [!UICONTROL Audience ] Destinationse basée sur Adobe Experience Platform et nécessite une configuration spécifique.
+>Cette fonctionnalité est en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis. [!UICONTROL Audience Destinations] repose sur Adobe Experience Platform et nécessite une configuration spécifique.
 >
->Contactez le [!UICONTROL service clientèle d’Adobe] si vous prévoyez de mettre en oeuvre cette fonctionnalité.
+>Veuillez contacter [!UICONTROL Service clientèle d’Adobe] si vous envisagez d’implémenter cette fonctionnalité.
 
-Cette vidéo explique comment activer la [!UICONTROL audience de requête des services de données] dans un workflow à l’aide de l’activité [!UICONTROL Lecture d’audience].
+Cette vidéo explique comment activer le [!UICONTROL Audience de requête des services de données] dans un workflow en utilisant la fonction [!UICONTROL Lecture d’audience] activité.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 
@@ -35,7 +35,7 @@ Cette vidéo explique comment activer la [!UICONTROL audience de requête des se
 
 Documentation :
 
-* [Ingérer des audiences Adobe Experience Platform dans Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
+* [Ingérer des audiences Adobe Experience Platform dans Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
 
 Ressources vidéo :
 

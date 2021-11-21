@@ -1,7 +1,7 @@
 ---
 title: Gérer les services et les abonnements
 description: Découvrez comment créer un service et gérer les abonnements.
-feature: Abonnements
+feature: Subscriptions
 kt: 1815
 thumbnail: 24673.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '153'
 ht-degree: 38%
 
 ---

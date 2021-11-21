@@ -1,7 +1,7 @@
 ---
 title: Configurer les listes de produits dans les emails transactionnels
 description: Découvrez les étapes requises pour configurer des listes de produits dans des emails transactionnels.
-feature: Messages transactionnels, Email
+feature: Transactional Messaging, Email
 kt: 1728
 thumbnail: 25915
 doc-type: feature video
@@ -12,16 +12,16 @@ role: User, Developer
 level: Experienced
 source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '172'
 ht-degree: 4%
 
 ---
 
-# Configuration de [!UICONTROL listes de produits] dans les emails transactionnels
+# Configurer [!UICONTROL listes de produits] dans les emails transactionnels
 
 Vous pouvez configurer un email de reciblage qui comporte une liste de produits, qui sont inconnus lors de la conception de l&#39;email. Ces produits peuvent être ajoutés à partir de la charge utile au moment de l’exécution. Par exemple, vous pouvez envoyer automatiquement un email d’abandon de panier répertoriant tous les produits qui se trouvaient dans le panier de l’utilisateur avant qu’il ne l’abandonne, avec une image, le prix et un lien vers chaque produit.
 
-Les vidéos suivantes expliquent les étapes nécessaires à la configuration des [!UICONTROL listes de produits] dans les [!UICONTROL emails transactionnels].
+Les vidéos suivantes expliquent les étapes requises pour configurer les [!UICONTROL listes de produits] in [!UICONTROL emails transactionnels].
 
 >[!NOTE]
 >

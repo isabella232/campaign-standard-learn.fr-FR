@@ -1,7 +1,7 @@
 ---
 title: A/B testing
 description: Découvrez comment configurer et envoyer un test A/B, qui teste l’objet.
-feature: 'A/B Testing  '
+feature: A/B Testing
 kt: 3907
 thumbnail: 18480.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User
 level: Beginner
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 50%
+source-wordcount: '108'
+ht-degree: 49%
 
 ---
 
 # Test A/B
 
-La fonctionnalité [!UICONTROL Test A/B] d’Adobe Campaign permet de définir deux à trois variantes d’emails. Chaque variante est envoyée à des échantillons de population afin de déterminer celle qui entraîne les meilleurs résultats. Une fois déterminée, la variante gagnante est alors envoyée à la population ciblée restante. Vous pouvez choisir de faire varier le contenu, le sujet ou l&#39;expéditeur de l&#39;email.
+Le [!UICONTROL Test A/B] dans Adobe Campaign, vous permet de définir deux à trois variantes d&#39;emails. Chaque variante est envoyée à des échantillons de population afin de déterminer celle qui entraîne les meilleurs résultats. Une fois déterminée, la variante gagnante est alors envoyée à la population ciblée restante. Vous pouvez choisir de faire varier le contenu, le sujet ou l&#39;expéditeur de l&#39;email.
 
 Découvrez comment configurer et envoyer un test A/B, qui teste l’objet.
 

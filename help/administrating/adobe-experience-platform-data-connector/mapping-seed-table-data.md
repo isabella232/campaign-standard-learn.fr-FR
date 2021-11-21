@@ -1,7 +1,7 @@
 ---
 title: Mapping des données de table de contrôle
 description: Découvrez comment mapper vos données sources et comment tester les profils avec Adobe Experience Platform (AEP)
-feature: Intégration de People Core Service
+feature: People Core Service Integration
 kt: 2900
 thumbnail: 27264.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: TM
 exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
 source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 18%
+source-wordcount: '93'
+ht-degree: 15%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 18%
 >
 >Cette fonctionnalité est actuellement en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis.
 >
->Contactez le [!UICONTROL service clientèle d’Adobe] si vous prévoyez de mettre en oeuvre cette fonctionnalité.
+>Veuillez contacter [!UICONTROL Service clientèle d’Adobe] si vous envisagez d’implémenter cette fonctionnalité.
 
 Découvrez comment mapper des données sources et des profils de test avec Adobe Experience Platform.
 

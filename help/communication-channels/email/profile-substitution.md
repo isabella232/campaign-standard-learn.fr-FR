@@ -1,7 +1,7 @@
 ---
 title: Substitution de profil - Test des emails à l’aide des profils ciblés
 description: Découvrez comment tester vos emails à l’aide de la fonction de substitution de profil.
-feature: 'E-mail  '
+feature: Email
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video
@@ -12,12 +12,12 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 68%
+source-wordcount: '182'
+ht-degree: 73%
 
 ---
 
-# [!UICONTROL Substitution de profil]  - Test des emails à l’aide des profils ciblés
+# [!UICONTROL Substitution de profil] - Test des emails à l’aide des profils ciblés
 
 Cette vidéo explique comment tester vos emails à l’aide de la [!UICONTROL substitution de profil]. Elle couvre les cas pratiques suivants :
 

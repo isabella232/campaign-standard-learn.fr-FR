@@ -1,7 +1,7 @@
 ---
 title: Création de profils et d'audiences - Présentation
 description: Découvrez comment accéder aux profils existants et comment créer des profils et des audiences.
-feature: Profils et audiences
+feature: Profiles, Audiences
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 37%
+source-wordcount: '83'
+ht-degree: 36%
 
 ---
 

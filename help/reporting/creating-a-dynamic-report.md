@@ -12,14 +12,14 @@ role: User
 level: Beginner
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 31%
+source-wordcount: '66'
+ht-degree: 30%
 
 ---
 
-# Créer un [!UICONTROL rapport dynamique]{#creating-a-report}
+# Créez un [!UICONTROL Rapport dynamique]{#creating-a-report}
 
-Les [!UICONTROL rapports dynamiques] d’Adobe Campaign sont un environnement à structure libre flexible dans lequel vous pouvez explorer les données. Il vous permet de combiner des dimensions, des mesures et une période dans n’importe quelle combinaison, avec un nombre illimité de ventilations et de comparaisons.
+Adobe Campaign [!UICONTROL Rapports dynamiques] sont un environnement à structure libre flexible dans lequel vous pouvez explorer les données. Il vous permet de combiner des dimensions, des mesures et une période dans n’importe quelle combinaison, avec un nombre illimité de ventilations et de comparaisons.
 
 Découvrez comment créer un rapport.
 

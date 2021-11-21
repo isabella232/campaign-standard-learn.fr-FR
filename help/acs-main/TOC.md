@@ -1,7 +1,7 @@
 ---
 user-guide-title: Tutoriels sur Adobe Campaign Standard
 user-guide-description: Concevez des expériences client cross-canal et créez un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution cross-canal.
-breadcrumb-title: Tutoriels Campaign Standard
+breadcrumb-title: Tutoriels Campaign Standard
 source-git-commit: e38405b798f231c9f7c22ac95ea44324ce94651d
 workflow-type: tm+mt
 source-wordcount: '542'
@@ -100,7 +100,7 @@ ht-degree: 98%
       + [Création d&#39;un déclencheur dans Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Création d&#39;un événement déclencheur dans Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Configuration de messages transactionnels à l&#39;aide de données d&#39;événement temps réel](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [Configuration de Microsoft® Dynamics 365 pour l&#39;intégration avec Campaign Standard](/help/integrations/configure-dynamics-365.md)
+   + [Configuration de Microsoft® Dynamics 365 pour l&#39;intégration avec Campaign Standard](/help/integrations/configure-dynamics-365.md)
 + Administration de {#administrating}
    + [Gestion des droits d&#39;accès des utilisateurs](/help/administrating/managing-user-access-rights.md)
    + [Création de ressources personnalisées](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=fr)
@@ -121,4 +121,4 @@ ht-degree: 98%
    + [Modification des ressources personnalisées pour les demandes d&#39;accès à des informations personnelles](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Création et suivi manuels des demandes d&#39;accès à des informations personnelles](/help/privacy/create-and-track-privacy-requests.md)
    + [Exécution des demandes d’accès à des informations personnelles](/help/privacy/execute-privacy-requests.md)
-+ [Résolution des problèmes de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
++ [Résolution des problèmes de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)

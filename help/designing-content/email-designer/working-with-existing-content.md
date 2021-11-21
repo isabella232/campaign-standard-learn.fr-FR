@@ -1,7 +1,7 @@
 ---
 title: Utilisation de contenu existant
 description: Découvrez comment récupérer votre contenu créatif sur un site web et le charger dans le Concepteur d'email.
-feature: Conception d’email
+feature: Email Design
 kt: 6295
 thumbnail: 25926.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 26%
+source-wordcount: '103'
+ht-degree: 25%
 
 ---
 
@@ -27,7 +27,7 @@ Découvrez comment récupérer votre contenu créatif sur un site web et le char
 
 ## Rendre le contenu HTML existant compatible {#making-existing-html-content-compatible}
 
-Le Concepteur d’email nécessite un balisage spécifique, qui doit être appliqué pour que les contenus HTML standard téléchargés vers Adobe Campaign soient entièrement compatibles et modifiables.
+Le Concepteur d’email nécessite un balisage spécifique, qui doit être appliqué pour que les contenus de HTML standard téléchargés vers Adobe Campaign soient entièrement compatibles et modifiables.
 
 Vous trouverez la documentation détaillée sous le lien suivant :
 

@@ -1,7 +1,7 @@
 ---
 title: Créer une diffusion In-App dans un workflow
 description: Découvrez comment utiliser l'activité Diffusion In-App pour automatiser l'envoi d'un message In-App à une audience cible calculée dans un workflow.
-feature: Dans l'application
+feature: In App
 kt: 2500
 thumbnail: 26226.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 8%
+source-wordcount: '131'
+ht-degree: 6%
 
 ---
 
-# Créer une diffusion [!UICONTROL In-App] dans un workflow
+# Créez un [!UICONTROL In-App] diffusion dans un workflow
 
-L&#39;activité Diffusion In-App permet d&#39;automatiser l&#39;envoi d&#39;un message [!UICONTROL In-App] à une audience cible calculée dans le même workflow.
+L&#39;activité Diffusion In-App est utilisée pour automatiser l&#39;envoi d&#39;un message [!UICONTROL In-App] message à une audience cible calculée dans le même workflow.
 
 Découvrez comment utiliser l&#39;activité Diffusion In-App pour automatiser l&#39;envoi d&#39;un message In-App à une audience cible calculée dans un workflow.
 

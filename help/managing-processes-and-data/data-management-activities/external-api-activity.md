@@ -1,7 +1,7 @@
 ---
 title: Configuration et exécution d’un workflow avec l’activité API externe
 description: Découvrez comment appeler un point d’entrée externe de l’API REST pour extraire des données de personnalisation d’un système tiers dans votre campagne.
-feature: Activité Gestion des données
+feature: Data Management Activity
 kt: 2764
 thumbnail: 28200.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer
 level: Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '189'
 ht-degree: 51%
 
 ---

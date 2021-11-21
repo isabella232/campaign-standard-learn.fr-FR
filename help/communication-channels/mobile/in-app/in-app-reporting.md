@@ -1,7 +1,7 @@
 ---
 title: Créer un rapport sur votre diffusion In-App
 description: Découvrez comment présenter à l’utilisateur des messages In-App pertinents du point de vue contextuel en réponse au comportement en temps réel d’un client dans l’application mobile.
-feature: Dans l'application
+feature: In App
 kt: 2558
 thumbnail: 26412.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 63d07d2922310ac779c486383b83d708beeba627
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 12%
+source-wordcount: '84'
+ht-degree: 10%
 
 ---
 
-# Rapport sur votre diffusion [!UICONTROL In-App] {#in-app-message-reporting}
+# Créez des rapports sur vos [!UICONTROL In-App] delivery {#in-app-message-reporting}
 
-Vous pouvez consulter vos données liées aux diffusions [!UICONTROL In-App] dans le résumé de la diffusion en ajoutant des mesures spécifiques [!UICONTROL In-App]. Vous pouvez également utiliser le [rapport In-App](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en) prêt à l’emploi.
+Vous pouvez consulter les [!UICONTROL In-App] données liées à la diffusion soit dans la synthèse de la diffusion en ajoutant [!UICONTROL In-App]des mesures spécifiques. Vous pouvez également utiliser le [Rapport In-App](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 

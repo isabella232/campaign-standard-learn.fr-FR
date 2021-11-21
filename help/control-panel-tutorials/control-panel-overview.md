@@ -1,7 +1,7 @@
 ---
 title: Panneau de contrôle - Présentation
-description: Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
-landing-page-description: Le panneau de contrôle permet aux administrateurs Campaign d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP, des clés GPG ou des sous-domaines et des certificats.
+description: Le Panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
+landing-page-description: Le Panneau de contrôle permet aux administrateurs Campaign d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP, des clés GPG ou des sous-domaines et des certificats.
 feature: Control Panel
 audience: administrator
 kt: 4696
@@ -10,7 +10,7 @@ activity: use
 team: PM
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 # Panneau de contrôle - Présentation
 
-Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
+Le Panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
 
 ## Nouveautés
 
@@ -28,7 +28,7 @@ Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campai
 
 * **[Délégation de sous-domaines à l’aide de CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Découvrez comment configurer et envoyer un sous-domaine à l’aide de CNAME dans le panneau de contrôle.*
+   *Découvrez comment configurer et envoyer un sous-domaine à l’aide de CNAME dans le Panneau de contrôle.*
 
 ## Suggestions du personnel
 
@@ -44,7 +44,7 @@ Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campai
     </a>
     </div>
     <p>
-    <em>Découvrez comment déléguer entièrement un sous-domaine à Adobe Campaign.</em>
+    <em>Découvrez comment déléguer entièrement un sous-domaine à Adobe Campaign.</em>
     <p>
   </td>
    <td>
@@ -57,7 +57,7 @@ Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campai
     </a>
     </div>
     <p>
-    <em> Découvrez comment ajouter des enregistrements de vérification de site TXT Google à tous les sous-domaines utilisés pour envoyer des emails aux adresses GMAIL grâce au panneau de contrôle Campaign.</em>
+    <em> Découvrez comment ajouter des enregistrements de vérification de site TXT Google à tous les sous-domaines utilisés pour envoyer des emails aux adresses GMAIL grâce au Panneau de contrôle Campaign.</em>
     <p>
   </td>
   <td>
@@ -70,7 +70,7 @@ Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campai
     </a>
     </div>
     <p>
-    <em>Découvrez comment se connecter à un serveur SFTP à l’aide d’une application SFTP cliente, avec les clés que vous avez stockées dans le panneau de contrôle. </em>
+    <em>Découvrez comment se connecter à un serveur SFTP à l’aide d’une application SFTP cliente, avec les clés que vous avez stockées dans le Panneau de contrôle. </em>
     <p>
   </td>
 </tr>
@@ -78,4 +78,4 @@ Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campai
 
 ## Ressources supplémentaires
 
-* [Centre d&#39;aide relatif au panneau de contrôle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=fr)
+* [Centre d&#39;aide relatif au Panneau de contrôle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=fr)

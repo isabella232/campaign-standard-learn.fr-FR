@@ -1,7 +1,7 @@
 ---
 title: Renseignement des ressources personnalisées avec des données
 description: Découvrez comment renseigner des ressources personnalisées avec des données d’un fichier CSV à l’aide d’un workflow.
-feature: Modèle de données
+feature: Data Model
 kt: 3003
 thumbnail: 27714.jpg
 doc-type: feature video
@@ -10,15 +10,15 @@ team: TM
 exl-id: afd173f9-4e60-4e78-8f08-5d3894f78949
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 # Renseignement des ressources personnalisées avec des données
 
-Découvrez comment renseigner des ressources personnalisées avec des données d’un fichier [!DNL CSV] à l’aide d’un workflow.
+Découvrez comment renseigner des ressources personnalisées avec des données d’un [!DNL CSV] à l’aide d’un workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?quality=9)
 
-Pour plus d’informations sur la façon de renseigner des ressources personnalisées par le biais d’une [!DNL API], consultez la documentation : [Interaction avec des ressources personnalisées](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html.)
+Pour plus d’informations sur la manière de renseigner des ressources personnalisées au moyen d’une [!DNL API], consultez la documentation : [Interaction avec des ressources personnalisées](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html.)

@@ -1,6 +1,6 @@
 ---
 title: Comment obtenir un identifiant d’événement et un identifiant de diffusion déchiffrés
-description: Découvrez comment obtenir un identifiant d’événement et un identifiant de diffusion déchiffrés dans Campaign Standard.
+description: Découvrez comment obtenir un identifiant d’événement et un identifiant de diffusion déchiffrés dans Campaign Standard.
 role: Admin
 level: Beginner, Experienced
 type: Troubleshooting
@@ -15,6 +15,6 @@ ht-degree: 100%
 
 # Comment obtenir un identifiant d’événement et un identifiant de diffusion déchiffrés
 
-Découvrez comment obtenir un identifiant d’événement et un identifiant de diffusion déchiffrés dans Campaign Standard.
+Découvrez comment obtenir un identifiant d’événement et un identifiant de diffusion déchiffrés dans Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335989?quality=12)

@@ -1,7 +1,7 @@
 ---
 title: Ajout d’une population témoin à une diffusion
 description: Découvrez comment définir une population témoin pour votre diffusion et comment extraire les profils affectés à la population témoin une fois la diffusion envoyée.
-feature: Populations témoins
+feature: Control Groups
 kt: 5060
 thumbnail: 40684.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '137'
 ht-degree: 100%
 
 ---

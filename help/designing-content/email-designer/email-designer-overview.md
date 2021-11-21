@@ -1,7 +1,7 @@
 ---
 title: Présentation du Concepteur d'email
 description: Découvrez les fonctionnalités générales du Concepteur d'email et comment créer entièrement un email.
-feature: Conception d’email
+feature: Email Design
 kt: 1402
 thumbnail: 22771.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '129'
 ht-degree: 87%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 87%
 
 Le [!UICONTROL Concepteur d’email] permet la création visuelle rapide et simple d’emails personnalisés, sans avoir à rédiger une seule ligne de code pour adapter la création d’emails à vos besoins. Il permet de créer du contenu d’email et des modèles de contenu d’email. Il est compatible avec les emails simples, les emails transactionnels, les emails de test A/B, les emails multilingues et les emails récurrents.
 
-Cette vidéo donne un aperçu général des fonctionnalités et de l’utilisation du [!UICONTROL Concepteur d’email] d’Adobe Campaign Standard.
+Cette vidéo donne un aperçu général des fonctionnalités et de l’utilisation du [!UICONTROL Concepteur d’email] d’Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 

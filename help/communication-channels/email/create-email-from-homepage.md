@@ -1,7 +1,7 @@
 ---
 title: Créez une diffusion email
 description: 'Découvrez comment créer une diffusion Email depuis la page d’accueil. '
-feature: 'E-mail '
+feature: Email
 kt: 1807
 thumbnail: 23721.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User
 level: Beginner
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '86'
 ht-degree: 43%
 
 ---
 
 # Créez une diffusion email {#create-an-email-delivery}
 
-Vous pouvez créer une diffusion email autonome à partir d’une campagne, à partir de la page d’accueil d’Adobe Campaign ou dans la liste [!UICONTROL Activité marketing]. Vous pouvez également créer et envoyer des emails uniques et récurrents à partir d’un workflow.
+Vous pouvez créer une diffusion email autonome à partir d’une campagne, à partir de la page d’accueil d’Adobe Campaign ou dans la variable [!UICONTROL Activité marketing] liste. Vous pouvez également créer et envoyer des emails uniques et récurrents à partir d’un workflow.
 
 Découvrez comment créer une diffusion Email depuis la page d’accueil.
 

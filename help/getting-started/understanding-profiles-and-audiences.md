@@ -11,13 +11,13 @@ exl-id: 8a11b35f-ac6b-4f63-a72e-4e676ea3d69d
 role: User, Developer, Admin
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 100%
 
 ---
 
-# Comprendre les profils et les audiences dans Adobe Campaign Standard
+# Comprendre les profils et les audiences dans Adobe Campaign Standard
 
 Cette vidéo explique le concept des profils et des audiences et comment en créer.
 

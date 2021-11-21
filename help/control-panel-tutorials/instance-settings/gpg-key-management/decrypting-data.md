@@ -1,7 +1,7 @@
 ---
-title: Décrypter des données
+title: Déchiffrement de données
 description: Découvrez comment créer une clé publique, l’importer et l’installer sur une instance Campaign pour le décryptage des données.
-feature: Panneau de contrôle
+feature: Control Panel
 audience: administrator
 kt: 5545
 thumbnail: 35753.jpg
@@ -11,15 +11,15 @@ team: PM
 exl-id: 3d4aaf1f-b8cf-4e22-accb-4f73aaaf21af
 source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 70%
+source-wordcount: '84'
+ht-degree: 75%
 
 ---
 
-# Décrypter des données
+# Déchiffrement de données
 
-Le panneau de contrôle permet de décrypter des données externes qui entrent dans vos instances Adobe Campaign à l’aide d’une paire de clés publique/privée.
-Découvrez comment créer une clé publique, l’importer et l’installer sur une instance Campaign pour le décryptage des données entrantes.
+Le Panneau de contrôle permet de déchiffrer des données externes qui entrent dans vos instances Adobe Campaign à l’aide d’une paire de clés publique/privée.
+Découvrez comment créer une clé publique, l’importer et l’installer sur une instance Campaign pour le déchiffrement des données entrantes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35753?quality=12)
 

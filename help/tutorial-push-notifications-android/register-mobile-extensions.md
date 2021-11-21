@@ -7,19 +7,18 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 15%
+source-wordcount: '129'
+ht-degree: 14%
 
 ---
 
 # Étape 3 - Enregistrement des extensions dans votre application mobile
 
-Dans cette partie, nous allons ajouter le code pour enregistrer les extensions Profil utilisateur, Identité, Lifecycle et Signal. Ces extensions font partie de [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). Nous devrons également enregistrer l&#39;extension Adobe Campaign Standard comme le montre le code ci-dessous.
+Dans cette partie, nous allons ajouter le code pour enregistrer les extensions Profil utilisateur, Identité, Cycle de vie et Signal. Ces extensions font partie de [[!UICONTROL Extensions principales mobiles]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). Nous devrons également enregistrer l’extension Adobe Campaign Standard comme indiqué dans le code ci-dessous.
 
-Ouvrez votre projet en studio [!DNL Android]. Supprimez l&#39;intégralité du code dans MainApp **sauf la première ligne qui correspond à votre instruction de package**.
+Ouvrez votre projet dans [!DNL Android] studio. Suppression du code entier dans MainApp **à l’exception de la première ligne qui correspond à votre instruction de package.**.
 
 Collez le code suivant dans MainApp.
 
@@ -69,6 +68,6 @@ try{
 }
 ```
 
-Ligne 32 vous devez fournir l&#39;ID de fichier d&#39;environnement de la propriété [!UICONTROL  Launch]. Vous pouvez y accéder à partir de l&#39;onglet [!UICONTROL environnement] de votre propriété [!UICONTROL Launch].
+Ligne 32, vous devez fournir[!UICONTROL  Launch] ID du fichier d’environnement de la propriété. Vous pouvez y accéder à partir du [!UICONTROL onglet environnement] de votre [!UICONTROL Launch] .
 
 ![launch-id](assets/launch-id-property.PNG)

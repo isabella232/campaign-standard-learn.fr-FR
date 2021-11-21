@@ -50,7 +50,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
     </a>
     </div>
     <p>
-    <em> Soyez plus efficace en tant qu’administrateur en gérant les paramètres et en suivant les utilisations de vos instances avec le panneau de contrôle.</em>
+    <em> Soyez plus efficace en tant qu’administrateur en gérant les paramètres et en suivant les utilisations de vos instances avec le Panneau de contrôle.</em>
     <p>
   </td>
   <td>
