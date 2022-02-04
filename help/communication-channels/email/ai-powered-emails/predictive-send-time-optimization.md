@@ -10,10 +10,10 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 89%
+source-wordcount: '209'
+ht-degree: 82%
 
 ---
 
@@ -30,12 +30,4 @@ Identifiez les workflows nécessaires pour synchroniser les données entre Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12)
 
-## Autres ressources
-
-Tutoriels :
-
-* [Score prédictif de l&#39;engagement](predictive-engagement-scoring.md)
-
-Documentation :
-
-* [Optimisation de la conception et de la diffusion avec les emails optimisés par IA](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
+Consultez la documentation du produit pour en savoir plus à ce sujet. [optimisation de la conception et de la diffusion avec les emails optimisés par l’IA](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)

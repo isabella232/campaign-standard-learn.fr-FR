@@ -1,17 +1,17 @@
 ---
 title: Mapping des ressources personnalisées
 description: Découvrez comment mapper différents types de données entre Adobe Campaign Standard (ACS) et Adobe Experience Platform (AEP)
-feature: People Core Service Integration
+feature: People Core Service Integration, Profiles
 kt: 2828
 thumbnail: 27231.jpg
 doc-type: feature video
 activity: set-up
 team: TM
 exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 8%
+source-wordcount: '87'
+ht-degree: 3%
 
 ---
 
@@ -27,6 +27,4 @@ Découvrez comment mapper différents types de données entre Adobe Campaign Sta
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?quality=12)
 
-## Ressources supplémentaires
-
-* [Définition du mapping](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+Pour plus d’informations sur la variable [Définition du mapping](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
