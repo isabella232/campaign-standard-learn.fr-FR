@@ -10,10 +10,10 @@ team: TM
 exl-id: 4b7e4602-6d4f-4a16-bbe7-070a95511ebb
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: 96b56f9914f84fc9cd424d93d0f93038599a2b3e
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,3 @@ Adobe Campaign vous permet de simplifier la complexité opérationnelle de l’e
 Cette vidéo explique comment créer une diffusion multilingue à partir d’un modèle sur l’exemple d’une newsletter email. L’approche présentée dans les vidéos s’applique à la fois aux diffusions par email et par SMS.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23252?quality=12)
-
-## Ressources supplémentaires
-
-* [Création d&#39;un email multilingue (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html)
