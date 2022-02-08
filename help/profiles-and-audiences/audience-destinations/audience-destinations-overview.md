@@ -10,10 +10,11 @@ team: TM
 exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+recommendations: noDisplay
+source-git-commit: 87c7d040e2bdd1ccaceb5035b494a6fb50c77f7b
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 9%
+source-wordcount: '173'
+ht-degree: 4%
 
 ---
 
@@ -36,7 +37,3 @@ Les tutoriels vidéo suivants vous guident tout au long des différentes étapes
 1. [Créer une audience à l&#39;aide du Créateur de segments unifiés](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [Activation des audiences Experience Platform dans un workflow marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Modification de la dimension de ciblage d’une diffusion pour une audience de plateforme](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
-
-## Ressources supplémentaires
-
-*[Présentation d’Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
