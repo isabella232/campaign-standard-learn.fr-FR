@@ -10,10 +10,10 @@ team: WWFRE
 exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 9333e405cd7db178cebf0281f7a34fbb2a183081
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 36%
+source-wordcount: '69'
+ht-degree: 40%
 
 ---
 
@@ -29,9 +29,3 @@ Les profils regroupés selon un ou plusieurs critères communs sont appelés **a
 Cette vidéo explique comment accéder aux profils existants et comment créer des profils et des audiences dans Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
-
-## Ressources supplémentaires
-
-* [Création d’un profil](/help/profiles-and-audiences/creating-a-profile.md)
-* [Création d’un profil de test](/help/profiles-and-audiences/test-profiles.md)
-* [Importer des profils avec un workflow](/help/managing-processes-and-data/importing-profiles.md)
