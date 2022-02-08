@@ -10,10 +10,10 @@ team: TM
 exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
 role: User
 level: Beginner
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 7777c76109ca8f40982073ec4782e82903a78095
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 17%
+source-wordcount: '143'
+ht-degree: 11%
 
 ---
 
@@ -30,14 +30,3 @@ Adobe Campaign vous permet d’envoyer des [!UICONTROL notifications push] vers 
 La vidéo explique comment envoyer une [!DNL push notification to app subscribers].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31499?quality=12)
-
-## Ressources supplémentaires
-
-Documentation :
-
-* [À propos des notifications push](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
-* [Préparation et envoi d’une notification push](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
-
-Tutoriels :
-
-* [Créer une notification push multilingue](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
