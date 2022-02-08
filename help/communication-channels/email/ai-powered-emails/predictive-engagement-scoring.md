@@ -10,10 +10,10 @@ team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 275b7f05b50891757a7921c16dfcd9c8a1c3a036
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 65%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -29,13 +29,3 @@ Optimisé par [!UICONTROL IA pour créer les parcours], [!DNL Adobe Campaign] pe
 Découvrez comment afficher les scores d’engagement au niveau du profil individuel, utiliser les scores pour cibler les utilisateurs engagés et supprimer les utilisateurs fatigués, et créer des règles de typologie pour gérer la fatigue des clients.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
-
-## Autres ressources
-
-Tutoriels :
-
-* [Optimisation de l&#39;heure d&#39;envoi prédictive](predictive-send-time-optimization.md)
-
-Documentation :
-
-* [Optimisation de la conception et de la diffusion avec les emails optimisés par IA](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
