@@ -10,9 +10,9 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: c249ea1f955d3e0d3f1477ee822edb6295da8de1
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '210'
 ht-degree: 13%
 
 ---
@@ -35,14 +35,9 @@ La vidéo ci-dessous explique comment une nouvelle audience est créée à l’a
 
 *Comment créer une audience dans Adobe Campaign Standard à l’aide du créateur de segments unifiés (min 02:47)*
 
-## Ressources supplémentaires
-
-Documentation :
+Pour plus d’informations, voir la documentation du produit :
 
 * [Présentation du profil client en temps réel](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=fr)
 * [Guide d’utilisation du créateur de segments](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 
-Ressources vidéo :
 
-* [Activation des audiences Experience Platform dans un workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-* [Modification de la dimension de ciblage d&#39;une diffusion pour une audience Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
