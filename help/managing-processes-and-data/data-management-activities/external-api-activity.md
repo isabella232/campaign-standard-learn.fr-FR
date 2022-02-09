@@ -10,10 +10,10 @@ team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: User, Developer
 level: Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 51%
+source-wordcount: '174'
+ht-degree: 53%
 
 ---
 
@@ -37,7 +37,3 @@ Cette vidéo présente l’utilisation de l’[!UICONTROL activité API externe]
 >[!NOTE]
 >
 >L’activité est destinée à récupérer des données à l’échelle de la campagne, et non à récupérer des informations spécifiques pour chaque profil, car cela peut entraîner le transfert de grandes quantités de données. Si le cas d’utilisation nécessite des informations spécifiques au profil, il est recommandé d’utiliser l’activité Transfert de fichier .
-
-## Ressources supplémentaires
-
-* [API externe (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html?lang=en)

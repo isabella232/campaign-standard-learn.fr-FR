@@ -1,5 +1,5 @@
 ---
-title: Création de contenu à l’aide d’Adobe Dreamweaver
+title: Création de contenu à l'aide d'Adobe Dreamweaver
 description: Découvrez ce qui est nécessaire pour activer l’intégration de Dreamweaver et comment créer et modifier du contenu pour Adobe Campaign Standard à l’aide de Dreamweaver.
 feature: Email Design
 kt: 1420
@@ -10,10 +10,10 @@ team: TM
 exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
 role: User, Developer
 level: Beginner
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 77%
+source-wordcount: '168'
+ht-degree: 67%
 
 ---
 
@@ -35,8 +35,4 @@ La vidéo explique les éléments requis pour activer l’intégration Dreamweav
 
 *Comment utiliser l’intégration Dreamweaver dans Adobe Campaign (02:37 min)*
 
-## Ressources supplémentaires
-
-* [Résolution des problèmes liés à l’installation d’Adobe Campaign Dreamweaver](https://helpx.adobe.com/fr/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
-* [Documentation sur Adobe Dreamweaver](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
-* [Installation de modules complémentaires et d’extensions pour les applications Adobe](https://helpx.adobe.com/fr/creative-cloud/kb/installingextensionsandaddons.html)
+Voir Dreamweaver [Documentation Adobe Dreamweaver](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html) pour plus d’informations sur [Résolution des problèmes d’installation d’Adobe Campaign Dreamweaver](https://helpx.adobe.com/fr/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).

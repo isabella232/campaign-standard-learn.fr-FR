@@ -1,6 +1,6 @@
 ---
-title: Modification des ressources personnalisées lors de la configuration d’Adobe Campaign Standard (ACS) pour les demandes d’accès à des informations personnelles
-description: Lors de la configuration d’Adobe Campaign Standard (ACS) pour gérer les demandes d’accès à des informations personnelles, vous devez vous assurer que toutes les données personnalisées liées à un profil sont supprimées lorsque le profil est supprimé. Cette vidéo explique comment modifier les ressources personnalisées pour répondre à cette exigence.
+title: Modification des ressources personnalisées lors de la configuration d’Adobe Campaign Standard pour les demandes d’accès à des informations personnelles
+description: Lors de la configuration d’Adobe Campaign Standard pour gérer les demandes d’accès à des informations personnelles, vous devez vous assurer que toutes les données personnalisées liées à un profil sont supprimées lorsque le profil est supprimé. Cette vidéo explique comment modifier les ressources personnalisées pour répondre à cette exigence.
 feature: Privacy Tools
 kt: 1243
 thumbnail: 23326.jpg
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -29,6 +29,4 @@ Lors de la configuration d’Adobe Campaign Standard pour gérer les demandes 
 >
 > Pour vérifier votre version, cliquez sur le lien **?** en haut à droite de l’interface et en sélectionnant À propos.
 
-## Ressources supplémentaires
-
-* [Règles générales relatives aux informations à caractère personnel concernant Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html)
+Reportez-vous également à la section [Règles générales relatives aux informations personnelles pour Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html)

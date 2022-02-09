@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 063e9971-2cc6-4027-80cc-d2c0fd264a51
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 67%
+source-wordcount: '85'
+ht-degree: 71%
 
 ---
 
@@ -33,8 +33,3 @@ Pour accéder à la [!UICONTROL gestion des sous-domaines] dans le [!UICONTROL P
 Découvrez comment déléguer un sous-domaine à Adobe Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
-
-## Ressources supplémentaires
-
-* [Ajout de certificats SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
-* [Sous-domaines et certificats](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=en)

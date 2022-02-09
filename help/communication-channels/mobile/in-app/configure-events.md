@@ -10,9 +10,9 @@ team: TM
 exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '243'
 ht-degree: 7%
 
 ---
@@ -61,7 +61,3 @@ Les trois catégories suivantes sont prises en charge en fonction de ce qui est 
 >[!NOTE]
 >
 >[!UICONTROL Événements Analytics] nécessitent une licence Adobe Analytics. Une fois que vous avez [[!DNL Analytics] extension configurée](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) et ont ajouté [Analytics vers votre application](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), ces événements deviennent disponibles dans la variable [!UICONTROL In-App] dans ACS.
-
-## Ressources supplémentaires
-
-* [Activation des mesures de cycle de vie (documentation)](https://aep-sdks.gitbook.io/docs/getting-started/initialize-the-sdk#enable-lifecycle-metrics)

@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 51f3d728-d547-41c8-bf53-bca49d5427fe
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 92%
+source-wordcount: '111'
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,3 @@ Pour garantir des taux de réception d’emails élevés et des taux de spam bas
 La vidéo ci-dessous décrit comment ajouter des enregistrements de vérification de site TXT [!DNL Google] à tous les sous-domaines utilisés pour envoyer des emails aux adresses GMAIL avec le [!UICONTROL Panneau de contrôle Campaign].
 
 >[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
-
-## Ressources supplémentaires
-
-* [Documentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/managing-txt-records.html?lang=en)

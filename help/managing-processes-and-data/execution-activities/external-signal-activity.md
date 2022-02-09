@@ -10,10 +10,10 @@ team: TM
 exl-id: d3996185-681c-4906-85f0-0543ab767519
 role: User, Developer
 level: Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 1%
+source-wordcount: '166'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,3 @@ Le [!UICONTROL Activité Signal externe] est utilisé pour organiser et orchestr
 Découvrez comment configurer [!UICONTROL Activité Signal externe] pour recevoir des paramètres** d’un système externe, personnaliser un workflow avec des paramètres externes et configurer une activité de fin pour appeler un workflow avec des paramètres externes
 
 >[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12)
-
-## Ressources supplémentaires
-
-* [Signal externe (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/calling-workflow-external-parameters/calling-a-workflow-with-external-parameters.html)

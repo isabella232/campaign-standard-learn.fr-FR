@@ -10,10 +10,10 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: c249ea1f955d3e0d3f1477ee822edb6295da8de1
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 13%
+source-wordcount: '183'
+ht-degree: 8%
 
 ---
 
@@ -34,10 +34,3 @@ La vidéo ci-dessous explique comment une nouvelle audience est créée à l’a
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
 *Comment créer une audience dans Adobe Campaign Standard à l’aide du créateur de segments unifiés (min 02:47)*
-
-Pour plus d’informations, voir la documentation du produit :
-
-* [Présentation du profil client en temps réel](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=fr)
-* [Guide d’utilisation du créateur de segments](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-
-

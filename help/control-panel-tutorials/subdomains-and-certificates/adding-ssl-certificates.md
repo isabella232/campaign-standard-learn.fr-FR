@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: b46d9186-07db-4225-8dd7-3f3452aa7a1b
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 69%
+source-wordcount: '191'
+ht-degree: 70%
 
 ---
 
@@ -56,8 +56,3 @@ La vidéo ci-dessous montre comment installer des certificats SSL dans le [!UIC
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
 *Installer des certificats SSL (01:25 min)*
-
-## Ressources supplémentaires
-
-* [Délégation complète de sous-domaines (vidéo)](./subdomain-delegation.md)
-* [Sous-domaines et certificats - Documentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=en)

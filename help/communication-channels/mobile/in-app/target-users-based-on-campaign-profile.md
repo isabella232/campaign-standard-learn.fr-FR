@@ -10,9 +10,9 @@ team: TM
 exl-id: 72b1fe11-3c38-4f0b-8ccd-0f7b73b1083a
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '101'
 ht-degree: 6%
 
 ---
@@ -24,8 +24,3 @@ Vous pouvez cibler les utilisateurs qui se sont connectés à l’application av
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 
 *Créer un message In-App à l’aide d’un [!UICONTROL Modèle de profil Campaign]*
-
-## Ressources supplémentaires
-
-* [Préparation et envoi d&#39;un message In-App (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html?lang=en)
-* [Personnalisation d&#39;un message In-App (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html?lang=en)
