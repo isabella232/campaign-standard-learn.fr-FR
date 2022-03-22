@@ -9,7 +9,7 @@ team: PM
 recommendations: noDisplay
 exl-id: f546f791-a69b-4586-abfa-3e626b8feb17
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '348'
 ht-degree: 100%
 
@@ -57,7 +57,7 @@ l’administrateur doit ajouter l’utilisateur au profil de produit `Campaign-x
 ### Documentation utile
 
 * [Découvrir le [!UICONTROL Panneau de contrôle]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=fr)
-* [Gestion des autorisations pour le [!UICONTROL Panneau de contrôle]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [Gestion des autorisations pour le [!UICONTROL Panneau de contrôle]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=fr)
 
 ## Établissement de la connexion au serveur SFTP (client ou API)
 
@@ -69,4 +69,4 @@ La connexion aux serveurs SFTP requiert :
 
 ### Documentation utile {#helpful-docs}
 
-* [Connexion à votre serveur SFTP](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [Connexion à votre serveur SFTP](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=fr)
