@@ -1,5 +1,5 @@
 ---
-title: Modification des ressources personnalisées lors de la configuration d’Adobe Campaign Standard pour les demandes d’accès à des informations personnelles
+title: Modifier les ressources personnalisées lors de la configuration d’Adobe Campaign Standard pour les demandes d’accès à des informations personnelles
 description: Lors de la configuration d’Adobe Campaign Standard pour gérer les demandes d’accès à des informations personnelles, vous devez vous assurer que toutes les données personnalisées liées à un profil sont supprimées lorsque le profil est supprimé. Cette vidéo explique comment modifier les ressources personnalisées pour répondre à cette exigence.
 feature: Privacy Tools
 kt: 1243
@@ -9,9 +9,9 @@ activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '198'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ Lors de la configuration d’Adobe Campaign Standard pour gérer les demandes 
 >
 > Pour vérifier votre version, cliquez sur le lien **?** en haut à droite de l’interface et en sélectionnant À propos.
 
-Reportez-vous également à la section [Règles générales relatives aux informations personnelles pour Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html)
+Consultez également la section [Règles générales relatives aux informations personnelles pour Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=fr).
