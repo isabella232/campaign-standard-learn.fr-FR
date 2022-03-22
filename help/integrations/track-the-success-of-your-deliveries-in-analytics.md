@@ -11,9 +11,9 @@ doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Découvrez comment configurer l&#39;intégration de Campaign Standard et d&#39;
 
 >[!VIDEO](https://video.tv.adobe.com/v/332576/?quality=12)
 
-Pour plus d’informations sur la variable [Présentation et création de suites de rapports](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=fr#intro-to-analytics).
+Consultez le guide du produit Adobe Analytics et obtenez plus d’informations pour [Comprendre et créer des suites de rapports](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=fr#intro-to-analytics).
