@@ -8,18 +8,14 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 63f65fa1-94c9-42ac-93a7-32d138a0a6a6
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: ht
-source-wordcount: '74'
+source-git-commit: 26dd621e1f89ed31a8656783f46b2bc388464ed1
+workflow-type: tm+mt
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
 
-# Délégation de sous-domaines à l’aide de CNAME (version bêta)
-
->[!IMPORTANT]
->
-> L’utilisation de CNAME pour la délégation de sous-domaines est en version bêta et est sujette à de fréquentes mises à jour et modifications sans préavis.
+# Délégation de sous-domaines à l’aide de CNAME
 
 Pour pouvoir commencer à envoyer des e-mails ou publier des landing pages avec Adobe Campaign, vous devez configurer un nouveau sous-domaine.
 
