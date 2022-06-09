@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: ht
-source-wordcount: '258'
-ht-degree: 100%
+source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
+workflow-type: tm+mt
+source-wordcount: '305'
+ht-degree: 84%
 
 ---
 
@@ -19,6 +19,10 @@ ht-degree: 100%
 Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l&#39;orchestration visuelle de campagnes, la gestion d&#39;interactions en temps réel et l&#39;exécution cross-canal. Ce guide de l&#39;utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d&#39;Adobe Campaign Standard.
 
 ## Nouveautés
+
+* **[Optimisez votre retour sur investissement dans les emails et découvrez les bonnes pratiques pour le réengagement des abonnés.](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+
+   *Découvrez comment optimiser le ROI des emails et découvrir les bonnes pratiques pour le réengagement des abonnés. Découvrez les stratégies pour améliorer l’engagement de vos abonnés et comprendre le succès global de vos campagnes par e-mail.*
 
 * **[Résolution des problèmes](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=fr)**
 
@@ -59,7 +63,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
       <img alt="Tutoriel : Prise en main des notifications push pour Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=fr">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
     <strong>Tutoriel : Prise en main des notifications push pour Android™</strong>
     </a>
     </div>

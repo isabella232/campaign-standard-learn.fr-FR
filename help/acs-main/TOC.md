@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels sur Adobe Campaign Standard
 user-guide-description: Concevez des expériences client cross-canal et créez un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution cross-canal.
 breadcrumb-title: Tutoriels Campaign Standard
-source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
+source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 100%
+source-wordcount: '565'
+ht-degree: 96%
 
 ---
 
@@ -47,7 +47,6 @@ ht-degree: 100%
       + [Convertir un email, une diffusion SMS ou un modèle de diffusion existant en plusieurs langues](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Vérifier une diffusion Email et des rapports](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Créer et envoyer des emails via un workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr-FR)
       + Emails optimisés par l&#39;IA {#journey-ai}
          + [Optimisation de l&#39;heure d&#39;envoi prédictive](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [Score prédictif de l&#39;engagement](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
@@ -122,3 +121,6 @@ ht-degree: 100%
    + [Création et suivi manuels des demandes d&#39;accès à des informations personnelles](/help/privacy/create-and-track-privacy-requests.md)
    + [Exécution des demandes d’accès à des informations personnelles](/help/privacy/execute-privacy-requests.md)
 + [Résolution des problèmes de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=fr)
++ Responsable de la stratégie et de la pensée{#strategy}
+   + [Optimiser le ROI des emails et les bonnes pratiques pour le réengagement des abonnés](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
+   + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr)
