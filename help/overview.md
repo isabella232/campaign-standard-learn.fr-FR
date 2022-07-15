@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
-workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 78%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
@@ -20,13 +20,13 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
-* **[Panneau de Contrôle - Surveiller les workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
+* **[Panneau de contrôle - surveiller les workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=fr){target=&quot;_blank&quot;}**
 
-   *Découvrez comment surveiller l’utilisation de l’espace de stockage temporaire de vos workflows et où configurer les paramètres de workflow pour éviter des problèmes de base de données ou de workflow sur votre instance.*
+   *Découvrez comment surveiller l’utilisation de l’espace de stockage temporaire de vos workflows et où configurer les paramètres de workflows pour éviter des problèmes liés aux bases de données ou aux workflows sur votre instance.*
 
-* **[Panneau de Contrôle - Surveiller les débits et la latence](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
+* **[Panneau de contrôle - surveiller les débits et la latence](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=fr){target=&quot;_blank&quot;}**
 
-   *Découvrez comment surveiller les débits de diffusion et les latences des messages transactionnels de votre instance de campagne.*
+   *Découvrez comment surveiller les débits de diffusion et les latences des messages transactionnels de votre instance Campaign.*
 
 ## Suggestions du personnel
 
@@ -63,7 +63,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
       <img alt="Tutoriel : Prise en main des notifications push pour Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=fr">
     <strong>Tutoriel : Prise en main des notifications push pour Android™</strong>
     </a>
     </div>
