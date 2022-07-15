@@ -4,9 +4,9 @@ user-guide-description: Découvrez comment surveiller les ressources clés de vo
 breadcrumb-title: Tutoriels sur le Panneau de contrôle
 index: true
 source-git-commit: f5d3396f46839a37fdc7199347344382a02d3ff1
-workflow-type: ht
-source-wordcount: '111'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
