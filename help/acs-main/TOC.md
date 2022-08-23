@@ -3,7 +3,7 @@ user-guide-title: Tutoriels sur Adobe Campaign Standard
 user-guide-description: Concevez des expériences client cross-canal et créez un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution cross-canal.
 breadcrumb-title: Tutoriels Campaign Standard
 source-git-commit: 4c256d4622e2acc2ec08e76aa4e6180ddb5184a0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '567'
 ht-degree: 100%
 
