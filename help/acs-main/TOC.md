@@ -2,7 +2,7 @@
 user-guide-title: Tutoriels sur Adobe Campaign Standard
 user-guide-description: Concevez des expériences client cross-canal et créez un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution cross-canal.
 breadcrumb-title: Tutoriels Campaign Standard
-source-git-commit: 027b8b368f88cc9fd3bc450b525f057450fa9af8
+source-git-commit: 1330f710368996dfa5562673360c12f2414a4ac7
 workflow-type: tm+mt
 source-wordcount: '567'
 ht-degree: 98%
@@ -122,6 +122,6 @@ ht-degree: 98%
    + [Exécution des demandes d’accès à des informations personnelles](/help/privacy/execute-privacy-requests.md)
 + [Résolution des problèmes de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=fr)
 + Stratégie et leadership{#strategy}
-   + [Dix bonnes pratiques pour le succès d’Adobe Campaign pour les marketeurs](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
+   + [Dix bonnes pratiques pour le succès d’Adobe Campaign pour les marketeurs](/help/strategy/10-best-practices-for-marketers.md)
    + [Optimiser le RSI des e-mails et les bonnes pratiques pour le réengagement des abonnés](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=fr)
    + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr)
