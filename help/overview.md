@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 6a8b4679212207d6cce5c1dba317d3349d319baa
-workflow-type: ht
-source-wordcount: '308'
-ht-degree: 100%
+source-git-commit: ee19698fdf2e7f126d6ce73dc5a372f8729c3e83
+workflow-type: tm+mt
+source-wordcount: '297'
+ht-degree: 84%
 
 ---
 
@@ -20,13 +20,17 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
-* **[Panneau de contrôle - surveiller les workflows](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=fr){target=&quot;_blank&quot;}**
+* **[Planification des messages](/help/communication-channels/email/schedule-messages.md)**
 
-   *Découvrez comment surveiller l’utilisation de l’espace de stockage temporaire de vos workflows et où configurer les paramètres de workflows pour éviter des problèmes liés aux bases de données ou aux workflows sur votre instance.*
+   *Découvrez comment planifier une diffusion email.*
 
-* **[Panneau de contrôle - surveiller les débits et la latence](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=fr){target=&quot;_blank&quot;}**
+* **[Envoi d’un BAT](/help/communication-channels/email/send-a-proof.md)**
 
-   *Découvrez comment surveiller les débits de diffusion et les latences des messages transactionnels de votre instance Campaign.*
+   *Découvrez comment tester un email avant de l&#39;envoyer aux destinataires finaux.*
+
+* **[Dix bonnes pratiques pour le succès d’Adobe Campaign pour les professionnel(le)s du marketing](/help/strategy/10-best-practices-for-marketers.md)**
+
+   *Découvrez dix bonnes pratiques pour aider les utilisateurs d’Adobe Campaign à déverrouiller et à accélérer la transformation des consommateurs numériques et une meilleure expérience pour leurs clients.*
 
 ## Suggestions du personnel
 
