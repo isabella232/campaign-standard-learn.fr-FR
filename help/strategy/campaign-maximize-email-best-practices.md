@@ -2,8 +2,8 @@
 title: Optimiser le ROI des e-mails et découvrir les bonnes pratiques pour le réengagement des abonnés
 description: Découvrez comment optimiser le ROI des e-mails et apprenez les bonnes pratiques pour le réengagement des abonnés. Découvrez les stratégies pour améliorer l’engagement de vos abonnés et comprendre le succès global de vos campagnes par e-mail.
 solution: Campaign
-source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: ht
+source-git-commit: fda23ddb8a9b31dd637e42a31836214ad14f494c
+workflow-type: tm+mt
 source-wordcount: '1471'
 ht-degree: 100%
 
@@ -104,7 +104,7 @@ Le statut de vos abonnés (actif, obsolète ou inactif) dépend de la fréquence
 
 Voici un tableau simple pour vous aider lors de votre audit :
 
-![statut d&#39;abonné](assets/subscriber-status.png)
+![statut d&#39;abonné](/help/assets/subscriber-status.png)
 
 Si, par exemple, vous envoyez un e-mail quotidien à des clients, ils doivent avoir interagi avec l’un de ces e-mails au cours du dernier mois pour être considérés comme actifs et engagés. À l’inverse, si vous envoyez un e-mail aux clients tous les mois et qu’ils n’ont pas interagi dans les 9 à 14 mois, ils peuvent être considérés comme inactifs.
 
