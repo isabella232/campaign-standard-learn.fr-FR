@@ -3,9 +3,9 @@ user-guide-title: Tutoriels sur Adobe Campaign Standard
 user-guide-description: Concevez des expériences client cross-canal et créez un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution cross-canal.
 breadcrumb-title: Tutoriels Campaign Standard
 source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '563'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -40,8 +40,8 @@ ht-degree: 99%
    + Email {#email}
       + [Créer un email](/help/communication-channels/email/create-email-from-homepage.md)
       + [Envoyer un test, préparer et envoyer un email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
-      + [Planification des messages](/help/communication-channels/email/schedule-messages.md)
-      + [Envoi d&#39;un BAT](/help/communication-channels/email/send-a-proof.md)
+      + [Planifier des messages](/help/communication-channels/email/schedule-messages.md)
+      + [Envoyer un BAT](/help/communication-channels/email/send-a-proof.md)
       + [A/B Testing](/help/communication-channels/email/a-b-testing.md)
       + [Tester des emails à l&#39;aide des profils ciblés](/help/communication-channels/email/profile-substitution.md)
       + [Ajout d&#39;une population témoin à une diffusion](/help/communication-channels/email/control-groups.md)
@@ -73,9 +73,9 @@ ht-degree: 99%
       + [Tester et publier une landing page](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [Configurer un modèle de landing page](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
 + Conception et personnalisation de contenu {#designing-content}
-   + Concepteur d&#39;email{#email-designer}
+   + Concepteur d’e-mail{#email-designer}
       + [Vue d&#39;ensemble](/help/designing-content/email-designer/email-designer-overview.md)
-      + [Prise en main du Concepteur d&#39;email](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [Prise en main du Concepteur d’e-mail](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Présentation des modèles de contenu d&#39;email](/help/designing-content/email-designer/email-content-templates.md)
       + [Configurer la vue mobile](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Prévisualiser votre analyse email et anti-spam](/help/designing-content/email-designer/preview-your-email.md)
@@ -101,7 +101,7 @@ ht-degree: 99%
       + [Création d&#39;un déclencheur dans Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Création d&#39;un événement déclencheur dans Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Configuration de messages transactionnels à l&#39;aide de données d&#39;événement temps réel](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [Configuration de Microsoft](/help/integrations/configure-dynamics-365.md)
+   + [Configurer Microsoft](/help/integrations/configure-dynamics-365.md)
 + Administration de {#administrating}
    + [Gestion des droits d&#39;accès des utilisateurs](/help/administrating/managing-user-access-rights.md)
    + [Création de ressources personnalisées](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=fr)
