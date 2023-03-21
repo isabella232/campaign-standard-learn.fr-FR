@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 04bc3a93595f90e8ed48fb7f3896b734256fe92d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '286'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -22,17 +22,17 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
-* **[Planification des messages](/help/communication-channels/email/schedule-messages.md)**
+* **[Planifier des messages](/help/communication-channels/email/schedule-messages.md)**
 
-   *Découvrez comment planifier une diffusion email.*
+   *Découvrez comment planifier une diffusion e-mail.*
 
-* **[Envoi d’un BAT](/help/communication-channels/email/send-a-proof.md)**
+* **[Envoyer un BAT](/help/communication-channels/email/send-a-proof.md)**
 
-   *Découvrez comment tester un email avant de l&#39;envoyer aux destinataires finaux.*
+   *Découvrez comment tester un e-mail avant de l’envoyer aux personnes auxquelles il est destiné.*
 
-* **[Dix bonnes pratiques pour le succès d’Adobe Campaign pour les professionnel(le)s du marketing](/help/strategy/10-best-practices-for-marketers.md)**
+* **[Dix bonnes pratiques pour le succès d’Adobe Campaign pour les personnes travaillant dans le marketing](/help/strategy/10-best-practices-for-marketers.md)**
 
-   *Découvrez dix bonnes pratiques pour aider les utilisateurs d’Adobe Campaign à déverrouiller et à accélérer la transformation des consommateurs numériques et une meilleure expérience pour leurs clients.*
+   *Découvrez les dix bonnes pratiques pour aider les utilisateurs et utilisatrices d’Adobe Campaign à déverrouiller et à accélérer la transformation de la consommation numérique pour apporter une meilleure expérience à leurs clientes et clients.*
 
 </div>
 
