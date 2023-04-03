@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: ht
-source-wordcount: '198'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Lors de la configuration d’Adobe Campaign Standard pour gérer les demandes d’accès à des informations personnelles, vous devez vous assurer que toutes les données personnalisées liées à un profil sont supprimées lorsque le profil est supprimé. Cette vidéo explique comment modifier les ressources personnalisées pour répondre à cette exigence.
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&learn=on)
 
 >[!NOTE]
 >
