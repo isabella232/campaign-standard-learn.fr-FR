@@ -10,7 +10,7 @@ team: TM
 exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
 role: Admin
 level: Experienced
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 7%
@@ -24,7 +24,7 @@ Pour envoyer des messages In-App ou [!UICONTROL notifications push] à l’aide 
 
 Les vidéos ci-dessous présentent les étapes requises pour configurer une application mobile en Experience Platform Launch :
 
->[!VIDEO](https://video.tv.adobe.com/v/26224?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26224?quality=12&learn=on)
 
 >[!NOTE]
 >

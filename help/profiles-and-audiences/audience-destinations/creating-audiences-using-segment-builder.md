@@ -10,7 +10,7 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 8%
@@ -31,6 +31,6 @@ Vous pouvez accéder au [!UICONTROL Créateur de segments unifié] directement d
 
 La vidéo ci-dessous explique comment une nouvelle audience est créée à l’aide de [!UICONTROL Créateur de segments unifié] dans Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12&learn=on)
 
 *Comment créer une audience dans Adobe Campaign Standard à l’aide du créateur de segments unifiés (min 02:47)*

@@ -10,7 +10,7 @@ team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: User, Developer
 level: Experienced
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 53%
@@ -30,7 +30,7 @@ Voici quelques cas pratiques :
 
 Cette vidéo présente l’utilisation de l’[!UICONTROL activité API externe].
 
->[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12&learn=on)
 
 *[!UICONTROL Activité API externe] (06:48 min)*
 

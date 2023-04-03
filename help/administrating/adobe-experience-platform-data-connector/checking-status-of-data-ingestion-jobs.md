@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 22%
@@ -26,7 +26,7 @@ ht-degree: 22%
 
 Découvrez comment vérifier l’état d’une tâche d’ingestion de données et si les données ont été ingérées dans Adobe Experience Platform à partir d’Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12&learn=on)
 
 ## Ressources supplémentaires
 

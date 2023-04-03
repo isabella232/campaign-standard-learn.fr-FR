@@ -1,6 +1,6 @@
 ---
 title: Configurer des événements
-description: '"Comprenez comment les événements définissent l’action initiée par l’utilisateur qui déclenche l’affichage d’un message in-app. "'
+description: "Comprenez comment les événements définissent l’action initiée par l’utilisateur qui déclenche l’affichage d’un message in-app. "
 feature: In App
 kt: 2548
 thumbnail: 26245.jpg
@@ -10,7 +10,7 @@ team: TM
 exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 7%
@@ -34,7 +34,7 @@ Par exemple :
 
 Vous devez configurer ces [!UICONTROL events] dans Adobe Campaign. La vidéo suivante explique comment procéder.
 
->[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12&learn=on)
 
 ## [!UICONTROL Événements du cycle de vie] {#life-cycle-events}
 

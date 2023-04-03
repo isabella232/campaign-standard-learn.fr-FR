@@ -10,7 +10,7 @@ team: PM
 exl-id: 7d799136-a308-422d-8a97-d3ed8fed0c73
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 100%
@@ -25,4 +25,4 @@ L’utilisation de [!UICONTROL populations témoins] vous permet de mesurer l’
 
 Découvrez comment définir une [!UICONTROL population témoin] pour votre [!UICONTROL diffusion] et comment extraire les profils affectés à la [!UICONTROL population témoin] après l&#39;envoi de la [!UICONTROL diffusion].
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12&learn=on)

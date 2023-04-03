@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: a03299d2-3ef5-42a7-b0ab-ec90908f71ec
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 7%
@@ -25,7 +25,7 @@ ht-degree: 7%
 
 Découvrez comment vérifier l’état et modifier le mapping des données.
 
->[!VIDEO](https://video.tv.adobe.com/v/27266?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27266?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
