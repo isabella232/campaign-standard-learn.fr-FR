@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels sur Adobe Campaign Standard
 user-guide-description: Concevez des expériences client cross-canal et créez un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution cross-canal.
 breadcrumb-title: Tutoriels Campaign Standard
-source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: ht
-source-wordcount: '563'
-ht-degree: 100%
+source-git-commit: 5fd8decb13b8d7376c6899b1597eade4b3c5a83d
+workflow-type: tm+mt
+source-wordcount: '568'
+ht-degree: 99%
 
 ---
 
@@ -88,11 +88,12 @@ ht-degree: 100%
       + [Activité Signal externe](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Activités de Data Management {#data-management-activities}
       + [Activité API externe](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Rapport {#reporting}
++ Rapport et surveillance {#reporting}
    + [Exploration des rapports](/help/getting-started/exploring-reports.md)
    + [Créer un rapport dynamique](/help/reporting/creating-a-dynamic-report.md)
    + [Création d&#39;un rapport basé sur des attributs de profil personnalisés](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Créer un rapport à partir de segments de workflow](/help/reporting/report-on-workflow-segments.md)
+   + [Surveillance d’une diffusion](/help/reporting/monitor-a-delivery.md)
 + Intégration avec d&#39;autres solutions {#integrations}
    + [Suivre les performances de vos diffusions dans Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Utilisation de déclencheurs pour les messages transactionnels {#triggers}
