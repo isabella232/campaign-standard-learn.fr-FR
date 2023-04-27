@@ -2,7 +2,8 @@
 title: Optimiser le ROI des e-mails et découvrir les bonnes pratiques pour le réengagement des abonnés
 description: Découvrez comment optimiser le ROI des e-mails et apprenez les bonnes pratiques pour le réengagement des abonnés. Découvrez les stratégies pour améliorer l’engagement de vos abonnés et comprendre le succès global de vos campagnes par e-mail.
 solution: Campaign
-source-git-commit: fda23ddb8a9b31dd637e42a31836214ad14f494c
+exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
+source-git-commit: 4f4ae9b19ca68737d6e9e43725db7b3ce1d7a9b8
 workflow-type: ht
 source-wordcount: '1471'
 ht-degree: 100%
