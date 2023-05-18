@@ -9,7 +9,7 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: 5ac2210e2682cab45e4fe99eb41e53abf160bbe7
+source-git-commit: bc9e83e1864b02208f9cd7fe591c77bf6d049a37
 workflow-type: tm+mt
 source-wordcount: '737'
 ht-degree: 1%
@@ -80,9 +80,9 @@ Cette erreur peut être résolue de deux manières différentes :
 
 1. Utilisez le même nom de champ dans le Principal et le champ exclu et utilisez ce champ comme ID
 
-OU
+   OU
 
-2. Utilisez la méthode d&#39;exclusion JOINS pour sélectionner le champ sur lequel vous souhaitez exclure les enregistrements.
+1. Utilisez la méthode d&#39;exclusion JOINS pour sélectionner le champ sur lequel vous souhaitez exclure les enregistrements.
 
 ![Erreur de jeu de données de champ commun - Solution ](/help/assets/kt-13256/dataset-error-solution.png)
 
