@@ -9,9 +9,9 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: f7f2b6abb26075b25a3b55e4ceed744172691ce8
+source-git-commit: 3da1b695d56f9deb5747cc89de023f19a5b25bad
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '724'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 Par : [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, consultant principal, Meijer
 
-En tant qu’ingénieur principal et expert client des produits Adobe Experience Cloud au cours des cinq dernières années, j’active les utilisateurs professionnels à [Meijer](https://www.meijer.com/){target="_blank"}, une chaîne américaine de supercentres fondée en 1934, pour mener des campagnes complexes et marketing et transactionnelles avec ACS. Parmi les projets sur lesquels j’ai travaillé, citons les campagnes personnalisées pour stocker les offres et les détails des commandes pour la personnalisation, l’intégration à Adobe Audience Manager et les informations sur les clients pour l’ingestion de segments.
+En tant qu’ingénieur principal et expert client des produits Adobe Experience Cloud au cours des cinq dernières années, j’active les utilisateurs professionnels à [Meijer](https://www.meijer.com/){target="_blank"}, une chaîne américaine de supercentres fondée en 1934, pour mener des campagnes marketing et transactionnelles complexes avec ACS. Parmi les projets sur lesquels j’ai travaillé, citons les campagnes personnalisées pour stocker les offres et les détails des commandes pour la personnalisation, l’intégration à Adobe Audience Manager et les informations sur les clients pour l’ingestion de segments.
 
 
 En utilisant ACS, j&#39;ai rencontré des erreurs qui peuvent prendre du temps et être frustrantes à résoudre. Connaître les erreurs les plus courantes peut vous aider à résoudre plus rapidement les problèmes et améliorer votre productivité. Vous trouverez ci-dessous mes conseils de dépannage pour vous aider à résoudre efficacement des erreurs similaires lorsqu’elles se produisent.
@@ -50,8 +50,6 @@ Remplacez le type de données du champ de l&#39;activité &quot;Chargement de fi
 **Cause :**
 Cette erreur s’affiche lorsque vous envoyez un email à une adresse, mais que l’email ou tout autre identifiant n’est pas réconcilié avec un profil. Pour envoyer une communication par email, l&#39;email ou l&#39;identifiant doit toujours être associé à un profil.
 
-Utilisez l&#39;activité de réconciliation comme dans l&#39;exemple ci-dessous :
-
 ![workflow avec activité de réconciliation](/help/assets/kt-13256/del-persn-error-wf.png)
 
 **Solution :**
@@ -69,7 +67,7 @@ En savoir plus sur [réconciliation](https://experienceleague.adobe.com/docs/cam
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **Cause :**
-Ce problème se produit lors de l’utilisation de la variable **activité d’exclusion** dans les workflows ACS. L’erreur se produit lors de l’exécution et de l’exclusion basées sur l’identifiant, lorsque l’ensemble de Principal et l’ensemble exclu n’ont pas les mêmes noms de champ.
+Ce problème se produit lors de l’utilisation de la variable **activité d’exclusion** dans les workflows ACS, lors de l’exécution d’une exclusion basée sur l’identifiant, lorsque l’ensemble de Principal et l’ensemble exclu n’ont pas les mêmes noms de champ.
 
 
 ![Erreur du jeu de données de champ commun](/help/assets/kt-13256/dataset-error.png)
@@ -82,7 +80,7 @@ Cette erreur peut être résolue de deux manières différentes :
 
    OU
 
-1. Utilisez la méthode d&#39;exclusion JOINS pour sélectionner le champ sur lequel vous souhaitez exclure les enregistrements.
+2. Utilisez la méthode d&#39;exclusion JOINS pour sélectionner le champ sur lequel vous souhaitez exclure les enregistrements.
 
 ![Erreur de jeu de données de champ commun - Solution ](/help/assets/kt-13256/dataset-error-solution.png)
 
