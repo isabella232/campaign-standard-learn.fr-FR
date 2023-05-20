@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels sur Adobe Campaign Standard
 user-guide-description: Concevez des expériences client cross-canal et créez un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution cross-canal.
 breadcrumb-title: Tutoriels Campaign Standard
-source-git-commit: 5ac2210e2682cab45e4fe99eb41e53abf160bbe7
+source-git-commit: 6ae9e253f99947c2515031b520d5ab029e9c4b8a
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 98%
+source-wordcount: '585'
+ht-degree: 96%
 
 ---
 
@@ -95,6 +95,7 @@ ht-degree: 98%
    + [Créer un rapport à partir de segments de workflow](/help/reporting/report-on-workflow-segments.md)
    + [Surveillance d’une diffusion](/help/reporting/monitor-a-delivery.md)
 + Intégration avec d&#39;autres solutions {#integrations}
+   + [Intégration de Target à Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=en)
    + [Suivre les performances de vos diffusions dans Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Utilisation de déclencheurs pour les messages transactionnels {#triggers}
       + [Vue d&#39;ensemble](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
