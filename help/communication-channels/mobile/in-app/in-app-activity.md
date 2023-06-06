@@ -10,16 +10,14 @@ team: TM
 exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 8%
+source-wordcount: '58'
+ht-degree: 12%
 
 ---
 
 # Créez un [!UICONTROL In-App] diffusion dans un workflow
-
-L&#39;activité Diffusion In-App est utilisée pour automatiser l&#39;envoi d&#39;un message [!UICONTROL In-App] message à une audience cible calculée dans le même workflow.
 
 Découvrez comment utiliser l&#39;activité Diffusion In-App pour automatiser l&#39;envoi d&#39;un message In-App à une audience cible calculée dans un workflow.
 

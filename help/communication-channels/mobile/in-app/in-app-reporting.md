@@ -10,15 +10,15 @@ team: TM
 exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 7%
+source-wordcount: '54'
+ht-degree: 9%
 
 ---
 
 # Créez des rapports sur vos [!UICONTROL In-App] delivery {#in-app-message-reporting}
 
-Vous pouvez consulter les [!UICONTROL In-App] données liées à la diffusion soit dans la synthèse de la diffusion en ajoutant [!UICONTROL In-App]des mesures spécifiques. Vous pouvez également utiliser le [Rapport In-App](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en).
+Découvrez comment présenter à l’utilisateur des messages In-App pertinents du point de vue contextuel en réponse au comportement en temps réel d’un client dans l’application mobile.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12&learn=on)
