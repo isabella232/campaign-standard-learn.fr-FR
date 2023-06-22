@@ -2,7 +2,7 @@
 title: Optimisation de l’heure d’envoi prédictive
 description: Identifiez les workflows nécessaires pour synchroniser les données entre Adobe Campaign et le modèle d’IA dédiée au parcours. Découvrez comment afficher des scores d’heure d’envoi au niveau du profil individuel et comment exécuter des diffusions email à l'aide d'une formule d’heure d’envoi.
 feature: Send Time Optimization
-kt: 6274
+jira: KT-6274
 thumbnail: 40469.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: ht
 source-wordcount: '209'
 ht-degree: 100%
