@@ -2,13 +2,13 @@
 title: Étape 2 - Intégration du SDK Mobile
 description: Dans cette partie, nous allons intégrer l’application Android au SDK Mobile. Pour intégrer le SDK mobile à l’application Android
 feature: Push
-kt: 4826
+jira: KT-4826
 doc-type: tutorial
 activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 0fa53536-8330-4e96-be2f-afc078609bcd
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 3%

@@ -1,8 +1,8 @@
 ---
-title: Création dʼun workflow
+title: Créer un workflow
 description: Découvrez comment créer et modifier un workflow.
 feature: Workflows
-kt: 1809
+jira: KT-1809
 thumbnail: 23937.jpg
 doc-type: feature video
 activity: use
@@ -10,14 +10,14 @@ team: DOC
 exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
 role: User, Developer, Admin
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 68%
 
 ---
 
-# Création dʼun workflow {#how-to-create-a-workflow-in-adobe-campaign-standard}
+# Créer un workflow {#how-to-create-a-workflow-in-adobe-campaign-standard}
 
 Les workflows peuvent intervenir dans différents contextes, par exemple :
 

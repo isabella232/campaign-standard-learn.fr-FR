@@ -2,7 +2,7 @@
 title: Audience Destinations - Aperçu
 description: Découvrez comment utiliser Adobe Experience Platform Audiences dans Adobe Campaign Standard
 feature: People Core Service Integration
-kt: 2755
+jira: KT-2755
 thumbnail: null
 doc-type: feature video
 activity: using
@@ -11,7 +11,7 @@ exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
-source-git-commit: 87c7d040e2bdd1ccaceb5035b494a6fb50c77f7b
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 4%
@@ -27,6 +27,7 @@ ht-degree: 4%
 >Cette fonctionnalité est en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis. [!UICONTROL Audience Destinations] repose sur Adobe Experience Platform et nécessite une configuration spécifique.
 >
 >Veuillez contacter [!UICONTROL Service clientèle d’Adobe] si vous envisagez d’implémenter cette fonctionnalité.
+>
 
 Ce tutoriel explique comment utiliser les données de profil centralisées et consolidées de Adobe Experience Platform pour les campagnes marketing dans Adobe Campaign Standard.
 
