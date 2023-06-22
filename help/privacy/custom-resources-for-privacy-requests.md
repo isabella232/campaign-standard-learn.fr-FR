@@ -2,13 +2,13 @@
 title: Modifier les ressources personnalisées lors de la configuration d’Adobe Campaign Standard pour les demandes d’accès à des informations personnelles
 description: Lors de la configuration d’Adobe Campaign Standard pour gérer les demandes d’accès à des informations personnelles, vous devez vous assurer que toutes les données personnalisées liées à un profil sont supprimées lorsque le profil est supprimé. Cette vidéo explique comment modifier les ressources personnalisées pour répondre à cette exigence.
 feature: Privacy Tools
-kt: 1243
+jira: KT-1243
 thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: ht
 source-wordcount: '198'
 ht-degree: 100%
