@@ -2,7 +2,7 @@
 title: Présentation du reporting
 description: Découvrez les fonctionnalités de reporting d'Adobe Campaign Standard
 feature: Reporting
-kt: 3974
+jira: KT-3974
 thumbnail: 29461.jpg
 doc-type: value video
 activity: understand
@@ -10,9 +10,9 @@ team: PMM
 exl-id: 46978dbc-1716-4fc4-946e-56d703944d25
 role: User, Developer
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: ht
-source-wordcount: '28'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
