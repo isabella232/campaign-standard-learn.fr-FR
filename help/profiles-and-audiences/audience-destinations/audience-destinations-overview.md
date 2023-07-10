@@ -11,9 +11,9 @@ exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: b7c0c39339ff89bab2c81a3d9fd31f67b8ee4d71
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '172'
 ht-degree: 4%
 
 ---
@@ -26,12 +26,12 @@ ht-degree: 4%
 >
 >Cette fonctionnalité est en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis. [!UICONTROL Audience Destinations] repose sur Adobe Experience Platform et nécessite une configuration spécifique.
 >
->Veuillez contacter [!UICONTROL Service clientèle d’Adobe] si vous envisagez d’implémenter cette fonctionnalité.
+>Contacter pour [!UICONTROL Service clientèle d’Adobe] si vous envisagez d’implémenter cette fonctionnalité.
 >
 
 Ce tutoriel explique comment utiliser les données de profil centralisées et consolidées de Adobe Experience Platform pour les campagnes marketing dans Adobe Campaign Standard.
 
-Le [!UICONTROL Audiences] dans Adobe Campaign Standard, vous permet de créer des segments à l’aide de données provenant de la variable [Adobe Experience Platform - Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html) qui vit dans le [Profil client en temps réel](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+Le [!UICONTROL Audiences] dans Adobe Campaign Standard, vous permet de créer des segments à l’aide de données provenant de la variable [Adobe Experience Platform - Data Services](https://developer.adobe.com/apis/experienceplatform/home/services.html) qui vit dans le [Profil client en temps réel](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
 
 Les tutoriels vidéo suivants vous guident tout au long des différentes étapes :
 
