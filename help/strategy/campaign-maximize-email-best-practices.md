@@ -7,7 +7,7 @@ level: Beginner
 feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
 source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1471'
 ht-degree: 100%
 
