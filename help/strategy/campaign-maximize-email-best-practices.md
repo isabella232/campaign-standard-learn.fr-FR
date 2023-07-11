@@ -2,8 +2,11 @@
 title: Optimiser le ROI des e-mails et découvrir les bonnes pratiques pour le réengagement des abonnés
 description: Découvrez comment optimiser le ROI des e-mails et apprenez les bonnes pratiques pour le réengagement des abonnés. Découvrez les stratégies pour améliorer l’engagement de vos abonnés et comprendre le succès global de vos campagnes par e-mail.
 solution: Campaign
+role: User
+level: Beginner
+feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
-source-git-commit: 4f4ae9b19ca68737d6e9e43725db7b3ce1d7a9b8
+source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
 workflow-type: tm+mt
 source-wordcount: '1471'
 ht-degree: 100%
@@ -109,7 +112,7 @@ Voici un tableau simple pour vous aider lors de votre audit :
 
 Si, par exemple, vous envoyez un e-mail quotidien à des clients, ils doivent avoir interagi avec l’un de ces e-mails au cours du dernier mois pour être considérés comme actifs et engagés. À l’inverse, si vous envoyez un e-mail aux clients tous les mois et qu’ils n’ont pas interagi dans les 9 à 14 mois, ils peuvent être considérés comme inactifs.
 
-Pour les utilisateurs obsolètes ou inactifs, pensez à regarder la date à laquelle ils se sont abonnés afin de déterminer leur niveau d’engagement Par exemple, ont-ils souscrit à la date d&#39;un concours ou d&#39;une autre campagne marketing ? Se sont-ils inscrits dans une fenêtre contextuelle de site web avec une offre de réduction ? Une fois que vous avez identifié vos utilisateurs inactifs, il est important de modifier votre stratégie afin d’améliorer leur satisfaction et de les transformer en des abonnés actifs.
+Pour les utilisateurs obsolètes ou inactifs, pensez à regarder la date à laquelle ils se sont abonnés afin de déterminer leur niveau d’engagement Par exemple, ont-ils souscrit à la date d&#39;un concours ou d&#39;une autre campagne marketing ? Se sont-ils inscrits dans un pop-up de site web avec une offre de réduction ? Une fois que vous avez identifié vos utilisateurs inactifs, il est important de modifier votre stratégie afin d’améliorer leur satisfaction et de les transformer en des abonnés actifs.
 
 ### 3. Mettre en œuvre des stratégies de réengagement
 
