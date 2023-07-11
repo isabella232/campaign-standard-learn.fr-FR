@@ -3,9 +3,9 @@ user-guide-title: Tutoriels sur Adobe Campaign Standard
 user-guide-description: Concevez des expériences client cross-canal et créez un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution cross-canal.
 breadcrumb-title: Tutoriels Campaign Standard
 source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '581'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -93,8 +93,8 @@ ht-degree: 96%
    + [Création d&#39;un rapport basé sur des attributs de profil personnalisés](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Créer un rapport à partir de segments de workflow](/help/reporting/report-on-workflow-segments.md)
    + [Surveillance d’une diffusion](/help/reporting/monitor-a-delivery.md)
-+ Intégration avec d&#39;autres solutions {#integrations}
-   + [Intégration de Target à Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=en)
++ Intégration à d’autres solutions {#integrations}
+   + [Intégration de Target à Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=fr)
    + [Suivre les performances de vos diffusions dans Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Utilisation de déclencheurs pour les messages transactionnels {#triggers}
       + [Vue d&#39;ensemble](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
@@ -126,6 +126,6 @@ ht-degree: 96%
 + [Résolution des problèmes de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=fr)
 + Stratégie et leadership{#strategy}
    + [Dix bonnes pratiques pour le succès d’Adobe Campaign pour les professionnel(le)s du marketing](/help/strategy/10-best-practices-for-marketers.md)
-   + [Dépannage pour les marketeurs](/help/strategy/troubleshooting-for-marketers.md)
+   + [Résolution de problèmes pour les spécialistes du marketing](/help/strategy/troubleshooting-for-marketers.md)
    + [Optimiser le ROI des e-mails et les bonnes pratiques pour le réengagement des abonnés](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr)
