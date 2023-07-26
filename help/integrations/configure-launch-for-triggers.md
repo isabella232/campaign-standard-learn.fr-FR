@@ -8,18 +8,22 @@ doc-type: feature video
 role: Admin
 level: Experienced
 team: TM
-hidefromtoc: true
+hidefromtoc: false
 exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
 badgeIntegration: label="Intégration" type="positive"
-source-git-commit: 4777e0a8f6424a3fb82f7ded4fe0db44875a89e3
+source-git-commit: a16aae1f2100be43993e7a0dfbad0002a5604223
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 1%
+source-wordcount: '86'
+ht-degree: 2%
 
 ---
 
 # Configuration de la collecte de données Adobe Experience Platform pour les déclencheurs
 
 Découvrez comment collecter des données Adobe Experience Platform et ajouter les propriétés requises à votre site web afin de tester votre configuration.
+
+>[!NRemarque]
+>
+> Sachez que Launch est désormais la fonctionnalité Balises de Adobe Experience Platform. Il se trouve sous **Collections de données Adobe Experience Platform**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
