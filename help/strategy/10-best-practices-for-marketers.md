@@ -1,5 +1,5 @@
 ---
-title: Dix bonnes pratiques pour le succès d’Adobe Campaign pour les professionnel(le)s du marketing
+title: Dix bonnes pratiques pour le succès d’Adobe Campaign pour les spécialistes marketing
 description: Découvrez les dix bonnes pratiques pour aider les utilisateurs et utilisatrices d’Adobe Campaign à déverrouiller et à accélérer la transformation de la consommation numériques pour apporter une meilleure expérience pour leurs clients et clientes.
 doc-type: article
 feature: Personalization, Campaigns, Subscriptions, Deliverability
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 ---
 
-# Dix bonnes pratiques pour le succès de [!DNL Adobe Campaign] pour les professionnel(le)s du marketing
+# Dix bonnes pratiques pour le succès de [!DNL Adobe Campaign] pour les spécialistes marketing
 
 Christian Klimczyk est un « Adobe Nerd » autoproclamé avec sept années d’expertise dans [!DNL Adobe Experience Cloud], principalement axée sur [!DNL Adobe Campaign]. En tant que propriétaires d’Adobe Platform pour une grande entreprise agroalimentaire, Christian et son équipe utilisent [!DNL Campaign] pour toutes les communications et interactions avec les consommateurs et consommatrices. Ils coordonnent et gèrent de manière transparente les exigences de réglementation élevées et les campagnes marketing client multicanaux par publipostage direct, e-mail et SMS/MMS.
 
@@ -30,7 +30,7 @@ Adobe Campaign est un outil flexible qui vous permet d’exécuter et d’orches
 
 ## 2. Documenter et comprendre vos données des client(e)s
 
-Selon une [étude de Hubspot](https://www.linkedin.com/pulse/customer-segmentation-effective-b2b-business-industry-sabreen), les campagnes segmentées auraient un taux d’ouverture supérieur de 14,31 % et enregistreraient 101 % de clics de plus que les campagnes non segmentées. Les professionnel(le)s du marketing par e-mail qui ont segmenté leur audience avant de lancer leur campagne ont déclaré que les recettes générées ont augmenté jusqu’à 760 %.
+Selon une [étude de Hubspot](https://www.linkedin.com/pulse/customer-segmentation-effective-b2b-business-industry-sabreen), les campagnes segmentées auraient un taux d’ouverture supérieur de 14,31 % et enregistreraient 101 % de clics de plus que les campagnes non segmentées. Les spécialistes marketing par e-mail qui ont segmenté leur audience avant de lancer leur campagne ont déclaré que les recettes générées ont augmenté jusqu’à 760 %.
 
 Dans Adobe Campaign, vous pouvez orchestrer la segmentation rapidement et facilement. Toutefois, pour rationaliser et faciliter ce processus, les opérateurs et opératrices de campagne et les professionnel(le)s du marketing doivent avoir une compréhension documentée de leurs données sous-jacentes lors de la conception et de la demande de la création et de l’exécution d’une campagne. Il est essentiel que vous compreniez vos données actuelles et que vous déterminiez comment anticiper les données dont vous pourriez avoir besoin lorsque vous vous associez aux administrateurs et administratrices et aux développeurs et développeuses qui prennent en charge votre instance [!DNL Campaign].
 
@@ -50,7 +50,7 @@ De nos jours, les consommateurs et consommatrices s’attendent à un certain ni
 
 Les ressources de création sont l’essence qui alimente votre moteur de diffusion de campagne efficace et bien huilé. Plus vous atteignez vos client(e)s et plus vous adaptez et plus vous faites évoluer vos processus de marketing, plus vous avez besoin de contenu créatif. Les consommateurs et consommatrices s’attendent à cela.
 
-Votre rapidité dépend de la prochaine diffusion que votre équipe peut configurer. Cela nécessite souvent du contenu nouveau et passionnant. [!DNL Adobe Campaign] facilite la configuration des modèles ainsi que la réception et la préparation de ces diffusions. Toutefois, il est essentiel d’avoir un pipeline de création sain, car, selon un [rapport Litmus](https://www.litmus.com/resources/state-of-email/), 58 % des professionnel(le)s du marketing ont remarqué que la création d’une campagne par e-mail prend deux semaines ou plus.
+Votre rapidité dépend de la prochaine diffusion que votre équipe peut configurer. Cela nécessite souvent du contenu nouveau et passionnant. [!DNL Adobe Campaign] facilite la configuration des modèles ainsi que la réception et la préparation de ces diffusions. Toutefois, il est essentiel d’avoir un pipeline de création sain, car, selon un [rapport Litmus](https://www.litmus.com/resources/state-of-email/), 58 % des spécialistes marketing ont remarqué que la création d’une campagne par e-mail prend deux semaines ou plus.
 
 ## 6. Comprendre et gérer les abonnements et les préférences
 
