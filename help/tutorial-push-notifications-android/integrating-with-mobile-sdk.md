@@ -2,26 +2,28 @@
 title: Étape 2 - Intégration du SDK Mobile
 description: Dans cette partie, nous allons intégrer l’application Android au SDK Mobile. Pour intégrer le SDK mobile à l’application Android
 feature: Push
+user: Admin
+level: Experienced
 jira: KT-4826
 doc-type: tutorial
 activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 0fa53536-8330-4e96-be2f-afc078609bcd
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 913d2c08dc63e2073b3abd1de6b6b16711d817da
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 3%
 
 ---
 
-# ÉTAPE 2 - Intégration [!UICONTROL SDK Mobile] avec l’application Android
+# ÉTAPE 2 - Intégration [!UICONTROL SDK Mobile] avec application Android
 
-Dans cette partie, nous intégrerons la [!DNL Android] application avec [!UICONTROL SDK Mobile]. Pour intégrer [!UICONTROL SDK mobile] avec le [!DNL Android] , procédez comme suit :
+Dans cette partie, nous intégrerons la [!DNL Android] application avec [!UICONTROL SDK Mobile]. Pour intégrer [!UICONTROL SDK mobile] avec la propriété [!DNL Android] , procédez comme suit :
 
 * Ouvrez le *ACSPushTutorial* project in [!DNL Android Studio]
 * Créez une nouvelle classe java appelée *MainApp* qui étend [!DNL android.app.Application]
-* À ce stade, la structure de votre projet doit ressembler à la suivante :
+* À ce stade, la structure de votre projet doit ressembler à celle-ci :
 
 ![main-app](assets/android-main-app.PNG)
 
