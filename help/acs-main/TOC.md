@@ -124,7 +124,7 @@ ht-degree: 100%
    + [Exécution des demandes d’accès à des informations personnelles](/help/privacy/execute-privacy-requests.md)
 + [Résolution des problèmes de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=fr)
 + Stratégie et leadership{#strategy}
-   + [Dix bonnes pratiques pour le succès d’Adobe Campaign pour les professionnel(le)s du marketing](/help/strategy/10-best-practices-for-marketers.md)
+   + [Dix bonnes pratiques pour le succès d’Adobe Campaign pour les spécialistes marketing](/help/strategy/10-best-practices-for-marketers.md)
    + [Résolution de problèmes pour les spécialistes du marketing](/help/strategy/troubleshooting-for-marketers.md)
    + [Optimiser le ROI des e-mails et les bonnes pratiques pour le réengagement des abonnés](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr)
