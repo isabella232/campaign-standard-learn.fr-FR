@@ -2,12 +2,14 @@
 title: Étape 3 - Enregistrement des extensions dans votre application mobile
 description: Dans cette partie, nous ajoutons le code pour enregistrer les extensions UserProfile, Identity, Lifecycle et Signal.
 feature: Push
+user: Admin
+level: Experienced
 jira: KT-4827
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 9be31e056800b806c49a2c5ffbf9f9f42b001d4c
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 12%
@@ -18,7 +20,7 @@ ht-degree: 12%
 
 Dans cette partie, nous ajoutons le code pour enregistrer les extensions Profil utilisateur, Identité, Cycle de vie et Signal. Nous devons également enregistrer l’extension Adobe Campaign Standard comme indiqué dans le code ci-dessous.
 
-Ouvrez votre projet dans [!DNL Android] studio. Suppression du code entier dans MainApp **sauf la première ligne qui correspond à votre instruction de package**.
+Ouvrez votre projet dans [!DNL Android] studio. Suppression de l’intégralité du code dans MainApp **à l’exception de la première ligne qui correspond à votre instruction de package.**.
 
 Collez le code suivant dans MainApp.
 
@@ -68,6 +70,6 @@ try{
 }
 ```
 
-Ligne 32, vous devez fournir[!UICONTROL  Launch] ID du fichier d’environnement de la propriété. Vous pouvez y accéder à partir du [!UICONTROL onglet environnement] de votre [!UICONTROL Launch] .
+Ligne 32, vous devez fournir votre[!UICONTROL  Launch] ID du fichier d’environnement de la propriété. Vous pouvez y accéder à partir du [!UICONTROL onglet environnement] de votre [!UICONTROL Launch] .
 
 ![launch-id](assets/launch-id-property.PNG)
