@@ -1,6 +1,6 @@
 ---
-title: Configuration de la collecte de données Adobe Experience Platform pour les déclencheurs
-description: Découvrez comment collecter des données Adobe Experience Platform et ajouter les propriétés requises à votre site web afin de tester votre configuration.
+title: Configurer la collecte de données Adobe Experience Platform pour les triggers
+description: Découvrez comment collecter des données Adobe Experience Platform et ajouter les propriétés requises à votre site web afin de tester votre configuration.
 feature: Triggers
 jira: KT-7434
 thumbnail: 332908.jpg
@@ -12,18 +12,18 @@ hidefromtoc: false
 exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
 badgeIntegration: label="Intégration" type="positive"
 source-git-commit: 7e5910000bf5af9573529f03d3e47f66807a77ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Configuration de la collecte de données Adobe Experience Platform pour les déclencheurs
+# Configurer la collecte de données Adobe Experience Platform pour les triggers
 
-Découvrez comment collecter des données Adobe Experience Platform et ajouter les propriétés requises à votre site web afin de tester votre configuration.
+Découvrez comment collecter des données Adobe Experience Platform et ajouter les propriétés requises à votre site web afin de tester votre configuration.
 
 >[!IMPORTANT]
 >
-> Sachez que Launch est désormais la fonctionnalité Balises de Adobe Experience Platform. Il se trouve sous **Collections de données Adobe Experience Platform**.
+> Platform Launch est désormais la fonctionnalité Balises d’Adobe Experience Platform. Elle se trouve sous **Collectes de données Adobe Experience Platform**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
