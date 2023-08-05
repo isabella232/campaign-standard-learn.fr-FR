@@ -1,5 +1,5 @@
 ---
-title: Tracker les performances de vos diffusions Campaign Standardes dans Adobe Analytics
+title: Suivre les performances de vos diffusions Campaign Standard dans Adobe Analytics
 description: Découvrez comment configurer l'intégration de Campaign Standard et d'Analytics. Découvrez comment créer un rapport dans Analytics à l'aide des données reçues de Campaign Standard et quels sont les KPI disponibles.
 feature: Application Settings
 topic: Integrations
@@ -12,13 +12,13 @@ team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
 badgeIntegration: label="Intégration" type="positive"
 source-git-commit: 019060e150a00b2d615b0ad694c664475b00c302
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
-# Tracker les performances de vos diffusions Campaign Standardes dans Adobe Analytics
+# Suivre les performances de vos diffusions Campaign Standard dans Adobe Analytics
 
 Découvrez comment configurer l&#39;intégration de Campaign Standard et d&#39;Analytics. Découvrez comment créer un rapport dans Analytics à l&#39;aide des données reçues de Campaign Standard et quels sont les KPI disponibles.
 
