@@ -1,5 +1,5 @@
 ---
-title: Dépannage pour les marketeurs
+title: Résolution de problèmes pour les spécialistes du marketing
 description: Connaître les erreurs les plus courantes peut vous aider à résoudre plus rapidement les problèmes et améliorer votre productivité. Ces conseils de dépannage vous aident à résoudre efficacement des erreurs similaires lorsqu’elles se produisent.
 version: Standard
 feature: Workflows
@@ -9,15 +9,15 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: 3da1b695d56f9deb5747cc89de023f19a5b25bad
+exl-id: 040e2e14-1e97-4deb-991c-978e89cc6bf7
+source-git-commit: ed524113f3c17ccf013438a0faef4f940dc08bfe
 workflow-type: tm+mt
 source-wordcount: '724'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-
-# Résolution des problèmes pour les marketeurs : 5 Erreurs courantes de workflow et de diffusion
+# Dépannage pour les marketeurs : 5 erreurs courantes de workflow et de diffusion
 
 Par : [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, consultant principal, Meijer
 
@@ -53,7 +53,7 @@ Cette erreur s’affiche lorsque vous envoyez un email à une adresse, mais que 
 ![workflow avec activité de réconciliation](/help/assets/kt-13256/del-persn-error-wf.png)
 
 **Solution :**
-Un identifiant commun doit exister à partir du fichier chargé avec la table des destinataires. Cette clé commune relie le fichier de chargement à la table des destinataires dans l&#39;activité de réconciliation. Les emails ne peuvent pas être envoyés aux enregistrements qui n&#39;existent pas dans la table des destinataires et qui nécessitent cette étape de réconciliation dans le workflow. Ce faisant, vous réconciliez l’activité de chargement de fichier entrant avec un identifiant comme l’ID d’email du profil. Le `nms:recipient` schéma fait référence à la table des profils et la réconciliation des enregistrements entrants avec le profil la rend disponible lors de la préparation des emails.
+Un identifiant commun doit exister à partir du fichier chargé avec la table des destinataires. Cette clé commune relie le fichier de chargement à la table des destinataires dans l&#39;activité de réconciliation. Les emails ne peuvent pas être envoyés aux enregistrements qui n&#39;existent pas dans la table des destinataires et qui nécessitent cette étape de réconciliation dans le workflow. Ce faisant, vous réconciliez l’activité de chargement de fichier entrant avec un identifiant comme l’ID d’email du profil. La variable `nms:recipient` schéma fait référence à la table des profils et la réconciliation des enregistrements entrants avec le profil la rend disponible lors de la préparation des emails.
 
 Reportez-vous à la capture d&#39;écran de l&#39;activité de réconciliation comme illustré ci-dessous.
 
@@ -91,7 +91,7 @@ Cette erreur peut être résolue de deux manières différentes :
 
 **Cause:**
 
-Les points d’échec peuvent se produire dans une **activité d&#39;enrichissement**. L’une des plus courantes est affichée ci-dessous.
+Les points d’échec peuvent se produire dans une variable **activité d&#39;enrichissement**. L’une des plus courantes est affichée ci-dessous.
 
 ![Nom du champ Erreur de suppression](/help/assets/kt-13256/field-name-dropped-error.png)
 

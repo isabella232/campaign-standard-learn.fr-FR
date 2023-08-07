@@ -18,7 +18,7 @@ ht-degree: 7%
 ---
 
 
-# Configuration d’une application mobile à l’aide de [!UICONTROL SDK Adobe Experience Platform]
+# Configuration d’une application mobile à l’aide de [!UICONTROL SDK ADOBE EXPERIENCE PLATFORM]
 
 Pour envoyer des messages In-App ou [!UICONTROL notifications push] à l’aide du SDK Mobile V5, l’application mobile doit être configurée dans [!UICONTROL Adobe Experience Platform Launch] et configurés dans Adobe Campaign.
 

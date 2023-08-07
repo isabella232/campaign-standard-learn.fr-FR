@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Créez un [!UICONTROL Courrier] {#create-a-direct-mail}
 
-Le [!UICONTROL Courrier] channel vous permet d’extraire une liste segmentée de destinataires à envoyer à une agence ou à charger sur un serveur SFTP.
+La variable [!UICONTROL Courrier] channel vous permet d’extraire une liste segmentée de destinataires à envoyer à une agence ou à charger sur un serveur SFTP.
 
 Cette vidéo explique comment configurer une [!UICONTROL Courrier] diffusion et les paramètres requis pour pouvoir ajouter un profil à un [!UICONTROL Courrier] diffusion.
 
@@ -31,4 +31,4 @@ Le canal est disponible à partir de la page d’accueil et dans la vue du workf
 
 ![Image de workflow](/help/assets/direct_mail_examplewf.png)
 
-Pour en savoir plus, consultez la documentation du produit . [À propos de Direct Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+Consultez la documentation du produit pour en savoir plus [À propos de Direct Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)

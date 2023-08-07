@@ -31,7 +31,7 @@ ht-degree: 4%
 
 Ce tutoriel explique comment utiliser les données de profil centralisées et consolidées de Adobe Experience Platform pour les campagnes marketing dans Adobe Campaign Standard.
 
-Le [!UICONTROL Audiences] dans Adobe Campaign Standard, vous permet de créer des segments à l’aide de données provenant de la variable [Adobe Experience Platform - Data Services](https://developer.adobe.com/apis/experienceplatform/home/services.html) qui vit dans le [Profil client en temps réel](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+La variable [!UICONTROL Audiences] dans Adobe Campaign Standard, vous permet de créer des segments à l’aide de données provenant de la variable [Adobe Experience Platform - Data Services](https://developer.adobe.com/apis/experienceplatform/home/services.html) qui vit dans le [Profil client en temps réel](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
 
 Les tutoriels vidéo suivants vous guident tout au long des différentes étapes :
 

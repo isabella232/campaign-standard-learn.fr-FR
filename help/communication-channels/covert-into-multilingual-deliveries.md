@@ -23,4 +23,4 @@ Cette vidéo montre comment un email, une diffusion SMS ou un modèle de diffusi
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?quality=12&learn=on)
 
-Pour plus d’informations sur la [créer un email multilingue](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)
+Pour plus d’informations sur le produit, voir la documentation du produit [créer un email multilingue](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)
