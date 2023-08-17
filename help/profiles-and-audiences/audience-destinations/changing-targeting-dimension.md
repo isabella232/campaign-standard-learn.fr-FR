@@ -1,6 +1,6 @@
 ---
 title: Modifier la dimension de ciblage
-description: Cette vidéo explique comment modifier la dimension de ciblage d’une diffusion pour une audience de plateforme en dehors du Principal tableau de profils dans Adobe Campaign Standard.
+description: Cette vidéo explique comment modifier la dimension de ciblage d’une diffusion pour une audience de plateforme en dehors du tableau de profil principal dans Adobe Campaign Standard.
 feature: People Core Service Integration
 jira: KT-3739
 thumbnail: 30151.jpg
@@ -25,6 +25,6 @@ ht-degree: 3%
 >
 >Veuillez contacter [!UICONTROL Service clientèle d’Adobe] si vous envisagez d’implémenter cette fonctionnalité.
 
-Cette vidéo explique comment modifier la dimension de ciblage d’une diffusion pour une [!UICONTROL Audience de la plateforme] en dehors du tableau Principal des profils dans Adobe Campaign Standard.
+Cette vidéo explique comment modifier la dimension de ciblage d’une diffusion pour une [!UICONTROL Audience de la plateforme] en dehors du tableau des profils principaux dans Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12&learn=on)

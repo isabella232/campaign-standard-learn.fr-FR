@@ -29,7 +29,7 @@ ht-degree: 16%
 
 Adobe Experience Platform [!UICONTROL Connecteur de données] aide les clients existants à rendre leurs données disponibles sur Adobe Experience Platform en mappant les données XTK (données ingérées dans Adobe Campaign) sur [!DNL Experience Data Model] Données (XDM) sur Adobe Experience Platform.
 
-Le connecteur est unidirectionnel et envoie les données d’Adobe Campaign Standard vers Adobe Experience Platform. Les données ne sont jamais envoyées de Adobe Experience Platform vers Adobe Campaign Standard.
+Le connecteur est unidirectionnel et envoie les données de Adobe Campaign Standard vers Adobe Experience Platform. Les données ne sont jamais envoyées de Adobe Experience Platform à Adobe Campaign Standard.
 
 Adobe Experience Platform [!UICONTROL Connecteur de données] est destiné aux ingénieurs de données qui comprennent Adobe Campaign Standard [!UICONTROL ressources personnalisées] et ont une compréhension de la manière dont le schéma de données global du client doit se trouver dans Adobe Experience Platform.
 

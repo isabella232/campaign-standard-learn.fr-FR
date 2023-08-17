@@ -67,7 +67,7 @@ En savoir plus sur [réconciliation](https://experienceleague.adobe.com/docs/cam
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **Cause :**
-Ce problème se produit lors de l’utilisation de la variable **activité d’exclusion** dans les workflows ACS, lors de l’exécution d’une exclusion basée sur l’identifiant, lorsque l’ensemble de Principal et l’ensemble exclu n’ont pas les mêmes noms de champ.
+Ce problème se produit lors de l’utilisation de la variable **activité d’exclusion** dans les workflows ACS, lors de l’exécution d’une exclusion basée sur l’identifiant, lorsque le jeu de Principal et l’ensemble exclu n’ont pas les mêmes noms de champ.
 
 
 ![Erreur du jeu de données de champ commun](/help/assets/kt-13256/dataset-error.png)
@@ -76,7 +76,7 @@ Ce problème se produit lors de l’utilisation de la variable **activité d’e
 
 Cette erreur peut être résolue de deux manières différentes :
 
-1. Utilisez le même nom de champ dans le Principal et le champ exclu et utilisez ce champ comme ID
+1. Utilisez le même nom de champ dans le champ principal et le champ exclu et utilisez ce champ comme ID
 
    OU
 

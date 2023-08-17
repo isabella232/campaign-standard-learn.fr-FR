@@ -26,7 +26,7 @@ ht-degree: 22%
 >
 >Veuillez contacter [!UICONTROL Service clientèle d’Adobe] si vous envisagez d’implémenter cette fonctionnalité.
 
-Découvrez comment vérifier l’état d’une tâche d’ingestion de données et si les données ont été ingérées dans Adobe Experience Platform à partir d’Adobe Campaign Standard.
+Découvrez comment vérifier l’état d’une tâche d’ingestion de données et si les données ont été ingérées de Adobe Campaign Standard vers Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12&learn=on)
 
