@@ -10,10 +10,10 @@ team: TM
 exl-id: fc01caf7-959a-4f2d-af81-4f695ae45bb8
 role: User, Developer
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 88%
+source-wordcount: '71'
+ht-degree: 85%
 
 ---
 
@@ -23,4 +23,4 @@ Adobe Campaign Standard offre 18 modèles d’email entièrement personnalisab
 
 Cette vidéo présente les modèles et explique comment créer le vôtre.
 
->[!VIDEO](https://video.tv.adobe.com/v/23106?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23106?learn=on){transcript=true}

@@ -9,10 +9,10 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 100%
+source-wordcount: '189'
+ht-degree: 98%
 
 ---
 
@@ -36,7 +36,7 @@ Pour pouvoir créer des ressources personnalisées, vous devez disposer des droi
 
 Pour utiliser des informations supplémentaires sur les commandes d’un client, afin qu’elles soient disponibles à des fins de marketing et de remarketing, le modèle de données [!DNL Campaign] doit être étendu en ajoutant des tables personnalisées. ce cas pratique, un client et une table des commandes doivent être créés.
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?learn=on){transcript=true}
 
 Ce tutoriel explique comment :
 

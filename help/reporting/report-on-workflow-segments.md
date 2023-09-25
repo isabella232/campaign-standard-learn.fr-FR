@@ -10,10 +10,10 @@ team: TM
 exl-id: 2ee84302-69c3-4011-af7a-5541ca070cd8
 role: User
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 50%
+source-wordcount: '87'
+ht-degree: 49%
 
 ---
 
@@ -23,6 +23,6 @@ Après avoir créé un workflow et filtré votre population dans une audience ci
 
 Découvrez comment définir des segments dans votre workflow et les rendre aux rapports dynamiques.
 
->[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
 
 Pour plus d’informations, voir [documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)

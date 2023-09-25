@@ -11,10 +11,10 @@ team: TM
 hidefromtoc: false
 exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
 badgeIntegration: label="Intégration" type="positive"
-source-git-commit: 7e5910000bf5af9573529f03d3e47f66807a77ed
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 100%
+source-wordcount: '87'
+ht-degree: 97%
 
 ---
 
@@ -26,4 +26,4 @@ Découvrez comment collecter des données Adobe Experience Platform et ajouter
 >
 > Platform Launch est désormais la fonctionnalité Balises d’Adobe Experience Platform. Elle se trouve sous **Collectes de données Adobe Experience Platform**.
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332908?learn=on){transcript=true}

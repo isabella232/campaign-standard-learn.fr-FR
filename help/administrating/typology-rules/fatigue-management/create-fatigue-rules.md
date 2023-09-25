@@ -10,10 +10,10 @@ role: Admin
 level: Experienced
 team: TM
 exl-id: fd75ce71-8131-4cba-b766-e68f59ebcbf9
-source-git-commit: 9c3ca533c14c89fb11c37046feafa08181241405
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 41%
+source-wordcount: '102'
+ht-degree: 40%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 41%
 ]
 Pour créer [!UICONTROL règles de fatigue], vous devez définir un nombre maximum de messages par profil et sélectionner la période pendant laquelle la règle s&#39;appliquera. Lors de la préparation de la diffusion, les profils sont exclus ou non de la diffusion, selon le nombre de messages qui leur ont déjà été adressés.
 
->[!VIDEO](https://video.tv.adobe.com/v/28450?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/28450?learn=on){transcript=true}
 
 *Comment créer une [!UICONTROL règle de fatigue] (04:49 min)*
 

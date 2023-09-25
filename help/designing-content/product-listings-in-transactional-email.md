@@ -10,9 +10,9 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '142'
 ht-degree: 4%
 
 ---
@@ -29,12 +29,12 @@ Les vidéos suivantes expliquent les étapes requises pour configurer [!UICONTRO
 
 ## Étape 1 - Créer un événement et le publier
 
->[!VIDEO](https://video.tv.adobe.com/v/25914?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25914?learn=on){transcript=true}
 
 ## Étape 2 - Ajouter une liste de produits à un modèle de message transactionnel
 
->[!VIDEO](https://video.tv.adobe.com/v/25915?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25915?learn=on){transcript=true}
 
 ## Etape 3 - Test du message transactionnel
 
->[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25916?learn=on){transcript=true}

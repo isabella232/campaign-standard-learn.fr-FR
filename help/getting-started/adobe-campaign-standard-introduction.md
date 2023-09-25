@@ -10,10 +10,10 @@ team: PMM
 exl-id: 8058722e-27e2-43e2-bf60-e3d99ce90a5d
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 100%
+source-wordcount: '40'
+ht-degree: 95%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Cette vidéo propose une présentation approfondie d’[!UICONTROL Adobe Campaign Standard] et de ses principales fonctionnalités.
 
->[!VIDEO](https://video.tv.adobe.com/v/29430?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29430?learn=on){transcript=true}

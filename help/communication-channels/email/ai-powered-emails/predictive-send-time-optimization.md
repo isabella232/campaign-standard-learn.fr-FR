@@ -10,10 +10,10 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 100%
+source-wordcount: '211'
+ht-degree: 99%
 
 ---
 
@@ -28,6 +28,6 @@ Optimisé par [!UICONTROL l’IA dédiée au parcours], [!DNL Adobe Campaign] pe
 
 Identifiez les workflows nécessaires pour synchroniser les données entre Adobe Campaign et le modèle d’IA dédiée au parcours. Découvrez comment afficher des scores d’heure d’envoi au niveau du profil individuel et comment exécuter des diffusions email à l&#39;aide d&#39;une formule d’heure d’envoi.
 
->[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40469?learn=on){transcript=true}
 
 Consultez la documentation du produit pour en savoir plus sur l’[optimisation de la conception et de la diffusion avec les e-mails optimisés par l’IA](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=fr)

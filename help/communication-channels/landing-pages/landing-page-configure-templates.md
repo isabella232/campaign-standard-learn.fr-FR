@@ -11,10 +11,10 @@ exl-id: 717e9c30-939e-4560-b358-96f144009105
 description: Découvrez comment configurer un modèle de landing page
 role: Admin, User
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '27'
-ht-degree: 18%
+source-wordcount: '29'
+ht-degree: 17%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 18%
 
 Cette vidéo explique comment configurer [!UICONTROL landing page] modèles.
 
->[!VIDEO](https://video.tv.adobe.com/v/25200/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25200/?learn=on){transcript=true}

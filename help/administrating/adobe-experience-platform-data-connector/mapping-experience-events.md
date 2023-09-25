@@ -10,10 +10,10 @@ role: User
 level: Experienced
 team: TM
 exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
-source-git-commit: 9c3ca533c14c89fb11c37046feafa08181241405
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 11%
+source-wordcount: '83'
+ht-degree: 10%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 11%
 
 Découvrez comment mapper [!UICONTROL Événements d’expérience] dans Adobe Experience Platform (AEP).
 
->[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27265?learn=on){transcript=true}
 
 ## Ressources supplémentaires
 

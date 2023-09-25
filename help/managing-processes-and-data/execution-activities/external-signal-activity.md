@@ -10,9 +10,9 @@ team: TM
 exl-id: d3996185-681c-4906-85f0-0543ab767519
 role: User, Developer
 level: Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ La variable [!UICONTROL Activité Signal externe] est utilisé pour organiser et
 
 Découvrez comment configurer [!UICONTROL Activité Signal externe] pour recevoir des paramètres** d’un système externe, personnaliser un workflow avec des paramètres externes et configurer une activité de fin pour appeler un workflow avec des paramètres externes
 
->[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27249/?learn=on){transcript=true}
