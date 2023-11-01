@@ -75,7 +75,7 @@ ht-degree: 100%
 + Conception et personnalisation de contenu {#designing-content}
    + Concepteur d’e-mail{#email-designer}
       + [Vue d&#39;ensemble](/help/designing-content/email-designer/email-designer-overview.md)
-      + [Prise en main du Concepteur d’e-mail](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [Prise en main du concepteur d’e-mail](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Présentation des modèles de contenu d&#39;email](/help/designing-content/email-designer/email-content-templates.md)
       + [Configurer la vue mobile](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Prévisualiser votre analyse email et anti-spam](/help/designing-content/email-designer/preview-your-email.md)
