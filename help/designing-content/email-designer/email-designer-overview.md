@@ -1,6 +1,6 @@
 ---
-title: Présentation du Concepteur d’e-mail
-description: Découvrez les fonctionnalités générales du Concepteur d’e-mail et comment créer entièrement un e-mail.
+title: Présentation du concepteur d’e-mail
+description: Découvrez les fonctionnalités générales du concepteur d’e-mail et comment créer entièrement un e-mail.
 feature: Email Design
 jira: KT-1402
 thumbnail: 22771.jpg
@@ -12,17 +12,17 @@ role: User, Developer
 recommendations: noDisplay
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# Présentation du Concepteur d’e-mail
+# Présentation du concepteur d’e-mail
 
-Le [!UICONTROL Concepteur d’e-mail] permet la création visuelle rapide et simple d’emails personnalisés, sans avoir à rédiger une seule ligne de code pour adapter la création d’emails à vos besoins. Il permet de créer du contenu d’email et des modèles de contenu d’email. Il est compatible avec les emails simples, les emails transactionnels, les emails de test A/B, les emails multilingues et les emails récurrents.
+Le [!UICONTROL concepteur d’e-mail] permet la création visuelle rapide et simple d’emails personnalisés, sans avoir à rédiger une seule ligne de code pour adapter la création d’emails à vos besoins. Il permet de créer du contenu d’email et des modèles de contenu d’email. Il est compatible avec les emails simples, les emails transactionnels, les emails de test A/B, les emails multilingues et les emails récurrents.
 
-Cette vidéo donne un aperçu général des fonctionnalités et de l’utilisation du [!UICONTROL Concepteur d’e-mail] d’Adobe Campaign Standard.
+Cette vidéo donne un aperçu général des fonctionnalités et de l’utilisation du [!UICONTROL concepteur d’e-mail] d’Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22771?learn=on){transcript=true}
 
@@ -30,7 +30,7 @@ Cette vidéo donne un aperçu général des fonctionnalités et de l’utilisati
 
 Les tutoriels détaillés suivants sont disponibles :
 
-* [Prise en main du Concepteur d’e-mail](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+* [Prise en main du concepteur d’e-mail](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
 * [Modèles de contenu](/help/designing-content/email-designer/email-content-templates.md)
 * [Configurer la vue mobile](/help/designing-content/email-designer/configure-the-mobile-view.md)
 * [Prévisualiser l’e-mail](/help/designing-content/email-designer/preview-your-email.md)
