@@ -11,8 +11,8 @@ team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
 source-git-commit: 9e584a8b5674c200632e92652c9bcc03b1ff2088
-workflow-type: tm+mt
-source-wordcount: '228'
+workflow-type: ht
+source-wordcount: '193'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Adobe Campaign offre aux contrôleurs de données trois méthodes permettant de gérer les demandes d’accès à des informations personnelles et de suppression des données PII en conformité avec les lois sur la protection des données personnelles, telles que le RGPD (Règlement général sur la protection des données) et la CCPA (Loi californienne sur la protection des données) :
 
-* **Via l’intégration à Privacy Core Service :** les demandes d’accès à des informations personnelles transmises de [!UICONTROL Privacy Service] à toutes les solutions Experience Cloud sont automatiquement gérées par Campaign via un workflow dédié.
+* **Via l’intégration à Privacy Core Service :** les demandes d’accès à des informations personnelles transmises par [!UICONTROL Privacy Service] à toutes les solutions Experience Cloud sont automatiquement traitées par Campaign via un workflow dédié.
 
 * **Via l’API :** Adobe Campaign fournit une API REST qui permet le traitement automatique des demandes d’accès à des informations personnelles.
 
