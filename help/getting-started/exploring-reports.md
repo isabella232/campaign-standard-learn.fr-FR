@@ -11,9 +11,9 @@ exl-id: fef1b535-8055-4d6b-a099-5e04340ce6e9
 role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ Cette vidéo donne une vue d’ensemble des fonctionnalités de reporting des pe
 
 >[!VIDEO](https://video.tv.adobe.com/v/23021?learn=on){transcript=true}
 
-## Ressources supplémentaires
+## Autres ressources
 
 * [Création d&#39;un rapport dynamique](/help/reporting/creating-a-dynamic-report.md)
 * [Création d’un rapport dynamique à l&#39;aide d’attributs de profil personnalisés](/help/reporting/custom-profile-attributes-dynamic-reports.md)
