@@ -5,9 +5,9 @@ products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 recommendations: noDisplay, noCatalog
-source-git-commit: fad29341cb352d7d010735d97954de99d5b1686e
-workflow-type: ht
-source-wordcount: '260'
+source-git-commit: ff7a80a06eb16a8b30202bec8fc82bf46b19e28a
+workflow-type: tm+mt
+source-wordcount: '199'
 ht-degree: 100%
 
 ---
@@ -15,24 +15,6 @@ ht-degree: 100%
 # Adobe Campaign Standard - Présentation
 
 Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l’orchestration visuelle de campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d’Adobe Campaign Standard.
-
-<div id="whats-new-section">
-
-## Nouveautés
-
-* **[Planifier des messages](/help/communication-channels/email/schedule-messages.md)**
-
-  *Découvrez comment planifier une diffusion e-mail.*
-
-* **[Envoyer un BAT](/help/communication-channels/email/send-a-proof.md)**
-
-  *Découvrez comment tester un e-mail avant de l’envoyer aux personnes auxquelles il est destiné.*
-
-* **[Dix bonnes pratiques pour le succès d’Adobe Campaign pour les personnes travaillant dans le marketing](/help/strategy/10-best-practices-for-marketers.md)**
-
-  *Découvrez les dix bonnes pratiques pour aider les utilisateurs et utilisatrices d’Adobe Campaign à déverrouiller et à accélérer la transformation de la consommation numérique pour apporter une meilleure expérience à leurs clientes et clients.*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
